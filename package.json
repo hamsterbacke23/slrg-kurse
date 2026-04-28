@@ -1,0 +1,23 @@
+{
+  "name": "slrg-kurse",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Searchable Vue webapp + Python scraper for the SLRG Kurskalender.",
+  "scripts": {
+    "scrape": "node scripts/run-python.mjs scrape.py",
+    "geocode": "node scripts/run-python.mjs geocode.py",
+    "refresh": "npm run scrape && npm run geocode",
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "clean": "rm -rf node_modules dist"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
+

@@ -1,0 +1,426 @@
+<!doctype html>
+<html lang="de" class="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>SLRG Kurssuche</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%2306b6d4'%3E%3Cpath d='M2 17c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2zM2 11c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2z'/%3E%3C/svg%3E" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              border: "hsl(217 33% 17%)",
+              input: "hsl(217 33% 17%)",
+              ring: "hsl(187 96% 43%)",
+              background: "hsl(222 47% 6%)",
+              foreground: "hsl(210 40% 98%)",
+              muted: { DEFAULT: "hsl(217 33% 13%)", foreground: "hsl(215 20% 65%)" },
+              card: { DEFAULT: "hsl(222 47% 9%)", foreground: "hsl(210 40% 98%)" },
+              primary: { DEFAULT: "hsl(187 96% 43%)", foreground: "hsl(222 47% 6%)" },
+              accent: { DEFAULT: "hsl(217 33% 17%)", foreground: "hsl(210 40% 98%)" },
+            },
+            fontFamily: { sans: ["Inter", "ui-sans-serif", "system-ui", "sans-serif"] },
+            keyframes: {
+              "fade-in": { from: { opacity: 0, transform: "translateY(4px)" }, to: { opacity: 1, transform: "translateY(0)" } },
+            },
+            animation: { "fade-in": "fade-in .25s ease-out" },
+          },
+        },
+      };
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <style>
+      html, body { background: hsl(222 47% 6%); color: hsl(210 40% 98%); font-family: Inter, system-ui, sans-serif; }
+      .glass { background: linear-gradient(180deg, hsla(222,47%,9%,.85), hsla(222,47%,9%,.6)); backdrop-filter: blur(12px); }
+      .grid-bg { background-image: radial-gradient(hsla(187,96%,43%,.08) 1px, transparent 1px); background-size: 28px 28px; }
+      .scrollbar::-webkit-scrollbar { width: 10px; height: 10px; }
+      .scrollbar::-webkit-scrollbar-thumb { background: hsl(217 33% 17%); border-radius: 6px; }
+      .scrollbar::-webkit-scrollbar-thumb:hover { background: hsl(217 33% 25%); }
+      .btn { display:inline-flex; align-items:center; gap:.5rem; padding:.5rem .9rem; border-radius:.6rem; font-size:.875rem; font-weight:500; transition:all .15s; }
+      .btn-primary { background: hsl(187 96% 43%); color: hsl(222 47% 6%); }
+      .btn-primary:hover { background: hsl(187 96% 50%); }
+      .btn-ghost { background: transparent; color: hsl(210 40% 98%); border: 1px solid hsl(217 33% 17%); }
+      .btn-ghost:hover { background: hsl(217 33% 13%); }
+      .badge { display:inline-flex; align-items:center; gap:.25rem; padding:.15rem .55rem; border-radius:9999px; font-size:.7rem; font-weight:500; line-height:1; }
+      .input { background: hsl(217 33% 13%); border: 1px solid hsl(217 33% 17%); border-radius: .6rem; padding: .55rem .85rem; color: hsl(210 40% 98%); transition:border .15s, box-shadow .15s; outline:none; }
+      .input:focus { border-color: hsl(187 96% 43%); box-shadow: 0 0 0 3px hsla(187,96%,43%,.15); }
+      .card { background: hsl(222 47% 9%); border: 1px solid hsl(217 33% 17%); border-radius: .85rem; }
+      .card:hover { border-color: hsl(187 96% 43% / .4); }
+    </style>
+  </head>
+  <body class="min-h-screen grid-bg">
+    <div id="app"></div>
+
+    <script type="module">
+      import { createApp, ref, computed, watch, onMounted } from "https://esm.sh/vue@3.4.27/dist/vue.esm-browser.prod.js";
+
+      const App = {
+        setup() {
+          const courses = ref([]);
+          const meta = ref({ scraped_at: "", count: 0 });
+          const loading = ref(true);
+          const error = ref("");
+
+          const q = ref("");
+          const cat = ref("");
+          const company = ref("");
+          const city = ref("");
+          const canton = ref("");
+          const near = ref("");      // city name to sort "closest to"
+          const radiusKm = ref(0);    // 0 = no limit
+          const onlyOpen = ref(false);
+          const onlyUpcoming = ref(true);
+          const sortBy = ref("first_date");
+          const sortDir = ref("asc");
+          const limit = ref(60);
+
+          onMounted(async () => {
+            try {
+              const r = await fetch("./courses.json", { cache: "no-store" });
+              if (!r.ok) throw new Error(`HTTP ${r.status}`);
+              const d = await r.json();
+              courses.value = d.courses;
+              meta.value = { scraped_at: d.scraped_at, count: d.count };
+            } catch (e) {
+              error.value = String(e.message || e);
+            } finally {
+              loading.value = false;
+            }
+          });
+
+          const categories = computed(() =>
+            [...new Set(courses.value.map(c => c.category).filter(Boolean))].sort()
+          );
+          const companies = computed(() =>
+            [...new Set(courses.value.map(c => c.company).filter(Boolean))].sort()
+          );
+          const cities = computed(() =>
+            [...new Set(courses.value.map(c => c.city).filter(Boolean))].sort()
+          );
+          const cantons = computed(() =>
+            [...new Set(courses.value.map(c => c.canton).filter(Boolean))].sort()
+          );
+
+          const CANTON_NAMES = {
+            ZH:"Zürich",BE:"Bern",LU:"Luzern",UR:"Uri",SZ:"Schwyz",OW:"Obwalden",NW:"Nidwalden",
+            GL:"Glarus",ZG:"Zug",FR:"Freiburg",SO:"Solothurn",BS:"Basel-Stadt",BL:"Basel-Landschaft",
+            SH:"Schaffhausen",AR:"Appenzell A.Rh.",AI:"Appenzell I.Rh.",SG:"St. Gallen",GR:"Graubünden",
+            AG:"Aargau",TG:"Thurgau",TI:"Tessin",VD:"Waadt",VS:"Wallis",NE:"Neuenburg",GE:"Genf",
+            JU:"Jura",FL:"Liechtenstein"
+          };
+          function cantonLabel(code){ return CANTON_NAMES[code] ? `${code} – ${CANTON_NAMES[code]}` : code; }
+
+          // city → {lat,lng} from any course that has it
+          const cityCoords = computed(() => {
+            const map = new Map();
+            for (const c of courses.value) {
+              if (c.city && c.lat != null && c.lng != null && !map.has(c.city)) {
+                map.set(c.city, { lat: c.lat, lng: c.lng });
+              }
+            }
+            return map;
+          });
+
+          const nearCoord = computed(() => near.value ? cityCoords.value.get(near.value) : null);
+
+          function haversineKm(a, b) {
+            if (!a || !b) return null;
+            const R = 6371, toRad = d => d * Math.PI / 180;
+            const dLat = toRad(b.lat - a.lat), dLng = toRad(b.lng - a.lng);
+            const s = Math.sin(dLat/2)**2 +
+              Math.cos(toRad(a.lat)) * Math.cos(toRad(b.lat)) * Math.sin(dLng/2)**2;
+            return 2 * R * Math.asin(Math.sqrt(s));
+          }
+
+          const todayISO = new Date().toISOString().slice(0, 10);
+
+          const filtered = computed(() => {
+            const needle = q.value.trim().toLowerCase();
+            const origin = nearCoord.value;
+            const radius = radiusKm.value;
+
+            let arr = courses.value.map(c => {
+              const dist = origin && c.lat != null && c.lng != null
+                ? haversineKm(origin, { lat: c.lat, lng: c.lng })
+                : null;
+              return { c, dist };
+            }).filter(({ c, dist }) => {
+              if (cat.value && c.category !== cat.value) return false;
+              if (company.value && c.company !== company.value) return false;
+              if (city.value && c.city !== city.value) return false;
+              if (canton.value && c.canton !== canton.value) return false;
+              if (onlyOpen.value) {
+                const free = (c.participation_max ?? 0) - (c.registered ?? 0);
+                if (free <= 0) return false;
+              }
+              if (onlyUpcoming.value && c.last_date && c.last_date < todayISO) return false;
+              if (needle) {
+                const hay = `${c.category} ${c.company} ${c.city} ${c.canton ?? ''} ${c.key}`.toLowerCase();
+                if (!hay.includes(needle)) return false;
+              }
+              if (origin && radius > 0 && (dist == null || dist > radius)) return false;
+              return true;
+            });
+
+            // sort
+            if (origin && sortBy.value === "distance") {
+              arr.sort((a, b) => {
+                if (a.dist == null) return 1;
+                if (b.dist == null) return -1;
+                return (a.dist - b.dist) * (sortDir.value === "asc" ? 1 : -1);
+              });
+            } else {
+              const dir = sortDir.value === "asc" ? 1 : -1;
+              arr.sort((a, b) => {
+                const av = a.c[sortBy.value] ?? "";
+                const bv = b.c[sortBy.value] ?? "";
+                if (av < bv) return -1 * dir;
+                if (av > bv) return 1 * dir;
+                return 0;
+              });
+            }
+            return arr;
+          });
+
+          const visible = computed(() => filtered.value.slice(0, limit.value));
+
+          watch([q, cat, company, city, canton, near, radiusKm, onlyOpen, onlyUpcoming, sortBy, sortDir], () => {
+            limit.value = 60;
+          });
+
+          // when user picks a "near city", auto-switch sort to distance
+          watch(near, (v) => {
+            if (v && cityCoords.value.get(v)) sortBy.value = "distance";
+            else if (sortBy.value === "distance") sortBy.value = "first_date";
+          });
+
+          function reset() {
+            q.value = ""; cat.value = ""; company.value = ""; city.value = "";
+            canton.value = ""; near.value = ""; radiusKm.value = 0;
+            onlyOpen.value = false; onlyUpcoming.value = true;
+            sortBy.value = "first_date"; sortDir.value = "asc";
+          }
+
+          function fmtDate(s) {
+            if (!s) return "—";
+            const [y, m, d] = s.split("-");
+            return `${d}.${m}.${y}`;
+          }
+          function fmtRange(a, b) {
+            if (!a) return "—";
+            if (!b || a === b) return fmtDate(a);
+            return `${fmtDate(a)} – ${fmtDate(b)}`;
+          }
+          function freeSpots(c) {
+            const max = c.participation_max ?? 0;
+            const reg = c.registered ?? 0;
+            return Math.max(0, max - reg);
+          }
+          function statusBadge(c) {
+            const free = freeSpots(c);
+            const max = c.participation_max ?? 0;
+            if (max === 0) return { label: "—", cls: "bg-muted text-muted-foreground" };
+            if (free === 0) return { label: "Voll", cls: "bg-rose-500/15 text-rose-300 ring-1 ring-rose-500/30" };
+            if (free <= Math.max(2, Math.floor(max * 0.2))) return { label: `${free} frei`, cls: "bg-amber-500/15 text-amber-300 ring-1 ring-amber-500/30" };
+            return { label: `${free} frei`, cls: "bg-emerald-500/15 text-emerald-300 ring-1 ring-emerald-500/30" };
+          }
+
+          function relTime(iso) {
+            if (!iso) return "";
+            try {
+              const t = new Date(iso);
+              const diff = (Date.now() - t.getTime()) / 1000;
+              if (diff < 60) return "gerade eben";
+              if (diff < 3600) return `vor ${Math.floor(diff / 60)} Min`;
+              if (diff < 86400) return `vor ${Math.floor(diff / 3600)} Std`;
+              return `vor ${Math.floor(diff / 86400)} T`;
+            } catch { return iso; }
+          }
+
+          function fmtDist(km) {
+            if (km == null) return "";
+            if (km < 1) return `${Math.round(km * 1000)} m`;
+            if (km < 10) return `${km.toFixed(1)} km`;
+            return `${Math.round(km)} km`;
+          }
+
+          return {
+            courses, meta, loading, error,
+            q, cat, company, city, canton, near, radiusKm,
+            onlyOpen, onlyUpcoming, sortBy, sortDir, limit,
+            categories, companies, cities, cantons, cityCoords, nearCoord,
+            filtered, visible, cantonLabel, fmtDist,
+            reset, fmtRange, freeSpots, statusBadge, relTime,
+          };
+        },
+        template: `
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+          <!-- Header -->
+          <header class="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-8">
+            <div>
+              <div class="flex items-center gap-3">
+                <div class="h-10 w-10 rounded-xl bg-primary/15 ring-1 ring-primary/30 flex items-center justify-center">
+                  <svg class="w-6 h-6 text-primary" viewBox="0 0 24 24" fill="currentColor"><path d="M2 17c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2zM2 11c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2z"/></svg>
+                </div>
+                <div>
+                  <h1 class="text-2xl font-semibold tracking-tight">SLRG Kurssuche</h1>
+                  <p class="text-sm text-muted-foreground">
+                    Alle Kurse der Schweizerischen Lebensrettungs-Gesellschaft – durchsuchbar.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="flex items-center gap-2 text-xs text-muted-foreground">
+              <span class="inline-flex items-center gap-1.5">
+                <span class="h-2 w-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                {{ meta.count }} Kurse · aktualisiert {{ relTime(meta.scraped_at) }}
+              </span>
+            </div>
+          </header>
+
+          <!-- Loading / error -->
+          <div v-if="loading" class="card p-12 text-center text-muted-foreground">
+            <div class="inline-block h-6 w-6 border-2 border-primary border-t-transparent rounded-full animate-spin"></div>
+            <div class="mt-3">Lade Kurse…</div>
+          </div>
+          <div v-else-if="error" class="card p-8 text-rose-300 ring-1 ring-rose-500/30">
+            <strong>Fehler:</strong> {{ error }}<br>
+            <span class="text-sm text-muted-foreground">Stelle sicher, dass <code>courses.json</code> neben dieser Datei liegt und du via HTTP-Server (z.B. <code>python3 -m http.server</code>) servierst.</span>
+          </div>
+
+          <template v-else>
+          <!-- Filter bar -->
+          <section class="glass card p-4 sm:p-5 mb-6 sticky top-3 z-20">
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-3">
+              <div class="md:col-span-4 relative">
+                <svg class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                <input v-model="q" placeholder="Suche nach Ort, Anbieter, Kategorie…"
+                  class="input w-full pl-9" />
+              </div>
+              <select v-model="cat" class="input md:col-span-3">
+                <option value="">Alle Kategorien</option>
+                <option v-for="c in categories" :key="c" :value="c">{{ c }}</option>
+              </select>
+              <select v-model="canton" class="input md:col-span-2">
+                <option value="">Alle Kantone</option>
+                <option v-for="c in cantons" :key="c" :value="c">{{ cantonLabel(c) }}</option>
+              </select>
+              <select v-model="city" class="input md:col-span-3">
+                <option value="">Alle Orte</option>
+                <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
+              </select>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-3 mt-3">
+              <div class="md:col-span-4 relative">
+                <svg class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                <input v-model="near" list="all-cities" placeholder="In der Nähe von… (z.B. Kreuzlingen)"
+                  class="input w-full pl-9" />
+                <datalist id="all-cities">
+                  <option v-for="c in cities" :key="c" :value="c"></option>
+                </datalist>
+              </div>
+              <div class="md:col-span-3 flex items-center gap-2" v-if="nearCoord">
+                <span class="text-xs text-muted-foreground whitespace-nowrap">Umkreis:</span>
+                <input type="range" min="0" max="200" step="5" v-model.number="radiusKm" class="flex-1 accent-primary" />
+                <span class="text-xs font-mono w-16 text-right">{{ radiusKm > 0 ? radiusKm + ' km' : 'alle' }}</span>
+              </div>
+              <select v-model="company" class="input md:col-span-5">
+                <option value="">Alle Anbieter</option>
+                <option v-for="c in companies" :key="c" :value="c">{{ c }}</option>
+              </select>
+            </div>
+
+            <div class="flex flex-wrap items-center gap-2 mt-3">
+              <button class="btn btn-ghost" :class="onlyUpcoming ? 'ring-1 ring-primary text-primary' : ''" @click="onlyUpcoming = !onlyUpcoming">
+                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+                Nur kommende
+              </button>
+              <button class="btn btn-ghost" :class="onlyOpen ? 'ring-1 ring-primary text-primary' : ''" @click="onlyOpen = !onlyOpen">
+                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5v14"/></svg>
+                Nur freie Plätze
+              </button>
+              <div class="ml-auto flex items-center gap-2 text-sm">
+                <span class="text-muted-foreground">Sortieren:</span>
+                <select v-model="sortBy" class="input py-1.5 px-2 text-xs">
+                  <option value="first_date">Startdatum</option>
+                  <option value="last_date">Enddatum</option>
+                  <option value="category">Kategorie</option>
+                  <option value="city">Ort</option>
+                  <option value="canton">Kanton</option>
+                  <option value="company">Anbieter</option>
+                  <option value="distance" :disabled="!nearCoord">Distanz</option>
+                </select>
+                <button class="btn btn-ghost py-1.5 px-2" @click="sortDir = sortDir==='asc' ? 'desc' : 'asc'">
+                  {{ sortDir === 'asc' ? '↑' : '↓' }}
+                </button>
+                <button class="btn btn-ghost py-1.5 px-2 text-xs" @click="reset">Zurücksetzen</button>
+              </div>
+            </div>
+
+            <div class="text-xs text-muted-foreground mt-3">
+              <span class="font-medium text-foreground">{{ filtered.length }}</span> Treffer
+              <span v-if="filtered.length > visible.length"> · zeige {{ visible.length }}</span>
+              <span v-if="near && !nearCoord" class="ml-2 text-amber-300">— Ort „{{ near }}“ nicht gefunden, wähle einen aus der Liste</span>
+            </div>
+          </section>
+
+          <!-- Grid -->
+          <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <a v-for="item in visible" :key="item.c.key" :href="item.c.url" target="_blank" rel="noopener"
+              class="card p-5 animate-fade-in transition group">
+              <div class="flex items-start justify-between gap-3">
+                <div class="text-xs text-primary font-medium tracking-wide uppercase">{{ item.c.category || '—' }}</div>
+                <span class="badge" :class="statusBadge(item.c).cls">{{ statusBadge(item.c).label }}</span>
+              </div>
+              <h3 class="mt-2 text-lg font-semibold leading-snug group-hover:text-primary transition">
+                {{ item.c.city || item.c.company || 'Kurs ' + item.c.key }}
+              </h3>
+              <div class="mt-1 flex items-center gap-2 text-sm text-muted-foreground">
+                <span class="truncate">{{ item.c.company }}</span>
+                <span v-if="item.c.canton" class="badge bg-muted text-muted-foreground ring-1 ring-border shrink-0">{{ item.c.canton }}</span>
+              </div>
+
+              <div class="mt-4 flex items-center gap-2 text-sm">
+                <svg class="w-4 h-4 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
+                <span>{{ fmtRange(item.c.first_date, item.c.last_date) }}</span>
+              </div>
+
+              <div class="mt-3 flex items-center justify-between text-xs text-muted-foreground">
+                <span class="inline-flex items-center gap-1">
+                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                  {{ item.c.registered ?? 0 }} / {{ item.c.participation_max ?? '?' }}
+                </span>
+                <span class="flex items-center gap-2">
+                  <span v-if="item.dist != null" class="text-primary font-medium">{{ fmtDist(item.dist) }}</span>
+                  <span class="font-mono opacity-60">#{{ item.c.key }}</span>
+                </span>
+              </div>
+            </a>
+          </section>
+
+          <!-- Load more -->
+          <div v-if="filtered.length > visible.length" class="flex justify-center mt-8">
+            <button class="btn btn-primary" @click="limit += 60">Weitere {{ Math.min(60, filtered.length - visible.length) }} laden</button>
+          </div>
+
+          <div v-if="filtered.length === 0" class="card p-12 text-center text-muted-foreground">
+            Keine Kurse gefunden. Filter anpassen oder zurücksetzen.
+          </div>
+
+          <footer class="mt-12 text-center text-xs text-muted-foreground">
+            Daten von <a href="https://ausbildung.slrg.ch/Kurskalender" class="text-primary hover:underline">ausbildung.slrg.ch</a>.
+            Diese App ist nicht offiziell.
+          </footer>
+          </template>
+        </div>
+        `,
+      };
+
+      createApp(App).mount("#app");
+    </script>
+  </body>
+</html>

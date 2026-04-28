@@ -1,0 +1,1119 @@
+{
+  "Aarau": {
+    "canton": "AG",
+    "label": "Aarau (AG)",
+    "lat": 47.39103698730469,
+    "lng": 8.046090126037598
+  },
+  "Adliswil": {
+    "canton": "ZH",
+    "label": "Adliswil (ZH)",
+    "lat": 47.308265686035156,
+    "lng": 8.525269508361816
+  },
+  "Allschwil": {
+    "canton": "BL",
+    "label": "Allschwil (BL)",
+    "lat": 47.54563903808594,
+    "lng": 7.536828994750977
+  },
+  "Altdorf UR": {
+    "canton": "UR",
+    "label": "Altdorf (UR)",
+    "lat": 46.886905670166016,
+    "lng": 8.638254165649414
+  },
+  "Appenzell": {
+    "canton": "AI",
+    "label": "Appenzell (AI)",
+    "lat": 47.33292770385742,
+    "lng": 9.396230697631836
+  },
+  "Arbon": {
+    "canton": "TG",
+    "label": "Arbon (TG)",
+    "lat": 47.51548385620117,
+    "lng": 9.425399780273438
+  },
+  "Ascona": {
+    "canton": "TI",
+    "label": "Ascona (TI)",
+    "lat": 46.148372650146484,
+    "lng": 8.76872730255127
+  },
+  "Baden": {
+    "canton": "AG",
+    "label": "Baden (AG)",
+    "lat": 47.47016525268555,
+    "lng": 8.292152404785156
+  },
+  "Baldegg": {
+    "canton": "AG",
+    "label": "Ort Baldegg (AG) - Baden",
+    "lat": 47.46938705444336,
+    "lng": 8.278470993041992
+  },
+  "Balgach": {
+    "canton": "SG",
+    "label": "Balgach (SG)",
+    "lat": 47.396480560302734,
+    "lng": 9.608860969543457
+  },
+  "Balzers": {
+    "canton": "FL",
+    "label": "Balzers (FL)",
+    "lat": 47.06768,
+    "lng": 9.50294
+  },
+  "Basel": {
+    "canton": "BS",
+    "label": "Basel (BS)",
+    "lat": 47.5545539855957,
+    "lng": 7.590269565582275
+  },
+  "Bassins": {
+    "canton": "VD",
+    "label": "Bassins (VD)",
+    "lat": 46.48714828491211,
+    "lng": 6.191864967346191
+  },
+  "Bauma": {
+    "canton": "ZH",
+    "label": "Bauma (ZH)",
+    "lat": 47.37466812133789,
+    "lng": 8.893594741821289
+  },
+  "Beinwil am See": {
+    "canton": "AG",
+    "label": "Beinwil am See (AG)",
+    "lat": 47.26459884643555,
+    "lng": 8.208498001098633
+  },
+  "Bellinzona": {
+    "canton": "TI",
+    "label": "Bellinzona (TI)",
+    "lat": 46.21047592163086,
+    "lng": 8.988633155822754
+  },
+  "Bern": {
+    "canton": "BE",
+    "label": "Bern (BE)",
+    "lat": 46.954559326171875,
+    "lng": 7.420684814453125
+  },
+  "Bichelsee-Balterswil": {
+    "canton": "TG",
+    "label": "Bichelsee-Balterswil (TG)",
+    "lat": 47.452247619628906,
+    "lng": 8.926308631896973
+  },
+  "Bissone": {
+    "canton": "TI",
+    "label": "Bissone (TI)",
+    "lat": 45.95045852661133,
+    "lng": 8.966944694519043
+  },
+  "Bottighofen": {
+    "canton": "TG",
+    "label": "Bottighofen (TG)",
+    "lat": 47.63327407836914,
+    "lng": 9.210403442382812
+  },
+  "Bremgarten AG": {
+    "canton": "AG",
+    "label": "Bremgarten (AG)",
+    "lat": 47.346309661865234,
+    "lng": 8.333881378173828
+  },
+  "Brig": {
+    "canton": "VS",
+    "label": "Brig-Glis (VS)",
+    "lat": 46.28894805908203,
+    "lng": 7.975067138671875
+  },
+  "Brugg AG": {
+    "canton": "AG",
+    "label": "Brugg (AG)",
+    "lat": 47.474945068359375,
+    "lng": 8.169898986816406
+  },
+  "Brunnen": {
+    "canton": "VS",
+    "label": "Ort Brunnen (VS) - Ergisch",
+    "lat": 46.288421630859375,
+    "lng": 7.718348503112793
+  },
+  "Bülach": {
+    "canton": "ZH",
+    "label": "Bülach (ZH)",
+    "lat": 47.53010559082031,
+    "lng": 8.541247367858887
+  },
+  "Büren an der Aare": {
+    "canton": "BE",
+    "label": "Büren an der Aare (BE)",
+    "lat": 47.14190673828125,
+    "lng": 7.375695705413818
+  },
+  "Bütschwil": {
+    "canton": "SG",
+    "label": "Bütschwil-Ganterschwil (SG)",
+    "lat": 47.35878372192383,
+    "lng": 9.078749656677246
+  },
+  "Bützberg": {
+    "canton": "BE",
+    "label": "Ort Bützberg (BE) - Thunstetten",
+    "lat": 47.21522903442383,
+    "lng": 7.747023105621338
+  },
+  "Caslano": {
+    "canton": "TI",
+    "label": "Caslano (TI)",
+    "lat": 45.968719482421875,
+    "lng": 8.87798023223877
+  },
+  "Cernier": {
+    "canton": "NE",
+    "label": "Ort Cernier (NE) - Val-de-Ruz",
+    "lat": 47.06060028076172,
+    "lng": 6.902266502380371
+  },
+  "Charmey (Gruyère)": {
+    "canton": "FR",
+    "label": "Schwimmbadareal Les Bains de la Gruyère (FR) - Val-de-Charmey",
+    "lat": 46.62118148803711,
+    "lng": 7.161526203155518
+  },
+  "Chur": {
+    "canton": "GR",
+    "label": "Chur (GR)",
+    "lat": 46.83235549926758,
+    "lng": 9.516542434692383
+  },
+  "Coppet": {
+    "canton": "VD",
+    "label": "Coppet (VD)",
+    "lat": 46.3162727355957,
+    "lng": 6.202526569366455
+  },
+  "Cossonay-Ville": {
+    "canton": "VD",
+    "label": "Ort Cossonay-Ville (VD) - Cossonay",
+    "lat": 46.61306381225586,
+    "lng": 6.5047807693481445
+  },
+  "Crans VS": {
+    "canton": "VS",
+    "label": "Crans-Montana (VS)",
+    "lat": 46.33052062988281,
+    "lng": 7.526416301727295
+  },
+  "Davos Platz": {
+    "canton": "GR",
+    "label": "Ort Davos Platz (GR) - Davos",
+    "lat": 46.792930603027344,
+    "lng": 9.820780754089355
+  },
+  "Delémont": {
+    "canton": "JU",
+    "label": "Delémont (JU)",
+    "lat": 47.37165451049805,
+    "lng": 7.331088542938232
+  },
+  "Dietlikon": {
+    "canton": "ZH",
+    "label": "Dietlikon (ZH)",
+    "lat": 47.42268371582031,
+    "lng": 8.613987922668457
+  },
+  "Domat/Ems": {
+    "canton": "GR",
+    "label": "Domat/Ems (GR)",
+    "lat": 46.81983947753906,
+    "lng": 9.450693130493164
+  },
+  "Ebikon": {
+    "canton": "LU",
+    "label": "Ebikon (LU)",
+    "lat": 47.079551696777344,
+    "lng": 8.333163261413574
+  },
+  "Egnach": {
+    "canton": "TG",
+    "label": "Egnach (TG)",
+    "lat": 47.52652359008789,
+    "lng": 9.364821434020996
+  },
+  "Emmenbrücke": {
+    "canton": "LU",
+    "label": "Ort Emmenbrücke (LU) - Emmen",
+    "lat": 47.07655334472656,
+    "lng": 8.273947715759277
+  },
+  "Engollon": {
+    "canton": "NE",
+    "label": "Ort Engollon (NE) - Val-de-Ruz",
+    "lat": 47.03848648071289,
+    "lng": 6.92204475402832
+  },
+  "Erlach": {
+    "canton": "BE",
+    "label": "Erlach (BE)",
+    "lat": 47.0373649597168,
+    "lng": 7.0955810546875
+  },
+  "Ermatingen": {
+    "canton": "TG",
+    "label": "Ermatingen (TG)",
+    "lat": 47.655548095703125,
+    "lng": 9.095743179321289
+  },
+  "Eschen": {
+    "canton": "AR",
+    "label": "Ort Eschen (AR) - Wald (AR)",
+    "lat": 47.40953826904297,
+    "lng": 9.531137466430664
+  },
+  "Euthal": {
+    "canton": "SZ",
+    "label": "Ort Euthal (SZ) - Einsiedeln",
+    "lat": 47.09868621826172,
+    "lng": 8.818327903747559
+  },
+  "Fiesch": {
+    "canton": "VS",
+    "label": "Fiesch (VS)",
+    "lat": 46.41127014160156,
+    "lng": 8.122138023376465
+  },
+  "Filzbach": {
+    "canton": "GL",
+    "label": "Ort Filzbach (GL) - Glarus Nord",
+    "lat": 47.1209716796875,
+    "lng": 9.130014419555664
+  },
+  "Flurlingen": {
+    "canton": "ZH",
+    "label": "Flurlingen (ZH)",
+    "lat": 47.68342590332031,
+    "lng": 8.635716438293457
+  },
+  "Flüelen": {
+    "canton": "UR",
+    "label": "Flüelen (UR)",
+    "lat": 46.91195297241211,
+    "lng": 8.643176078796387
+  },
+  "Fribourg": {
+    "canton": "FR",
+    "label": "Fribourg (FR)",
+    "lat": 46.80337142944336,
+    "lng": 7.161778926849365
+  },
+  "Genève": {
+    "canton": "GE",
+    "label": "Genève (GE)",
+    "lat": 46.204559326171875,
+    "lng": 6.1424560546875
+  },
+  "Geroldswil": {
+    "canton": "ZH",
+    "label": "Geroldswil (ZH)",
+    "lat": 47.42002487182617,
+    "lng": 8.41152286529541
+  },
+  "Gipf-Oberfrick": {
+    "canton": "AG",
+    "label": "Gipf-Oberfrick (AG)",
+    "lat": 47.489688873291016,
+    "lng": 8.006566047668457
+  },
+  "Glarus": {
+    "canton": "GL",
+    "label": "Glarus Nord (GL)",
+    "lat": 47.10641860961914,
+    "lng": 9.079218864440918
+  },
+  "Goldswil b. Interlaken": {
+    "canton": "BE",
+    "label": "Ort Goldswil b. Interlaken (BE) - Ringgenberg (BE)",
+    "lat": 46.69535446166992,
+    "lng": 7.8780694007873535
+  },
+  "Gossau SG": {
+    "canton": "SG",
+    "label": "Gossau (SG)",
+    "lat": 47.42510986328125,
+    "lng": 9.262721061706543
+  },
+  "Grabs": {
+    "canton": "SG",
+    "label": "Grabs (SG)",
+    "lat": 47.16484832763672,
+    "lng": 9.390880584716797
+  },
+  "Grand-Lancy": {
+    "canton": "GE",
+    "label": "Grand-Lancy Village (GE) - Lancy",
+    "lat": 46.18354034423828,
+    "lng": 6.120214939117432
+  },
+  "Grindelwald": {
+    "canton": "BE",
+    "label": "Grindelwald (BE)",
+    "lat": 46.620018005371094,
+    "lng": 8.041796684265137
+  },
+  "Hausmeister Schule EKMO": null,
+  "Hedingen": {
+    "canton": "ZH",
+    "label": "Hedingen (ZH)",
+    "lat": 47.30222702026367,
+    "lng": 8.450304985046387
+  },
+  "Heerbrugg": {
+    "canton": "SG",
+    "label": "Ort Heerbrugg (SG) - Au (SG)",
+    "lat": 47.411685943603516,
+    "lng": 9.626534461975098
+  },
+  "Heimberg": {
+    "canton": "BE",
+    "label": "Heimberg (BE)",
+    "lat": 46.789798736572266,
+    "lng": 7.600785255432129
+  },
+  "Herzogenbuchsee": {
+    "canton": "BE",
+    "label": "Herzogenbuchsee (BE)",
+    "lat": 47.185791015625,
+    "lng": 7.711877822875977
+  },
+  "Hilterfingen": {
+    "canton": "BE",
+    "label": "Hilterfingen (BE)",
+    "lat": 46.74281311035156,
+    "lng": 7.660449504852295
+  },
+  "Hinwil": {
+    "canton": "ZH",
+    "label": "Hinwil (ZH)",
+    "lat": 47.302894592285156,
+    "lng": 8.850424766540527
+  },
+  "Hitzkirch": {
+    "canton": "LU",
+    "label": "Hitzkirch (LU)",
+    "lat": 47.22014236450195,
+    "lng": 8.275691032409668
+  },
+  "Hochdorf": {
+    "canton": "LU",
+    "label": "Hochdorf (LU)",
+    "lat": 47.16489791870117,
+    "lng": 8.294404029846191
+  },
+  "Hochfelden": {
+    "canton": "ZH",
+    "label": "Hochfelden (ZH)",
+    "lat": 47.5283088684082,
+    "lng": 8.50515365600586
+  },
+  "Hohenrain": {
+    "canton": "LU",
+    "label": "Hohenrain (LU)",
+    "lat": 47.18844985961914,
+    "lng": 8.310887336730957
+  },
+  "Hombrechtikon": {
+    "canton": "ZH",
+    "label": "Hombrechtikon (ZH)",
+    "lat": 47.25200271606445,
+    "lng": 8.768488883972168
+  },
+  "Ingenbohl": {
+    "canton": "SZ",
+    "label": "Ingenbohl (SZ)",
+    "lat": 47.002071380615234,
+    "lng": 8.595454216003418
+  },
+  "Interlaken": {
+    "canton": "BE",
+    "label": "Interlaken (BE)",
+    "lat": 46.68421936035156,
+    "lng": 7.878632545471191
+  },
+  "Jona": {
+    "canton": "SG",
+    "label": "Ort Jona (SG) - Rapperswil-Jona",
+    "lat": 47.23091506958008,
+    "lng": 8.836261749267578
+  },
+  "Kloten": {
+    "canton": "ZH",
+    "label": "Kloten (ZH)",
+    "lat": 47.4587516784668,
+    "lng": 8.582091331481934
+  },
+  "Kreuzlingen": {
+    "canton": "TG",
+    "label": "Kreuzlingen (TG)",
+    "lat": 47.640594482421875,
+    "lng": 9.175581932067871
+  },
+  "Kriessern": {
+    "canton": "SG",
+    "label": "Ort Kriessern (SG) - Oberriet (SG)",
+    "lat": 47.3646125793457,
+    "lng": 9.609383583068848
+  },
+  "Künten": {
+    "canton": "AG",
+    "label": "Künten (AG)",
+    "lat": 47.38810348510742,
+    "lng": 8.327415466308594
+  },
+  "Küsnacht ZH": {
+    "canton": "ZH",
+    "label": "Küsnacht (ZH)",
+    "lat": 47.32124328613281,
+    "lng": 8.616456031799316
+  },
+  "La Chaux-de-Fonds": {
+    "canton": "NE",
+    "label": "La Chaux-de-Fonds (NE)",
+    "lat": 47.11421203613281,
+    "lng": 6.84379243850708
+  },
+  "La Sarraz": {
+    "canton": "VD",
+    "label": "La Sarraz (VD)",
+    "lat": 46.65501022338867,
+    "lng": 6.508055686950684
+  },
+  "Lachen": {
+    "canton": "SZ",
+    "label": "Lachen (SZ)",
+    "lat": 47.19688415527344,
+    "lng": 8.854327201843262
+  },
+  "Lachen SZ": {
+    "canton": "SZ",
+    "label": "Lachen (SZ)",
+    "lat": 47.19688415527344,
+    "lng": 8.854327201843262
+  },
+  "Langenthal": {
+    "canton": "BE",
+    "label": "Langenthal (BE)",
+    "lat": 47.212921142578125,
+    "lng": 7.807295799255371
+  },
+  "Langnau im Emmental": {
+    "canton": "BE",
+    "label": "Langnau im Emmental (BE)",
+    "lat": 46.954750061035156,
+    "lng": 7.804457187652588
+  },
+  "Lausanne": {
+    "canton": "VD",
+    "label": "Lausanne (VD)",
+    "lat": 46.52865219116211,
+    "lng": 6.638521671295166
+  },
+  "Le Sentier": {
+    "canton": "VD",
+    "label": "Ort Le Sentier (VD) - Le Chenit",
+    "lat": 46.60649871826172,
+    "lng": 6.231893062591553
+  },
+  "Lenk": {
+    "canton": "BE",
+    "label": "Lenk (BE)",
+    "lat": 46.43117141723633,
+    "lng": 7.452757835388184
+  },
+  "Leytron": {
+    "canton": "VS",
+    "label": "Leytron (VS)",
+    "lat": 46.20668411254883,
+    "lng": 7.133981704711914
+  },
+  "Liestal": {
+    "canton": "BL",
+    "label": "Liestal (BL)",
+    "lat": 47.483455657958984,
+    "lng": 7.7250237464904785
+  },
+  "Locarno": {
+    "canton": "TI",
+    "label": "Locarno (TI)",
+    "lat": 46.16434097290039,
+    "lng": 8.882719039916992
+  },
+  "Losone": {
+    "canton": "TI",
+    "label": "Losone (TI)",
+    "lat": 46.16888427734375,
+    "lng": 8.745534896850586
+  },
+  "Lugano": {
+    "canton": "TI",
+    "label": "Lugano (TI)",
+    "lat": 46.0294303894043,
+    "lng": 8.988879203796387
+  },
+  "Luzern": {
+    "canton": "LU",
+    "label": "Luzern (LU)",
+    "lat": 47.05473327636719,
+    "lng": 8.300894737243652
+  },
+  "Lyss": {
+    "canton": "BE",
+    "label": "Lyss (BE)",
+    "lat": 47.08230209350586,
+    "lng": 7.31827449798584
+  },
+  "Magglingen": {
+    "canton": "BE",
+    "label": "Ort Magglingen/Macolin (BE) - Evilard",
+    "lat": 47.140377044677734,
+    "lng": 7.206460952758789
+  },
+  "Magglingen/Macolin": {
+    "canton": "BE",
+    "label": "Ort Magglingen/Macolin (BE) - Evilard",
+    "lat": 47.140377044677734,
+    "lng": 7.206460952758789
+  },
+  "Mammern": {
+    "canton": "TG",
+    "label": "Mammern (TG)",
+    "lat": 47.64158630371094,
+    "lng": 8.916030883789062
+  },
+  "Martigny": {
+    "canton": "VS",
+    "label": "Martigny (VS)",
+    "lat": 46.1070442199707,
+    "lng": 7.100466251373291
+  },
+  "Meilen": {
+    "canton": "ZH",
+    "label": "Meilen (ZH)",
+    "lat": 47.28143310546875,
+    "lng": 8.646059036254883
+  },
+  "Mels": {
+    "canton": "SG",
+    "label": "Mels (SG)",
+    "lat": 47.00428009033203,
+    "lng": 9.317394256591797
+  },
+  "Mendrisio": {
+    "canton": "TI",
+    "label": "Mendrisio (TI)",
+    "lat": 45.8812370300293,
+    "lng": 8.971078872680664
+  },
+  "Menziken": {
+    "canton": "AG",
+    "label": "Menziken (AG)",
+    "lat": 47.235843658447266,
+    "lng": 8.182795524597168
+  },
+  "Mettmenstetten": {
+    "canton": "ZH",
+    "label": "Mettmenstetten (ZH)",
+    "lat": 47.24346160888672,
+    "lng": 8.460609436035156
+  },
+  "Meyrin": {
+    "canton": "GE",
+    "label": "Meyrin (GE)",
+    "lat": 46.232147216796875,
+    "lng": 6.076141357421875
+  },
+  "Moosseedorf": {
+    "canton": "BE",
+    "label": "Moosseedorf (BE)",
+    "lat": 47.01114273071289,
+    "lng": 7.487063884735107
+  },
+  "Muri AG": {
+    "canton": "AG",
+    "label": "Muri (AG)",
+    "lat": 47.271732330322266,
+    "lng": 8.338957786560059
+  },
+  "Muri b. Bern": {
+    "canton": "BE",
+    "label": "Ort Muri b. Bern (BE) - Muri bei Bern",
+    "lat": 46.930362701416016,
+    "lng": 7.4850358963012695
+  },
+  "Männedorf": {
+    "canton": "ZH",
+    "label": "Männedorf (ZH)",
+    "lat": 47.259639739990234,
+    "lng": 8.697005271911621
+  },
+  "Möriken AG": {
+    "canton": "AG",
+    "label": "Ort Möriken AG (AG) - Möriken-Wildegg",
+    "lat": 47.41621017456055,
+    "lng": 8.18368911743164
+  },
+  "Mühledorf SO": {
+    "canton": "SO",
+    "label": "Ort Mühledorf SO (SO) - Buchegg",
+    "lat": 47.13530731201172,
+    "lng": 7.476200103759766
+  },
+  "Münsingen": {
+    "canton": "BE",
+    "label": "Münsingen (BE)",
+    "lat": 46.88322448730469,
+    "lng": 7.565205097198486
+  },
+  "Nebikon": {
+    "canton": "LU",
+    "label": "Nebikon (LU)",
+    "lat": 47.191654205322266,
+    "lng": 7.987195014953613
+  },
+  "Nesslau": {
+    "canton": "SG",
+    "label": "Nesslau (SG)",
+    "lat": 47.22780990600586,
+    "lng": 9.222432136535645
+  },
+  "Neuchâtel": {
+    "canton": "NE",
+    "label": "Neuchâtel (NE)",
+    "lat": 47.020973205566406,
+    "lng": 6.9480791091918945
+  },
+  "Nidau": {
+    "canton": "BE",
+    "label": "Nidau (BE)",
+    "lat": 47.12384033203125,
+    "lng": 7.239261627197266
+  },
+  "Niederhasli": {
+    "canton": "ZH",
+    "label": "Niederhasli (ZH)",
+    "lat": 47.469303131103516,
+    "lng": 8.486824989318848
+  },
+  "Näfels": {
+    "canton": "GL",
+    "label": "Ort Näfels (GL) - Glarus Nord",
+    "lat": 47.09866714477539,
+    "lng": 9.064586639404297
+  },
+  "Oberwil BL": {
+    "canton": "BL",
+    "label": "Oberwil (BL)",
+    "lat": 47.51921463012695,
+    "lng": 7.545316219329834
+  },
+  "Olten": {
+    "canton": "SO",
+    "label": "Olten (SO)",
+    "lat": 47.339988708496094,
+    "lng": 7.893518447875977
+  },
+  "Opfikon": {
+    "canton": "ZH",
+    "label": "Opfikon (ZH)",
+    "lat": 47.42878341674805,
+    "lng": 8.573216438293457
+  },
+  "Paradiso": {
+    "canton": "TI",
+    "label": "Paradiso (TI)",
+    "lat": 45.98849105834961,
+    "lng": 8.953682899475098
+  },
+  "Pfäffikon ZH": {
+    "canton": "ZH",
+    "label": "Pfäffikon (ZH)",
+    "lat": 47.37028121948242,
+    "lng": 8.781831741333008
+  },
+  "Porrentruy": {
+    "canton": "JU",
+    "label": "Porrentruy (JU)",
+    "lat": 47.42101287841797,
+    "lng": 7.06839656829834
+  },
+  "Prilly": {
+    "canton": "VD",
+    "label": "Prilly (VD)",
+    "lat": 46.53825378417969,
+    "lng": 6.604588985443115
+  },
+  "Quartino": {
+    "canton": "TI",
+    "label": "Ort Quartino (TI) - Gambarogno",
+    "lat": 46.151206970214844,
+    "lng": 8.897355079650879
+  },
+  "Rapperswil": {
+    "canton": "BE",
+    "label": "Rapperswil (BE)",
+    "lat": 47.066368103027344,
+    "lng": 7.4149861335754395
+  },
+  "Rapperswil SG": {
+    "canton": "SG",
+    "label": "Ort Rapperswil SG (SG) - Rapperswil-Jona",
+    "lat": 47.22806167602539,
+    "lng": 8.824080467224121
+  },
+  "Reiden": {
+    "canton": "LU",
+    "label": "Reiden (LU)",
+    "lat": 47.229347229003906,
+    "lng": 7.9496259689331055
+  },
+  "Rheinau": {
+    "canton": "ZH",
+    "label": "Rheinau (ZH)",
+    "lat": 47.62740707397461,
+    "lng": 8.611495018005371
+  },
+  "Richterswil": {
+    "canton": "ZH",
+    "label": "Richterswil (ZH)",
+    "lat": 47.20124435424805,
+    "lng": 8.686915397644043
+  },
+  "Ringgenberg BE": {
+    "canton": "BE",
+    "label": "Ringgenberg (BE)",
+    "lat": 46.7104606628418,
+    "lng": 7.89391565322876
+  },
+  "Riva S": {
+    "canton": "TI",
+    "label": "Riva San Vitale (TI)",
+    "lat": 45.9117317199707,
+    "lng": 8.964438438415527
+  },
+  "Riva San Vitale": {
+    "canton": "TI",
+    "label": "Riva San Vitale (TI)",
+    "lat": 45.9117317199707,
+    "lng": 8.964438438415527
+  },
+  "Rolle": {
+    "canton": "VD",
+    "label": "Rolle (VD)",
+    "lat": 46.42595672607422,
+    "lng": 6.34889030456543
+  },
+  "Romanel-sur-Lausanne": {
+    "canton": "VD",
+    "label": "Romanel-sur-Lausanne (VD)",
+    "lat": 46.55949401855469,
+    "lng": 6.608593940734863
+  },
+  "Romanshorn": {
+    "canton": "TG",
+    "label": "Romanshorn (TG)",
+    "lat": 47.564979553222656,
+    "lng": 9.359646797180176
+  },
+  "Romont FR": {
+    "canton": "FR",
+    "label": "Romont (FR)",
+    "lat": 46.69870376586914,
+    "lng": 6.923159599304199
+  },
+  "Rüti ZH": {
+    "canton": "ZH",
+    "label": "Rüti (ZH)",
+    "lat": 47.25824737548828,
+    "lng": 8.860780715942383
+  },
+  "Saignelégier": {
+    "canton": "JU",
+    "label": "Saignelégier (JU)",
+    "lat": 47.263877868652344,
+    "lng": 6.976081371307373
+  },
+  "Satigny": {
+    "canton": "GE",
+    "label": "Satigny (GE)",
+    "lat": 46.215309143066406,
+    "lng": 6.033508777618408
+  },
+  "Savosa": {
+    "canton": "TI",
+    "label": "Savosa (TI)",
+    "lat": 46.01959228515625,
+    "lng": 8.944768905639648
+  },
+  "Schaffhausen": {
+    "canton": "SH",
+    "label": "Schaffhausen (SH)",
+    "lat": 47.7188606262207,
+    "lng": 8.640215873718262
+  },
+  "Schule Schönengrund": {
+    "canton": "ZH",
+    "label": "Schul- und Hochschulareal Primarschule Schönengrund, Winterthur-Mattenbach (ZH) - Winterthur",
+    "lat": 47.49414825439453,
+    "lng": 8.73709487915039
+  },
+  "Seengen": {
+    "canton": "AG",
+    "label": "Seengen (AG)",
+    "lat": 47.32706069946289,
+    "lng": 8.210016250610352
+  },
+  "Seewen": {
+    "canton": "SO",
+    "label": "Seewen (SO)",
+    "lat": 47.42806625366211,
+    "lng": 7.650906085968018
+  },
+  "Seewen SZ": {
+    "canton": "SZ",
+    "label": "Ort Seewen SZ (SZ) - Schwyz",
+    "lat": 47.028141021728516,
+    "lng": 8.632428169250488
+  },
+  "Sempach": {
+    "canton": "LU",
+    "label": "Sempach (LU)",
+    "lat": 47.140193939208984,
+    "lng": 8.191203117370605
+  },
+  "Sion": {
+    "canton": "VS",
+    "label": "Sion (VS)",
+    "lat": 46.21693801879883,
+    "lng": 7.342846393585205
+  },
+  "Solothurn": {
+    "canton": "SO",
+    "label": "Solothurn (SO)",
+    "lat": 47.20805740356445,
+    "lng": 7.529796123504639
+  },
+  "Spiez": {
+    "canton": "BE",
+    "label": "Spiez (BE)",
+    "lat": 46.691070556640625,
+    "lng": 7.6608123779296875
+  },
+  "Spreitenbach": {
+    "canton": "AG",
+    "label": "Spreitenbach (AG)",
+    "lat": 47.41796112060547,
+    "lng": 8.362970352172852
+  },
+  "St-Cergue": {
+    "canton": "VD",
+    "label": "Saint-Cergue (VD)",
+    "lat": 46.45172882080078,
+    "lng": 6.129065990447998
+  },
+  "St-Imier": {
+    "canton": "BE",
+    "label": "Saint-Imier (BE)",
+    "lat": 47.152610778808594,
+    "lng": 6.991116523742676
+  },
+  "St-Légier": {
+    "canton": "VD",
+    "label": "Ort St-Légier-La Chiésaz (VD) - Blonay - Saint-Légier",
+    "lat": 46.47169876098633,
+    "lng": 6.87440824508667
+  },
+  "St-Légier-La Chiésaz": {
+    "canton": "VD",
+    "label": "Ort St-Légier-La Chiésaz (VD) - Blonay - Saint-Légier",
+    "lat": 46.47169876098633,
+    "lng": 6.87440824508667
+  },
+  "Stans": {
+    "canton": "NW",
+    "label": "Stans (NW)",
+    "lat": 46.9562873840332,
+    "lng": 8.360700607299805
+  },
+  "Stansstad": {
+    "canton": "NW",
+    "label": "Stansstad (NW)",
+    "lat": 46.99097442626953,
+    "lng": 8.362213134765625
+  },
+  "Steckborn": {
+    "canton": "TG",
+    "label": "Steckborn (TG)",
+    "lat": 47.658878326416016,
+    "lng": 8.999473571777344
+  },
+  "Steg VS": {
+    "canton": "VS",
+    "label": "Ort Steg VS (VS) - Steg-Hohtenn",
+    "lat": 46.31085968017578,
+    "lng": 7.751997470855713
+  },
+  "Studen BE": {
+    "canton": "BE",
+    "label": "Studen (BE)",
+    "lat": 47.11361312866211,
+    "lng": 7.3059468269348145
+  },
+  "Sörenberg": {
+    "canton": "LU",
+    "label": "Ort Sörenberg (LU) - Flühli",
+    "lat": 46.82255935668945,
+    "lng": 8.033738136291504
+  },
+  "Thun": {
+    "canton": "BE",
+    "label": "Thun (BE)",
+    "lat": 46.74045944213867,
+    "lng": 7.60764217376709
+  },
+  "Täuffelen": {
+    "canton": "BE",
+    "label": "Täuffelen (BE)",
+    "lat": 47.065650939941406,
+    "lng": 7.195646286010742
+  },
+  "Unteriberg": {
+    "canton": "SZ",
+    "label": "Unteriberg (SZ)",
+    "lat": 47.04103088378906,
+    "lng": 8.838655471801758
+  },
+  "Unterseen": {
+    "canton": "BE",
+    "label": "Unterseen (BE)",
+    "lat": 46.695247650146484,
+    "lng": 7.84113883972168
+  },
+  "Urdorf": {
+    "canton": "ZH",
+    "label": "Urdorf (ZH)",
+    "lat": 47.38089370727539,
+    "lng": 8.427435874938965
+  },
+  "Vessy": {
+    "canton": "GE",
+    "label": "Wehr Vessy (GE) - Veyrier",
+    "lat": 46.178306579589844,
+    "lng": 6.16977071762085
+  },
+  "Veyrier": {
+    "canton": "GE",
+    "label": "Veyrier (GE)",
+    "lat": 46.17317581176758,
+    "lng": 6.1635823249816895
+  },
+  "Villeneuve": {
+    "canton": "VD",
+    "label": "Villeneuve (VD)",
+    "lat": 46.4063606262207,
+    "lng": 6.953111171722412
+  },
+  "Villeneuve VD": {
+    "canton": "VD",
+    "label": "Villeneuve (VD)",
+    "lat": 46.4063606262207,
+    "lng": 6.953111171722412
+  },
+  "Visp": {
+    "canton": "VS",
+    "label": "Visp (VS)",
+    "lat": 46.287025451660156,
+    "lng": 7.86685037612915
+  },
+  "Wald": {
+    "canton": "ZH",
+    "label": "Wald (ZH)",
+    "lat": 47.28373718261719,
+    "lng": 8.916254043579102
+  },
+  "Wald ZH": {
+    "canton": "ZH",
+    "label": "Wald (ZH)",
+    "lat": 47.28373718261719,
+    "lng": 8.916254043579102
+  },
+  "Walenstadt": {
+    "canton": "SG",
+    "label": "Walenstadt (SG)",
+    "lat": 47.12102508544922,
+    "lng": 9.347698211669922
+  },
+  "Wangen an der Aare": {
+    "canton": "BE",
+    "label": "Wangen an der Aare (BE)",
+    "lat": 47.22467041015625,
+    "lng": 7.657536029815674
+  },
+  "Weggis": {
+    "canton": "LU",
+    "label": "Weggis (LU)",
+    "lat": 47.03305435180664,
+    "lng": 8.431046485900879
+  },
+  "Weinfelden": {
+    "canton": "TG",
+    "label": "Weinfelden (TG)",
+    "lat": 47.56858444213867,
+    "lng": 9.105485916137695
+  },
+  "Weiningen ZH": {
+    "canton": "ZH",
+    "label": "Weiningen (ZH)",
+    "lat": 47.41958999633789,
+    "lng": 8.434049606323242
+  },
+  "Wil SG": {
+    "canton": "SG",
+    "label": "Wil (SG)",
+    "lat": 47.47120666503906,
+    "lng": 9.039849281311035
+  },
+  "Winterthur": {
+    "canton": "ZH",
+    "label": "Winterthur (ZH)",
+    "lat": 47.49905014038086,
+    "lng": 8.720227241516113
+  },
+  "Wynau": {
+    "canton": "BE",
+    "label": "Wynau (BE)",
+    "lat": 47.25593948364258,
+    "lng": 7.807864665985107
+  },
+  "Wädenswil": {
+    "canton": "ZH",
+    "label": "Wädenswil (ZH)",
+    "lat": 47.205753326416016,
+    "lng": 8.649434089660645
+  },
+  "Zug": {
+    "canton": "ZG",
+    "label": "Zug (ZG)",
+    "lat": 47.151554107666016,
+    "lng": 8.521272659301758
+  },
+  "Zürich": {
+    "canton": "ZH",
+    "label": "Zürich (ZH)",
+    "lat": 47.37721252441406,
+    "lng": 8.527311325073242
+  }
+}
