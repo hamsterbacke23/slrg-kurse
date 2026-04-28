@@ -119,6 +119,42 @@
     <script type="module">
       import { createApp, ref, computed, watch, onMounted } from "https://esm.sh/vue@3.4.27/dist/vue.esm-browser.prod.js";
 
+      const CANTON_NAMES = {
+        ZH:"Zürich",BE:"Bern",LU:"Luzern",UR:"Uri",SZ:"Schwyz",OW:"Obwalden",NW:"Nidwalden",
+        GL:"Glarus",ZG:"Zug",FR:"Freiburg",SO:"Solothurn",BS:"Basel-Stadt",BL:"Basel-Landschaft",
+        SH:"Schaffhausen",AR:"Appenzell A.Rh.",AI:"Appenzell I.Rh.",SG:"St. Gallen",GR:"Graubünden",
+        AG:"Aargau",TG:"Thurgau",TI:"Tessin",VD:"Waadt",VS:"Wallis",NE:"Neuenburg",GE:"Genf",
+        JU:"Jura",FL:"Liechtenstein",
+      };
+      const CANTON_LABEL = c => CANTON_NAMES[c] ? `${c} – ${CANTON_NAMES[c]}` : c;
+      const todayISO = () => new Date().toISOString().slice(0, 10);
+      const FILTER_KEY = "slrg.filters.v2";
+
+      const DEFAULTS = {
+        q: "", cat: "", loc: "", radiusKm: 0,
+        dateFrom: "", dateTo: "", company: "",
+        availability: "upcoming", // 'all' | 'upcoming' | 'open'
+        sortBy: "first_date", sortDir: "asc",
+      };
+
+      function readUrlState() {
+        const u = new URLSearchParams(location.search);
+        const o = {};
+        for (const k of Object.keys(DEFAULTS)) {
+          if (u.has(k)) {
+            const v = u.get(k);
+            o[k] = (k === "radiusKm") ? (parseInt(v, 10) || 0) : v;
+          }
+        }
+        return o;
+      }
+      function readStorageState() {
+        try {
+          const s = JSON.parse(localStorage.getItem(FILTER_KEY) || "null");
+          return (s && typeof s === "object") ? s : {};
+        } catch { return {}; }
+      }
+
       const App = {
         setup() {
           const courses = ref([]);
@@ -126,50 +162,31 @@
           const loading = ref(true);
           const error = ref("");
 
-          const q = ref("");
-          const cat = ref("");
-          const company = ref("");
-          const city = ref("");
-          const canton = ref("");
-          const near = ref("");      // city name to sort "closest to"
-          const radiusKm = ref(0);    // 0 = no limit
-          const onlyOpen = ref(false);
-          const onlyUpcoming = ref(true);
-          const sortBy = ref("first_date");
-          const sortDir = ref("asc");
+          // ── filter state (URL > localStorage > defaults) ──────────────
+          const initial = { ...DEFAULTS, ...readStorageState(), ...readUrlState() };
+          const q = ref(initial.q);
+          const cat = ref(initial.cat);
+          const loc = ref(initial.loc);
+          const radiusKm = ref(Number(initial.radiusKm) || 0);
+          const dateFrom = ref(initial.dateFrom);
+          const dateTo = ref(initial.dateTo);
+          const company = ref(initial.company);
+          const availability = ref(initial.availability);
+          const sortBy = ref(initial.sortBy);
+          const sortDir = ref(initial.sortDir);
           const limit = ref(60);
+          const drawerOpen = ref(false);
+          const geoBusy = ref(false);
+          const geoError = ref("");
 
-          // ── persistence ────────────────────────────────────────────────
-          const FILTER_KEY = "slrg.filters.v1";
-          try {
-            const saved = JSON.parse(localStorage.getItem(FILTER_KEY) || "null");
-            if (saved && typeof saved === "object") {
-              if (typeof saved.q === "string") q.value = saved.q;
-              if (typeof saved.cat === "string") cat.value = saved.cat;
-              if (typeof saved.company === "string") company.value = saved.company;
-              if (typeof saved.city === "string") city.value = saved.city;
-              if (typeof saved.canton === "string") canton.value = saved.canton;
-              if (typeof saved.near === "string") near.value = saved.near;
-              if (typeof saved.radiusKm === "number") radiusKm.value = saved.radiusKm;
-              if (typeof saved.onlyOpen === "boolean") onlyOpen.value = saved.onlyOpen;
-              if (typeof saved.onlyUpcoming === "boolean") onlyUpcoming.value = saved.onlyUpcoming;
-              if (typeof saved.sortBy === "string") sortBy.value = saved.sortBy;
-              if (typeof saved.sortDir === "string") sortDir.value = saved.sortDir;
-            }
-          } catch {}
-
-          // ── theme: "system" | "light" | "dark" ─────────────────────────
+          // ── theme ─────────────────────────────────────────────────────
           const theme = ref(localStorage.getItem("slrg.theme") || "system");
           function applyTheme(t) {
             const dark = t === "dark" || (t === "system" && matchMedia("(prefers-color-scheme: dark)").matches);
             document.documentElement.classList.toggle("dark", dark);
           }
           applyTheme(theme.value);
-          watch(theme, (t) => {
-            localStorage.setItem("slrg.theme", t);
-            applyTheme(t);
-          });
-          // react to OS theme changes when in "system" mode
+          watch(theme, t => { localStorage.setItem("slrg.theme", t); applyTheme(t); });
           try {
             matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
               if (theme.value === "system") applyTheme("system");
@@ -190,6 +207,7 @@
             }
           });
 
+          // ── derived option lists ──────────────────────────────────────
           const categories = computed(() =>
             [...new Set(courses.value.map(c => c.category).filter(Boolean))].sort()
           );
@@ -202,17 +220,6 @@
           const cantons = computed(() =>
             [...new Set(courses.value.map(c => c.canton).filter(Boolean))].sort()
           );
-
-          const CANTON_NAMES = {
-            ZH:"Zürich",BE:"Bern",LU:"Luzern",UR:"Uri",SZ:"Schwyz",OW:"Obwalden",NW:"Nidwalden",
-            GL:"Glarus",ZG:"Zug",FR:"Freiburg",SO:"Solothurn",BS:"Basel-Stadt",BL:"Basel-Landschaft",
-            SH:"Schaffhausen",AR:"Appenzell A.Rh.",AI:"Appenzell I.Rh.",SG:"St. Gallen",GR:"Graubünden",
-            AG:"Aargau",TG:"Thurgau",TI:"Tessin",VD:"Waadt",VS:"Wallis",NE:"Neuenburg",GE:"Genf",
-            JU:"Jura",FL:"Liechtenstein"
-          };
-          function cantonLabel(code){ return CANTON_NAMES[code] ? `${code} – ${CANTON_NAMES[code]}` : code; }
-
-          // city → {lat,lng} from any course that has it
           const cityCoords = computed(() => {
             const map = new Map();
             for (const c of courses.value) {
@@ -223,23 +230,86 @@
             return map;
           });
 
-          const nearCoord = computed(() => near.value ? cityCoords.value.get(near.value) : null);
+          // ── unified location resolution ───────────────────────────────
+          // input -> {kind:'city'|'canton'|'coord'|null, city?, canton?, coord?, label}
+          const locInput = computed(() => loc.value.trim());
+          const locResolved = ref(null); // {kind:'coord', coord:{lat,lng}, label} for Near-Me
 
+          const locationMatch = computed(() => {
+            // Explicit Near-Me coordinate takes priority while loc input is the same label
+            if (locResolved.value && loc.value === locResolved.value.label) {
+              return locResolved.value;
+            }
+            const t = locInput.value;
+            if (!t) return null;
+            const tl = t.toLowerCase();
+
+            // "Kanton XY" prefix
+            const mKanton = t.match(/^kanton\s+(.+)$/i);
+            if (mKanton) {
+              const inner = mKanton[1].trim().toLowerCase();
+              for (const code of cantons.value) {
+                if (code.toLowerCase() === inner || (CANTON_NAMES[code] || "").toLowerCase() === inner) {
+                  return { kind: "canton", canton: code, label: `Kanton ${CANTON_LABEL(code)}` };
+                }
+              }
+            }
+            // 2-letter canton code (when present in dataset)
+            if (/^[A-Za-z]{2}$/.test(t)) {
+              const code = t.toUpperCase();
+              if (cantons.value.includes(code)) {
+                return { kind: "canton", canton: code, label: `Kanton ${CANTON_LABEL(code)}` };
+              }
+            }
+            // Exact city match (case-insensitive)
+            const cityHit = cities.value.find(c => c.toLowerCase() === tl);
+            if (cityHit) {
+              return { kind: "city", city: cityHit, coord: cityCoords.value.get(cityHit) || null, label: cityHit };
+            }
+            // Canton full name (e.g. "Zürich" if no city of same name; otherwise city wins above)
+            for (const code of cantons.value) {
+              if ((CANTON_NAMES[code] || "").toLowerCase() === tl) {
+                return { kind: "canton", canton: code, label: `Kanton ${CANTON_LABEL(code)}` };
+              }
+            }
+            return null;
+          });
+
+          // Suggestions for the location combobox: cities + "Kanton …" entries
+          const locSuggestions = computed(() => {
+            const out = [];
+            for (const c of cities.value) out.push(c);
+            for (const code of cantons.value) {
+              out.push(`Kanton ${CANTON_LABEL(code)}`);
+            }
+            return out;
+          });
+
+          // ── distance helpers ──────────────────────────────────────────
           function haversineKm(a, b) {
             if (!a || !b) return null;
             const R = 6371, toRad = d => d * Math.PI / 180;
             const dLat = toRad(b.lat - a.lat), dLng = toRad(b.lng - a.lng);
-            const s = Math.sin(dLat/2)**2 +
-              Math.cos(toRad(a.lat)) * Math.cos(toRad(b.lat)) * Math.sin(dLng/2)**2;
+            const s = Math.sin(dLat / 2) ** 2 +
+              Math.cos(toRad(a.lat)) * Math.cos(toRad(b.lat)) * Math.sin(dLng / 2) ** 2;
             return 2 * R * Math.asin(Math.sqrt(s));
           }
+          function fmtDist(km) {
+            if (km == null) return "";
+            if (km < 1) return `${Math.round(km * 1000)} m`;
+            if (km < 10) return `${km.toFixed(1)} km`;
+            return `${Math.round(km)} km`;
+          }
 
-          const todayISO = new Date().toISOString().slice(0, 10);
+          // ── filtering & sorting ───────────────────────────────────────
+          const today = computed(() => todayISO());
 
           const filtered = computed(() => {
             const needle = q.value.trim().toLowerCase();
-            const origin = nearCoord.value;
+            const m = locationMatch.value;
+            const origin = m && m.coord ? m.coord : null;
             const radius = radiusKm.value;
+            const t = today.value;
 
             let arr = courses.value.map(c => {
               const dist = origin && c.lat != null && c.lng != null
@@ -249,30 +319,35 @@
             }).filter(({ c, dist }) => {
               if (cat.value && c.category !== cat.value) return false;
               if (company.value && c.company !== company.value) return false;
-              if (city.value && c.city !== city.value) return false;
-              if (canton.value && c.canton !== canton.value) return false;
-              if (onlyOpen.value) {
+              if (m) {
+                if (m.kind === "canton" && c.canton !== m.canton) return false;
+                if (m.kind === "city" && c.city !== m.city) return false;
+                // For 'coord' kind we filter by radius below.
+              }
+              if (origin && radius > 0 && (dist == null || dist > radius)) return false;
+              if (dateFrom.value && c.last_date && c.last_date < dateFrom.value) return false;
+              if (dateTo.value && c.first_date && c.first_date > dateTo.value) return false;
+              if (availability.value === "upcoming" && c.last_date && c.last_date < t) return false;
+              if (availability.value === "open") {
+                if (c.last_date && c.last_date < t) return false;
                 const free = (c.participation_max ?? 0) - (c.registered ?? 0);
                 if (free <= 0) return false;
               }
-              if (onlyUpcoming.value && c.last_date && c.last_date < todayISO) return false;
               if (needle) {
                 const hay = `${c.category} ${c.company} ${c.city} ${c.canton ?? ''} ${c.key}`.toLowerCase();
                 if (!hay.includes(needle)) return false;
               }
-              if (origin && radius > 0 && (dist == null || dist > radius)) return false;
               return true;
             });
 
-            // sort
+            const dir = sortDir.value === "asc" ? 1 : -1;
             if (origin && sortBy.value === "distance") {
               arr.sort((a, b) => {
                 if (a.dist == null) return 1;
                 if (b.dist == null) return -1;
-                return (a.dist - b.dist) * (sortDir.value === "asc" ? 1 : -1);
+                return (a.dist - b.dist) * dir;
               });
             } else {
-              const dir = sortDir.value === "asc" ? 1 : -1;
               arr.sort((a, b) => {
                 const av = a.c[sortBy.value] ?? "";
                 const bv = b.c[sortBy.value] ?? "";
@@ -286,32 +361,105 @@
 
           const visible = computed(() => filtered.value.slice(0, limit.value));
 
-          watch([q, cat, company, city, canton, near, radiusKm, onlyOpen, onlyUpcoming, sortBy, sortDir], () => {
+          // ── persistence + URL sync ────────────────────────────────────
+          const allFilters = computed(() => ({
+            q: q.value, cat: cat.value, loc: loc.value, radiusKm: radiusKm.value,
+            dateFrom: dateFrom.value, dateTo: dateTo.value, company: company.value,
+            availability: availability.value, sortBy: sortBy.value, sortDir: sortDir.value,
+          }));
+
+          function syncUrl(state) {
+            const u = new URLSearchParams();
+            for (const [k, v] of Object.entries(state)) {
+              if (v === DEFAULTS[k] || v === "" || v == null) continue;
+              u.set(k, String(v));
+            }
+            const qs = u.toString();
+            const url = qs ? `${location.pathname}?${qs}` : location.pathname;
+            history.replaceState(null, "", url + location.hash);
+          }
+
+          watch(allFilters, (state) => {
             limit.value = 60;
-            try {
-              localStorage.setItem(FILTER_KEY, JSON.stringify({
-                q: q.value, cat: cat.value, company: company.value, city: city.value,
-                canton: canton.value, near: near.value, radiusKm: radiusKm.value,
-                onlyOpen: onlyOpen.value, onlyUpcoming: onlyUpcoming.value,
-                sortBy: sortBy.value, sortDir: sortDir.value,
-              }));
-            } catch {}
+            try { localStorage.setItem(FILTER_KEY, JSON.stringify(state)); } catch {}
+            syncUrl(state);
+          }, { deep: true });
+
+          // First run: ensure URL reflects current state (in case localStorage filled defaults)
+          syncUrl(allFilters.value);
+
+          // Auto-pick distance sort when location resolves to coordinates
+          watch(locationMatch, (m, prev) => {
+            if (m && m.coord && (!prev || !prev.coord)) sortBy.value = "distance";
+            else if ((!m || !m.coord) && sortBy.value === "distance") sortBy.value = "first_date";
           });
 
-          // when user picks a "near city", auto-switch sort to distance
-          watch(near, (v) => {
-            if (v && cityCoords.value.get(v)) sortBy.value = "distance";
-            else if (sortBy.value === "distance") sortBy.value = "first_date";
+          // Active filter count (for the Filter button badge)
+          const activeFilterCount = computed(() => {
+            let n = 0;
+            const a = allFilters.value;
+            if (a.q) n++;
+            if (a.cat) n++;
+            if (a.loc) n++;
+            if (a.radiusKm) n++;
+            if (a.dateFrom) n++;
+            if (a.dateTo) n++;
+            if (a.company) n++;
+            if (a.availability !== DEFAULTS.availability) n++;
+            return n;
           });
 
+          // ── actions ───────────────────────────────────────────────────
           function reset() {
-            q.value = ""; cat.value = ""; company.value = ""; city.value = "";
-            canton.value = ""; near.value = ""; radiusKm.value = 0;
-            onlyOpen.value = false; onlyUpcoming.value = true;
+            q.value = ""; cat.value = ""; loc.value = ""; radiusKm.value = 0;
+            dateFrom.value = ""; dateTo.value = ""; company.value = "";
+            availability.value = "upcoming";
             sortBy.value = "first_date"; sortDir.value = "asc";
+            locResolved.value = null;
             try { localStorage.removeItem(FILTER_KEY); } catch {}
           }
 
+          // "In meiner Nähe": geolocate, then snap to nearest known city
+          function locateMe() {
+            if (!navigator.geolocation) {
+              geoError.value = "Geolokalisierung wird nicht unterstützt.";
+              return;
+            }
+            geoBusy.value = true;
+            geoError.value = "";
+            navigator.geolocation.getCurrentPosition(
+              (pos) => {
+                geoBusy.value = false;
+                const here = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+                let best = null, bestD = Infinity;
+                for (const [name, co] of cityCoords.value) {
+                  const d = haversineKm(here, co);
+                  if (d != null && d < bestD) { bestD = d; best = { name, co }; }
+                }
+                if (!best) {
+                  geoError.value = "Keine Orte in der Nähe gefunden.";
+                  return;
+                }
+                locResolved.value = { kind: "coord", coord: here, label: `📍 ${best.name}` };
+                loc.value = locResolved.value.label;
+                if (!radiusKm.value) radiusKm.value = 30;
+              },
+              (err) => {
+                geoBusy.value = false;
+                geoError.value = err.code === 1
+                  ? "Standortzugriff verweigert."
+                  : "Standort konnte nicht ermittelt werden.";
+              },
+              { enableHighAccuracy: false, timeout: 8000, maximumAge: 5 * 60 * 1000 }
+            );
+          }
+
+          // Clear locResolved if user edits the input away from its label
+          watch(loc, (v) => {
+            if (locResolved.value && v !== locResolved.value.label) locResolved.value = null;
+          });
+
+          // ── formatters ────────────────────────────────────────────────
           function fmtDate(s) {
             if (!s) return "—";
             const [y, m, d] = s.split("-");
@@ -335,7 +483,6 @@
             if (free <= Math.max(2, Math.floor(max * 0.2))) return { label: `${free} frei`, cls: "badge-amber" };
             return { label: `${free} frei`, cls: "badge-emerald" };
           }
-
           function relTime(iso) {
             if (!iso) return "";
             try {
@@ -348,56 +495,46 @@
             } catch { return iso; }
           }
 
-          function fmtDist(km) {
-            if (km == null) return "";
-            if (km < 1) return `${Math.round(km * 1000)} m`;
-            if (km < 10) return `${km.toFixed(1)} km`;
-            return `${Math.round(km)} km`;
-          }
-
           return {
             courses, meta, loading, error,
-            q, cat, company, city, canton, near, radiusKm,
-            onlyOpen, onlyUpcoming, sortBy, sortDir, limit,
-            categories, companies, cities, cantons, cityCoords, nearCoord,
-            filtered, visible, cantonLabel, fmtDist,
-            reset, fmtRange, freeSpots, statusBadge, relTime,
-            theme,
+            q, cat, loc, radiusKm, dateFrom, dateTo, company, availability,
+            sortBy, sortDir, limit, drawerOpen, geoBusy, geoError,
+            categories, companies, locSuggestions,
+            locationMatch, filtered, visible, activeFilterCount,
+            theme, reset, locateMe,
+            fmtRange, statusBadge, relTime, fmtDist, CANTON_LABEL,
           };
         },
         template: `
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 py-8">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
           <!-- Header -->
-          <header class="flex flex-col sm:flex-row sm:items-end justify-between gap-4 mb-8">
-            <div>
-              <div class="flex items-center gap-3">
-                <div class="h-10 w-10 rounded-xl bg-primary/15 ring-1 ring-primary/30 flex items-center justify-center">
-                  <svg class="w-6 h-6 text-primary" viewBox="0 0 24 24" fill="currentColor"><path d="M2 17c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2zM2 11c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2z"/></svg>
-                </div>
-                <div>
-                  <h1 class="text-2xl font-semibold tracking-tight">SLRG Kurssuche</h1>
-                  <p class="text-sm text-muted-foreground">
-                    Alle Kurse der Schweizerischen Lebensrettungs-Gesellschaft – durchsuchbar.
-                  </p>
-                </div>
+          <header class="flex items-center justify-between gap-4 mb-6 sm:mb-8">
+            <div class="flex items-center gap-3 min-w-0">
+              <div class="h-10 w-10 rounded-xl bg-primary/15 ring-1 ring-primary/30 flex items-center justify-center shrink-0">
+                <svg class="w-6 h-6 text-primary" viewBox="0 0 24 24" fill="currentColor"><path d="M2 17c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2zM2 11c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2z"/></svg>
+              </div>
+              <div class="min-w-0">
+                <h1 class="text-xl sm:text-2xl font-semibold tracking-tight">SLRG Kurssuche</h1>
+                <p class="hidden sm:block text-sm text-muted-foreground truncate">
+                  Alle Kurse der Schweizerischen Lebensrettungs-Gesellschaft – durchsuchbar.
+                </p>
               </div>
             </div>
-            <div class="flex items-center gap-3 text-xs text-muted-foreground">
-              <span class="inline-flex items-center gap-1.5">
+            <div class="flex items-center gap-3 shrink-0">
+              <span class="hidden md:inline-flex items-center gap-1.5 text-xs text-muted-foreground">
                 <span class="h-2 w-2 rounded-full bg-emerald-400 animate-pulse"></span>
-                {{ meta.count }} Kurse · aktualisiert {{ relTime(meta.scraped_at) }}
+                {{ meta.count }} · {{ relTime(meta.scraped_at) }}
               </span>
-              <!-- Theme switcher: subtle 3-segment toggle -->
               <div class="inline-flex items-center rounded-lg border border-border bg-muted/50 p-0.5" role="group" aria-label="Farbschema">
-                <button @click="theme = 'system'" :title="'System'"
+                <button @click="theme = 'system'" title="System"
                   :class="['h-7 w-7 rounded-md flex items-center justify-center transition', theme === 'system' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">
                   <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="14" rx="2"/><path d="M8 21h8M12 18v3"/></svg>
                 </button>
-                <button @click="theme = 'light'" :title="'Hell'"
+                <button @click="theme = 'light'" title="Hell"
                   :class="['h-7 w-7 rounded-md flex items-center justify-center transition', theme === 'light' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">
                   <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
                 </button>
-                <button @click="theme = 'dark'" :title="'Dunkel'"
+                <button @click="theme = 'dark'" title="Dunkel"
                   :class="['h-7 w-7 rounded-md flex items-center justify-center transition', theme === 'dark' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">
                   <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
                 </button>
@@ -405,90 +542,141 @@
             </div>
           </header>
 
-          <!-- Loading / error -->
           <div v-if="loading" class="card p-12 text-center text-muted-foreground">
             <div class="inline-block h-6 w-6 border-2 border-primary border-t-transparent rounded-full animate-spin"></div>
             <div class="mt-3">Lade Kurse…</div>
           </div>
-          <div v-else-if="error" class="card p-8 text-rose-300 ring-1 ring-rose-500/30">
-            <strong>Fehler:</strong> {{ error }}<br>
-            <span class="text-sm text-muted-foreground">Stelle sicher, dass <code>courses.json</code> neben dieser Datei liegt und du via HTTP-Server (z.B. <code>python3 -m http.server</code>) servierst.</span>
+          <div v-else-if="error" class="card p-8 ring-1 ring-rose-500/30">
+            <strong class="text-rose-500">Fehler:</strong> {{ error }}
           </div>
 
           <template v-else>
-          <!-- Filter bar -->
-          <section class="glass card p-4 sm:p-5 mb-6 sticky top-3 z-20">
-            <div class="grid grid-cols-1 md:grid-cols-12 gap-3">
-              <div class="md:col-span-4 relative">
+          <!-- Compact filter bar -->
+          <section class="glass card p-3 sm:p-4 mb-6 sticky top-3 z-20">
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-2 sm:gap-3">
+              <!-- Keywords -->
+              <div class="md:col-span-5 relative">
                 <svg class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-                <input v-model="q" placeholder="Suche nach Ort, Anbieter, Kategorie…"
-                  class="input w-full pl-9" />
+                <input v-model="q" type="search" placeholder="Suchen…"
+                  class="input w-full pl-9" aria-label="Stichwortsuche" />
               </div>
-              <select v-model="cat" class="input md:col-span-3">
-                <option value="">Alle Kategorien</option>
-                <option v-for="c in categories" :key="c" :value="c">{{ c }}</option>
-              </select>
-              <select v-model="canton" class="input md:col-span-2">
-                <option value="">Alle Kantone</option>
-                <option v-for="c in cantons" :key="c" :value="c">{{ cantonLabel(c) }}</option>
-              </select>
-              <select v-model="city" class="input md:col-span-3">
-                <option value="">Alle Orte</option>
-                <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
-              </select>
-            </div>
-
-            <div class="grid grid-cols-1 md:grid-cols-12 gap-3 mt-3">
-              <div class="md:col-span-4 relative">
+              <!-- Location combobox -->
+              <div class="md:col-span-5 relative">
                 <svg class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-                <input v-model="near" list="all-cities" placeholder="In der Nähe von… (z.B. Kreuzlingen)"
-                  class="input w-full pl-9" />
-                <datalist id="all-cities">
-                  <option v-for="c in cities" :key="c" :value="c"></option>
+                <input v-model="loc" list="loc-list" type="search"
+                  placeholder="Ort, Kanton (z.B. Zürich, ZH, Kreuzlingen)"
+                  class="input w-full pl-9 pr-10" aria-label="Standort" />
+                <datalist id="loc-list">
+                  <option v-for="s in locSuggestions" :key="s" :value="s"></option>
                 </datalist>
-              </div>
-              <div class="md:col-span-3 flex items-center gap-2" v-if="nearCoord">
-                <span class="text-xs text-muted-foreground whitespace-nowrap">Umkreis:</span>
-                <input type="range" min="0" max="200" step="5" v-model.number="radiusKm" class="flex-1 accent-primary" />
-                <span class="text-xs font-mono w-16 text-right">{{ radiusKm > 0 ? radiusKm + ' km' : 'alle' }}</span>
-              </div>
-              <select v-model="company" class="input md:col-span-5">
-                <option value="">Alle Anbieter</option>
-                <option v-for="c in companies" :key="c" :value="c">{{ c }}</option>
-              </select>
-            </div>
-
-            <div class="flex flex-wrap items-center gap-2 mt-3">
-              <button class="btn btn-ghost" :class="onlyUpcoming ? 'ring-1 ring-primary text-primary' : ''" @click="onlyUpcoming = !onlyUpcoming">
-                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
-                Nur kommende
-              </button>
-              <button class="btn btn-ghost" :class="onlyOpen ? 'ring-1 ring-primary text-primary' : ''" @click="onlyOpen = !onlyOpen">
-                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5v14"/></svg>
-                Nur freie Plätze
-              </button>
-              <div class="ml-auto flex items-center gap-2 text-sm">
-                <span class="text-muted-foreground">Sortieren:</span>
-                <select v-model="sortBy" class="input py-1.5 px-2 text-xs">
-                  <option value="first_date">Startdatum</option>
-                  <option value="last_date">Enddatum</option>
-                  <option value="category">Kategorie</option>
-                  <option value="city">Ort</option>
-                  <option value="canton">Kanton</option>
-                  <option value="company">Anbieter</option>
-                  <option value="distance" :disabled="!nearCoord">Distanz</option>
-                </select>
-                <button class="btn btn-ghost py-1.5 px-2" @click="sortDir = sortDir==='asc' ? 'desc' : 'asc'">
-                  {{ sortDir === 'asc' ? '↑' : '↓' }}
+                <button type="button" @click="locateMe" :disabled="geoBusy"
+                  :title="geoBusy ? 'Suche…' : 'In meiner Nähe'"
+                  class="absolute right-1.5 top-1/2 -translate-y-1/2 h-7 w-7 rounded-md flex items-center justify-center text-muted-foreground hover:text-primary hover:bg-muted transition disabled:opacity-50">
+                  <svg v-if="!geoBusy" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>
+                  <svg v-else class="w-4 h-4 animate-spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12a9 9 0 1 1-6.22-8.56"/></svg>
                 </button>
-                <button class="btn btn-ghost py-1.5 px-2 text-xs" @click="reset">Zurücksetzen</button>
               </div>
+              <!-- Filter drawer toggle -->
+              <button type="button" @click="drawerOpen = !drawerOpen"
+                :class="['md:col-span-2 btn relative', drawerOpen || activeFilterCount ? 'btn-primary' : 'btn-ghost', 'justify-center']"
+                :aria-expanded="drawerOpen">
+                <svg class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M7 12h10M11 18h2"/></svg>
+                Filter
+                <span v-if="activeFilterCount" class="ml-1 inline-flex items-center justify-center min-w-[1.25rem] h-5 px-1 rounded-full text-[10px] font-bold"
+                  :class="drawerOpen || activeFilterCount ? 'bg-primary-foreground text-primary' : 'bg-primary text-primary-foreground'">
+                  {{ activeFilterCount }}
+                </span>
+              </button>
             </div>
 
-            <div class="text-xs text-muted-foreground mt-3">
-              <span class="font-medium text-foreground">{{ filtered.length }}</span> Treffer
-              <span v-if="filtered.length > visible.length"> · zeige {{ visible.length }}</span>
-              <span v-if="near && !nearCoord" class="ml-2 text-amber-300">— Ort „{{ near }}“ nicht gefunden, wähle einen aus der Liste</span>
+            <!-- Radius slider, only when location resolves to coordinates -->
+            <div v-if="locationMatch && locationMatch.coord" class="mt-3 flex items-center gap-3">
+              <span class="text-xs text-muted-foreground whitespace-nowrap">Umkreis um {{ locationMatch.label }}:</span>
+              <input type="range" min="0" max="200" step="5" v-model.number="radiusKm" class="flex-1 accent-primary" aria-label="Umkreis" />
+              <span class="text-xs font-mono w-20 text-right">{{ radiusKm > 0 ? radiusKm + ' km' : 'unbegrenzt' }}</span>
+            </div>
+            <div v-if="loc && !locationMatch" class="mt-2 text-xs text-amber-300">
+              „{{ loc }}" nicht gefunden — Vorschlag aus der Liste wählen.
+            </div>
+            <div v-if="geoError" class="mt-2 text-xs text-rose-400">{{ geoError }}</div>
+
+            <!-- Drawer -->
+            <transition
+              enter-active-class="transition-all duration-200 ease-out overflow-hidden"
+              leave-active-class="transition-all duration-150 ease-in overflow-hidden"
+              enter-from-class="opacity-0 max-h-0"
+              enter-to-class="opacity-100 max-h-[600px]"
+              leave-from-class="opacity-100 max-h-[600px]"
+              leave-to-class="opacity-0 max-h-0">
+            <div v-show="drawerOpen" class="mt-4 pt-4 border-t border-border">
+              <div class="grid grid-cols-1 md:grid-cols-12 gap-3">
+                <div class="md:col-span-4">
+                  <label class="text-xs text-muted-foreground mb-1 block">Kategorie</label>
+                  <select v-model="cat" class="input w-full">
+                    <option value="">Alle Kategorien</option>
+                    <option v-for="c in categories" :key="c" :value="c">{{ c }}</option>
+                  </select>
+                </div>
+                <div class="md:col-span-4">
+                  <label class="text-xs text-muted-foreground mb-1 block">Anbieter</label>
+                  <select v-model="company" class="input w-full">
+                    <option value="">Alle Anbieter</option>
+                    <option v-for="c in companies" :key="c" :value="c">{{ c }}</option>
+                  </select>
+                </div>
+                <div class="md:col-span-2">
+                  <label class="text-xs text-muted-foreground mb-1 block">Von</label>
+                  <input type="date" v-model="dateFrom" class="input w-full" />
+                </div>
+                <div class="md:col-span-2">
+                  <label class="text-xs text-muted-foreground mb-1 block">Bis</label>
+                  <input type="date" v-model="dateTo" class="input w-full" />
+                </div>
+              </div>
+
+              <div class="grid grid-cols-1 md:grid-cols-12 gap-3 mt-3">
+                <div class="md:col-span-6">
+                  <label class="text-xs text-muted-foreground mb-1 block">Verfügbarkeit</label>
+                  <div class="inline-flex rounded-lg border border-border bg-muted/50 p-0.5 w-full">
+                    <button type="button" @click="availability = 'all'"
+                      :class="['flex-1 px-3 py-1.5 rounded-md text-xs font-medium transition', availability === 'all' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">Alle</button>
+                    <button type="button" @click="availability = 'upcoming'"
+                      :class="['flex-1 px-3 py-1.5 rounded-md text-xs font-medium transition', availability === 'upcoming' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">Nur kommende</button>
+                    <button type="button" @click="availability = 'open'"
+                      :class="['flex-1 px-3 py-1.5 rounded-md text-xs font-medium transition', availability === 'open' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">Mit freien Plätzen</button>
+                  </div>
+                </div>
+                <div class="md:col-span-6">
+                  <label class="text-xs text-muted-foreground mb-1 block">Sortierung</label>
+                  <div class="flex gap-2">
+                    <select v-model="sortBy" class="input flex-1">
+                      <option value="first_date">Startdatum</option>
+                      <option value="last_date">Enddatum</option>
+                      <option value="category">Kategorie</option>
+                      <option value="city">Ort</option>
+                      <option value="canton">Kanton</option>
+                      <option value="company">Anbieter</option>
+                      <option value="distance" :disabled="!locationMatch || !locationMatch.coord">Distanz</option>
+                    </select>
+                    <button type="button" class="btn btn-ghost px-3" @click="sortDir = sortDir === 'asc' ? 'desc' : 'asc'" :aria-label="'Richtung'">
+                      {{ sortDir === 'asc' ? '↑' : '↓' }}
+                    </button>
+                    <button type="button" class="btn btn-ghost text-xs" @click="reset">Zurücksetzen</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            </transition>
+
+            <div class="text-xs text-muted-foreground mt-3 flex items-center justify-between">
+              <span>
+                <span class="font-medium text-foreground">{{ filtered.length }}</span> Treffer
+                <span v-if="filtered.length > visible.length"> · zeige {{ visible.length }}</span>
+              </span>
+              <span class="md:hidden inline-flex items-center gap-1.5">
+                <span class="h-1.5 w-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+                {{ relTime(meta.scraped_at) }}
+              </span>
             </div>
           </section>
 
@@ -497,8 +685,8 @@
             <a v-for="item in visible" :key="item.c.key" :href="item.c.url" target="_blank" rel="noopener"
               class="card p-5 animate-fade-in transition group">
               <div class="flex items-start justify-between gap-3">
-                <div class="text-xs text-primary font-medium tracking-wide uppercase">{{ item.c.category || '—' }}</div>
-                <span class="badge" :class="statusBadge(item.c).cls">{{ statusBadge(item.c).label }}</span>
+                <div class="text-xs text-primary font-medium tracking-wide uppercase truncate">{{ item.c.category || '—' }}</div>
+                <span class="badge shrink-0" :class="statusBadge(item.c).cls">{{ statusBadge(item.c).label }}</span>
               </div>
               <h3 class="mt-2 text-lg font-semibold leading-snug group-hover:text-primary transition">
                 {{ item.c.city || item.c.company || 'Kurs ' + item.c.key }}
@@ -515,7 +703,7 @@
 
               <div class="mt-3 flex items-center justify-between text-xs text-muted-foreground">
                 <span class="inline-flex items-center gap-1">
-                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/></svg>
                   {{ item.c.registered ?? 0 }} / {{ item.c.participation_max ?? '?' }}
                 </span>
                 <span class="flex items-center gap-2">
@@ -526,7 +714,6 @@
             </a>
           </section>
 
-          <!-- Load more -->
           <div v-if="filtered.length > visible.length" class="flex justify-center mt-8">
             <button class="btn btn-primary" @click="limit += 60">Weitere {{ Math.min(60, filtered.length - visible.length) }} laden</button>
           </div>
