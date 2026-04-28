@@ -1,10 +1,20 @@
 <!doctype html>
-<html lang="de" class="dark">
+<html lang="de">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>SLRG Kurssuche</title>
-    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%2306b6d4'%3E%3Cpath d='M2 17c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2zM2 11c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2z'/%3E%3C/svg%3E" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%230b3a8c'%3E%3Cpath d='M2 17c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2zM2 11c2 0 2-2 4-2s2 2 4 2 2-2 4-2 2 2 4 2 2-2 4-2v3c-2 0-2 2-4 2s-2-2-4-2-2 2-4 2-2-2-4-2-2 2-4 2z'/%3E%3C/svg%3E" />
+    <script>
+      // Apply theme before paint to avoid flash. Stored value: "system" | "light" | "dark".
+      (function () {
+        try {
+          var pref = localStorage.getItem("slrg.theme") || "system";
+          var dark = pref === "dark" || (pref === "system" && matchMedia("(prefers-color-scheme: dark)").matches);
+          document.documentElement.classList.toggle("dark", dark);
+        } catch (e) {}
+      })();
+    </script>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
       tailwind.config = {
@@ -12,15 +22,15 @@
         theme: {
           extend: {
             colors: {
-              border: "hsl(217 33% 17%)",
-              input: "hsl(217 33% 17%)",
-              ring: "hsl(187 96% 43%)",
-              background: "hsl(222 47% 6%)",
-              foreground: "hsl(210 40% 98%)",
-              muted: { DEFAULT: "hsl(217 33% 13%)", foreground: "hsl(215 20% 65%)" },
-              card: { DEFAULT: "hsl(222 47% 9%)", foreground: "hsl(210 40% 98%)" },
-              primary: { DEFAULT: "hsl(187 96% 43%)", foreground: "hsl(222 47% 6%)" },
-              accent: { DEFAULT: "hsl(217 33% 17%)", foreground: "hsl(210 40% 98%)" },
+              border: "hsl(var(--border) / <alpha-value>)",
+              input: "hsl(var(--input) / <alpha-value>)",
+              ring: "hsl(var(--ring) / <alpha-value>)",
+              background: "hsl(var(--background) / <alpha-value>)",
+              foreground: "hsl(var(--foreground) / <alpha-value>)",
+              muted: { DEFAULT: "hsl(var(--muted) / <alpha-value>)", foreground: "hsl(var(--muted-foreground) / <alpha-value>)" },
+              card: { DEFAULT: "hsl(var(--card) / <alpha-value>)", foreground: "hsl(var(--card-foreground) / <alpha-value>)" },
+              primary: { DEFAULT: "hsl(var(--primary) / <alpha-value>)", foreground: "hsl(var(--primary-foreground) / <alpha-value>)" },
+              accent: { DEFAULT: "hsl(var(--accent) / <alpha-value>)", foreground: "hsl(var(--accent-foreground) / <alpha-value>)" },
             },
             fontFamily: { sans: ["Inter", "ui-sans-serif", "system-ui", "sans-serif"] },
             keyframes: {
@@ -33,22 +43,74 @@
     </script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
     <style>
-      html, body { background: hsl(222 47% 6%); color: hsl(210 40% 98%); font-family: Inter, system-ui, sans-serif; }
-      .glass { background: linear-gradient(180deg, hsla(222,47%,9%,.85), hsla(222,47%,9%,.6)); backdrop-filter: blur(12px); }
-      .grid-bg { background-image: radial-gradient(hsla(187,96%,43%,.08) 1px, transparent 1px); background-size: 28px 28px; }
+      /* Light theme — oriented toward slrg.ch (navy blue on white, with red accent). */
+      :root {
+        --background: 0 0% 100%;
+        --foreground: 222 47% 11%;
+        --muted: 220 14% 96%;
+        --muted-foreground: 220 9% 46%;
+        --card: 0 0% 100%;
+        --card-foreground: 222 47% 11%;
+        --border: 220 13% 91%;
+        --input: 220 13% 91%;
+        --primary: 220 78% 30%;          /* SLRG navy */
+        --primary-foreground: 0 0% 100%;
+        --accent: 220 14% 96%;
+        --accent-foreground: 222 47% 11%;
+        --ring: 220 78% 40%;
+        --grid-dot: 220 78% 30% / 0.07;
+        --glass-from: 0 0% 100% / 0.85;
+        --glass-to: 0 0% 100% / 0.6;
+      }
+      /* Dark theme — original look. */
+      .dark {
+        --background: 222 47% 6%;
+        --foreground: 210 40% 98%;
+        --muted: 217 33% 13%;
+        --muted-foreground: 215 20% 65%;
+        --card: 222 47% 9%;
+        --card-foreground: 210 40% 98%;
+        --border: 217 33% 17%;
+        --input: 217 33% 17%;
+        --primary: 187 96% 43%;
+        --primary-foreground: 222 47% 6%;
+        --accent: 217 33% 17%;
+        --accent-foreground: 210 40% 98%;
+        --ring: 187 96% 43%;
+        --grid-dot: 187 96% 43% / 0.08;
+        --glass-from: 222 47% 9% / 0.85;
+        --glass-to: 222 47% 9% / 0.6;
+      }
+
+      html, body { background: hsl(var(--background)); color: hsl(var(--foreground)); font-family: Inter, system-ui, sans-serif; }
+      html { color-scheme: light; }
+      html.dark { color-scheme: dark; }
+
+      .glass { background: linear-gradient(180deg, hsl(var(--glass-from)), hsl(var(--glass-to))); backdrop-filter: blur(12px); }
+      .grid-bg { background-image: radial-gradient(hsl(var(--grid-dot)) 1px, transparent 1px); background-size: 28px 28px; }
       .scrollbar::-webkit-scrollbar { width: 10px; height: 10px; }
-      .scrollbar::-webkit-scrollbar-thumb { background: hsl(217 33% 17%); border-radius: 6px; }
-      .scrollbar::-webkit-scrollbar-thumb:hover { background: hsl(217 33% 25%); }
+      .scrollbar::-webkit-scrollbar-thumb { background: hsl(var(--border)); border-radius: 6px; }
+      .scrollbar::-webkit-scrollbar-thumb:hover { background: hsl(var(--muted-foreground) / .4); }
       .btn { display:inline-flex; align-items:center; gap:.5rem; padding:.5rem .9rem; border-radius:.6rem; font-size:.875rem; font-weight:500; transition:all .15s; }
-      .btn-primary { background: hsl(187 96% 43%); color: hsl(222 47% 6%); }
-      .btn-primary:hover { background: hsl(187 96% 50%); }
-      .btn-ghost { background: transparent; color: hsl(210 40% 98%); border: 1px solid hsl(217 33% 17%); }
-      .btn-ghost:hover { background: hsl(217 33% 13%); }
+      .btn-primary { background: hsl(var(--primary)); color: hsl(var(--primary-foreground)); }
+      .btn-primary:hover { filter: brightness(1.1); }
+      .btn-ghost { background: transparent; color: hsl(var(--foreground)); border: 1px solid hsl(var(--border)); }
+      .btn-ghost:hover { background: hsl(var(--muted)); }
       .badge { display:inline-flex; align-items:center; gap:.25rem; padding:.15rem .55rem; border-radius:9999px; font-size:.7rem; font-weight:500; line-height:1; }
-      .input { background: hsl(217 33% 13%); border: 1px solid hsl(217 33% 17%); border-radius: .6rem; padding: .55rem .85rem; color: hsl(210 40% 98%); transition:border .15s, box-shadow .15s; outline:none; }
-      .input:focus { border-color: hsl(187 96% 43%); box-shadow: 0 0 0 3px hsla(187,96%,43%,.15); }
-      .card { background: hsl(222 47% 9%); border: 1px solid hsl(217 33% 17%); border-radius: .85rem; }
-      .card:hover { border-color: hsl(187 96% 43% / .4); }
+      .input { background: hsl(var(--muted)); border: 1px solid hsl(var(--border)); border-radius: .6rem; padding: .55rem .85rem; color: hsl(var(--foreground)); transition:border .15s, box-shadow .15s; outline:none; }
+      .input:focus { border-color: hsl(var(--ring)); box-shadow: 0 0 0 3px hsl(var(--ring) / 0.15); }
+      .card { background: hsl(var(--card)); border: 1px solid hsl(var(--border)); border-radius: .85rem; }
+      .card:hover { border-color: hsl(var(--primary) / 0.4); }
+
+      /* Status badges — slightly different tinting per theme. */
+      .badge-rose { background: hsl(350 89% 60% / .12); color: hsl(350 80% 40%); box-shadow: inset 0 0 0 1px hsl(350 89% 60% / .3); }
+      .badge-amber { background: hsl(38 92% 50% / .12); color: hsl(32 80% 35%); box-shadow: inset 0 0 0 1px hsl(38 92% 50% / .3); }
+      .badge-emerald { background: hsl(152 65% 45% / .12); color: hsl(152 65% 28%); box-shadow: inset 0 0 0 1px hsl(152 65% 45% / .3); }
+      .dark .badge-rose { color: hsl(350 95% 80%); }
+      .dark .badge-amber { color: hsl(38 95% 75%); }
+      .dark .badge-emerald { color: hsl(152 70% 70%); }
+      .text-amber-300 { color: hsl(38 95% 60%); }
+      .dark .text-amber-300 { color: hsl(38 95% 75%); }
     </style>
   </head>
   <body class="min-h-screen grid-bg">
@@ -76,6 +138,43 @@
           const sortBy = ref("first_date");
           const sortDir = ref("asc");
           const limit = ref(60);
+
+          // ── persistence ────────────────────────────────────────────────
+          const FILTER_KEY = "slrg.filters.v1";
+          try {
+            const saved = JSON.parse(localStorage.getItem(FILTER_KEY) || "null");
+            if (saved && typeof saved === "object") {
+              if (typeof saved.q === "string") q.value = saved.q;
+              if (typeof saved.cat === "string") cat.value = saved.cat;
+              if (typeof saved.company === "string") company.value = saved.company;
+              if (typeof saved.city === "string") city.value = saved.city;
+              if (typeof saved.canton === "string") canton.value = saved.canton;
+              if (typeof saved.near === "string") near.value = saved.near;
+              if (typeof saved.radiusKm === "number") radiusKm.value = saved.radiusKm;
+              if (typeof saved.onlyOpen === "boolean") onlyOpen.value = saved.onlyOpen;
+              if (typeof saved.onlyUpcoming === "boolean") onlyUpcoming.value = saved.onlyUpcoming;
+              if (typeof saved.sortBy === "string") sortBy.value = saved.sortBy;
+              if (typeof saved.sortDir === "string") sortDir.value = saved.sortDir;
+            }
+          } catch {}
+
+          // ── theme: "system" | "light" | "dark" ─────────────────────────
+          const theme = ref(localStorage.getItem("slrg.theme") || "system");
+          function applyTheme(t) {
+            const dark = t === "dark" || (t === "system" && matchMedia("(prefers-color-scheme: dark)").matches);
+            document.documentElement.classList.toggle("dark", dark);
+          }
+          applyTheme(theme.value);
+          watch(theme, (t) => {
+            localStorage.setItem("slrg.theme", t);
+            applyTheme(t);
+          });
+          // react to OS theme changes when in "system" mode
+          try {
+            matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
+              if (theme.value === "system") applyTheme("system");
+            });
+          } catch {}
 
           onMounted(async () => {
             try {
@@ -189,6 +288,14 @@
 
           watch([q, cat, company, city, canton, near, radiusKm, onlyOpen, onlyUpcoming, sortBy, sortDir], () => {
             limit.value = 60;
+            try {
+              localStorage.setItem(FILTER_KEY, JSON.stringify({
+                q: q.value, cat: cat.value, company: company.value, city: city.value,
+                canton: canton.value, near: near.value, radiusKm: radiusKm.value,
+                onlyOpen: onlyOpen.value, onlyUpcoming: onlyUpcoming.value,
+                sortBy: sortBy.value, sortDir: sortDir.value,
+              }));
+            } catch {}
           });
 
           // when user picks a "near city", auto-switch sort to distance
@@ -202,6 +309,7 @@
             canton.value = ""; near.value = ""; radiusKm.value = 0;
             onlyOpen.value = false; onlyUpcoming.value = true;
             sortBy.value = "first_date"; sortDir.value = "asc";
+            try { localStorage.removeItem(FILTER_KEY); } catch {}
           }
 
           function fmtDate(s) {
@@ -223,9 +331,9 @@
             const free = freeSpots(c);
             const max = c.participation_max ?? 0;
             if (max === 0) return { label: "—", cls: "bg-muted text-muted-foreground" };
-            if (free === 0) return { label: "Voll", cls: "bg-rose-500/15 text-rose-300 ring-1 ring-rose-500/30" };
-            if (free <= Math.max(2, Math.floor(max * 0.2))) return { label: `${free} frei`, cls: "bg-amber-500/15 text-amber-300 ring-1 ring-amber-500/30" };
-            return { label: `${free} frei`, cls: "bg-emerald-500/15 text-emerald-300 ring-1 ring-emerald-500/30" };
+            if (free === 0) return { label: "Voll", cls: "badge-rose" };
+            if (free <= Math.max(2, Math.floor(max * 0.2))) return { label: `${free} frei`, cls: "badge-amber" };
+            return { label: `${free} frei`, cls: "badge-emerald" };
           }
 
           function relTime(iso) {
@@ -254,6 +362,7 @@
             categories, companies, cities, cantons, cityCoords, nearCoord,
             filtered, visible, cantonLabel, fmtDist,
             reset, fmtRange, freeSpots, statusBadge, relTime,
+            theme,
           };
         },
         template: `
@@ -273,11 +382,26 @@
                 </div>
               </div>
             </div>
-            <div class="flex items-center gap-2 text-xs text-muted-foreground">
+            <div class="flex items-center gap-3 text-xs text-muted-foreground">
               <span class="inline-flex items-center gap-1.5">
                 <span class="h-2 w-2 rounded-full bg-emerald-400 animate-pulse"></span>
                 {{ meta.count }} Kurse · aktualisiert {{ relTime(meta.scraped_at) }}
               </span>
+              <!-- Theme switcher: subtle 3-segment toggle -->
+              <div class="inline-flex items-center rounded-lg border border-border bg-muted/50 p-0.5" role="group" aria-label="Farbschema">
+                <button @click="theme = 'system'" :title="'System'"
+                  :class="['h-7 w-7 rounded-md flex items-center justify-center transition', theme === 'system' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">
+                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="14" rx="2"/><path d="M8 21h8M12 18v3"/></svg>
+                </button>
+                <button @click="theme = 'light'" :title="'Hell'"
+                  :class="['h-7 w-7 rounded-md flex items-center justify-center transition', theme === 'light' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">
+                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+                </button>
+                <button @click="theme = 'dark'" :title="'Dunkel'"
+                  :class="['h-7 w-7 rounded-md flex items-center justify-center transition', theme === 'dark' ? 'bg-card text-foreground shadow-sm' : 'text-muted-foreground hover:text-foreground']">
+                  <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                </button>
+              </div>
             </div>
           </header>
 
