@@ -99,6 +99,17 @@
       .badge { display:inline-flex; align-items:center; gap:.25rem; padding:.15rem .55rem; border-radius:9999px; font-size:.7rem; font-weight:500; line-height:1; }
       .input { background: hsl(var(--muted)); border: 1px solid hsl(var(--border)); border-radius: .6rem; padding: .55rem .85rem; color: hsl(var(--foreground)); transition:border .15s, box-shadow .15s; outline:none; }
       .input:focus { border-color: hsl(var(--ring)); box-shadow: 0 0 0 3px hsl(var(--ring) / 0.15); }
+      /* Native-looking select with consistent chevron across browsers */
+      select.input {
+        -webkit-appearance: none;
+        appearance: none;
+        background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><polyline points='6 9 12 15 18 9'/></svg>");
+        background-repeat: no-repeat;
+        background-position: right 0.7rem center;
+        background-size: 1rem 1rem;
+        padding-right: 2.25rem;
+        cursor: pointer;
+      }
       .card { background: hsl(var(--card)); border: 1px solid hsl(var(--border)); border-radius: .85rem; }
       .card:hover { border-color: hsl(var(--primary) / 0.4); }
 
@@ -138,6 +149,9 @@
           const sortBy = ref("first_date");
           const sortDir = ref("asc");
           const limit = ref(60);
+          const advancedOpen = ref(false);
+          const geoBusy = ref(false);
+          const geoError = ref("");
 
           // ── persistence ────────────────────────────────────────────────
           const FILTER_KEY = "slrg.filters.v1";
@@ -157,6 +171,9 @@
               if (typeof saved.sortDir === "string") sortDir.value = saved.sortDir;
             }
           } catch {}
+
+          // open advanced section if any of its filters were restored
+          if (company.value || city.value || canton.value) advancedOpen.value = true;
 
           // ── theme: "system" | "light" | "dark" ─────────────────────────
           const theme = ref(localStorage.getItem("slrg.theme") || "system");
@@ -237,7 +254,6 @@
           const todayISO = new Date().toISOString().slice(0, 10);
 
           const filtered = computed(() => {
-            const needle = q.value.trim().toLowerCase();
             const origin = nearCoord.value;
             const radius = radiusKm.value;
 
@@ -256,10 +272,6 @@
                 if (free <= 0) return false;
               }
               if (onlyUpcoming.value && c.last_date && c.last_date < todayISO) return false;
-              if (needle) {
-                const hay = `${c.category} ${c.company} ${c.city} ${c.canton ?? ''} ${c.key}`.toLowerCase();
-                if (!hay.includes(needle)) return false;
-              }
               if (origin && radius > 0 && (dist == null || dist > radius)) return false;
               return true;
             });
@@ -286,11 +298,11 @@
 
           const visible = computed(() => filtered.value.slice(0, limit.value));
 
-          watch([q, cat, company, city, canton, near, radiusKm, onlyOpen, onlyUpcoming, sortBy, sortDir], () => {
+          watch([cat, company, city, canton, near, radiusKm, onlyOpen, onlyUpcoming, sortBy, sortDir], () => {
             limit.value = 60;
             try {
               localStorage.setItem(FILTER_KEY, JSON.stringify({
-                q: q.value, cat: cat.value, company: company.value, city: city.value,
+                cat: cat.value, company: company.value, city: city.value,
                 canton: canton.value, near: near.value, radiusKm: radiusKm.value,
                 onlyOpen: onlyOpen.value, onlyUpcoming: onlyUpcoming.value,
                 sortBy: sortBy.value, sortDir: sortDir.value,
@@ -305,11 +317,40 @@
           });
 
           function reset() {
-            q.value = ""; cat.value = ""; company.value = ""; city.value = "";
+            cat.value = ""; company.value = ""; city.value = "";
             canton.value = ""; near.value = ""; radiusKm.value = 0;
             onlyOpen.value = false; onlyUpcoming.value = true;
             sortBy.value = "first_date"; sortDir.value = "asc";
             try { localStorage.removeItem(FILTER_KEY); } catch {}
+          }
+
+          // "In meiner Nähe": geolocate, snap to nearest known city
+          function locateMe() {
+            if (!navigator.geolocation) {
+              geoError.value = "Geolokalisierung nicht verfügbar.";
+              return;
+            }
+            geoBusy.value = true;
+            geoError.value = "";
+            navigator.geolocation.getCurrentPosition(
+              (pos) => {
+                geoBusy.value = false;
+                const here = { lat: pos.coords.latitude, lng: pos.coords.longitude };
+                let best = null, bestD = Infinity;
+                for (const [name, co] of cityCoords.value) {
+                  const d = haversineKm(here, co);
+                  if (d != null && d < bestD) { bestD = d; best = name; }
+                }
+                if (!best) { geoError.value = "Keine Orte gefunden."; return; }
+                near.value = best;
+                if (!radiusKm.value) radiusKm.value = 30;
+              },
+              (err) => {
+                geoBusy.value = false;
+                geoError.value = err.code === 1 ? "Standortzugriff verweigert." : "Standort nicht ermittelbar.";
+              },
+              { enableHighAccuracy: false, timeout: 8000, maximumAge: 5 * 60 * 1000 }
+            );
           }
 
           function fmtDate(s) {
@@ -357,8 +398,9 @@
 
           return {
             courses, meta, loading, error,
-            q, cat, company, city, canton, near, radiusKm,
+            cat, company, city, canton, near, radiusKm,
             onlyOpen, onlyUpcoming, sortBy, sortDir, limit,
+            advancedOpen, geoBusy, geoError, locateMe,
             categories, companies, cities, cantons, cityCoords, nearCoord,
             filtered, visible, cantonLabel, fmtDist,
             reset, fmtRange, freeSpots, statusBadge, relTime,
@@ -419,45 +461,47 @@
           <!-- Filter bar -->
           <section class="glass card p-4 sm:p-5 mb-6 sticky top-3 z-20">
             <div class="grid grid-cols-1 md:grid-cols-12 gap-3">
-              <div class="md:col-span-4 relative">
-                <svg class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-                <input v-model="q" placeholder="Suche nach Ort, Anbieter, Kategorie…"
-                  class="input w-full pl-9" />
+              <!-- Location with locate-me button next to it -->
+              <div class="md:col-span-7 flex gap-2">
+                <div class="relative flex-1">
+                  <svg class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+                  <input v-model="near" list="all-cities" type="search"
+                    placeholder="In der Nähe von… (z.B. Kreuzlingen)"
+                    class="input w-full pl-9" aria-label="Standort" />
+                  <datalist id="all-cities">
+                    <option v-for="c in cities" :key="c" :value="c"></option>
+                  </datalist>
+                </div>
+                <button type="button" @click="locateMe" :disabled="geoBusy"
+                  :title="geoBusy ? 'Suche Standort…' : 'Meinen Standort verwenden'"
+                  aria-label="Meinen Standort verwenden"
+                  class="btn btn-ghost px-3 shrink-0 disabled:opacity-50">
+                  <svg v-if="!geoBusy" class="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="3"/>
+                    <path d="M12 2v3M12 19v3M2 12h3M19 12h3"/>
+                  </svg>
+                  <svg v-else class="w-4 h-4 animate-spin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12a9 9 0 1 1-6.22-8.56"/></svg>
+                </button>
               </div>
-              <select v-model="cat" class="input md:col-span-3">
+              <!-- Category -->
+              <select v-model="cat" class="input md:col-span-5" aria-label="Kategorie">
                 <option value="">Alle Kategorien</option>
                 <option v-for="c in categories" :key="c" :value="c">{{ c }}</option>
               </select>
-              <select v-model="canton" class="input md:col-span-2">
-                <option value="">Alle Kantone</option>
-                <option v-for="c in cantons" :key="c" :value="c">{{ cantonLabel(c) }}</option>
-              </select>
-              <select v-model="city" class="input md:col-span-3">
-                <option value="">Alle Orte</option>
-                <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
-              </select>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-12 gap-3 mt-3">
-              <div class="md:col-span-4 relative">
-                <svg class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-primary" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
-                <input v-model="near" list="all-cities" placeholder="In der Nähe von… (z.B. Kreuzlingen)"
-                  class="input w-full pl-9" />
-                <datalist id="all-cities">
-                  <option v-for="c in cities" :key="c" :value="c"></option>
-                </datalist>
-              </div>
-              <div class="md:col-span-3 flex items-center gap-2" v-if="nearCoord">
-                <span class="text-xs text-muted-foreground whitespace-nowrap">Umkreis:</span>
-                <input type="range" min="0" max="200" step="5" v-model.number="radiusKm" class="flex-1 accent-primary" />
-                <span class="text-xs font-mono w-16 text-right">{{ radiusKm > 0 ? radiusKm + ' km' : 'alle' }}</span>
-              </div>
-              <select v-model="company" class="input md:col-span-5">
-                <option value="">Alle Anbieter</option>
-                <option v-for="c in companies" :key="c" :value="c">{{ c }}</option>
-              </select>
+            <!-- Radius slider, only when a city is resolved -->
+            <div v-if="nearCoord" class="mt-3 flex items-center gap-3">
+              <span class="text-xs text-muted-foreground whitespace-nowrap">Umkreis um {{ near }}:</span>
+              <input type="range" min="0" max="200" step="5" v-model.number="radiusKm" class="flex-1 accent-primary" aria-label="Umkreis" />
+              <span class="text-xs font-mono w-20 text-right">{{ radiusKm > 0 ? radiusKm + ' km' : 'unbegrenzt' }}</span>
             </div>
+            <div v-if="near && !nearCoord" class="mt-2 text-xs text-amber-300">
+              „{{ near }}" nicht gefunden — bitte aus der Vorschlagsliste wählen.
+            </div>
+            <div v-if="geoError" class="mt-2 text-xs text-rose-400">{{ geoError }}</div>
 
+            <!-- Toggles + sort -->
             <div class="flex flex-wrap items-center gap-2 mt-3">
               <button class="btn btn-ghost" :class="onlyUpcoming ? 'ring-1 ring-primary text-primary' : ''" @click="onlyUpcoming = !onlyUpcoming">
                 <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
@@ -469,7 +513,7 @@
               </button>
               <div class="ml-auto flex items-center gap-2 text-sm">
                 <span class="text-muted-foreground">Sortieren:</span>
-                <select v-model="sortBy" class="input py-1.5 px-2 text-xs">
+                <select v-model="sortBy" class="input py-1.5 px-2 text-xs" aria-label="Sortierung">
                   <option value="first_date">Startdatum</option>
                   <option value="last_date">Enddatum</option>
                   <option value="category">Kategorie</option>
@@ -478,17 +522,51 @@
                   <option value="company">Anbieter</option>
                   <option value="distance" :disabled="!nearCoord">Distanz</option>
                 </select>
-                <button class="btn btn-ghost py-1.5 px-2" @click="sortDir = sortDir==='asc' ? 'desc' : 'asc'">
+                <button class="btn btn-ghost py-1.5 px-2" @click="sortDir = sortDir==='asc' ? 'desc' : 'asc'" :aria-label="'Richtung'">
                   {{ sortDir === 'asc' ? '↑' : '↓' }}
                 </button>
                 <button class="btn btn-ghost py-1.5 px-2 text-xs" @click="reset">Zurücksetzen</button>
               </div>
             </div>
 
+            <!-- Advanced filters: native disclosure pattern -->
+            <details class="mt-3 group" :open="advancedOpen" @toggle="advancedOpen = $event.target.open">
+              <summary class="cursor-pointer list-none inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition select-none">
+                <svg class="w-3.5 h-3.5 transition-transform group-open:rotate-90" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="9 18 15 12 9 6"/></svg>
+                Erweiterte Filter
+                <span v-if="canton || city || company"
+                  class="inline-flex items-center justify-center min-w-[1.1rem] h-4 px-1 rounded-full bg-primary/15 text-primary text-[10px] font-bold">
+                  {{ [canton, city, company].filter(Boolean).length }}
+                </span>
+              </summary>
+              <div class="grid grid-cols-1 md:grid-cols-3 gap-3 mt-3">
+                <div>
+                  <label class="text-xs text-muted-foreground mb-1 block">Kanton</label>
+                  <select v-model="canton" class="input w-full">
+                    <option value="">Alle Kantone</option>
+                    <option v-for="c in cantons" :key="c" :value="c">{{ cantonLabel(c) }}</option>
+                  </select>
+                </div>
+                <div>
+                  <label class="text-xs text-muted-foreground mb-1 block">Ort (exakt)</label>
+                  <select v-model="city" class="input w-full">
+                    <option value="">Alle Orte</option>
+                    <option v-for="c in cities" :key="c" :value="c">{{ c }}</option>
+                  </select>
+                </div>
+                <div>
+                  <label class="text-xs text-muted-foreground mb-1 block">Anbieter</label>
+                  <select v-model="company" class="input w-full">
+                    <option value="">Alle Anbieter</option>
+                    <option v-for="c in companies" :key="c" :value="c">{{ c }}</option>
+                  </select>
+                </div>
+              </div>
+            </details>
+
             <div class="text-xs text-muted-foreground mt-3">
               <span class="font-medium text-foreground">{{ filtered.length }}</span> Treffer
               <span v-if="filtered.length > visible.length"> · zeige {{ visible.length }}</span>
-              <span v-if="near && !nearCoord" class="ml-2 text-amber-300">— Ort „{{ near }}“ nicht gefunden, wähle einen aus der Liste</span>
             </div>
           </section>
 
