@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-29T00:02:38+0200",
+  "scraped_at": "2026-04-29T00:39:14+0200",
   "count": 1310,
   "courses": [
     {
@@ -1382,7 +1382,7 @@
       "last_date": "2026-05-03",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102360",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -18343,5 +18343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-04-29T00:09:21+0200"
+  "geocoded_at": "2026-04-29T00:39:15+0200"
 }
