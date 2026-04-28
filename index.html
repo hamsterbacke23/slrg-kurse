@@ -340,7 +340,7 @@
           const locSuggestions = computed(() => {
             const t = near.value.trim().toLowerCase();
             const all = cities.value;
-            if (!t) return all.slice(0, MAX_SUGGEST);
+            if (!t) return all; // empty: show all, scrollable
             // prefix matches first, then contains
             const prefix = [], contains = [];
             for (const c of all) {
@@ -518,7 +518,7 @@
                   <!-- Combobox listbox: max 10 suggestions, always below -->
                   <div v-if="locOpen && locSuggestions.length"
                     id="loc-listbox" role="listbox"
-                    class="absolute left-0 right-0 top-full mt-1 z-30 max-h-72 overflow-auto rounded-lg border border-border bg-card shadow-lg py-1">
+                    class="absolute left-0 right-0 top-full mt-1 z-30 max-h-[20rem] overflow-auto rounded-lg border border-border bg-card shadow-lg py-1">
                     <button v-for="(c, i) in locSuggestions" :key="c" type="button"
                       role="option" :aria-selected="i === locActive"
                       @mousedown.prevent="pickLoc(c)"
