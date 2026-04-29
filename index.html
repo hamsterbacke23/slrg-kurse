@@ -154,6 +154,7 @@
           const radiusKm = ref(0);    // 0 = no limit
           const onlyOpen = ref(false);
           const onlyUpcoming = ref(true);
+          const onlyWeekend = ref(false);
           const sortBy = ref("first_date");
           const sortDir = ref("asc");
           const limit = ref(60);
@@ -175,6 +176,7 @@
               if (typeof saved.radiusKm === "number") radiusKm.value = saved.radiusKm;
               if (typeof saved.onlyOpen === "boolean") onlyOpen.value = saved.onlyOpen;
               if (typeof saved.onlyUpcoming === "boolean") onlyUpcoming.value = saved.onlyUpcoming;
+              if (typeof saved.onlyWeekend === "boolean") onlyWeekend.value = saved.onlyWeekend;
               if (typeof saved.sortBy === "string") sortBy.value = saved.sortBy;
               if (typeof saved.sortDir === "string") sortDir.value = saved.sortDir;
             }
@@ -261,6 +263,25 @@
 
           const todayISO = new Date().toISOString().slice(0, 10);
 
+          // True iff every day from first_date through last_date falls on Sat/Sun.
+          // Used for the "Nur Wochenende" filter. Returns false for missing dates
+          // or ranges longer than ~3 days (multi-week courses can't be weekend-only).
+          function isWeekendOnly(first, last) {
+            if (!first) return false;
+            const start = new Date(first + "T00:00:00");
+            const end = new Date((last || first) + "T00:00:00");
+            if (isNaN(start) || isNaN(end) || end < start) return false;
+            const days = Math.round((end - start) / 86400000) + 1;
+            if (days > 3) return false;
+            for (let i = 0; i < days; i++) {
+              const d = new Date(start);
+              d.setDate(start.getDate() + i);
+              const wd = d.getDay(); // 0=Sun, 6=Sat
+              if (wd !== 0 && wd !== 6) return false;
+            }
+            return true;
+          }
+
           const filtered = computed(() => {
             const origin = nearCoord.value;
             const radius = radiusKm.value;
@@ -280,6 +301,7 @@
                 if (free <= 0) return false;
               }
               if (onlyUpcoming.value && c.last_date && c.last_date < todayISO) return false;
+              if (onlyWeekend.value && !isWeekendOnly(c.first_date, c.last_date)) return false;
               if (origin && radius > 0 && (dist == null || dist > radius)) return false;
               return true;
             });
@@ -306,13 +328,13 @@
 
           const visible = computed(() => filtered.value.slice(0, limit.value));
 
-          watch([cat, company, city, canton, near, radiusKm, onlyOpen, onlyUpcoming, sortBy, sortDir], () => {
+          watch([cat, company, city, canton, near, radiusKm, onlyOpen, onlyUpcoming, onlyWeekend, sortBy, sortDir], () => {
             limit.value = 60;
             try {
               localStorage.setItem(FILTER_KEY, JSON.stringify({
                 cat: cat.value, company: company.value, city: city.value,
                 canton: canton.value, near: near.value, radiusKm: radiusKm.value,
-                onlyOpen: onlyOpen.value, onlyUpcoming: onlyUpcoming.value,
+                onlyOpen: onlyOpen.value, onlyUpcoming: onlyUpcoming.value, onlyWeekend: onlyWeekend.value,
                 sortBy: sortBy.value, sortDir: sortDir.value,
               }));
             } catch {}
@@ -327,7 +349,7 @@
           function reset() {
             cat.value = ""; company.value = ""; city.value = "";
             canton.value = ""; near.value = ""; radiusKm.value = 0;
-            onlyOpen.value = false; onlyUpcoming.value = true;
+            onlyOpen.value = false; onlyUpcoming.value = true; onlyWeekend.value = false;
             sortBy.value = "first_date"; sortDir.value = "asc";
             try { localStorage.removeItem(FILTER_KEY); } catch {}
           }
@@ -442,7 +464,7 @@
           return {
             courses, meta, loading, error,
             cat, company, city, canton, near, radiusKm,
-            onlyOpen, onlyUpcoming, sortBy, sortDir, limit,
+            onlyOpen, onlyUpcoming, onlyWeekend, sortBy, sortDir, limit,
             advancedOpen, geoBusy, geoError, locateMe,
             locOpen, locActive, locSuggestions, pickLoc, locKeydown,
             categories, companies, cities, cantons, cityCoords, nearCoord,
@@ -567,6 +589,10 @@
               <button class="btn btn-ghost" :class="onlyOpen ? 'ring-1 ring-primary text-primary' : ''" @click="onlyOpen = !onlyOpen">
                 <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5v14"/></svg>
                 Nur freie Plätze
+              </button>
+              <button class="btn btn-ghost" :class="onlyWeekend ? 'ring-1 ring-primary text-primary' : ''" @click="onlyWeekend = !onlyWeekend" title="Kurse, die nur an Samstag/Sonntag stattfinden">
+                <svg class="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18M8 15h2M14 15h2"/></svg>
+                Nur Wochenende
               </button>
               <div class="ml-auto flex items-center gap-2 text-sm">
                 <span class="text-muted-foreground">Sortieren:</span>
