@@ -60,7 +60,16 @@ jobs:
           git add courses.json geocache.json
           if git diff --cached --quiet; then
             echo "No changes."
-          else
-            git commit -m "chore: refresh courses"
-            git push
+            exit 0
           fi
+          git commit -m "chore: refresh courses"
+          # Retry with rebase in case main moved while we were running.
+          for i in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected, rebasing on origin/main (attempt $i)…"
+            git pull --rebase origin main
+          done
+          echo "::error::Failed to push after 3 attempts."
+          exit 1
