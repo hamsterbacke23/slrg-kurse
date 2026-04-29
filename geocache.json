@@ -179,6 +179,12 @@
     "lat": 47.06060028076172,
     "lng": 6.902266502380371
   },
+  "Charmey": {
+    "canton": "FR",
+    "label": "Ort Charmey (FR) - Siviriez",
+    "lat": 46.665679931640625,
+    "lng": 6.8827033042907715
+  },
   "Charmey (Gruyère)": {
     "canton": "FR",
     "label": "Schwimmbadareal Les Bains de la Gruyère (FR) - Val-de-Charmey",
@@ -191,6 +197,12 @@
     "lat": 46.83235549926758,
     "lng": 9.516542434692383
   },
+  "Clarens": {
+    "canton": "VD",
+    "label": "Ort Clarens (VD) - Montreux",
+    "lat": 46.44438552856445,
+    "lng": 6.891254425048828
+  },
   "Coppet": {
     "canton": "VD",
     "label": "Coppet (VD)",
@@ -202,6 +214,12 @@
     "label": "Ort Cossonay-Ville (VD) - Cossonay",
     "lat": 46.61306381225586,
     "lng": 6.5047807693481445
+  },
+  "Cours Privé": {
+    "canton": "SZ",
+    "label": "Gersau (SZ)",
+    "lat": 47.001983642578125,
+    "lng": 8.526065826416016
   },
   "Crans VS": {
     "canton": "VS",
@@ -738,6 +756,12 @@
     "lat": 45.98849105834961,
     "lng": 8.953682899475098
   },
+  "Payerne": {
+    "canton": "VD",
+    "label": "Payerne (VD)",
+    "lat": 46.821258544921875,
+    "lng": 6.931630611419678
+  },
   "Pfäffikon ZH": {
     "canton": "ZH",
     "label": "Pfäffikon (ZH)",
@@ -1103,6 +1127,12 @@
     "label": "Wädenswil (ZH)",
     "lat": 47.205753326416016,
     "lng": 8.649434089660645
+  },
+  "Zollikofen": {
+    "canton": "BE",
+    "label": "Zollikofen (BE)",
+    "lat": 46.9952392578125,
+    "lng": 7.453622817993164
   },
   "Zug": {
     "canton": "ZG",
