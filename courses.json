@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-04-29T20:47:46+0000",
-  "count": 1323,
+  "scraped_at": "2026-04-29T21:48:29+0000",
+  "count": 1320,
   "courses": [
     {
       "key": "98223",
@@ -687,48 +687,6 @@
       "canton": "GE",
       "lat": 46.215309143066406,
       "lng": 6.033508777618408
-    },
-    {
-      "key": "101177",
-      "category": "Brevet Basis Pool",
-      "city": "Heimberg",
-      "first_date": "2026-04-29",
-      "last_date": "2026-05-13",
-      "company": "SLRG Büren a. A.",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101177",
-      "canton": "BE",
-      "lat": 46.789798736572266,
-      "lng": 7.600785255432129
-    },
-    {
-      "key": "101285",
-      "category": "WK Pool Plus",
-      "city": "Saignelégier",
-      "first_date": "2026-04-29",
-      "last_date": "2026-04-29",
-      "company": "SSS St. Imier",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101285",
-      "canton": "JU",
-      "lat": 47.263877868652344,
-      "lng": 6.976081371307373
-    },
-    {
-      "key": "101286",
-      "category": "WK Pool Pro",
-      "city": "Saignelégier",
-      "first_date": "2026-04-29",
-      "last_date": "2026-04-29",
-      "company": "SSS St. Imier",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101286",
-      "canton": "JU",
-      "lat": 47.263877868652344,
-      "lng": 6.976081371307373
     },
     {
       "key": "101749",
@@ -2474,7 +2432,7 @@
       "last_date": "2026-05-10",
       "company": "SLRG Basel",
       "participation_max": 30,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102411",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -2488,7 +2446,7 @@
       "last_date": "2026-05-10",
       "company": "SLRG Basel",
       "participation_max": 30,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102412",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -18525,5 +18483,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-04-29T20:47:46+0000"
+  "geocoded_at": "2026-04-29T21:48:29+0000"
 }
