@@ -39,8 +39,9 @@ OUT = Path(__file__).parent / "courses.json"
 
 DEFAULT_HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+        "slrg-kurse-mirror/1.0 "
+        "(+https://github.com/hamsterbacke23/slrg-kurse; "
+        "hourly mirror of the public Kurskalender)"
     ),
     "Accept-Language": "de,en;q=0.8",
 }

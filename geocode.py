@@ -31,8 +31,8 @@ CACHE = ROOT / "geocache.json"
 API = "https://api3.geo.admin.ch/rest/services/api/SearchServer"
 
 UA = (
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-    "(KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+    "slrg-kurse-mirror/1.0 "
+    "(+https://github.com/hamsterbacke23/slrg-kurse)"
 )
 
 LABEL_CANTON_RE = re.compile(r"\(([A-Z]{2})\)")
