@@ -1,0 +1,66 @@
+name: Refresh courses
+
+on:
+  schedule:
+    - cron: "0 4 * * *" # daily at 04:00 UTC (~05:00–06:00 CH)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Snapshot previous count
+        id: before
+        run: |
+          if [ -f courses.json ]; then
+            prev=$(python -c "import json; print(json.load(open('courses.json')).get('count', 0))")
+          else
+            prev=0
+          fi
+          echo "count=$prev" >> "$GITHUB_OUTPUT"
+
+      - name: Scrape
+        run: python scrape.py
+
+      - name: Geocode
+        run: python geocode.py
+
+      - name: Sanity-check row count
+        env:
+          PREV: ${{ steps.before.outputs.count }}
+        run: |
+          python - <<'PY'
+          import json, os, sys
+          prev = int(os.environ.get("PREV") or 0)
+          new = json.load(open("courses.json")).get("count", 0)
+          print(f"previous={prev} new={new}")
+          if new < 50:
+              sys.exit(f"Course count {new} is implausibly low; aborting.")
+          if prev > 0 and new < prev * 0.8:
+              sys.exit(f"Course count dropped from {prev} to {new} (>20%); aborting.")
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add courses.json geocache.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: refresh courses"
+            git push
+          fi
