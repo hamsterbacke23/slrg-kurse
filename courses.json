@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-04-29T21:48:29+0000",
-  "count": 1320,
+  "scraped_at": "2026-04-29T22:43:02+0000",
+  "count": 1321,
   "courses": [
     {
       "key": "98223",
@@ -4677,6 +4677,20 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
+    },
+    {
+      "key": "99960",
+      "category": "Brevet Basis Pool",
+      "city": "Uster",
+      "first_date": "2026-05-29",
+      "last_date": "2026-05-31",
+      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
+      "participation_max": 28,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99960",
+      "canton": "ZH",
+      "lat": 47.351829528808594,
+      "lng": 8.7227144241333
     },
     {
       "key": "99975",
@@ -18483,5 +18497,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-04-29T21:48:29+0000"
+  "geocoded_at": "2026-04-29T22:43:02+0000"
 }

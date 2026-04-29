@@ -1032,6 +1032,12 @@
     "lat": 47.38089370727539,
     "lng": 8.427435874938965
   },
+  "Uster": {
+    "canton": "ZH",
+    "label": "Uster (ZH)",
+    "lat": 47.351829528808594,
+    "lng": 8.7227144241333
+  },
   "Vessy": {
     "canton": "GE",
     "label": "Wehr Vessy (GE) - Veyrier",
