@@ -2,7 +2,7 @@ name: Refresh courses
 
 on:
   schedule:
-    - cron: "0 4 * * *" # daily at 04:00 UTC (~05:00–06:00 CH)
+    - cron: "0 */3 * * *" # every 3 hours
   workflow_dispatch:
 
 permissions:
