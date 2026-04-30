@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-04-30T17:06:50+0000",
-  "count": 1313,
+  "scraped_at": "2026-04-30T19:03:04+0000",
+  "count": 1311,
   "courses": [
     {
       "key": "98223",
@@ -250,20 +250,6 @@
       "participation_max": 16,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101695",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101387",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-02-24",
-      "last_date": "2026-04-14",
-      "company": "SLRG Altberg",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101387",
       "canton": null,
       "lat": null,
       "lng": null
@@ -659,20 +645,6 @@
       "canton": "BE",
       "lat": 46.74045944213867,
       "lng": 7.60764217376709
-    },
-    {
-      "key": "99297",
-      "category": "Brevet Plus Pool",
-      "city": "Winterthur",
-      "first_date": "2026-04-30",
-      "last_date": "2026-04-30",
-      "company": "SLRG Winterthur",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99297",
-      "canton": "ZH",
-      "lat": 47.49905014038086,
-      "lng": 8.720227241516113
     },
     {
       "key": "101481",
@@ -1116,7 +1088,7 @@
       "last_date": "2026-05-02",
       "company": "SLRG Sektion Luzern",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102580",
       "canton": null,
       "lat": null,
@@ -1130,7 +1102,7 @@
       "last_date": "2026-05-03",
       "company": "SSS Fribourg",
       "participation_max": 0,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102649",
       "canton": "SZ",
       "lat": 47.001983642578125,
@@ -1242,7 +1214,7 @@
       "last_date": "2026-05-03",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102647",
       "canton": "SZ",
       "lat": 47.001983642578125,
@@ -1256,7 +1228,7 @@
       "last_date": "2026-05-03",
       "company": "SSS Fribourg",
       "participation_max": 0,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102648",
       "canton": null,
       "lat": null,
@@ -4070,7 +4042,7 @@
       "last_date": "2026-05-23",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101809",
       "canton": "SO",
       "lat": 47.20805740356445,
@@ -11714,7 +11686,7 @@
       "last_date": "2026-08-24",
       "company": "SLRG Emmental",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102605",
       "canton": "LU",
       "lat": 46.82255935668945,
@@ -11742,7 +11714,7 @@
       "last_date": "2026-08-24",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102607",
       "canton": "LU",
       "lat": 46.82255935668945,
@@ -18385,5 +18357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-04-30T17:06:50+0000"
+  "geocoded_at": "2026-04-30T19:03:04+0000"
 }
