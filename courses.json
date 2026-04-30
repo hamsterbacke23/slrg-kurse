@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-04-30T01:28:48+0000",
-  "count": 1321,
+  "scraped_at": "2026-04-30T05:18:51+0000",
+  "count": 1320,
   "courses": [
     {
       "key": "98223",
@@ -1564,7 +1564,7 @@
       "last_date": "2026-05-19",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100998",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -1858,7 +1858,7 @@
       "last_date": "2026-05-07",
       "company": "SLRG Richterswil",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101000",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -2563,20 +2563,6 @@
       "canton": "AG",
       "lat": 47.41796112060547,
       "lng": 8.362970352172852
-    },
-    {
-      "key": "101879",
-      "category": "Brevet Basis Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-05-10",
-      "last_date": "2026-05-10",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 25,
-      "registered": 25,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101879",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
     },
     {
       "key": "102301",
@@ -18497,5 +18483,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-04-30T01:28:48+0000"
+  "geocoded_at": "2026-04-30T05:18:51+0000"
 }
