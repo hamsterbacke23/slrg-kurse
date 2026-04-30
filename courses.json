@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-04-30T20:47:00+0000",
-  "count": 1317,
+  "scraped_at": "2026-04-30T21:43:54+0000",
+  "count": 1316,
   "courses": [
     {
       "key": "98223",
@@ -659,20 +659,6 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
-    },
-    {
-      "key": "102015",
-      "category": "Modul BLS-AED",
-      "city": "Menziken",
-      "first_date": "2026-04-30",
-      "last_date": "2026-04-30",
-      "company": "SLRG Sektion Hallwilersee",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102015",
-      "canton": "AG",
-      "lat": 47.235843658447266,
-      "lng": 8.182795524597168
     },
     {
       "key": "100880",
@@ -8648,7 +8634,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sektion Züri",
       "participation_max": 20,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101213",
       "canton": null,
       "lat": null,
@@ -15886,7 +15872,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101354",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -18441,5 +18427,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-04-30T20:47:00+0000"
+  "geocoded_at": "2026-04-30T21:43:54+0000"
 }
