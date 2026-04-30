@@ -217,9 +217,33 @@
             }
           });
 
-          const categories = computed(() =>
-            [...new Set(courses.value.map(c => c.category).filter(Boolean))].sort()
-          );
+          // Categories restricted to those with results under the *other* active filters.
+          // The currently-selected category is always included so it doesn't vanish.
+          const categories = computed(() => {
+            const origin = nearCoord.value;
+            const radius = radiusKm.value;
+            const set = new Set();
+            for (const c of courses.value) {
+              if (!c.category) continue;
+              if (company.value && c.company !== company.value) continue;
+              if (city.value && c.city !== city.value) continue;
+              if (canton.value && c.canton !== canton.value) continue;
+              if (onlyOpen.value) {
+                const free = (c.participation_max ?? 0) - (c.registered ?? 0);
+                if (free <= 0) continue;
+              }
+              if (onlyUpcoming.value && c.last_date && c.last_date < todayISO) continue;
+              if (onlyWeekend.value && !isWeekendOnly(c.first_date, c.last_date)) continue;
+              if (origin && radius > 0) {
+                if (c.lat == null || c.lng == null) continue;
+                const dist = haversineKm(origin, { lat: c.lat, lng: c.lng });
+                if (dist == null || dist > radius) continue;
+              }
+              set.add(c.category);
+            }
+            if (cat.value) set.add(cat.value);
+            return [...set].sort();
+          });
           const companies = computed(() =>
             [...new Set(courses.value.map(c => c.company).filter(Boolean))].sort()
           );
@@ -565,7 +589,7 @@
                 <!-- Radius slider, only when a city is resolved; sits under the input -->
                 <div v-if="nearCoord" class="mt-2 flex items-center gap-3 px-1">
                   <span class="text-xs text-muted-foreground whitespace-nowrap">Umkreis:</span>
-                  <input type="range" min="0" max="200" step="5" v-model.number="radiusKm" class="flex-1 accent-primary" aria-label="Umkreis" />
+                  <input type="range" min="0" max="400" step="10" v-model.number="radiusKm" class="flex-1 accent-primary" aria-label="Umkreis" />
                   <span class="text-xs font-mono w-16 text-right">{{ radiusKm > 0 ? radiusKm + ' km' : '∞' }}</span>
                 </div>
                 <div v-if="near && !nearCoord" class="mt-2 text-xs text-amber-300">
@@ -693,7 +717,10 @@
           </div>
 
           <div v-if="filtered.length === 0" class="card p-12 text-center text-muted-foreground">
-            Keine Kurse gefunden. Filter anpassen oder zurücksetzen.
+            <div>Keine Kurse gefunden. Filter anpassen oder zurücksetzen.</div>
+            <div v-if="nearCoord && radiusKm > 0" class="mt-4">
+              <button class="btn btn-ghost" @click="radiusKm = 0">Umkreis aufheben</button>
+            </div>
           </div>
 
           <footer class="mt-12 text-center text-xs text-muted-foreground">
