@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-01T01:31:18+0000",
+  "scraped_at": "2026-05-01T05:30:49+0000",
   "count": 1316,
   "courses": [
     {
@@ -7,7 +7,7 @@
       "category": "Jugendbrevet",
       "city": "Coppet",
       "first_date": "2025-09-01",
-      "last_date": "2026-06-22",
+      "last_date": "2027-06-22",
       "company": "SSS La Côte",
       "participation_max": 10,
       "registered": 2,
@@ -654,7 +654,7 @@
       "last_date": "2026-04-30",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101481",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -710,7 +710,7 @@
       "last_date": "2026-05-01",
       "company": "SSS Payerne",
       "participation_max": 3,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102635",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -3216,7 +3216,7 @@
       "last_date": "2026-05-16",
       "company": "SLRG Region Zentral",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102612",
       "canton": null,
       "lat": null,
@@ -3244,7 +3244,7 @@
       "last_date": "2026-05-16",
       "company": "SLRG Region Zentral",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102614",
       "canton": null,
       "lat": null,
@@ -4056,7 +4056,7 @@
       "last_date": "2026-05-23",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100965",
       "canton": "TI",
       "lat": 45.968719482421875,
@@ -5582,7 +5582,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101710",
       "canton": "BE",
       "lat": 46.695247650146484,
@@ -9208,7 +9208,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 9,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101716",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -11770,7 +11770,7 @@
       "last_date": "2026-08-24",
       "company": "SLRG Emmental",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102606",
       "canton": "LU",
       "lat": 46.82255935668945,
@@ -11784,7 +11784,7 @@
       "last_date": "2026-08-24",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102607",
       "canton": "LU",
       "lat": 46.82255935668945,
@@ -18427,5 +18427,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T01:31:19+0000"
+  "geocoded_at": "2026-05-01T05:30:49+0000"
 }
