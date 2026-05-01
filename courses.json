@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-01T11:57:43+0000",
-  "count": 1315,
+  "scraped_at": "2026-05-01T13:02:45+0000",
+  "count": 1313,
   "courses": [
     {
       "key": "98223",
@@ -241,20 +241,6 @@
       "lng": 7.526416301727295
     },
     {
-      "key": "101695",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-02-16",
-      "last_date": "2026-04-30",
-      "company": "SLRG Sektion Bern",
-      "participation_max": 16,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101695",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101938",
       "category": "Jugendbrevet",
       "city": "Euthal",
@@ -435,20 +421,6 @@
       "canton": "GL",
       "lat": 47.09866714477539,
       "lng": 9.064586639404297
-    },
-    {
-      "key": "100428",
-      "category": "WK Modul Methodik",
-      "city": "Schaffhausen",
-      "first_date": "2026-04-25",
-      "last_date": "2026-04-25",
-      "company": "SLRG Region Ost",
-      "participation_max": 28,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100428",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
     },
     {
       "key": "102554",
@@ -2236,7 +2208,7 @@
       "last_date": "2026-05-09",
       "company": "SLRG Kreuzlingen",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102451",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -2404,7 +2376,7 @@
       "last_date": "2026-05-11",
       "company": "Section ASPIC Natation ",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102106",
       "canton": "VD",
       "lat": 46.65501022338867,
@@ -2768,7 +2740,7 @@
       "last_date": "2026-05-14",
       "company": "SSS Paradiso",
       "participation_max": 15,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102651",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -2908,7 +2880,7 @@
       "last_date": "2026-05-15",
       "company": "SSS Paradiso",
       "participation_max": 15,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102652",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -4756,7 +4728,7 @@
       "last_date": "2026-05-30",
       "company": "SLRG Arbon",
       "participation_max": 20,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101333",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -18413,5 +18385,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T11:57:43+0000"
+  "geocoded_at": "2026-05-01T13:02:45+0000"
 }
