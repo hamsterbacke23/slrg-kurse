@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-01T14:44:27+0000",
+  "scraped_at": "2026-05-01T15:43:36+0000",
   "count": 1313,
   "courses": [
     {
@@ -696,7 +696,7 @@
       "last_date": "2026-05-02",
       "company": "SLRG Zug",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99888",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -2572,7 +2572,7 @@
       "last_date": "2026-05-20",
       "company": "SLRG Basel",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101439",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -3188,7 +3188,7 @@
       "last_date": "2026-05-17",
       "company": "SLRG Emmental",
       "participation_max": 13,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99310",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -3720,7 +3720,7 @@
       "last_date": "2026-06-11",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102062",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -18385,5 +18385,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T14:44:27+0000"
+  "geocoded_at": "2026-05-01T15:43:37+0000"
 }
