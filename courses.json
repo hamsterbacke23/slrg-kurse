@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-01T18:52:48+0000",
+  "scraped_at": "2026-05-01T19:58:26+0000",
   "count": 1309,
   "courses": [
     {
@@ -5050,7 +5050,7 @@
       "last_date": "2026-05-31",
       "company": "SLRG Sihlsee-Einsiedeln",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101942",
       "canton": "SZ",
       "lat": 47.002071380615234,
@@ -6506,7 +6506,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99429",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12582,7 +12582,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101667",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -14710,7 +14710,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -18329,5 +18329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T18:52:48+0000"
+  "geocoded_at": "2026-05-01T19:58:26+0000"
 }
