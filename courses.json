@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-01T17:45:33+0000",
+  "scraped_at": "2026-05-01T18:52:48+0000",
   "count": 1309,
   "courses": [
     {
@@ -6912,7 +6912,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Ostermundigen-Stettlen",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101609",
       "canton": null,
       "lat": null,
@@ -9320,7 +9320,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101566",
       "canton": null,
       "lat": null,
@@ -18329,5 +18329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T17:45:33+0000"
+  "geocoded_at": "2026-05-01T18:52:48+0000"
 }
