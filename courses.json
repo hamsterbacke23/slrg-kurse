@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-01T15:43:36+0000",
-  "count": 1313,
+  "scraped_at": "2026-05-01T16:41:48+0000",
+  "count": 1309,
   "courses": [
     {
       "key": "98223",
@@ -493,20 +493,6 @@
       "lng": 6.1424560546875
     },
     {
-      "key": "101513",
-      "category": "WK BLS-AED",
-      "city": "Satigny",
-      "first_date": "2026-04-28",
-      "last_date": "2026-04-28",
-      "company": "SSS Genève",
-      "participation_max": 20,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101513",
-      "canton": "GE",
-      "lat": 46.215309143066406,
-      "lng": 6.033508777618408
-    },
-    {
       "key": "102164",
       "category": "WK BLS-AED",
       "city": "Porrentruy",
@@ -598,7 +584,7 @@
       "last_date": "2026-04-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102644",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -631,20 +617,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102635",
-      "category": "WK Pool Pro",
-      "city": "Payerne",
-      "first_date": "2026-05-01",
-      "last_date": "2026-05-01",
-      "company": "SSS Payerne",
-      "participation_max": 3,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102635",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
     },
     {
       "key": "99407",
@@ -925,34 +897,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "102330",
-      "category": "WK BLS-AED",
-      "city": "Leytron",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-02",
-      "company": "SSS Lausanne",
-      "participation_max": 6,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102330",
-      "canton": "VS",
-      "lat": 46.20668411254883,
-      "lng": 7.133981704711914
-    },
-    {
-      "key": "102331",
-      "category": "Modul BLS-AED",
-      "city": "Leytron",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-02",
-      "company": "SSS Lausanne",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102331",
-      "canton": "VS",
-      "lat": 46.20668411254883,
-      "lng": 7.133981704711914
     },
     {
       "key": "102361",
@@ -1872,7 +1816,7 @@
       "last_date": "2026-05-09",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99033",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -7262,7 +7206,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Rapperswil-Jona",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101039",
       "canton": "BE",
       "lat": 47.066368103027344,
@@ -18385,5 +18329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T15:43:37+0000"
+  "geocoded_at": "2026-05-01T16:41:48+0000"
 }
