@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-01T20:45:35+0000",
+  "scraped_at": "2026-05-01T21:40:46+0000",
   "count": 1309,
   "courses": [
     {
@@ -1312,7 +1312,7 @@
       "last_date": "2026-05-16",
       "company": "SLRG Region Zentral",
       "participation_max": 32,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101576",
       "canton": "LU",
       "lat": 47.22014236450195,
@@ -4448,7 +4448,7 @@
       "last_date": "2026-05-29",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99975",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -18329,5 +18329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T20:45:35+0000"
+  "geocoded_at": "2026-05-01T21:40:46+0000"
 }
