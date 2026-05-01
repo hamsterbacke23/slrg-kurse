@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-01T10:59:12+0000",
-  "count": 1314,
+  "scraped_at": "2026-05-01T11:57:43+0000",
+  "count": 1315,
   "courses": [
     {
       "key": "98223",
@@ -990,7 +990,7 @@
       "last_date": "2026-05-02",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102361",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -1032,7 +1032,7 @@
       "last_date": "2026-05-02",
       "company": "SLRG Sektion Luzern",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102580",
       "canton": null,
       "lat": null,
@@ -1116,7 +1116,7 @@
       "last_date": "2026-05-03",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102360",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -2082,7 +2082,7 @@
       "last_date": "2026-05-09",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101530",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -2124,7 +2124,7 @@
       "last_date": "2026-05-09",
       "company": "SSS Genève",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102100",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -2395,6 +2395,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "102106",
+      "category": "WK Pool Pro",
+      "city": "La Sarraz",
+      "first_date": "2026-05-11",
+      "last_date": "2026-05-11",
+      "company": "Section ASPIC Natation ",
+      "participation_max": 20,
+      "registered": 9,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102106",
+      "canton": "VD",
+      "lat": 46.65501022338867,
+      "lng": 6.508055686950684
     },
     {
       "key": "102274",
@@ -6164,7 +6178,7 @@
     },
     {
       "key": "102638",
-      "category": "Modul BLS-AED",
+      "category": "WK BLS-AED",
       "city": "Charmey",
       "first_date": "2026-06-09",
       "last_date": "2026-06-09",
@@ -10482,7 +10496,7 @@
       "last_date": "2026-08-12",
       "company": "SLRG Büren a. A.",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102430",
       "canton": "BE",
       "lat": 47.14190673828125,
@@ -10944,7 +10958,7 @@
       "last_date": "2026-08-14",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102258",
       "canton": "LU",
       "lat": 47.140193939208984,
@@ -18399,5 +18413,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T10:59:12+0000"
+  "geocoded_at": "2026-05-01T11:57:43+0000"
 }
