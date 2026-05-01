@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-01T21:40:46+0000",
-  "count": 1309,
+  "scraped_at": "2026-05-01T22:38:05+0000",
+  "count": 1308,
   "courses": [
     {
       "key": "98223",
@@ -589,20 +589,6 @@
       "canton": "BE",
       "lat": 46.74045944213867,
       "lng": 7.60764217376709
-    },
-    {
-      "key": "100880",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-05-01",
-      "last_date": "2026-05-01",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100880",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102332",
@@ -3230,7 +3216,7 @@
       "last_date": "2026-05-17",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102270",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -5414,7 +5400,7 @@
       "last_date": "2026-06-13",
       "company": "SSS Prilly",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101631",
       "canton": "VD",
       "lat": 46.53825378417969,
@@ -18329,5 +18315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T21:40:46+0000"
+  "geocoded_at": "2026-05-01T22:38:05+0000"
 }
