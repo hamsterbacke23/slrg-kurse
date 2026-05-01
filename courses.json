@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-01T09:24:46+0000",
+  "scraped_at": "2026-05-01T10:59:12+0000",
   "count": 1314,
   "courses": [
     {
@@ -2082,7 +2082,7 @@
       "last_date": "2026-05-09",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101530",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -2306,7 +2306,7 @@
       "last_date": "2026-05-10",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 9,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101714",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -3146,7 +3146,7 @@
       "last_date": "2026-05-16",
       "company": "SLRG Region Zentral",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102612",
       "canton": null,
       "lat": null,
@@ -3160,7 +3160,7 @@
       "last_date": "2026-05-16",
       "company": "SLRG Region Zentral",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102613",
       "canton": null,
       "lat": null,
@@ -3174,7 +3174,7 @@
       "last_date": "2026-05-16",
       "company": "SLRG Region Zentral",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102614",
       "canton": null,
       "lat": null,
@@ -5960,7 +5960,7 @@
       "last_date": "2026-06-07",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101130",
       "canton": null,
       "lat": null,
@@ -6562,7 +6562,7 @@
       "last_date": "2026-06-12",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102506",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -18399,5 +18399,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-01T09:24:46+0000"
+  "geocoded_at": "2026-05-01T10:59:12+0000"
 }
