@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-02T04:49:10+0000",
-  "count": 1308,
+  "scraped_at": "2026-05-02T06:54:16+0000",
+  "count": 1307,
   "courses": [
     {
       "key": "98223",
@@ -934,7 +934,7 @@
       "last_date": "2026-05-02",
       "company": "SLRG Sektion Luzern",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102580",
       "canton": null,
       "lat": null,
@@ -2227,20 +2227,6 @@
       "canton": "AG",
       "lat": 47.41796112060547,
       "lng": 8.362970352172852
-    },
-    {
-      "key": "101879",
-      "category": "Brevet Basis Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-05-10",
-      "last_date": "2026-05-10",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 26,
-      "registered": 25,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101879",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
     },
     {
       "key": "102301",
@@ -7514,7 +7500,7 @@
       "last_date": "2026-06-18",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100157",
       "canton": "SG",
       "lat": 47.16484832763672,
@@ -8242,7 +8228,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Emmental",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102662",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -8578,7 +8564,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Bülach",
       "participation_max": 30,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101429",
       "canton": "ZH",
       "lat": 47.469303131103516,
@@ -18315,5 +18301,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T04:49:10+0000"
+  "geocoded_at": "2026-05-02T06:54:16+0000"
 }
