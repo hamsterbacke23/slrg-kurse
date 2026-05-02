@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-02T12:39:29+0000",
+  "scraped_at": "2026-05-02T14:02:55+0000",
   "count": 1306,
   "courses": [
     {
@@ -920,7 +920,7 @@
       "last_date": "2026-05-02",
       "company": "SLRG Sektion Luzern",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102580",
       "canton": null,
       "lat": null,
@@ -3832,7 +3832,7 @@
       "last_date": "2026-05-23",
       "company": "SLRG Innerschwyz",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99819",
       "canton": "SZ",
       "lat": 47.028141021728516,
@@ -8452,7 +8452,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Winterthur",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99348",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -10356,7 +10356,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102097",
       "canton": null,
       "lat": null,
@@ -18287,5 +18287,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T12:39:29+0000"
+  "geocoded_at": "2026-05-02T14:02:56+0000"
 }
