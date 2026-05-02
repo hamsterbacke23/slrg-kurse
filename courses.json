@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-02T15:35:42+0000",
+  "scraped_at": "2026-05-02T16:33:46+0000",
   "count": 1304,
   "courses": [
     {
@@ -2404,7 +2404,7 @@
       "last_date": "2026-05-12",
       "company": "SSS Porrentruy",
       "participation_max": 15,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102167",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -4952,7 +4952,7 @@
       "last_date": "2026-05-31",
       "company": "Société Internationale de Sauvetage du Léman",
       "participation_max": 18,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101613",
       "canton": null,
       "lat": null,
@@ -18259,5 +18259,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T15:35:42+0000"
+  "geocoded_at": "2026-05-02T16:33:46+0000"
 }
