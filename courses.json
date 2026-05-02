@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-02T01:22:28+0000",
+  "scraped_at": "2026-05-02T04:49:10+0000",
   "count": 1308,
   "courses": [
     {
@@ -3524,7 +3524,7 @@
       "last_date": "2026-05-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98757",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -8382,7 +8382,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101956",
       "canton": null,
       "lat": null,
@@ -18315,5 +18315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T01:22:28+0000"
+  "geocoded_at": "2026-05-02T04:49:10+0000"
 }
