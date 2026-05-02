@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-02T19:44:52+0000",
-  "count": 1299,
+  "scraped_at": "2026-05-02T20:28:41+0000",
+  "count": 1298,
   "courses": [
     {
       "key": "98223",
@@ -281,20 +281,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100091",
-      "category": "Brevet Plus Pool",
-      "city": "Altdorf UR",
-      "first_date": "2026-04-18",
-      "last_date": "2026-05-02",
-      "company": "SLRG Uri",
-      "participation_max": 24,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100091",
-      "canton": "UR",
-      "lat": 46.886905670166016,
-      "lng": 8.638254165649414
     },
     {
       "key": "102263",
@@ -7150,7 +7136,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101495",
       "canton": "TG",
       "lat": 47.64158630371094,
@@ -18189,5 +18175,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T19:44:52+0000"
+  "geocoded_at": "2026-05-02T20:28:41+0000"
 }
