@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-02T20:28:41+0000",
-  "count": 1298,
+  "scraped_at": "2026-05-02T21:28:27+0000",
+  "count": 1297,
   "courses": [
     {
       "key": "98223",
@@ -1779,20 +1779,6 @@
       "canton": "BE",
       "lat": 47.185791015625,
       "lng": 7.711877822875977
-    },
-    {
-      "key": "101192",
-      "category": "Modul BLS-AED",
-      "city": "Rüti ZH",
-      "first_date": "2026-05-09",
-      "last_date": "2026-05-09",
-      "company": "SLRG Rüti",
-      "participation_max": 14,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101192",
-      "canton": "ZH",
-      "lat": 47.25824737548828,
-      "lng": 8.860780715942383
     },
     {
       "key": "101301",
@@ -3846,7 +3832,7 @@
       "last_date": "2026-05-24",
       "company": "SSS Riviera",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102596",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -5694,7 +5680,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102507",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -18175,5 +18161,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T20:28:41+0000"
+  "geocoded_at": "2026-05-02T21:28:27+0000"
 }
