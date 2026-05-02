@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-02T18:38:51+0000",
+  "scraped_at": "2026-05-02T19:44:52+0000",
   "count": 1299,
   "courses": [
     {
@@ -1900,7 +1900,7 @@
       "last_date": "2026-05-09",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101970",
       "canton": "ZH",
       "lat": 47.62740707397461,
@@ -4896,7 +4896,7 @@
       "last_date": "2026-05-31",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101899",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7262,7 +7262,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Baden-Brugg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102413",
       "canton": null,
       "lat": null,
@@ -9320,7 +9320,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Gambarogno",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101175",
       "canton": "TI",
       "lat": 46.151206970214844,
@@ -18189,5 +18189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T18:38:51+0000"
+  "geocoded_at": "2026-05-02T19:44:52+0000"
 }
