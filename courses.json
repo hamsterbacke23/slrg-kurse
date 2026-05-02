@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-02T17:35:10+0000",
-  "count": 1303,
+  "scraped_at": "2026-05-02T18:38:51+0000",
+  "count": 1299,
   "courses": [
     {
       "key": "98223",
@@ -647,20 +647,6 @@
       "lng": 8.521272659301758
     },
     {
-      "key": "100538",
-      "category": "Brevet Pro Pool",
-      "city": "",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-09",
-      "company": "Société Suisse de Sauvetage",
-      "participation_max": 18,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100538",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100666",
       "category": "Modul Expert BLS-AED",
       "city": "",
@@ -673,48 +659,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101131",
-      "category": "WK Pool Basis",
-      "city": "Gossau SG",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-02",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101131",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
-    },
-    {
-      "key": "101132",
-      "category": "WK Pool Plus",
-      "city": "Gossau SG",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-02",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101132",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
-    },
-    {
-      "key": "101133",
-      "category": "WK Pool Pro",
-      "city": "Gossau SG",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-02",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101133",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
     },
     {
       "key": "101960",
@@ -4448,7 +4392,7 @@
       "last_date": "2026-05-30",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 35,
+      "registered": 36,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99616",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -4462,7 +4406,7 @@
       "last_date": "2026-05-30",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 34,
+      "registered": 35,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99617",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5554,7 +5498,7 @@
       "last_date": "2026-06-06",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100850",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -6128,7 +6072,7 @@
       "last_date": "2026-06-10",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100938",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -6352,7 +6296,7 @@
       "last_date": "2026-06-12",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101903",
       "canton": null,
       "lat": null,
@@ -18245,5 +18189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T17:35:10+0000"
+  "geocoded_at": "2026-05-02T18:38:51+0000"
 }
