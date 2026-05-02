@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-02T16:33:46+0000",
-  "count": 1304,
+  "scraped_at": "2026-05-02T17:35:10+0000",
+  "count": 1303,
   "courses": [
     {
       "key": "98223",
@@ -575,20 +575,6 @@
       "canton": "BE",
       "lat": 46.74045944213867,
       "lng": 7.60764217376709
-    },
-    {
-      "key": "102332",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-05-01",
-      "last_date": "2026-05-01",
-      "company": "SLRG Bielersee",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102332",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "99407",
@@ -1186,7 +1172,7 @@
       "last_date": "2026-05-19",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100998",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -1844,7 +1830,7 @@
       "last_date": "2026-05-09",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100747",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -2068,7 +2054,7 @@
       "last_date": "2026-05-10",
       "company": "SLRG Basel",
       "participation_max": 30,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102411",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -2082,7 +2068,7 @@
       "last_date": "2026-05-10",
       "company": "SLRG Basel",
       "participation_max": 30,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102412",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -5568,7 +5554,7 @@
       "last_date": "2026-06-06",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100850",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -5792,7 +5778,7 @@
       "last_date": "2026-06-07",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102659",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7640,7 +7626,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100110",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -18259,5 +18245,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T16:33:46+0000"
+  "geocoded_at": "2026-05-02T17:35:10+0000"
 }
