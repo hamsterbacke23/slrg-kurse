@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-03T09:10:00+0000",
-  "count": 1288,
+  "scraped_at": "2026-05-03T10:41:57+0000",
+  "count": 1290,
   "courses": [
     {
       "key": "98223",
@@ -465,20 +465,6 @@
       "lng": 7.06839656829834
     },
     {
-      "key": "101749",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-04-29",
-      "last_date": "2026-04-29",
-      "company": "SSS Charmey",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101749",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102165",
       "category": "WK Pool Plus",
       "city": "Porrentruy",
@@ -542,7 +528,7 @@
       "last_date": "2026-04-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102644",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -2446,7 +2432,7 @@
       "last_date": "2026-05-15",
       "company": "SLRG Zug",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99836",
       "canton": null,
       "lat": null,
@@ -2936,7 +2922,7 @@
       "last_date": "2026-05-17",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102270",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -3706,7 +3692,7 @@
       "last_date": "2026-05-24",
       "company": "SSS Riviera",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102596",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -11049,6 +11035,20 @@
       "lng": 7.893518447875977
     },
     {
+      "key": "102654",
+      "category": "Brevet Basis Pool",
+      "city": "Cernier",
+      "first_date": "2026-08-19",
+      "last_date": "2026-09-09",
+      "company": "SSS Val-de-Ruz",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102654",
+      "canton": "NE",
+      "lat": 47.06060028076172,
+      "lng": 6.902266502380371
+    },
+    {
       "key": "99559",
       "category": "Brevet Basis Pool",
       "city": "Zürich",
@@ -11560,7 +11560,7 @@
       "last_date": "2026-08-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99927",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -12967,6 +12967,20 @@
       "lng": null
     },
     {
+      "key": "102655",
+      "category": "Modul BLS-AED",
+      "city": "Cernier",
+      "first_date": "2026-09-16",
+      "last_date": "2026-09-16",
+      "company": "SSS Val-de-Ruz",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102655",
+      "canton": "NE",
+      "lat": 47.06060028076172,
+      "lng": 6.902266502380371
+    },
+    {
       "key": "100245",
       "category": "WK BLS-AED",
       "city": "Chur",
@@ -13450,7 +13464,7 @@
       "last_date": "2026-09-23",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102297",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -13800,7 +13814,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102298",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -14673,6 +14687,20 @@
       "canton": "ZH",
       "lat": 47.302894592285156,
       "lng": 8.850424766540527
+    },
+    {
+      "key": "102656",
+      "category": "Brevet Plus Pool",
+      "city": "Cernier",
+      "first_date": "2026-10-21",
+      "last_date": "2026-11-18",
+      "company": "SSS Val-de-Ruz",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102656",
+      "canton": "NE",
+      "lat": 47.06060028076172,
+      "lng": 6.902266502380371
     },
     {
       "key": "99298",
@@ -18035,5 +18063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T09:10:00+0000"
+  "geocoded_at": "2026-05-03T10:41:58+0000"
 }
