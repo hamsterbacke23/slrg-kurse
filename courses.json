@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-03T14:03:58+0000",
+  "scraped_at": "2026-05-03T15:35:39+0000",
   "count": 1282,
   "courses": [
     {
@@ -451,6 +451,20 @@
       "lng": 6.1424560546875
     },
     {
+      "key": "101446",
+      "category": "Brevet Pro Pool",
+      "city": "Thun",
+      "first_date": "2026-04-28",
+      "last_date": "2026-04-29",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 12,
+      "registered": 8,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101446",
+      "canton": "BE",
+      "lat": 46.74045944213867,
+      "lng": 7.60764217376709
+    },
+    {
       "key": "102164",
       "category": "WK BLS-AED",
       "city": "Porrentruy",
@@ -528,7 +542,7 @@
       "last_date": "2026-04-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102644",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -631,20 +645,6 @@
       "canton": "SZ",
       "lat": 47.001983642578125,
       "lng": 8.526065826416016
-    },
-    {
-      "key": "100685",
-      "category": "Brevet Basis Pool",
-      "city": "Spreitenbach",
-      "first_date": "2026-05-03",
-      "last_date": "2026-05-03",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100685",
-      "canton": "AG",
-      "lat": 47.41796112060547,
-      "lng": 8.362970352172852
     },
     {
       "key": "102134",
@@ -5119,8 +5119,8 @@
       "first_date": "2026-06-06",
       "last_date": "2026-06-06",
       "company": "SLRG Aarau",
-      "participation_max": 12,
-      "registered": 7,
+      "participation_max": 10,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99423",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -5190,7 +5190,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Baldeggersee",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100832",
       "canton": "AG",
       "lat": 47.46938705444336,
@@ -5246,7 +5246,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101134",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -5302,7 +5302,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101348",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -5778,7 +5778,7 @@
       "last_date": "2026-06-10",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100887",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -8088,7 +8088,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Mittelrheintal",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100152",
       "canton": "SG",
       "lat": 47.3646125793457,
@@ -17951,5 +17951,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T14:03:58+0000"
+  "geocoded_at": "2026-05-03T15:35:39+0000"
 }
