@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-02T23:31:40+0000",
+  "scraped_at": "2026-05-03T01:25:44+0000",
   "count": 1289,
   "courses": [
     {
@@ -6366,7 +6366,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100648",
       "canton": null,
       "lat": null,
@@ -6380,7 +6380,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100654",
       "canton": null,
       "lat": null,
@@ -6408,7 +6408,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100657",
       "canton": null,
       "lat": null,
@@ -6422,7 +6422,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Region Nordwest",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100661",
       "canton": null,
       "lat": null,
@@ -18049,5 +18049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-02T23:31:40+0000"
+  "geocoded_at": "2026-05-03T01:25:44+0000"
 }
