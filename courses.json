@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-03T22:27:51+0000",
+  "scraped_at": "2026-05-03T23:32:38+0000",
   "count": 1281,
   "courses": [
     {
@@ -12246,7 +12246,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Grenchen",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100680",
       "canton": null,
       "lat": null,
@@ -17937,5 +17937,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T22:27:51+0000"
+  "geocoded_at": "2026-05-03T23:32:39+0000"
 }
