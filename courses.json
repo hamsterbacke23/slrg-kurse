@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-03T12:38:21+0000",
-  "count": 1289,
+  "scraped_at": "2026-05-03T14:03:58+0000",
+  "count": 1282,
   "courses": [
     {
       "key": "98223",
@@ -535,20 +535,6 @@
       "lng": 7.60764217376709
     },
     {
-      "key": "99889",
-      "category": "WK BLS-AED",
-      "city": "Zug",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-02",
-      "company": "SLRG Zug",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99889",
-      "canton": "ZG",
-      "lat": 47.151554107666016,
-      "lng": 8.521272659301758
-    },
-    {
       "key": "100666",
       "category": "Modul Expert BLS-AED",
       "city": "",
@@ -561,76 +547,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102252",
-      "category": "WK Modul Methodik",
-      "city": "Lugano",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-03",
-      "company": "SSS Regione Sud",
-      "participation_max": 30,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102252",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
-      "key": "102253",
-      "category": "WK Modul SLRG",
-      "city": "Lugano",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-03",
-      "company": "SSS Regione Sud",
-      "participation_max": 30,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102253",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
-      "key": "102254",
-      "category": "WK Expert BLS-AED inkl. SRC-Rollout 2025",
-      "city": "",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-03",
-      "company": "SSS Regione Sud",
-      "participation_max": 30,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102254",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102255",
-      "category": "WK Expert Pool",
-      "city": "Lugano",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-03",
-      "company": "SSS Regione Sud",
-      "participation_max": 30,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102255",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
-      "key": "102256",
-      "category": "WK Expert See",
-      "city": "Lugano",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-03",
-      "company": "SSS Regione Sud",
-      "participation_max": 30,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102256",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
     },
     {
       "key": "102257",
@@ -785,20 +701,6 @@
       "canton": "BE",
       "lat": 47.185791015625,
       "lng": 7.711877822875977
-    },
-    {
-      "key": "102409",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-05-03",
-      "last_date": "2026-05-03",
-      "company": "SLRG Solothurn",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102409",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "99540",
@@ -18049,5 +17951,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T12:38:21+0000"
+  "geocoded_at": "2026-05-03T14:03:58+0000"
 }
