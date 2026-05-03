@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-03T19:44:22+0000",
+  "scraped_at": "2026-05-03T20:30:03+0000",
   "count": 1283,
   "courses": [
     {
@@ -1900,7 +1900,7 @@
       "last_date": "2026-05-11",
       "company": "Section ASPIC Natation ",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102106",
       "canton": "VD",
       "lat": 46.65501022338867,
@@ -2040,7 +2040,7 @@
       "last_date": "2026-05-12",
       "company": "SLRG Hinwil",
       "participation_max": 21,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102138",
       "canton": null,
       "lat": null,
@@ -17965,5 +17965,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T19:44:22+0000"
+  "geocoded_at": "2026-05-03T20:30:03+0000"
 }
