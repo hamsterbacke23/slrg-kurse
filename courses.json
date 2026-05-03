@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-03T16:34:09+0000",
-  "count": 1282,
+  "scraped_at": "2026-05-03T17:36:34+0000",
+  "count": 1283,
   "courses": [
     {
       "key": "98223",
@@ -2502,7 +2502,7 @@
       "last_date": "2026-05-16",
       "company": "SLRG Rüti",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101190",
       "canton": null,
       "lat": null,
@@ -4924,7 +4924,7 @@
       "last_date": "2026-06-03",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102390",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -11791,6 +11791,20 @@
       "lng": null
     },
     {
+      "key": "102609",
+      "category": "Modul See",
+      "city": "Greifensee",
+      "first_date": "2026-08-29",
+      "last_date": "2026-09-12",
+      "company": "SLRG Seuzach-Weinland",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102609",
+      "canton": "ZH",
+      "lat": 47.366180419921875,
+      "lng": 8.679778099060059
+    },
+    {
       "key": "99715",
       "category": "WK Fluss",
       "city": "",
@@ -17951,5 +17965,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T16:34:09+0000"
+  "geocoded_at": "2026-05-03T17:36:34+0000"
 }
