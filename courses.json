@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-03T18:39:19+0000",
+  "scraped_at": "2026-05-03T19:44:22+0000",
   "count": 1283,
   "courses": [
     {
@@ -4168,7 +4168,7 @@
       "last_date": "2026-05-30",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99912",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -6100,7 +6100,7 @@
       "last_date": "2026-06-13",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99908",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -9390,7 +9390,7 @@
       "last_date": "2026-07-07",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100975",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -10048,7 +10048,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100003",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -13142,7 +13142,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101183",
       "canton": null,
       "lat": null,
@@ -17965,5 +17965,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T18:39:19+0000"
+  "geocoded_at": "2026-05-03T19:44:22+0000"
 }
