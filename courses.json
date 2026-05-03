@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-03T05:18:41+0000",
+  "scraped_at": "2026-05-03T07:42:50+0000",
   "count": 1289,
   "courses": [
     {
@@ -194,20 +194,6 @@
       "participation_max": 80,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101209",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101456",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-02-07",
-      "last_date": "2026-05-02",
-      "company": "SLRG Frauenfeld",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101456",
       "canton": null,
       "lat": null,
       "lng": null
@@ -717,6 +703,34 @@
       "lng": null
     },
     {
+      "key": "102647",
+      "category": "Brevet Basis Pool",
+      "city": "Cours Privé",
+      "first_date": "2026-05-02",
+      "last_date": "2026-05-03",
+      "company": "SSS Fribourg",
+      "participation_max": 8,
+      "registered": 4,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102647",
+      "canton": "SZ",
+      "lat": 47.001983642578125,
+      "lng": 8.526065826416016
+    },
+    {
+      "key": "102648",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-05-02",
+      "last_date": "2026-05-03",
+      "company": "SSS Fribourg",
+      "participation_max": 0,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102648",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102649",
       "category": "Modul BLS-AED",
       "city": "Cours Privé",
@@ -813,20 +827,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102647",
-      "category": "Brevet Basis Pool",
-      "city": "Cours Privé",
-      "first_date": "2026-05-03",
-      "last_date": "2026-05-03",
-      "company": "SSS Fribourg",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102647",
-      "canton": "SZ",
-      "lat": 47.001983642578125,
-      "lng": 8.526065826416016
     },
     {
       "key": "99540",
@@ -1326,7 +1326,7 @@
       "last_date": "2026-05-08",
       "company": "SSS Lugano",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101107",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -5568,7 +5568,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102507",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -18049,5 +18049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T05:18:41+0000"
+  "geocoded_at": "2026-05-03T07:42:50+0000"
 }
