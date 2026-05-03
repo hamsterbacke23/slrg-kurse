@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-03T10:41:57+0000",
+  "scraped_at": "2026-05-03T11:33:26+0000",
   "count": 1290,
   "courses": [
     {
@@ -1409,8 +1409,8 @@
       "first_date": "2026-05-08",
       "last_date": "2026-05-08",
       "company": "SLRG Sektion Bern",
-      "participation_max": 4,
-      "registered": 4,
+      "participation_max": 5,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100970",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -1424,7 +1424,7 @@
       "last_date": "2026-05-08",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100971",
       "canton": null,
       "lat": null,
@@ -4336,7 +4336,7 @@
       "last_date": "2026-05-30",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100814",
       "canton": "VS",
       "lat": 46.28894805908203,
@@ -7416,7 +7416,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Ermatingen",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100113",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -7948,7 +7948,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Emmental",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102662",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -18063,5 +18063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T10:41:58+0000"
+  "geocoded_at": "2026-05-03T11:33:26+0000"
 }
