@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-03T21:30:48+0000",
-  "count": 1283,
+  "scraped_at": "2026-05-03T22:27:51+0000",
+  "count": 1281,
   "courses": [
     {
       "key": "98223",
@@ -673,34 +673,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102280",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-05-03",
-      "last_date": "2026-05-03",
-      "company": "SSS Meyrin",
-      "participation_max": 16,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102280",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102360",
-      "category": "Brevet Plus Pool",
-      "city": "Herzogenbuchsee",
-      "first_date": "2026-05-03",
-      "last_date": "2026-05-03",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102360",
-      "canton": "BE",
-      "lat": 47.185791015625,
-      "lng": 7.711877822875977
     },
     {
       "key": "99540",
@@ -1837,6 +1809,20 @@
       "lng": 8.362970352172852
     },
     {
+      "key": "101879",
+      "category": "Brevet Basis Pool",
+      "city": "Mendrisio",
+      "first_date": "2026-05-10",
+      "last_date": "2026-05-10",
+      "company": "Società Svizzera di Salvataggio Mendrisiotto",
+      "participation_max": 26,
+      "registered": 25,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101879",
+      "canton": "TI",
+      "lat": 45.8812370300293,
+      "lng": 8.971078872680664
+    },
+    {
       "key": "102301",
       "category": "Brevet Basis Pool",
       "city": "Allschwil",
@@ -2017,20 +2003,6 @@
       "canton": "BE",
       "lat": 47.11361312866211,
       "lng": 7.3059468269348145
-    },
-    {
-      "key": "102022",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-05-12",
-      "last_date": "2026-05-26",
-      "company": "SSS Franches-Montagnes",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102022",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102138",
@@ -17965,5 +17937,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-03T21:30:49+0000"
+  "geocoded_at": "2026-05-03T22:27:51+0000"
 }
