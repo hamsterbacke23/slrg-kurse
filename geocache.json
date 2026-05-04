@@ -786,6 +786,12 @@
     "lat": 47.37028121948242,
     "lng": 8.781831741333008
   },
+  "Plan-les-Ouates": {
+    "canton": "GE",
+    "label": "Plan-les-Ouates (GE)",
+    "lat": 46.16372299194336,
+    "lng": 6.119792938232422
+  },
   "Porrentruy": {
     "canton": "JU",
     "label": "Porrentruy (JU)",

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-04T21:50:09+0000",
+  "scraped_at": "2026-05-04T22:44:33+0000",
   "count": 1291,
   "courses": [
     {
@@ -2943,6 +2943,20 @@
       "lng": 7.84113883972168
     },
     {
+      "key": "102590",
+      "category": "WK Pool Pro",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-05-19",
+      "last_date": "2026-05-19",
+      "company": "SSS Genève",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102590",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
+    },
+    {
       "key": "100308",
       "category": "Brevet Plus Pool",
       "city": "Allschwil ",
@@ -4257,20 +4271,6 @@
       "canton": "VD",
       "lat": 46.60649871826172,
       "lng": 6.231893062591553
-    },
-    {
-      "key": "101637",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 9,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101637",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101771",
@@ -6618,7 +6618,7 @@
       "last_date": "2026-06-14",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102103",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -18077,5 +18077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-04T21:50:10+0000"
+  "geocoded_at": "2026-05-04T22:44:34+0000"
 }
