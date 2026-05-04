@@ -504,6 +504,18 @@
     "lat": 47.32124328613281,
     "lng": 8.616456031799316
   },
+  "Küssnacht am Rig": {
+    "canton": "SZ",
+    "label": "Ort Küssnacht am Rigi (SZ) - Küssnacht (SZ)",
+    "lat": 47.08266830444336,
+    "lng": 8.440006256103516
+  },
+  "Küssnacht am Rigi": {
+    "canton": "SZ",
+    "label": "Ort Küssnacht am Rigi (SZ) - Küssnacht (SZ)",
+    "lat": 47.08266830444336,
+    "lng": 8.440006256103516
+  },
   "La Chaux-de-Fonds": {
     "canton": "NE",
     "label": "La Chaux-de-Fonds (NE)",
@@ -875,6 +887,12 @@
     "label": "Saignelégier (JU)",
     "lat": 47.263877868652344,
     "lng": 6.976081371307373
+  },
+  "Sarnen": {
+    "canton": "OW",
+    "label": "Sarnen (OW)",
+    "lat": 46.89374923706055,
+    "lng": 8.186779022216797
   },
   "Satigny": {
     "canton": "GE",
