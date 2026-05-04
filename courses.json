@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-04T16:46:26+0000",
-  "count": 1298,
+  "scraped_at": "2026-05-04T18:08:32+0000",
+  "count": 1293,
   "courses": [
     {
       "key": "98223",
@@ -479,20 +479,6 @@
       "lng": 7.06839656829834
     },
     {
-      "key": "102633",
-      "category": "Modul BLS-AED",
-      "city": "Satigny",
-      "first_date": "2026-04-28",
-      "last_date": "2026-04-28",
-      "company": "SSS Genève",
-      "participation_max": 2,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102633",
-      "canton": "GE",
-      "lat": 46.215309143066406,
-      "lng": 6.033508777618408
-    },
-    {
       "key": "102165",
       "category": "WK Pool Plus",
       "city": "Porrentruy",
@@ -572,20 +558,6 @@
       "participation_max": 4,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102528",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102580",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-02",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 10,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102580",
       "canton": null,
       "lat": null,
       "lng": null
@@ -687,20 +659,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "100019",
-      "category": "Brevet Plus Pool",
-      "city": "Liestal",
-      "first_date": "2026-05-04",
-      "last_date": "2026-05-18",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100019",
-      "canton": "BL",
-      "lat": 47.483455657958984,
-      "lng": 7.7250237464904785
     },
     {
       "key": "101105",
@@ -1298,7 +1256,7 @@
       "last_date": "2026-05-08",
       "company": "SSS Sion",
       "participation_max": 18,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102243",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1886,7 +1844,7 @@
       "last_date": "2026-05-11",
       "company": "SLRG Rafzerfeld",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102674",
       "canton": null,
       "lat": null,
@@ -2199,20 +2157,6 @@
       "canton": "BE",
       "lat": 46.68421936035156,
       "lng": 7.878632545471191
-    },
-    {
-      "key": "102592",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-05-13",
-      "last_date": "2026-07-01",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102592",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "99477",
@@ -5442,7 +5386,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102457",
       "canton": "BE",
       "lat": 47.08230209350586,
@@ -6254,7 +6198,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Weinfelden",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100376",
       "canton": "TG",
       "lat": 47.52652359008789,
@@ -6799,7 +6743,7 @@
       "first_date": "2026-06-14",
       "last_date": "2026-06-14",
       "company": "SLRG Rapperswil-Jona",
-      "participation_max": 14,
+      "participation_max": 16,
       "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100913",
       "canton": null,
@@ -8340,7 +8284,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Nidwalden",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101605",
       "canton": "NW",
       "lat": 46.99097442626953,
@@ -11203,20 +11147,6 @@
       "lng": 6.508055686950684
     },
     {
-      "key": "100213",
-      "category": "WK Pool Basis",
-      "city": "Appenzell",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100213",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
       "key": "100228",
       "category": "WK Pool Plus",
       "city": "Appenzell",
@@ -11237,7 +11167,7 @@
       "first_date": "2026-08-22",
       "last_date": "2026-08-22",
       "company": "SLRG Appenzell",
-      "participation_max": 12,
+      "participation_max": 6,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100231",
       "canton": "AI",
@@ -12283,44 +12213,44 @@
     {
       "key": "100406",
       "category": "WK BLS-AED",
-      "city": "",
+      "city": "Schule AI/AR",
       "first_date": "2026-09-05",
       "last_date": "2026-09-05",
       "company": "SLRG Appenzell",
       "participation_max": 12,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100406",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "VS",
+      "lat": 46.246036529541016,
+      "lng": 7.533789157867432
     },
     {
       "key": "100408",
       "category": "WK Pool Basis",
-      "city": "",
+      "city": "Schule AI/AR",
       "first_date": "2026-09-05",
       "last_date": "2026-09-05",
       "company": "SLRG Appenzell",
       "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100408",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "VS",
+      "lat": 46.246036529541016,
+      "lng": 7.533789157867432
     },
     {
       "key": "100410",
       "category": "WK Pool Plus",
-      "city": "",
+      "city": "Schule AI/AR",
       "first_date": "2026-09-05",
       "last_date": "2026-09-05",
       "company": "SLRG Appenzell",
       "participation_max": 12,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100410",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "VS",
+      "lat": 46.246036529541016,
+      "lng": 7.533789157867432
     },
     {
       "key": "100679",
@@ -13375,44 +13305,44 @@
     {
       "key": "102525",
       "category": "WK Pool Basis",
-      "city": "",
+      "city": "Schulschwimmen Linthebene",
       "first_date": "2026-09-19",
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 16,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102525",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "SG",
+      "lat": 47.17293930053711,
+      "lng": 9.010757446289062
     },
     {
       "key": "102526",
       "category": "WK Pool Plus",
-      "city": "",
+      "city": "Schulschwimmen Linthebene",
       "first_date": "2026-09-19",
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 16,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102526",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "SG",
+      "lat": 47.17293930053711,
+      "lng": 9.010757446289062
     },
     {
       "key": "102527",
       "category": "WK BLS-AED",
-      "city": "",
+      "city": "Schulschwimmen Linthebene",
       "first_date": "2026-09-19",
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 36,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102527",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "SG",
+      "lat": 47.17293930053711,
+      "lng": 9.010757446289062
     },
     {
       "key": "99618",
@@ -14668,7 +14598,7 @@
       "last_date": "2026-10-26",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100153",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -14920,7 +14850,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -18175,5 +18105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-04T16:46:27+0000"
+  "geocoded_at": "2026-05-04T18:08:33+0000"
 }

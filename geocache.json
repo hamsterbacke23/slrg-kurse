@@ -912,11 +912,23 @@
     "lat": 47.7188606262207,
     "lng": 8.640215873718262
   },
+  "Schule AI/AR": {
+    "canton": "VS",
+    "label": "Chalais (VS)",
+    "lat": 46.246036529541016,
+    "lng": 7.533789157867432
+  },
   "Schule Schönengrund": {
     "canton": "ZH",
     "label": "Schul- und Hochschulareal Primarschule Schönengrund, Winterthur-Mattenbach (ZH) - Winterthur",
     "lat": 47.49414825439453,
     "lng": 8.73709487915039
+  },
+  "Schulschwimmen Linthebene": {
+    "canton": "SG",
+    "label": "Landschaftsname Linthebene (SG,GL,SZ) - Schmerikon,Schübelbach,Reichenburg,Schänis,Tuggen,Weesen,Glarus Nord,Uznach,Kaltbrunn,Benken (SG)",
+    "lat": 47.17293930053711,
+    "lng": 9.010757446289062
   },
   "Seengen": {
     "canton": "AG",
