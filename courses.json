@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-04T01:25:05+0000",
+  "scraped_at": "2026-05-04T05:21:22+0000",
   "count": 1281,
   "courses": [
     {
@@ -360,7 +360,7 @@
       "last_date": "2026-04-26",
       "company": "SSS Prilly",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102553",
       "canton": null,
       "lat": null,
@@ -1816,7 +1816,7 @@
       "last_date": "2026-05-10",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 26,
-      "registered": 25,
+      "registered": 26,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101879",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -5372,7 +5372,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102457",
       "canton": "BE",
       "lat": 47.08230209350586,
@@ -17937,5 +17937,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-04T01:25:05+0000"
+  "geocoded_at": "2026-05-04T05:21:22+0000"
 }
