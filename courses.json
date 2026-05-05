@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-05T09:49:06+0000",
+  "scraped_at": "2026-05-05T11:08:14+0000",
   "count": 1283,
   "courses": [
     {
@@ -1200,7 +1200,7 @@
       "last_date": "2026-05-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102650",
       "canton": null,
       "lat": null,
@@ -1340,7 +1340,7 @@
       "last_date": "2026-05-09",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101301",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -1536,7 +1536,7 @@
       "last_date": "2026-05-10",
       "company": "SLRG Basel",
       "participation_max": 30,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102412",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -1858,7 +1858,7 @@
       "last_date": "2026-05-12",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102147",
       "canton": null,
       "lat": null,
@@ -2740,7 +2740,7 @@
       "last_date": "2026-05-19",
       "company": "SLRG Aarau",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99434",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3468,7 +3468,7 @@
       "last_date": "2026-05-24",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99487",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -4602,7 +4602,7 @@
       "last_date": "2026-06-01",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99285",
       "canton": "ZH",
       "lat": 47.32124328613281,
@@ -4896,7 +4896,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101710",
       "canton": "BE",
       "lat": 46.695247650146484,
@@ -8382,7 +8382,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102345",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -9292,7 +9292,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Sektion Täuffelen",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102277",
       "canton": "BE",
       "lat": 47.065650939941406,
@@ -17965,5 +17965,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-05T09:49:06+0000"
+  "geocoded_at": "2026-05-05T11:08:14+0000"
 }
