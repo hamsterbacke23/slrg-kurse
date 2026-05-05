@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-05T20:08:21+0000",
-  "count": 1280,
+  "scraped_at": "2026-05-05T21:49:27+0000",
+  "count": 1279,
   "courses": [
     {
       "key": "98223",
@@ -463,20 +463,6 @@
       "canton": "BE",
       "lat": 46.74045944213867,
       "lng": 7.60764217376709
-    },
-    {
-      "key": "102164",
-      "category": "WK BLS-AED",
-      "city": "Porrentruy",
-      "first_date": "2026-04-28",
-      "last_date": "2026-04-28",
-      "company": "SSS Porrentruy",
-      "participation_max": 15,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102164",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
     },
     {
       "key": "102165",
@@ -2684,7 +2670,7 @@
       "last_date": "2026-05-19",
       "company": "SLRG Aarau",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99434",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4574,7 +4560,7 @@
       "last_date": "2026-06-01",
       "company": "ETH Zürich",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100580",
       "canton": null,
       "lat": null,
@@ -9880,7 +9866,7 @@
       "last_date": "2026-07-27",
       "company": "SLRG Männedorf",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102673",
       "canton": null,
       "lat": null,
@@ -17923,5 +17909,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-05T20:08:21+0000"
+  "geocoded_at": "2026-05-05T21:49:27+0000"
 }
