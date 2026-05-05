@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-05T21:49:27+0000",
-  "count": 1279,
+  "scraped_at": "2026-05-05T22:42:51+0000",
+  "count": 1278,
   "courses": [
     {
       "key": "98223",
@@ -561,20 +561,6 @@
       "canton": "SZ",
       "lat": 47.001983642578125,
       "lng": 8.526065826416016
-    },
-    {
-      "key": "102648",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-03",
-      "company": "SSS Fribourg",
-      "participation_max": 0,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102648",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102649",
@@ -17909,5 +17895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-05T21:49:27+0000"
+  "geocoded_at": "2026-05-05T22:42:52+0000"
 }
