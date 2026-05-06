@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-06T01:22:46+0000",
-  "count": 1278,
+  "scraped_at": "2026-05-06T05:16:30+0000",
+  "count": 1276,
   "courses": [
     {
       "key": "98223",
@@ -1543,20 +1543,6 @@
       "lng": 8.768488883972168
     },
     {
-      "key": "101879",
-      "category": "Brevet Basis Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-05-10",
-      "last_date": "2026-05-10",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 26,
-      "registered": 26,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101879",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
-    },
-    {
       "key": "102301",
       "category": "Brevet Basis Pool",
       "city": "Allschwil",
@@ -2731,20 +2717,6 @@
       "canton": "ZH",
       "lat": 47.205753326416016,
       "lng": 8.649434089660645
-    },
-    {
-      "key": "101709",
-      "category": "WK Pool Basis",
-      "city": "Unterseen",
-      "first_date": "2026-05-19",
-      "last_date": "2026-05-19",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101709",
-      "canton": "BE",
-      "lat": 46.695247650146484,
-      "lng": 7.84113883972168
     },
     {
       "key": "102590",
@@ -8186,7 +8158,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101895",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -8536,7 +8508,7 @@
       "last_date": "2026-07-01",
       "company": "SLRG Nidwalden",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101603",
       "canton": "NW",
       "lat": 46.9562873840332,
@@ -9852,7 +9824,7 @@
       "last_date": "2026-07-27",
       "company": "SLRG Männedorf",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102673",
       "canton": null,
       "lat": null,
@@ -17895,5 +17867,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-06T01:22:46+0000"
+  "geocoded_at": "2026-05-06T05:16:30+0000"
 }
