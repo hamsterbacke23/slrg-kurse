@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-06T20:59:46+0000",
-  "count": 1271,
+  "scraped_at": "2026-05-06T21:56:18+0000",
+  "count": 1268,
   "courses": [
     {
       "key": "98223",
@@ -619,20 +619,6 @@
       "lng": null
     },
     {
-      "key": "99720",
-      "category": "WK BLS-AED",
-      "city": "Oberwil BL",
-      "first_date": "2026-05-06",
-      "last_date": "2026-05-06",
-      "company": "SLRG Oberwil",
-      "participation_max": 16,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99720",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
-    },
-    {
       "key": "101106",
       "category": "Modul BLS-AED",
       "city": "Lugano",
@@ -659,34 +645,6 @@
       "canton": "ZH",
       "lat": 47.24346160888672,
       "lng": 8.460609436035156
-    },
-    {
-      "key": "101510",
-      "category": "Modul BLS-AED",
-      "city": "Thun",
-      "first_date": "2026-05-06",
-      "last_date": "2026-05-06",
-      "company": "SLRG Büren a. A.",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101510",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
-    },
-    {
-      "key": "101532",
-      "category": "Modul BLS-AED",
-      "city": "Thun",
-      "first_date": "2026-05-06",
-      "last_date": "2026-05-06",
-      "company": "SLRG Büren a. A.",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101532",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
     },
     {
       "key": "102117",
@@ -2082,7 +2040,7 @@
       "last_date": "2026-05-16",
       "company": "SSS Sion",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99693",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6156,7 +6114,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101447",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7598,7 +7556,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Emmental",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102662",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -17797,5 +17755,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-06T20:59:46+0000"
+  "geocoded_at": "2026-05-06T21:56:19+0000"
 }
