@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-07T01:28:07+0000",
-  "count": 1268,
+  "scraped_at": "2026-05-07T05:19:08+0000",
+  "count": 1267,
   "courses": [
     {
       "key": "98223",
@@ -785,20 +785,6 @@
       "canton": "BL",
       "lat": 47.54563903808594,
       "lng": 7.536828994750977
-    },
-    {
-      "key": "101705",
-      "category": "WK Pool Pro",
-      "city": "Wädenswil",
-      "first_date": "2026-05-07",
-      "last_date": "2026-05-07",
-      "company": "SLRG Wädenswil",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101705",
-      "canton": "ZH",
-      "lat": 47.205753326416016,
-      "lng": 8.649434089660645
     },
     {
       "key": "102581",
@@ -1592,7 +1578,7 @@
       "last_date": "2026-05-12",
       "company": "SLRG Hinwil",
       "participation_max": 21,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102138",
       "canton": null,
       "lat": null,
@@ -4672,7 +4658,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101710",
       "canton": "BE",
       "lat": 46.695247650146484,
@@ -5064,7 +5050,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Limpachtal",
       "participation_max": 15,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102489",
       "canton": "SO",
       "lat": 47.13530731201172,
@@ -17755,5 +17741,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-07T01:28:08+0000"
+  "geocoded_at": "2026-05-07T05:19:08+0000"
 }
