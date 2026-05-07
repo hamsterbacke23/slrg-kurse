@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-07T21:43:23+0000",
-  "count": 1256,
+  "scraped_at": "2026-05-07T22:47:44+0000",
+  "count": 1252,
   "courses": [
     {
       "key": "98223",
@@ -617,62 +617,6 @@
       "canton": "ZH",
       "lat": 47.24346160888672,
       "lng": 8.460609436035156
-    },
-    {
-      "key": "102573",
-      "category": "WK Pool Plus",
-      "city": "Wil SG",
-      "first_date": "2026-05-06",
-      "last_date": "2026-05-06",
-      "company": "SLRG Wil",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102573",
-      "canton": "SG",
-      "lat": 47.47120666503906,
-      "lng": 9.039849281311035
-    },
-    {
-      "key": "102574",
-      "category": "WK BLS-AED",
-      "city": "Wil SG",
-      "first_date": "2026-05-06",
-      "last_date": "2026-05-06",
-      "company": "SLRG Wil",
-      "participation_max": 10,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102574",
-      "canton": "SG",
-      "lat": 47.47120666503906,
-      "lng": 9.039849281311035
-    },
-    {
-      "key": "99563",
-      "category": "WK Pool Basis",
-      "city": "Zürich",
-      "first_date": "2026-05-07",
-      "last_date": "2026-05-07",
-      "company": "SLRG Höngg",
-      "participation_max": 2,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99563",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
-    },
-    {
-      "key": "99567",
-      "category": "WK Pool Plus",
-      "city": "Zürich",
-      "first_date": "2026-05-07",
-      "last_date": "2026-05-07",
-      "company": "SLRG Höngg",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99567",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
     },
     {
       "key": "101107",
@@ -5106,7 +5050,7 @@
       "last_date": "2026-06-09",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101109",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -7710,7 +7654,7 @@
       "last_date": "2026-06-27",
       "company": "SSS Val-de-Ruz",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101400",
       "canton": "NE",
       "lat": 47.03848648071289,
@@ -17587,5 +17531,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-07T21:43:23+0000"
+  "geocoded_at": "2026-05-07T22:47:45+0000"
 }
