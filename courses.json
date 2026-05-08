@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-08T04:45:32+0000",
-  "count": 1251,
+  "scraped_at": "2026-05-08T06:25:29+0000",
+  "count": 1255,
   "courses": [
     {
       "key": "98223",
@@ -150,7 +150,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Innerschwyz",
       "participation_max": 80,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101205",
       "canton": null,
       "lat": null,
@@ -435,6 +435,20 @@
       "canton": "GE",
       "lat": 46.204559326171875,
       "lng": 6.1424560546875
+    },
+    {
+      "key": "102692",
+      "category": "Jugendbrevet",
+      "city": "Paradiso",
+      "first_date": "2026-04-27",
+      "last_date": "2026-06-01",
+      "company": "SSS Paradiso",
+      "participation_max": 7,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102692",
+      "canton": "TI",
+      "lat": 45.98849105834961,
+      "lng": 8.953682899475098
     },
     {
       "key": "102342",
@@ -1102,7 +1116,7 @@
       "last_date": "2026-05-10",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 22,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101042",
       "canton": null,
       "lat": null,
@@ -1606,7 +1620,7 @@
       "last_date": "2026-05-14",
       "company": "SSS Paradiso",
       "participation_max": 15,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102651",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1704,7 +1718,7 @@
       "last_date": "2026-05-17",
       "company": "SLRG Fricktal",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101841",
       "canton": "VS",
       "lat": 46.41127014160156,
@@ -1746,7 +1760,7 @@
       "last_date": "2026-05-15",
       "company": "SSS Paradiso",
       "participation_max": 15,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102652",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -4476,7 +4490,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Région Romande",
       "participation_max": 46,
-      "registered": 46,
+      "registered": 45,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98015",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -4490,7 +4504,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Région Romande",
       "participation_max": 46,
-      "registered": 46,
+      "registered": 45,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98016",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -4504,7 +4518,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Région Romande",
       "participation_max": 46,
-      "registered": 46,
+      "registered": 45,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98017",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -4518,7 +4532,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Région Romande",
       "participation_max": 42,
-      "registered": 42,
+      "registered": 41,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98018",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -4887,6 +4901,20 @@
       "canton": "BE",
       "lat": 46.930362701416016,
       "lng": 7.4850358963012695
+    },
+    {
+      "key": "102704",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-06-06",
+      "last_date": "2026-06-07",
+      "company": "SSS St. Maurice",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102704",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99824",
@@ -7085,6 +7113,20 @@
       "canton": "ZH",
       "lat": 47.28373718261719,
       "lng": 8.916254043579102
+    },
+    {
+      "key": "102714",
+      "category": "WK Fluss",
+      "city": "",
+      "first_date": "2026-06-20",
+      "last_date": "2026-06-20",
+      "company": "SLRG Mittelrheintal",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102714",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99845",
@@ -9621,6 +9663,20 @@
       "lng": 7.60764217376709
     },
     {
+      "key": "102715",
+      "category": "WK Fluss",
+      "city": "Heerbrugg",
+      "first_date": "2026-08-06",
+      "last_date": "2026-08-06",
+      "company": "SLRG Mittelrheintal",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102715",
+      "canton": "SG",
+      "lat": 47.411685943603516,
+      "lng": 9.626534461975098
+    },
+    {
       "key": "102197",
       "category": "WK See",
       "city": "",
@@ -10398,7 +10454,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102369",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -17517,5 +17573,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-08T04:45:32+0000"
+  "geocoded_at": "2026-05-08T06:25:29+0000"
 }
