@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-08T20:02:12+0000",
-  "count": 1251,
+  "scraped_at": "2026-05-08T21:45:43+0000",
+  "count": 1248,
   "courses": [
     {
       "key": "98223",
@@ -787,20 +787,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "102650",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-05-08",
-      "last_date": "2026-05-08",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102650",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "97679",
       "category": "WK Pool Plus",
       "city": "Neuchâtel",
@@ -1326,7 +1312,7 @@
       "last_date": "2026-05-12",
       "company": "SLRG Hinwil",
       "participation_max": 21,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102138",
       "canton": null,
       "lat": null,
@@ -1384,20 +1370,6 @@
       "participation_max": 12,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102231",
-      "canton": "ZH",
-      "lat": 47.259639739990234,
-      "lng": 8.697005271911621
-    },
-    {
-      "key": "102233",
-      "category": "Modul BLS-AED",
-      "city": "Männedorf",
-      "first_date": "2026-05-12",
-      "last_date": "2026-05-12",
-      "company": "SLRG Männedorf",
-      "participation_max": 3,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102233",
       "canton": "ZH",
       "lat": 47.259639739990234,
       "lng": 8.697005271911621
@@ -1849,20 +1821,6 @@
       "canton": "VS",
       "lat": 46.41127014160156,
       "lng": 8.122138023376465
-    },
-    {
-      "key": "101386",
-      "category": "Modul BLS-AED",
-      "city": "Le Sentier",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SSS Vallée de Joux",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101386",
-      "canton": "VD",
-      "lat": 46.60649871826172,
-      "lng": 6.231893062591553
     },
     {
       "key": "101578",
@@ -8158,7 +8116,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Basel",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102094",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -17517,5 +17475,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-08T20:02:12+0000"
+  "geocoded_at": "2026-05-08T21:45:43+0000"
 }
