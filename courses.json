@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-08T22:42:05+0000",
+  "scraped_at": "2026-05-08T23:43:21+0000",
   "count": 1248,
   "courses": [
     {
@@ -6870,7 +6870,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Ostermundigen-Stettlen",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101610",
       "canton": null,
       "lat": null,
@@ -17475,5 +17475,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-08T22:42:05+0000"
+  "geocoded_at": "2026-05-08T23:43:21+0000"
 }
