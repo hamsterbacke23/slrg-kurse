@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-08T18:02:28+0000",
-  "count": 1252,
+  "scraped_at": "2026-05-08T20:02:12+0000",
+  "count": 1251,
   "courses": [
     {
       "key": "98223",
@@ -267,20 +267,6 @@
       "canton": "TG",
       "lat": 47.640594482421875,
       "lng": 9.175581932067871
-    },
-    {
-      "key": "101324",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-04-10",
-      "last_date": "2026-05-08",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101324",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102477",
@@ -1759,8 +1745,8 @@
       "first_date": "2026-05-16",
       "last_date": "2026-05-16",
       "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 11,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99479",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -2341,20 +2327,6 @@
       "lng": 6.119792938232422
     },
     {
-      "key": "100308",
-      "category": "Brevet Plus Pool",
-      "city": "Allschwil ",
-      "first_date": "2026-05-20",
-      "last_date": "2026-06-18",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100308",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
-    },
-    {
       "key": "100935",
       "category": "WK BLS-AED",
       "city": "Paradiso",
@@ -2521,6 +2493,20 @@
       "canton": "GR",
       "lat": 46.83235549926758,
       "lng": 9.516542434692383
+    },
+    {
+      "key": "100308",
+      "category": "Brevet Plus Pool",
+      "city": "Allschwil ",
+      "first_date": "2026-05-21",
+      "last_date": "2026-06-18",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 12,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100308",
+      "canton": "BL",
+      "lat": 47.54563903808594,
+      "lng": 7.536828994750977
     },
     {
       "key": "100934",
@@ -3356,7 +3342,7 @@
       "last_date": "2026-06-12",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99902",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -6072,7 +6058,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 28,
-      "registered": 16,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102426",
       "canton": "BE",
       "lat": 46.74281311035156,
@@ -12400,7 +12386,7 @@
       "last_date": "2026-09-16",
       "company": "SLRG Weinfelden",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101629",
       "canton": null,
       "lat": null,
@@ -12414,7 +12400,7 @@
       "last_date": "2026-09-16",
       "company": "SLRG Weinfelden",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101630",
       "canton": null,
       "lat": null,
@@ -17531,5 +17517,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-08T18:02:28+0000"
+  "geocoded_at": "2026-05-08T20:02:12+0000"
 }
