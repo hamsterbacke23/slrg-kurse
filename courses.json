@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-09T16:38:17+0000",
+  "scraped_at": "2026-05-09T17:39:29+0000",
   "count": 1233,
   "courses": [
     {
@@ -1032,7 +1032,7 @@
       "last_date": "2026-05-12",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99336",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -2446,7 +2446,7 @@
       "last_date": "2026-05-22",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102500",
       "canton": "GE",
       "lat": 46.17317581176758,
@@ -17265,5 +17265,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-09T16:38:17+0000"
+  "geocoded_at": "2026-05-09T17:39:29+0000"
 }
