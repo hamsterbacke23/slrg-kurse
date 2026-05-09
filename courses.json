@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T07:03:15+0000",
-  "count": 1248,
+  "scraped_at": "2026-05-09T09:05:02+0000",
+  "count": 1244,
   "courses": [
     {
       "key": "98223",
@@ -178,7 +178,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Innerschwyz",
       "participation_max": 80,
-      "registered": 2,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101205",
       "canton": null,
       "lat": null,
@@ -192,7 +192,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Innerschwyz",
       "participation_max": 80,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101206",
       "canton": null,
       "lat": null,
@@ -367,20 +367,6 @@
       "lng": null
     },
     {
-      "key": "99490",
-      "category": "Brevet Plus Pool",
-      "city": "Näfels",
-      "first_date": "2026-04-25",
-      "last_date": "2026-04-25",
-      "company": "SRV Linth",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99490",
-      "canton": "GL",
-      "lat": 47.09866714477539,
-      "lng": 9.064586639404297
-    },
-    {
       "key": "102554",
       "category": "WK BLS-AED",
       "city": "",
@@ -463,6 +449,20 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
+    },
+    {
+      "key": "101446",
+      "category": "Brevet Pro Pool",
+      "city": "Thun",
+      "first_date": "2026-04-28",
+      "last_date": "2026-04-29",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 12,
+      "registered": 8,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101446",
+      "canton": "BE",
+      "lat": 46.74045944213867,
+      "lng": 7.60764217376709
     },
     {
       "key": "102342",
@@ -941,20 +941,6 @@
       "lng": 8.611495018005371
     },
     {
-      "key": "102180",
-      "category": "Modul BLS-AED",
-      "city": "Wädenswil",
-      "first_date": "2026-05-09",
-      "last_date": "2026-05-09",
-      "company": "SLRG Wädenswil",
-      "participation_max": 6,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102180",
-      "canton": "ZH",
-      "lat": 47.205753326416016,
-      "lng": 8.649434089660645
-    },
-    {
       "key": "102245",
       "category": "Brevet Pro Pool",
       "city": "Sion",
@@ -962,39 +948,11 @@
       "last_date": "2026-05-09",
       "company": "SSS Sion",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102245",
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "102351",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-05-09",
-      "last_date": "2026-05-09",
-      "company": "SLRG Sektion Olten",
-      "participation_max": 9,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102351",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102352",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-05-09",
-      "last_date": "2026-05-09",
-      "company": "SLRG Sektion Olten",
-      "participation_max": 9,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102352",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102411",
@@ -3510,7 +3468,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100361",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -3949,20 +3907,6 @@
       "canton": "BE",
       "lat": 46.74045944213867,
       "lng": 7.60764217376709
-    },
-    {
-      "key": "101942",
-      "category": "Brevet Plus Pool",
-      "city": "Ingenbohl",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "SLRG Sihlsee-Einsiedeln",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101942",
-      "canton": "SZ",
-      "lat": 47.002071380615234,
-      "lng": 8.595454216003418
     },
     {
       "key": "102171",
@@ -17475,5 +17419,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-09T07:03:15+0000"
+  "geocoded_at": "2026-05-09T09:05:02+0000"
 }
