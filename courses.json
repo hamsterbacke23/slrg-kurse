@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T17:39:29+0000",
-  "count": 1233,
+  "scraped_at": "2026-05-09T18:40:15+0000",
+  "count": 1232,
   "courses": [
     {
       "key": "98223",
@@ -743,20 +743,6 @@
       "canton": "NE",
       "lat": 47.020973205566406,
       "lng": 6.9480791091918945
-    },
-    {
-      "key": "99033",
-      "category": "WK Pool Plus",
-      "city": "Mels",
-      "first_date": "2026-05-09",
-      "last_date": "2026-05-09",
-      "company": "SLRG Sarganserland",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99033",
-      "canton": "SG",
-      "lat": 47.00428009033203,
-      "lng": 9.317394256591797
     },
     {
       "key": "100747",
@@ -17265,5 +17251,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-09T17:39:29+0000"
+  "geocoded_at": "2026-05-09T18:40:15+0000"
 }
