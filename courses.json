@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T01:28:10+0000",
-  "count": 1248,
+  "scraped_at": "2026-05-09T04:57:39+0000",
+  "count": 1247,
   "courses": [
     {
       "key": "98223",
@@ -883,20 +883,6 @@
       "canton": "GR",
       "lat": 46.81983947753906,
       "lng": 9.450693130493164
-    },
-    {
-      "key": "101423",
-      "category": "Brevet Plus Pool",
-      "city": "Bülach",
-      "first_date": "2026-05-09",
-      "last_date": "2026-05-09",
-      "company": "SLRG Bülach",
-      "participation_max": 24,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101423",
-      "canton": "ZH",
-      "lat": 47.53010559082031,
-      "lng": 8.541247367858887
     },
     {
       "key": "101530",
@@ -10020,7 +10006,7 @@
       "last_date": "2026-08-15",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100968",
       "canton": null,
       "lat": null,
@@ -17475,5 +17461,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-09T01:28:10+0000"
+  "geocoded_at": "2026-05-09T04:57:39+0000"
 }
