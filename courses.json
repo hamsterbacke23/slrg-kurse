@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-09T10:43:42+0000",
+  "scraped_at": "2026-05-09T11:39:10+0000",
   "count": 1243,
   "courses": [
     {
@@ -2320,7 +2320,7 @@
       "last_date": "2026-05-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98749",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -7710,7 +7710,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102057",
       "canton": "BE",
       "lat": 46.74281311035156,
@@ -14486,7 +14486,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Sektion Bern",
       "participation_max": 4,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100980",
       "canton": null,
       "lat": null,
@@ -17405,5 +17405,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-09T10:43:42+0000"
+  "geocoded_at": "2026-05-09T11:39:10+0000"
 }
