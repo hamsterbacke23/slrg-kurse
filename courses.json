@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T04:57:39+0000",
-  "count": 1247,
+  "scraped_at": "2026-05-09T07:03:15+0000",
+  "count": 1248,
   "courses": [
     {
       "key": "98223",
@@ -766,7 +766,7 @@
       "last_date": "2026-05-08",
       "company": "SSS Sion",
       "participation_max": 18,
-      "registered": 11,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102243",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -883,6 +883,20 @@
       "canton": "GR",
       "lat": 46.81983947753906,
       "lng": 9.450693130493164
+    },
+    {
+      "key": "101423",
+      "category": "Brevet Plus Pool",
+      "city": "Bülach",
+      "first_date": "2026-05-09",
+      "last_date": "2026-05-09",
+      "company": "SLRG Bülach",
+      "participation_max": 24,
+      "registered": 13,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101423",
+      "canton": "ZH",
+      "lat": 47.53010559082031,
+      "lng": 8.541247367858887
     },
     {
       "key": "101530",
@@ -3272,7 +3286,7 @@
       "last_date": "2026-05-28",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102505",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -3706,7 +3720,7 @@
       "last_date": "2026-05-30",
       "company": "SSS Sion",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102434",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -4644,7 +4658,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101876",
       "canton": "LU",
       "lat": 47.191654205322266,
@@ -5386,7 +5400,7 @@
       "last_date": "2026-06-12",
       "company": "SSS St. Maurice",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102070",
       "canton": null,
       "lat": null,
@@ -6660,7 +6674,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99570",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -9166,7 +9180,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
       "canton": null,
       "lat": null,
@@ -15382,7 +15396,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101050",
       "canton": null,
       "lat": null,
@@ -15816,7 +15830,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101615",
       "canton": null,
       "lat": null,
@@ -15914,7 +15928,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101616",
       "canton": null,
       "lat": null,
@@ -17461,5 +17475,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-09T04:57:39+0000"
+  "geocoded_at": "2026-05-09T07:03:15+0000"
 }
