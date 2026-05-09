@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T20:31:38+0000",
-  "count": 1232,
+  "scraped_at": "2026-05-09T21:31:39+0000",
+  "count": 1231,
   "courses": [
     {
       "key": "98223",
@@ -1571,20 +1571,6 @@
       "lng": 8.697005271911621
     },
     {
-      "key": "101190",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SLRG Rüti",
-      "participation_max": 20,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101190",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101269",
       "category": "WK See",
       "city": "Arbon",
@@ -2040,7 +2026,7 @@
       "last_date": "2026-05-26",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101455",
       "canton": null,
       "lat": null,
@@ -17251,5 +17237,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-09T20:31:38+0000"
+  "geocoded_at": "2026-05-09T21:31:39+0000"
 }
