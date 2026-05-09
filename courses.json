@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T11:39:10+0000",
-  "count": 1243,
+  "scraped_at": "2026-05-09T12:44:57+0000",
+  "count": 1239,
   "courses": [
     {
       "key": "98223",
@@ -549,20 +549,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "101105",
-      "category": "Brevet Basis Pool",
-      "city": "Lugano",
-      "first_date": "2026-05-04",
-      "last_date": "2026-05-05",
-      "company": "SSS Lugano",
-      "participation_max": 20,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101105",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
       "key": "101179",
       "category": "Brevet Basis Pool",
       "city": "Charmey (Gruyère)",
@@ -605,20 +591,6 @@
       "lng": null
     },
     {
-      "key": "101106",
-      "category": "Modul BLS-AED",
-      "city": "Lugano",
-      "first_date": "2026-05-06",
-      "last_date": "2026-05-06",
-      "company": "SSS Lugano",
-      "participation_max": 15,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101106",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
       "key": "101436",
       "category": "Brevet Basis Pool",
       "city": "Mettmenstetten",
@@ -631,20 +603,6 @@
       "canton": "ZH",
       "lat": 47.24346160888672,
       "lng": 8.460609436035156
-    },
-    {
-      "key": "101107",
-      "category": "Brevet Plus Pool",
-      "city": "Lugano",
-      "first_date": "2026-05-07",
-      "last_date": "2026-05-08",
-      "company": "SSS Lugano",
-      "participation_max": 18,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101107",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
     },
     {
       "key": "102581",
@@ -729,20 +687,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101108",
-      "category": "WK Pool Plus",
-      "city": "Lugano",
-      "first_date": "2026-05-08",
-      "last_date": "2026-05-08",
-      "company": "SSS Lugano",
-      "participation_max": 15,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101108",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
     },
     {
       "key": "101526",
@@ -2264,7 +2208,7 @@
       "last_date": "2026-05-20",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102294",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -6506,7 +6450,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102665",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -17405,5 +17349,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-09T11:39:10+0000"
+  "geocoded_at": "2026-05-09T12:44:57+0000"
 }
