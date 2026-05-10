@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-10T18:41:38+0000",
-  "count": 1223,
+  "scraped_at": "2026-05-10T19:50:32+0000",
+  "count": 1224,
   "courses": [
     {
       "key": "98223",
@@ -449,6 +449,20 @@
       "canton": "AG",
       "lat": 47.41621017456055,
       "lng": 8.18368911743164
+    },
+    {
+      "key": "101131",
+      "category": "WK Pool Basis",
+      "city": "Gossau SG",
+      "first_date": "2026-05-02",
+      "last_date": "2026-05-02",
+      "company": "SLRG Toggenburg",
+      "participation_max": 3,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101131",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
     },
     {
       "key": "102528",
@@ -1592,7 +1606,7 @@
       "last_date": "2026-05-16",
       "company": "SLRG Region Zentral",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102614",
       "canton": null,
       "lat": null,
@@ -2992,7 +3006,7 @@
       "last_date": "2026-05-29",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101343",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -3342,7 +3356,7 @@
       "last_date": "2026-05-30",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102371",
       "canton": "AG",
       "lat": 47.41621017456055,
@@ -4266,7 +4280,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Wald",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101621",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -4462,7 +4476,7 @@
       "last_date": "2026-06-07",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101130",
       "canton": null,
       "lat": null,
@@ -5876,7 +5890,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101495",
       "canton": "TG",
       "lat": 47.64158630371094,
@@ -7262,7 +7276,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Innerschwyz",
       "participation_max": 18,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101473",
       "canton": "SO",
       "lat": 47.42806625366211,
@@ -7500,7 +7514,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102345",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -11490,7 +11504,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102282",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -13408,7 +13422,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -17125,5 +17139,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-10T18:41:38+0000"
+  "geocoded_at": "2026-05-10T19:50:32+0000"
 }
