@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-10T07:51:39+0000",
-  "count": 1225,
+  "scraped_at": "2026-05-10T09:18:46+0000",
+  "count": 1226,
   "courses": [
     {
       "key": "98223",
@@ -962,7 +962,7 @@
       "last_date": "2026-05-21",
       "company": "SLRG Zug",
       "participation_max": 30,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99833",
       "canton": null,
       "lat": null,
@@ -1457,20 +1457,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "99877",
-      "category": "Brevet Basis Pool",
-      "city": "La Sarraz",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99877",
-      "canton": "VD",
-      "lat": 46.65501022338867,
-      "lng": 6.508055686950684
     },
     {
       "key": "100610",
@@ -2782,7 +2768,7 @@
       "last_date": "2026-05-27",
       "company": "SLRG Appenzell",
       "participation_max": 15,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100199",
       "canton": "ZH",
       "lat": 47.49414825439453,
@@ -4579,6 +4565,20 @@
       "canton": "ZH",
       "lat": 47.42268371582031,
       "lng": 8.613987922668457
+    },
+    {
+      "key": "102586",
+      "category": "Brevet Basis Pool",
+      "city": "Neuchâtel",
+      "first_date": "2026-06-07",
+      "last_date": "2026-06-07",
+      "company": "Swimsports",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102586",
+      "canton": "NE",
+      "lat": 47.020973205566406,
+      "lng": 6.9480791091918945
     },
     {
       "key": "100870",
@@ -6954,7 +6954,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Nidwalden",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101602",
       "canton": "NW",
       "lat": 46.9562873840332,
@@ -9726,7 +9726,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101488",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -15165,6 +15165,20 @@
       "lng": 6.5047807693481445
     },
     {
+      "key": "102585",
+      "category": "Brevet Basis Pool",
+      "city": "Neuchâtel",
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-08",
+      "company": "Swimsports",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102585",
+      "canton": "NE",
+      "lat": 47.020973205566406,
+      "lng": 6.9480791091918945
+    },
+    {
       "key": "101518",
       "category": "Brevet Basis Pool",
       "city": "Lugano",
@@ -17153,5 +17167,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-10T07:51:39+0000"
+  "geocoded_at": "2026-05-10T09:18:46+0000"
 }
