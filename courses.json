@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-10T01:29:27+0000",
-  "count": 1231,
+  "scraped_at": "2026-05-10T05:25:16+0000",
+  "count": 1229,
   "courses": [
     {
       "key": "98223",
@@ -773,20 +773,6 @@
       "lng": 9.450693130493164
     },
     {
-      "key": "101423",
-      "category": "Brevet Plus Pool",
-      "city": "Bülach",
-      "first_date": "2026-05-09",
-      "last_date": "2026-05-09",
-      "company": "SLRG Bülach",
-      "participation_max": 24,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101423",
-      "canton": "ZH",
-      "lat": 47.53010559082031,
-      "lng": 8.541247367858887
-    },
-    {
       "key": "101530",
       "category": "WK Pool Pro",
       "city": "Lugano",
@@ -897,20 +883,6 @@
       "canton": "ZH",
       "lat": 47.25200271606445,
       "lng": 8.768488883972168
-    },
-    {
-      "key": "101879",
-      "category": "Brevet Basis Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-05-10",
-      "last_date": "2026-05-10",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 27,
-      "registered": 26,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101879",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
     },
     {
       "key": "102301",
@@ -17237,5 +17209,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-10T01:29:27+0000"
+  "geocoded_at": "2026-05-10T05:25:16+0000"
 }
