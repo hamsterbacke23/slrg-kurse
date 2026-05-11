@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-11T19:22:53+0000",
-  "count": 1224,
+  "scraped_at": "2026-05-11T21:07:22+0000",
+  "count": 1219,
   "courses": [
     {
       "key": "98223",
@@ -451,20 +451,6 @@
       "lng": 8.18368911743164
     },
     {
-      "key": "101131",
-      "category": "WK Pool Basis",
-      "city": "Gossau SG",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-02",
-      "company": "SLRG Toggenburg",
-      "participation_max": 3,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101131",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
-    },
-    {
       "key": "102528",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -717,20 +703,6 @@
       "lng": 7.590269565582275
     },
     {
-      "key": "99541",
-      "category": "WK BLS-AED",
-      "city": "Cernier",
-      "first_date": "2026-05-11",
-      "last_date": "2026-05-11",
-      "company": "SSS Val-de-Ruz",
-      "participation_max": 7,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99541",
-      "canton": "NE",
-      "lat": 47.06060028076172,
-      "lng": 6.902266502380371
-    },
-    {
       "key": "100854",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -808,7 +780,7 @@
       "last_date": "2026-05-12",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 18,
-      "registered": 13,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101278",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -1158,7 +1130,7 @@
       "last_date": "2026-05-17",
       "company": "SLRG Fricktal",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101841",
       "canton": "VS",
       "lat": 46.41127014160156,
@@ -3055,20 +3027,6 @@
       "lng": 8.897355079650879
     },
     {
-      "key": "101249",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101249",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101333",
       "category": "Brevet Basis Pool",
       "city": "Arbon",
@@ -3419,20 +3377,6 @@
       "lng": 8.966944694519043
     },
     {
-      "key": "101564",
-      "category": "Modul Fluss",
-      "city": "Appenzell",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101564",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
       "key": "101613",
       "category": "Modul See",
       "city": "",
@@ -3706,7 +3650,7 @@
       "last_date": "2026-06-03",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100785",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4280,7 +4224,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102507",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -4621,20 +4565,6 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
-    },
-    {
-      "key": "100212",
-      "category": "WK Pool Pro",
-      "city": "Appenzell",
-      "first_date": "2026-06-10",
-      "last_date": "2026-06-10",
-      "company": "SLRG Appenzell",
-      "participation_max": 4,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100212",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
     },
     {
       "key": "100405",
@@ -5596,7 +5526,7 @@
       "last_date": "2026-06-13",
       "company": "SSS St. Imier",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102446",
       "canton": "BE",
       "lat": 47.152610778808594,
@@ -6515,16 +6445,16 @@
     {
       "key": "101624",
       "category": "Brevet Plus Pool",
-      "city": "",
+      "city": "Wald ZH",
       "first_date": "2026-06-20",
       "last_date": "2026-06-20",
       "company": "SLRG Wald",
       "participation_max": 24,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101624",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "ZH",
+      "lat": 47.28373718261719,
+      "lng": 8.916254043579102
     },
     {
       "key": "101708",
@@ -6940,7 +6870,7 @@
       "last_date": "2026-06-26",
       "company": "SSS Paradiso",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102104",
       "canton": null,
       "lat": null,
@@ -7453,30 +7383,30 @@
     {
       "key": "102067",
       "category": "Modul See",
-      "city": "",
+      "city": "Auslikon",
       "first_date": "2026-06-27",
       "last_date": "2026-06-27",
       "company": "SLRG Wald",
       "participation_max": 20,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102067",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "ZH",
+      "lat": 47.34419631958008,
+      "lng": 8.807774543762207
     },
     {
       "key": "102068",
       "category": "WK See",
-      "city": "",
+      "city": "Auslikon",
       "first_date": "2026-06-27",
       "last_date": "2026-06-27",
       "company": "SLRG Wald",
       "participation_max": 10,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102068",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "ZH",
+      "lat": 47.34419631958008,
+      "lng": 8.807774543762207
     },
     {
       "key": "102108",
@@ -7766,7 +7696,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102094",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -9600,7 +9530,7 @@
       "last_date": "2026-08-14",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102258",
       "canton": "LU",
       "lat": 47.140193939208984,
@@ -11345,7 +11275,7 @@
     {
       "key": "102081",
       "category": "Brevet Basis Pool",
-      "city": "Wald",
+      "city": "Wald ZH",
       "first_date": "2026-09-05",
       "last_date": "2026-09-05",
       "company": "SLRG Wald",
@@ -12946,7 +12876,7 @@
       "last_date": "2026-10-03",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99937",
       "canton": null,
       "lat": null,
@@ -17139,5 +17069,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-11T19:22:53+0000"
+  "geocoded_at": "2026-05-11T21:07:24+0000"
 }

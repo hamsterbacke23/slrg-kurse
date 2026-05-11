@@ -41,6 +41,12 @@
     "lat": 46.148372650146484,
     "lng": 8.76872730255127
   },
+  "Auslikon": {
+    "canton": "ZH",
+    "label": "Ort Auslikon (ZH) - Pfäffikon",
+    "lat": 47.34419631958008,
+    "lng": 8.807774543762207
+  },
   "Baden": {
     "canton": "AG",
     "label": "Baden (AG)",
