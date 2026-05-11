@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-11T01:48:02+0000",
+  "scraped_at": "2026-05-11T05:46:18+0000",
   "count": 1218,
   "courses": [
     {
@@ -1620,7 +1620,7 @@
       "last_date": "2026-05-17",
       "company": "SLRG Fricktal",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101839",
       "canton": "VS",
       "lat": 46.41127014160156,
@@ -6492,7 +6492,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Weggis",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102084",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -8326,7 +8326,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102271",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -10048,7 +10048,7 @@
       "last_date": "2026-08-20",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100864",
       "canton": null,
       "lat": null,
@@ -17055,5 +17055,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-11T01:48:02+0000"
+  "geocoded_at": "2026-05-11T05:46:18+0000"
 }
