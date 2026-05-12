@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-12T01:30:01+0000",
+  "scraped_at": "2026-05-12T05:27:27+0000",
   "count": 1218,
   "courses": [
     {
@@ -703,6 +703,20 @@
       "lng": null
     },
     {
+      "key": "102642",
+      "category": "Modul See",
+      "city": "",
+      "first_date": "2026-05-11",
+      "last_date": "2026-09-09",
+      "company": "Polizeischule Ostschweiz",
+      "participation_max": 18,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102642",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99336",
       "category": "WK Pool Plus",
       "city": "Winterthur",
@@ -771,20 +785,6 @@
       "canton": "NE",
       "lat": 47.11421203613281,
       "lng": 6.84379243850708
-    },
-    {
-      "key": "101821",
-      "category": "Modul BLS-AED",
-      "city": "Studen BE",
-      "first_date": "2026-05-12",
-      "last_date": "2026-05-12",
-      "company": "SLRG Bielersee",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101821",
-      "canton": "BE",
-      "lat": 47.11361312866211,
-      "lng": 7.3059468269348145
     },
     {
       "key": "102138",
@@ -2950,7 +2950,7 @@
       "last_date": "2026-05-30",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 9,
-      "registered": 9,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99934",
       "canton": null,
       "lat": null,
@@ -4224,7 +4224,7 @@
       "last_date": "2026-06-07",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102659",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -5246,7 +5246,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101340",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -5610,7 +5610,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Rapperswil-Jona",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100913",
       "canton": null,
       "lat": null,
@@ -17055,5 +17055,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-12T01:30:01+0000"
+  "geocoded_at": "2026-05-12T05:27:27+0000"
 }
