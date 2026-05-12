@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-12T21:59:55+0000",
+  "scraped_at": "2026-05-12T23:00:23+0000",
   "count": 1211,
   "courses": [
     {
@@ -3678,7 +3678,7 @@
       "last_date": "2026-06-14",
       "company": "SSS Prilly",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101632",
       "canton": "VD",
       "lat": 46.53825378417969,
@@ -16957,5 +16957,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-12T21:59:55+0000"
+  "geocoded_at": "2026-05-12T23:00:23+0000"
 }
