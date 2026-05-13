@@ -678,6 +678,12 @@
     "lat": 46.232147216796875,
     "lng": 6.076141357421875
   },
+  "Monthey": {
+    "canton": "VS",
+    "label": "Monthey (VS)",
+    "lat": 46.243896484375,
+    "lng": 6.954207420349121
+  },
   "Moosseedorf": {
     "canton": "BE",
     "label": "Moosseedorf (BE)",
