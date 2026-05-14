@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-14T18:26:22+0000",
-  "count": 1205,
+  "scraped_at": "2026-05-14T20:21:37+0000",
+  "count": 1203,
   "courses": [
     {
       "key": "98223",
@@ -759,20 +759,6 @@
       "lng": null
     },
     {
-      "key": "102118",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-05-13",
-      "last_date": "2026-05-13",
-      "company": "SSS Estavayer-le-Lac",
-      "participation_max": 16,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102118",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102168",
       "category": "WK Pool Plus",
       "city": "Porrentruy",
@@ -807,7 +793,7 @@
       "first_date": "2026-05-14",
       "last_date": "2026-05-14",
       "company": "SSS Paradiso",
-      "participation_max": 20,
+      "participation_max": 22,
       "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102651",
       "canton": "TI",
@@ -933,8 +919,8 @@
       "first_date": "2026-05-15",
       "last_date": "2026-05-15",
       "company": "SSS Paradiso",
-      "participation_max": 15,
-      "registered": 15,
+      "participation_max": 16,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102652",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -2299,20 +2285,6 @@
       "lng": 8.333881378173828
     },
     {
-      "key": "102002",
-      "category": "Modul Fluss",
-      "city": "Bremgarten AG",
-      "first_date": "2026-05-27",
-      "last_date": "2026-05-31",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 5,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102002",
-      "canton": "AG",
-      "lat": 47.346309661865234,
-      "lng": 8.333881378173828
-    },
-    {
       "key": "102295",
       "category": "WK BLS-AED",
       "city": "Fribourg",
@@ -2922,7 +2894,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Illnau-Effretikon",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102595",
       "canton": null,
       "lat": null,
@@ -3986,7 +3958,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102676",
       "canton": "BE",
       "lat": 46.930362701416016,
@@ -5190,7 +5162,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Baden-Brugg",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102401",
       "canton": null,
       "lat": null,
@@ -6702,7 +6674,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Solothurn",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102749",
       "canton": null,
       "lat": null,
@@ -16873,5 +16845,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-14T18:26:23+0000"
+  "geocoded_at": "2026-05-14T20:21:37+0000"
 }
