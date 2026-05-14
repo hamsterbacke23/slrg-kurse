@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-14T16:02:35+0000",
-  "count": 1206,
+  "scraped_at": "2026-05-14T18:26:22+0000",
+  "count": 1205,
   "courses": [
     {
       "key": "98223",
@@ -1535,8 +1535,8 @@
       "first_date": "2026-05-21",
       "last_date": "2026-05-21",
       "company": "SLRG Thalwil-Langnau",
-      "participation_max": 5,
-      "registered": 5,
+      "participation_max": 6,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98749",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -3111,20 +3111,6 @@
       "lng": 7.60764217376709
     },
     {
-      "key": "101942",
-      "category": "Brevet Plus Pool",
-      "city": "Ingenbohl",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "SLRG Sihlsee-Einsiedeln",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101942",
-      "canton": "SZ",
-      "lat": 47.002071380615234,
-      "lng": 8.595454216003418
-    },
-    {
       "key": "102171",
       "category": "WK BLS-AED",
       "city": "Porrentruy",
@@ -3720,7 +3706,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Baldeggersee",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100832",
       "canton": "AG",
       "lat": 47.46938705444336,
@@ -5764,7 +5750,7 @@
       "last_date": "2026-06-18",
       "company": "Società Svizzera di Salvataggio Chiasso",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100506",
       "canton": null,
       "lat": null,
@@ -5876,7 +5862,7 @@
       "last_date": "2026-06-22",
       "company": "Società Svizzera di Salvataggio Chiasso",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100507",
       "canton": null,
       "lat": null,
@@ -5932,7 +5918,7 @@
       "last_date": "2026-06-19",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102731",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -8662,7 +8648,7 @@
       "last_date": "2026-07-26",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100846",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -16887,5 +16873,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-14T16:02:36+0000"
+  "geocoded_at": "2026-05-14T18:26:23+0000"
 }
