@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-15T17:18:12+0000",
+  "scraped_at": "2026-05-15T19:11:07+0000",
   "count": 1199,
   "courses": [
     {
@@ -808,7 +808,7 @@
       "last_date": "2026-05-15",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102652",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1983,7 +1983,7 @@
       "first_date": "2026-05-24",
       "last_date": "2026-05-24",
       "company": "SLRG Zug",
-      "participation_max": 12,
+      "participation_max": 9,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99843",
       "canton": "ZG",
@@ -3748,7 +3748,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Thun-Oberland",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102259",
       "canton": "BE",
       "lat": 46.69535446166992,
@@ -3804,7 +3804,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Genève",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102507",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -7374,7 +7374,7 @@
       "last_date": "2026-07-01",
       "company": "SLRG Arbon",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101338",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -13254,7 +13254,7 @@
       "last_date": "2026-10-26",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100153",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -16789,5 +16789,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-15T17:18:12+0000"
+  "geocoded_at": "2026-05-15T19:11:07+0000"
 }
