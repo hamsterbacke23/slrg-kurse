@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-15T22:41:32+0000",
+  "scraped_at": "2026-05-15T23:42:33+0000",
   "count": 1193,
   "courses": [
     {
@@ -14528,7 +14528,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Altberg",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102211",
       "canton": null,
       "lat": null,
@@ -16705,5 +16705,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-15T22:41:32+0000"
+  "geocoded_at": "2026-05-15T23:42:33+0000"
 }
