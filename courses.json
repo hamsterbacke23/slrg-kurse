@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-15T20:46:23+0000",
-  "count": 1199,
+  "scraped_at": "2026-05-15T21:45:14+0000",
+  "count": 1197,
   "courses": [
     {
       "key": "98223",
@@ -703,20 +703,6 @@
       "lng": 7.06839656829834
     },
     {
-      "key": "102651",
-      "category": "Brevet Basis Pool",
-      "city": "Paradiso",
-      "first_date": "2026-05-14",
-      "last_date": "2026-05-14",
-      "company": "SSS Paradiso",
-      "participation_max": 22,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102651",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
       "key": "98470",
       "category": "Modul See",
       "city": "Sempach",
@@ -799,20 +785,6 @@
       "canton": "VD",
       "lat": 46.44438552856445,
       "lng": 6.891254425048828
-    },
-    {
-      "key": "102652",
-      "category": "Brevet Plus Pool",
-      "city": "Paradiso",
-      "first_date": "2026-05-15",
-      "last_date": "2026-05-15",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102652",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "99428",
@@ -16789,5 +16761,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-15T20:46:23+0000"
+  "geocoded_at": "2026-05-15T21:45:15+0000"
 }
