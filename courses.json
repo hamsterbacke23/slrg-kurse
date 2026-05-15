@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-15T05:43:02+0000",
-  "count": 1204,
+  "scraped_at": "2026-05-15T08:34:00+0000",
+  "count": 1205,
   "courses": [
     {
       "key": "98223",
@@ -332,7 +332,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Sektion Bern",
       "participation_max": 70,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102340",
       "canton": null,
       "lat": null,
@@ -654,7 +654,7 @@
       "last_date": "2026-05-21",
       "company": "SLRG Zug",
       "participation_max": 30,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99833",
       "canton": null,
       "lat": null,
@@ -1676,7 +1676,7 @@
       "last_date": "2026-05-22",
       "company": "SSS Paradiso",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102733",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -2796,7 +2796,7 @@
       "last_date": "2026-05-30",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102371",
       "canton": "AG",
       "lat": 47.41621017456055,
@@ -3041,6 +3041,20 @@
       "lng": 7.60764217376709
     },
     {
+      "key": "101942",
+      "category": "Brevet Plus Pool",
+      "city": "Ingenbohl",
+      "first_date": "2026-05-31",
+      "last_date": "2026-05-31",
+      "company": "SLRG Sihlsee-Einsiedeln",
+      "participation_max": 12,
+      "registered": 8,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101942",
+      "canton": "SZ",
+      "lat": 47.002071380615234,
+      "lng": 8.595454216003418
+    },
+    {
       "key": "102171",
       "category": "WK BLS-AED",
       "city": "Porrentruy",
@@ -3160,7 +3174,7 @@
       "last_date": "2026-06-15",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102133",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -4994,7 +5008,7 @@
       "last_date": "2026-06-14",
       "company": "SSS Val-de-Ruz",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101760",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -16859,5 +16873,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-15T05:43:02+0000"
+  "geocoded_at": "2026-05-15T08:34:00+0000"
 }
