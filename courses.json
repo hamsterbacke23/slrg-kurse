@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-15T21:45:14+0000",
-  "count": 1197,
+  "scraped_at": "2026-05-15T22:41:32+0000",
+  "count": 1193,
   "courses": [
     {
       "key": "98223",
@@ -731,20 +731,6 @@
       "lng": null
     },
     {
-      "key": "99836",
-      "category": "Brevet Pro Pool",
-      "city": "",
-      "first_date": "2026-05-15",
-      "last_date": "2026-05-15",
-      "company": "SLRG Zug",
-      "participation_max": 10,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99836",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101841",
       "category": "Jugendbrevet",
       "city": "Fiesch",
@@ -967,48 +953,6 @@
       "canton": "BE",
       "lat": 47.185791015625,
       "lng": 7.711877822875977
-    },
-    {
-      "key": "102612",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SLRG Region Zentral",
-      "participation_max": 16,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102612",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102613",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SLRG Region Zentral",
-      "participation_max": 16,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102613",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102614",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SLRG Region Zentral",
-      "participation_max": 16,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102614",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102653",
@@ -16761,5 +16705,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-15T21:45:15+0000"
+  "geocoded_at": "2026-05-15T22:41:32+0000"
 }
