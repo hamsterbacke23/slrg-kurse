@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-16T18:44:05+0000",
-  "count": 1182,
+  "scraped_at": "2026-05-16T19:54:04+0000",
+  "count": 1180,
   "courses": [
     {
       "key": "98223",
@@ -731,20 +731,6 @@
       "lng": 6.231893062591553
     },
     {
-      "key": "101578",
-      "category": "WK Expert Pool",
-      "city": "Hitzkirch",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SLRG Region Zentral",
-      "participation_max": 32,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101578",
-      "canton": "LU",
-      "lat": 47.22014236450195,
-      "lng": 8.275691032409668
-    },
-    {
       "key": "101581",
       "category": "WK Expert See",
       "city": "Ebikon",
@@ -922,20 +908,6 @@
       "participation_max": 16,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102615",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102616",
-      "category": "WK Fluss",
-      "city": "",
-      "first_date": "2026-05-17",
-      "last_date": "2026-05-17",
-      "company": "SLRG Region Zentral",
-      "participation_max": 16,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102616",
       "canton": null,
       "lat": null,
       "lng": null
@@ -3384,7 +3356,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101134",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -4378,7 +4350,7 @@
       "last_date": "2026-06-13",
       "company": "SSS La Côte",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100586",
       "canton": "VD",
       "lat": 46.42595672607422,
@@ -15746,7 +15718,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101729",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -16551,5 +16523,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-16T18:44:05+0000"
+  "geocoded_at": "2026-05-16T19:54:04+0000"
 }
