@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-16T10:52:14+0000",
-  "count": 1192,
+  "scraped_at": "2026-05-16T11:40:54+0000",
+  "count": 1190,
   "courses": [
     {
       "key": "98223",
@@ -785,34 +785,6 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
-    },
-    {
-      "key": "99692",
-      "category": "Modul BLS-AED",
-      "city": "Sion",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SSS Sion",
-      "participation_max": 4,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99692",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
-      "key": "99693",
-      "category": "WK BLS-AED",
-      "city": "Sion",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SSS Sion",
-      "participation_max": 3,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99693",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "100610",
@@ -4938,7 +4910,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Altberg",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102209",
       "canton": "ZH",
       "lat": 47.38089370727539,
@@ -5554,7 +5526,7 @@
       "last_date": "2026-06-18",
       "company": "SLRG Frauenfeld",
       "participation_max": 5,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102640",
       "canton": null,
       "lat": null,
@@ -6184,7 +6156,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101045",
       "canton": null,
       "lat": null,
@@ -16691,5 +16663,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-16T10:52:14+0000"
+  "geocoded_at": "2026-05-16T11:40:54+0000"
 }
