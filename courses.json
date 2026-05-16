@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-16T11:40:54+0000",
-  "count": 1190,
+  "scraped_at": "2026-05-16T12:51:00+0000",
+  "count": 1186,
   "courses": [
     {
       "key": "98223",
@@ -465,34 +465,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "101576",
-      "category": "WK Modul Methodik",
-      "city": "Hitzkirch",
-      "first_date": "2026-05-05",
-      "last_date": "2026-05-16",
-      "company": "SLRG Region Zentral",
-      "participation_max": 32,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101576",
-      "canton": "LU",
-      "lat": 47.22014236450195,
-      "lng": 8.275691032409668
-    },
-    {
-      "key": "101577",
-      "category": "WK Modul SLRG",
-      "city": "",
-      "first_date": "2026-05-05",
-      "last_date": "2026-05-05",
-      "company": "SLRG Region Zentral",
-      "participation_max": 32,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101577",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101436",
       "category": "Brevet Basis Pool",
       "city": "Mettmenstetten",
@@ -787,20 +759,6 @@
       "lng": 9.425399780273438
     },
     {
-      "key": "100610",
-      "category": "WK See",
-      "city": "Männedorf",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SLRG Männedorf",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100610",
-      "canton": "ZH",
-      "lat": 47.259639739990234,
-      "lng": 8.697005271911621
-    },
-    {
       "key": "101269",
       "category": "WK See",
       "city": "Arbon",
@@ -838,20 +796,6 @@
       "participation_max": 32,
       "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101578",
-      "canton": "LU",
-      "lat": 47.22014236450195,
-      "lng": 8.275691032409668
-    },
-    {
-      "key": "101579",
-      "category": "WK Expert BLS-AED inkl. SRC-Rollout 2025",
-      "city": "Hitzkirch",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SLRG Region Zentral",
-      "participation_max": 32,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101579",
       "canton": "LU",
       "lat": 47.22014236450195,
       "lng": 8.275691032409668
@@ -4629,8 +4573,8 @@
       "first_date": "2026-06-13",
       "last_date": "2026-06-13",
       "company": "SLRG Rapperswil-Jona",
-      "participation_max": 14,
-      "registered": 14,
+      "participation_max": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100912",
       "canton": "SG",
       "lat": 47.23091506958008,
@@ -11777,20 +11721,6 @@
       "lng": null
     },
     {
-      "key": "101723",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-09-19",
-      "last_date": "2026-10-24",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102262",
       "category": "Modul See",
       "city": "Goldswil b. Interlaken",
@@ -13513,6 +13443,20 @@
       "lng": 6.9480791091918945
     },
     {
+      "key": "101723",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-31",
+      "company": "SLRG Toggenburg",
+      "participation_max": 12,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102051",
       "category": "WK Pool Plus",
       "city": "Bützberg",
@@ -13847,20 +13791,6 @@
       "canton": "BE",
       "lat": 47.14190673828125,
       "lng": 7.375695705413818
-    },
-    {
-      "key": "101724",
-      "category": "Brevet Plus Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-10-31",
-      "last_date": "2026-11-07",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101724",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
     },
     {
       "key": "101861",
@@ -14407,6 +14337,20 @@
       "canton": "NE",
       "lat": 47.020973205566406,
       "lng": 6.9480791091918945
+    },
+    {
+      "key": "101724",
+      "category": "Brevet Plus Pool",
+      "city": "Gossau SG",
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-14",
+      "company": "SLRG Toggenburg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101724",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
     },
     {
       "key": "101873",
@@ -15017,7 +14961,7 @@
       "first_date": "2026-11-14",
       "last_date": "2026-11-21",
       "company": "SLRG Toggenburg",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101725",
       "canton": "SG",
@@ -16663,5 +16607,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-16T11:40:54+0000"
+  "geocoded_at": "2026-05-16T12:51:00+0000"
 }
