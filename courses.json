@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-16T14:16:27+0000",
-  "count": 1185,
+  "scraped_at": "2026-05-16T15:44:44+0000",
+  "count": 1184,
   "courses": [
     {
       "key": "98223",
@@ -535,20 +535,6 @@
       "lng": null
     },
     {
-      "key": "101608",
-      "category": "WK BLS-AED",
-      "city": "Neuchâtel",
-      "first_date": "2026-05-09",
-      "last_date": "2026-05-09",
-      "company": "SSS Section de Boudry",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101608",
-      "canton": "NE",
-      "lat": 47.020973205566406,
-      "lng": 6.9480791091918945
-    },
-    {
       "key": "102411",
       "category": "Brevet Basis Pool",
       "city": "Basel",
@@ -689,6 +675,20 @@
       "lng": 8.191203117370605
     },
     {
+      "key": "101281",
+      "category": "Brevet Plus Pool",
+      "city": "Fiesch",
+      "first_date": "2026-05-15",
+      "last_date": "2026-05-17",
+      "company": "SLRG Fricktal",
+      "participation_max": 10,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101281",
+      "canton": "VS",
+      "lat": 46.41127014160156,
+      "lng": 8.122138023376465
+    },
+    {
       "key": "101841",
       "category": "Jugendbrevet",
       "city": "Fiesch",
@@ -715,20 +715,6 @@
       "canton": "FL",
       "lat": 47.06768,
       "lng": 9.50294
-    },
-    {
-      "key": "99428",
-      "category": "Brevet Basis Pool",
-      "city": "Aarau",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-23",
-      "company": "SLRG Aarau",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99428",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
     },
     {
       "key": "99479",
@@ -4658,7 +4644,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 22,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101447",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -5904,7 +5890,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102539",
       "canton": null,
       "lat": null,
@@ -5932,7 +5918,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Region Ost",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102542",
       "canton": null,
       "lat": null,
@@ -7290,7 +7276,7 @@
       "last_date": "2026-07-02",
       "company": "SLRG Winterthur",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102608",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -7738,7 +7724,7 @@
       "last_date": "2026-07-06",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98408",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -9950,7 +9936,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -16593,5 +16579,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-16T14:16:27+0000"
+  "geocoded_at": "2026-05-16T15:44:44+0000"
 }
