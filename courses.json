@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-16T15:44:44+0000",
-  "count": 1184,
+  "scraped_at": "2026-05-16T16:41:19+0000",
+  "count": 1182,
   "courses": [
     {
       "key": "98223",
@@ -715,34 +715,6 @@
       "canton": "FL",
       "lat": 47.06768,
       "lng": 9.50294
-    },
-    {
-      "key": "99479",
-      "category": "Modul See",
-      "city": "Arbon",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 11,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99479",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
-      "key": "101269",
-      "category": "WK See",
-      "city": "Arbon",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101269",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
     },
     {
       "key": "101386",
@@ -16579,5 +16551,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-16T15:44:44+0000"
+  "geocoded_at": "2026-05-16T16:41:19+0000"
 }
