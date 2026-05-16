@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-16T20:35:29+0000",
-  "count": 1180,
+  "scraped_at": "2026-05-16T21:37:02+0000",
+  "count": 1178,
   "courses": [
     {
       "key": "98223",
@@ -785,20 +785,6 @@
       "canton": "BE",
       "lat": 47.185791015625,
       "lng": 7.711877822875977
-    },
-    {
-      "key": "102653",
-      "category": "WK BLS-AED",
-      "city": "Paradiso",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102653",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "99310",
@@ -1863,20 +1849,6 @@
       "canton": "ZH",
       "lat": 47.42268371582031,
       "lng": 8.613987922668457
-    },
-    {
-      "key": "100199",
-      "category": "WK BLS-AED",
-      "city": "Schule Schönengrund",
-      "first_date": "2026-05-27",
-      "last_date": "2026-05-27",
-      "company": "SLRG Appenzell",
-      "participation_max": 18,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100199",
-      "canton": "ZH",
-      "lat": 47.49414825439453,
-      "lng": 8.73709487915039
     },
     {
       "key": "100664",
@@ -13590,7 +13562,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100981",
       "canton": null,
       "lat": null,
@@ -16523,5 +16495,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-16T20:35:29+0000"
+  "geocoded_at": "2026-05-16T21:37:02+0000"
 }
