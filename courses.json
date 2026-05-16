@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-16T21:37:02+0000",
-  "count": 1178,
+  "scraped_at": "2026-05-16T22:33:27+0000",
+  "count": 1173,
   "courses": [
     {
       "key": "98223",
@@ -661,20 +661,6 @@
       "lng": 7.06839656829834
     },
     {
-      "key": "98470",
-      "category": "Modul See",
-      "city": "Sempach",
-      "first_date": "2026-05-15",
-      "last_date": "2026-05-16",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98470",
-      "canton": "LU",
-      "lat": 47.140193939208984,
-      "lng": 8.191203117370605
-    },
-    {
       "key": "101281",
       "category": "Brevet Plus Pool",
       "city": "Fiesch",
@@ -717,20 +703,6 @@
       "lng": 9.50294
     },
     {
-      "key": "101386",
-      "category": "Modul BLS-AED",
-      "city": "Le Sentier",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SSS Vallée de Joux",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101386",
-      "canton": "VD",
-      "lat": 46.60649871826172,
-      "lng": 6.231893062591553
-    },
-    {
       "key": "101581",
       "category": "WK Expert See",
       "city": "Ebikon",
@@ -771,20 +743,6 @@
       "canton": "VS",
       "lat": 46.41127014160156,
       "lng": 8.122138023376465
-    },
-    {
-      "key": "102064",
-      "category": "Modul BLS-AED",
-      "city": "Herzogenbuchsee",
-      "first_date": "2026-05-16",
-      "last_date": "2026-05-16",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102064",
-      "canton": "BE",
-      "lat": 47.185791015625,
-      "lng": 7.711877822875977
     },
     {
       "key": "99310",
@@ -857,20 +815,6 @@
       "lng": null
     },
     {
-      "key": "102270",
-      "category": "Brevet Basis Pool",
-      "city": "Dietlikon",
-      "first_date": "2026-05-17",
-      "last_date": "2026-05-17",
-      "company": "SLRG Kloten",
-      "participation_max": 18,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102270",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
-    },
-    {
       "key": "102552",
       "category": "WK See",
       "city": "",
@@ -880,20 +824,6 @@
       "participation_max": 12,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102552",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102615",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-05-17",
-      "last_date": "2026-05-17",
-      "company": "SLRG Region Zentral",
-      "participation_max": 16,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102615",
       "canton": null,
       "lat": null,
       "lng": null
@@ -16495,5 +16425,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-16T21:37:02+0000"
+  "geocoded_at": "2026-05-16T22:33:28+0000"
 }
