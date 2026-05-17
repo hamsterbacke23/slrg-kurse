@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-17T16:42:10+0000",
+  "scraped_at": "2026-05-17T17:44:47+0000",
   "count": 1169,
   "courses": [
     {
@@ -2978,7 +2978,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101710",
       "canton": "BE",
       "lat": 46.695247650146484,
@@ -4224,7 +4224,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100648",
       "canton": null,
       "lat": null,
@@ -4238,7 +4238,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100654",
       "canton": null,
       "lat": null,
@@ -4252,7 +4252,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100655",
       "canton": null,
       "lat": null,
@@ -4266,7 +4266,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100657",
       "canton": null,
       "lat": null,
@@ -5260,7 +5260,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102665",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -9964,7 +9964,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101127",
       "canton": null,
       "lat": null,
@@ -16369,5 +16369,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-17T16:42:10+0000"
+  "geocoded_at": "2026-05-17T17:44:47+0000"
 }
