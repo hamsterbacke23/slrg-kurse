@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-17T01:46:18+0000",
-  "count": 1173,
+  "scraped_at": "2026-05-17T05:37:20+0000",
+  "count": 1176,
   "courses": [
     {
       "key": "98223",
@@ -866,6 +866,48 @@
       "participation_max": 12,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102066",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102302",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-05-18",
+      "last_date": "2026-05-31",
+      "company": "Kantonsschule Ausserschwyz",
+      "participation_max": 15,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102302",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102736",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-05-18",
+      "last_date": "2026-05-31",
+      "company": "Kantonsschule Ausserschwyz",
+      "participation_max": 15,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102736",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102737",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-05-18",
+      "last_date": "2026-05-31",
+      "company": "Kantonsschule Ausserschwyz",
+      "participation_max": 15,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102737",
       "canton": null,
       "lat": null,
       "lng": null
@@ -16425,5 +16467,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-17T01:46:18+0000"
+  "geocoded_at": "2026-05-17T05:37:20+0000"
 }
