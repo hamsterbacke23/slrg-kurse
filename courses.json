@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-17T15:46:54+0000",
+  "scraped_at": "2026-05-17T16:42:10+0000",
   "count": 1169,
   "courses": [
     {
@@ -675,20 +675,6 @@
       "lng": 7.804457187652588
     },
     {
-      "key": "99480",
-      "category": "Modul See",
-      "city": "Arbon",
-      "first_date": "2026-05-17",
-      "last_date": "2026-05-17",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 9,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99480",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
       "key": "101838",
       "category": "WK Pool Plus",
       "city": "Fiesch",
@@ -1186,11 +1172,25 @@
       "last_date": "2026-06-11",
       "company": "SLRG Weggis",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102418",
       "canton": "LU",
       "lat": 47.03305435180664,
       "lng": 8.431046485900879
+    },
+    {
+      "key": "102620",
+      "category": "WK Pool Pro",
+      "city": "Romont FR",
+      "first_date": "2026-05-21",
+      "last_date": "2026-05-21",
+      "company": "SSS Romont",
+      "participation_max": 12,
+      "registered": 4,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102620",
+      "canton": "FR",
+      "lat": 46.69870376586914,
+      "lng": 6.923159599304199
     },
     {
       "key": "102733",
@@ -6744,7 +6744,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Wetzikon",
       "participation_max": 14,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102445",
       "canton": null,
       "lat": null,
@@ -16369,5 +16369,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-17T15:46:54+0000"
+  "geocoded_at": "2026-05-17T16:42:10+0000"
 }
