@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-17T11:51:16+0000",
+  "scraped_at": "2026-05-17T12:46:28+0000",
   "count": 1174,
   "courses": [
     {
@@ -1578,7 +1578,7 @@
       "last_date": "2026-05-24",
       "company": "SSS Riviera",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102596",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -5624,7 +5624,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Rüti",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101438",
       "canton": null,
       "lat": null,
@@ -6016,7 +6016,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102235",
       "canton": null,
       "lat": null,
@@ -6548,7 +6548,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101895",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7052,7 +7052,7 @@
       "last_date": "2026-07-01",
       "company": "SLRG Grenchen",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102226",
       "canton": null,
       "lat": null,
@@ -16439,5 +16439,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-17T11:51:16+0000"
+  "geocoded_at": "2026-05-17T12:46:28+0000"
 }
