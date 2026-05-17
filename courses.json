@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-17T05:37:20+0000",
-  "count": 1176,
+  "scraped_at": "2026-05-17T08:04:37+0000",
+  "count": 1175,
   "courses": [
     {
       "key": "98223",
@@ -983,20 +983,6 @@
       "lng": 8.541247367858887
     },
     {
-      "key": "101455",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-05-19",
-      "last_date": "2026-05-26",
-      "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101455",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101706",
       "category": "Modul See",
       "city": "Wädenswil",
@@ -1340,7 +1326,7 @@
       "last_date": "2026-05-22",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101901",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -8186,7 +8172,7 @@
       "last_date": "2026-07-26",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100846",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -8354,7 +8340,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100003",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -9166,7 +9152,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -9194,7 +9180,7 @@
       "last_date": "2026-08-21",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102105",
       "canton": "TI",
       "lat": 46.01959228515625,
@@ -16467,5 +16453,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-17T05:37:20+0000"
+  "geocoded_at": "2026-05-17T08:04:37+0000"
 }
