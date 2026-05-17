@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-17T08:04:37+0000",
+  "scraped_at": "2026-05-17T10:15:10+0000",
   "count": 1175,
   "courses": [
     {
@@ -1017,8 +1017,8 @@
       "first_date": "2026-05-20",
       "last_date": "2026-05-20",
       "company": "SSS Paradiso",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 13,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100935",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1214,7 +1214,7 @@
       "last_date": "2026-05-21",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101279",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -1466,7 +1466,7 @@
       "last_date": "2026-05-23",
       "company": "SLRG Innerschwyz",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99819",
       "canton": "SZ",
       "lat": 47.028141021728516,
@@ -2236,7 +2236,7 @@
       "last_date": "2026-05-30",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100814",
       "canton": "VS",
       "lat": 46.28894805908203,
@@ -2740,7 +2740,7 @@
       "last_date": "2026-06-01",
       "company": "ETH Zürich",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100580",
       "canton": null,
       "lat": null,
@@ -3356,7 +3356,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Wald",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101621",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -3426,7 +3426,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Lugano",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102440",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -5050,7 +5050,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102234",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -8564,7 +8564,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -16453,5 +16453,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-17T08:04:37+0000"
+  "geocoded_at": "2026-05-17T10:15:10+0000"
 }
