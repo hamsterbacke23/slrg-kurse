@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-18T01:55:12+0000",
+  "scraped_at": "2026-05-18T06:00:46+0000",
   "count": 1166,
   "courses": [
     {
@@ -864,7 +864,7 @@
       "last_date": "2026-05-19",
       "company": "SSS Genève",
       "participation_max": 4,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102590",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1130,7 +1130,7 @@
       "last_date": "2026-06-11",
       "company": "SLRG Weggis",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102418",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1242,7 +1242,7 @@
       "last_date": "2026-05-22",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102500",
       "canton": "GE",
       "lat": 46.17317581176758,
@@ -16327,5 +16327,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-18T01:55:12+0000"
+  "geocoded_at": "2026-05-18T06:00:46+0000"
 }
