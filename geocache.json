@@ -1176,6 +1176,12 @@
     "lat": 47.49905014038086,
     "lng": 8.720227241516113
   },
+  "Worblaufen": {
+    "canton": "BE",
+    "label": "Ort Worblaufen (BE) - Ittigen",
+    "lat": 46.979942321777344,
+    "lng": 7.462385177612305
+  },
   "Wynau": {
     "canton": "BE",
     "label": "Wynau (BE)",
@@ -1188,11 +1194,23 @@
     "lat": 47.205753326416016,
     "lng": 8.649434089660645
   },
+  "Yverdon-les-Bains": {
+    "canton": "VD",
+    "label": "Yverdon-les-Bains (VD)",
+    "lat": 46.768096923828125,
+    "lng": 6.632878303527832
+  },
   "Zollikofen": {
     "canton": "BE",
     "label": "Zollikofen (BE)",
     "lat": 46.9952392578125,
     "lng": 7.453622817993164
+  },
+  "Zuchwil": {
+    "canton": "SO",
+    "label": "Zuchwil (SO)",
+    "lat": 47.206111907958984,
+    "lng": 7.562047481536865
   },
   "Zug": {
     "canton": "ZG",
