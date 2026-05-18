@@ -576,6 +576,12 @@
     "lat": 46.43117141723633,
     "lng": 7.452757835388184
   },
+  "Les Acacias": {
+    "canton": "NE",
+    "label": "Quartierteil Les Acacias (NE) - Neuchâtel",
+    "lat": 47.0006217956543,
+    "lng": 6.92034387588501
+  },
   "Leytron": {
     "canton": "VS",
     "label": "Leytron (VS)",
