@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-18T20:59:38+0000",
-  "count": 1186,
+  "scraped_at": "2026-05-18T22:01:29+0000",
+  "count": 1185,
   "courses": [
     {
       "key": "98223",
@@ -717,20 +717,6 @@
       "lng": 8.953682899475098
     },
     {
-      "key": "102066",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-05-18",
-      "last_date": "2026-05-18",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102066",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102302",
       "category": "Modul BLS-AED",
       "city": "",
@@ -948,7 +934,7 @@
       "last_date": "2026-05-20",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102754",
       "canton": "BE",
       "lat": 47.01114273071289,
@@ -1774,7 +1760,7 @@
       "last_date": "2026-06-07",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102145",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -1858,7 +1844,7 @@
       "last_date": "2026-05-31",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 28,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99960",
       "canton": "ZH",
       "lat": 47.351829528808594,
@@ -16607,5 +16593,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-18T20:59:38+0000"
+  "geocoded_at": "2026-05-18T22:01:29+0000"
 }
