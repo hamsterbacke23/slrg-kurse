@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-18T19:19:43+0000",
+  "scraped_at": "2026-05-18T20:59:38+0000",
   "count": 1186,
   "courses": [
     {
@@ -906,7 +906,7 @@
       "last_date": "2026-05-20",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102294",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -1060,7 +1060,7 @@
       "last_date": "2026-05-28",
       "company": "SSS Prilly",
       "participation_max": 7,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101634",
       "canton": "VD",
       "lat": 46.53825378417969,
@@ -1858,7 +1858,7 @@
       "last_date": "2026-05-31",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 28,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99960",
       "canton": "ZH",
       "lat": 47.351829528808594,
@@ -1900,7 +1900,7 @@
       "last_date": "2026-05-29",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101343",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -1914,7 +1914,7 @@
       "last_date": "2026-05-29",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102663",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -3076,7 +3076,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100768",
       "canton": "BE",
       "lat": 47.212921142578125,
@@ -3202,7 +3202,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101348",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -3426,7 +3426,7 @@
       "last_date": "2026-06-07",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101130",
       "canton": null,
       "lat": null,
@@ -4457,7 +4457,7 @@
     {
       "key": "101760",
       "category": "Brevet Pro Pool",
-      "city": "Cernier",
+      "city": "Engollon",
       "first_date": "2026-06-13",
       "last_date": "2026-06-14",
       "company": "SSS Val-de-Ruz",
@@ -4465,8 +4465,8 @@
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101760",
       "canton": "NE",
-      "lat": 47.06060028076172,
-      "lng": 6.902266502380371
+      "lat": 47.03848648071289,
+      "lng": 6.92204475402832
     },
     {
       "key": "101781",
@@ -5260,7 +5260,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Innerschwyz",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102398",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -8144,7 +8144,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Thun-Oberland",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101908",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -13226,7 +13226,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100822",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -14262,7 +14262,7 @@
       "last_date": "2026-11-28",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101980",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -16607,5 +16607,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-18T19:19:43+0000"
+  "geocoded_at": "2026-05-18T20:59:38+0000"
 }
