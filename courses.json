@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-19T19:30:39+0000",
-  "count": 1181,
+  "scraped_at": "2026-05-19T21:09:13+0000",
+  "count": 1180,
   "courses": [
     {
       "key": "98223",
@@ -577,20 +577,6 @@
       "lng": null
     },
     {
-      "key": "102167",
-      "category": "WK BLS-AED",
-      "city": "Porrentruy",
-      "first_date": "2026-05-12",
-      "last_date": "2026-05-12",
-      "company": "SSS Porrentruy",
-      "participation_max": 15,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102167",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
       "key": "102168",
       "category": "WK Pool Plus",
       "city": "Porrentruy",
@@ -821,8 +807,8 @@
       "first_date": "2026-05-19",
       "last_date": "2026-05-19",
       "company": "SSS Genève",
-      "participation_max": 4,
-      "registered": 4,
+      "participation_max": 5,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102590",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1788,7 +1774,7 @@
       "last_date": "2026-05-31",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 28,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99960",
       "canton": "ZH",
       "lat": 47.351829528808594,
@@ -2250,7 +2236,7 @@
       "last_date": "2026-05-31",
       "company": "SLRG Emmental",
       "participation_max": 13,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99314",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -2502,7 +2488,7 @@
       "last_date": "2026-06-01",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99285",
       "canton": "ZH",
       "lat": 47.32124328613281,
@@ -6492,7 +6478,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102345",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -6674,7 +6660,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 13,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99284",
       "canton": "ZH",
       "lat": 47.32124328613281,
@@ -7500,7 +7486,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Paradiso",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101828",
       "canton": "TI",
       "lat": 46.01959228515625,
@@ -16537,5 +16523,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-19T19:30:39+0000"
+  "geocoded_at": "2026-05-19T21:09:13+0000"
 }
