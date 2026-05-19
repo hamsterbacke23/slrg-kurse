@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-19T17:32:20+0000",
-  "count": 1182,
+  "scraped_at": "2026-05-19T19:30:39+0000",
+  "count": 1181,
   "courses": [
     {
       "key": "98223",
@@ -409,20 +409,6 @@
       "lng": 7.60764217376709
     },
     {
-      "key": "102545",
-      "category": "WK BLS-AED",
-      "city": "Möriken AG",
-      "first_date": "2026-04-29",
-      "last_date": "2026-04-29",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102545",
-      "canton": "AG",
-      "lat": 47.41621017456055,
-      "lng": 8.18368911743164
-    },
-    {
       "key": "102528",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -458,7 +444,7 @@
       "last_date": "2026-05-07",
       "company": "SLRG Sektion Luzern",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102581",
       "canton": null,
       "lat": null,
@@ -3314,7 +3300,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102676",
       "canton": "BE",
       "lat": 46.930362701416016,
@@ -5162,7 +5148,7 @@
       "last_date": "2026-06-22",
       "company": "Società Svizzera di Salvataggio Chiasso",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100507",
       "canton": null,
       "lat": null,
@@ -5974,7 +5960,7 @@
       "last_date": "2026-06-24",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100792",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8956,7 +8942,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Büren a. A.",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101412",
       "canton": "BE",
       "lat": 47.14190673828125,
@@ -9264,7 +9250,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100896",
       "canton": null,
       "lat": null,
@@ -16551,5 +16537,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-19T17:32:20+0000"
+  "geocoded_at": "2026-05-19T19:30:39+0000"
 }
