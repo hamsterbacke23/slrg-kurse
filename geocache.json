@@ -804,6 +804,12 @@
     "lat": 47.37028121948242,
     "lng": 8.781831741333008
   },
+  "Piazzogna": {
+    "canton": "TI",
+    "label": "Ort Piazzogna (TI) - Gambarogno",
+    "lat": 46.135459899902344,
+    "lng": 8.822040557861328
+  },
   "Plan-les-Ouates": {
     "canton": "GE",
     "label": "Plan-les-Ouates (GE)",
