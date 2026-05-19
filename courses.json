@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-19T01:55:11+0000",
-  "count": 1185,
+  "scraped_at": "2026-05-19T05:56:00+0000",
+  "count": 1183,
   "courses": [
     {
       "key": "98223",
@@ -346,7 +346,7 @@
       "last_date": "2026-04-25",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102338",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -815,20 +815,6 @@
       "lng": 9.626534461975098
     },
     {
-      "key": "101433",
-      "category": "Jugendbrevet",
-      "city": "Bülach",
-      "first_date": "2026-05-19",
-      "last_date": "2026-06-09",
-      "company": "SLRG Bülach",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101433",
-      "canton": "ZH",
-      "lat": 47.53010559082031,
-      "lng": 8.541247367858887
-    },
-    {
       "key": "101706",
       "category": "Modul See",
       "city": "Wädenswil",
@@ -934,7 +920,7 @@
       "last_date": "2026-05-20",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102754",
       "canton": "BE",
       "lat": 47.01114273071289,
@@ -1928,7 +1914,7 @@
       "last_date": "2026-05-31",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 32,
+      "registered": 33,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99613",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -2880,7 +2866,7 @@
       "last_date": "2026-06-14",
       "company": "SSS Prilly",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101632",
       "canton": "VD",
       "lat": 46.53825378417969,
@@ -6758,7 +6744,7 @@
       "last_date": "2026-07-01",
       "company": "SLRG Nidwalden",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101603",
       "canton": "NW",
       "lat": 46.9562873840332,
@@ -14815,20 +14801,6 @@
       "lng": null
     },
     {
-      "key": "101725",
-      "category": "Brevet Basis Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-21",
-      "company": "SLRG Toggenburg",
-      "participation_max": 0,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101725",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
-    },
-    {
       "key": "101784",
       "category": "Brevet Basis Pool",
       "city": "Baden",
@@ -16593,5 +16565,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-19T01:55:11+0000"
+  "geocoded_at": "2026-05-19T05:56:00+0000"
 }
