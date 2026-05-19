@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-19T21:09:13+0000",
-  "count": 1180,
+  "scraped_at": "2026-05-19T22:54:44+0000",
+  "count": 1177,
   "courses": [
     {
       "key": "98223",
@@ -689,34 +689,6 @@
       "lng": 8.122138023376465
     },
     {
-      "key": "99837",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-05-18",
-      "last_date": "2026-05-19",
-      "company": "SLRG Zug",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99837",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100933",
-      "category": "Brevet Basis Pool",
-      "city": "Paradiso",
-      "first_date": "2026-05-18",
-      "last_date": "2026-05-19",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100933",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
       "key": "102302",
       "category": "Modul BLS-AED",
       "city": "",
@@ -757,20 +729,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "98850",
-      "category": "WK See",
-      "city": "Ebikon",
-      "first_date": "2026-05-19",
-      "last_date": "2026-05-19",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 14,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98850",
-      "canton": "LU",
-      "lat": 47.079551696777344,
-      "lng": 8.333163261413574
     },
     {
       "key": "100148",
@@ -4280,7 +4238,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Rapperswil-Jona",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101499",
       "canton": "SG",
       "lat": 47.23091506958008,
@@ -6030,7 +5988,7 @@
       "last_date": "2026-06-25",
       "company": "SSS Nord-Vaudois",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102764",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -7388,7 +7346,7 @@
       "last_date": "2026-07-06",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98408",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -8228,7 +8186,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Nord-Vaudois",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102765",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -16523,5 +16481,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-19T21:09:13+0000"
+  "geocoded_at": "2026-05-19T22:54:44+0000"
 }
