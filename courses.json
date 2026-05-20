@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-20T21:47:37+0000",
-  "count": 1180,
+  "scraped_at": "2026-05-20T23:02:00+0000",
+  "count": 1178,
   "courses": [
     {
       "key": "98223",
@@ -547,34 +547,6 @@
       "canton": "NE",
       "lat": 47.020973205566406,
       "lng": 6.9480791091918945
-    },
-    {
-      "key": "100854",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-05-11",
-      "last_date": "2026-05-21",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100854",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "99833",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-05-12",
-      "last_date": "2026-05-21",
-      "company": "SLRG Zug",
-      "participation_max": 30,
-      "registered": 22,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99833",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "99834",
@@ -2441,16 +2413,16 @@
     {
       "key": "99984",
       "category": "Modul See",
-      "city": "",
+      "city": "Sursee",
       "first_date": "2026-06-03",
       "last_date": "2026-06-13",
       "company": "SLRG Oberwil",
       "participation_max": 20,
       "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99984",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "LU",
+      "lat": 47.178199768066406,
+      "lng": 8.10302734375
     },
     {
       "key": "99985",
@@ -13520,7 +13492,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Sektion Bern",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100976",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -16523,5 +16495,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-20T21:47:37+0000"
+  "geocoded_at": "2026-05-20T23:02:00+0000"
 }
