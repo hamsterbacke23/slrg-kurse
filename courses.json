@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-20T17:48:25+0000",
-  "count": 1188,
+  "scraped_at": "2026-05-20T19:58:15+0000",
+  "count": 1186,
   "courses": [
     {
       "key": "98223",
@@ -388,7 +388,7 @@
       "last_date": "2026-06-20",
       "company": "SSS Genève",
       "participation_max": 18,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102521",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -647,20 +647,6 @@
       "lng": null
     },
     {
-      "key": "102689",
-      "category": "WK BLS-AED",
-      "city": "Opfikon",
-      "first_date": "2026-05-18",
-      "last_date": "2026-05-18",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 15,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102689",
-      "canton": "ZH",
-      "lat": 47.42878341674805,
-      "lng": 8.573216438293457
-    },
-    {
       "key": "102736",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -808,7 +794,7 @@
       "last_date": "2026-05-21",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99695",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1326,7 +1312,7 @@
       "last_date": "2026-05-26",
       "company": "Società Svizzera di Salvataggio Chiasso",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100523",
       "canton": null,
       "lat": null,
@@ -2299,20 +2285,6 @@
       "lng": 7.60764217376709
     },
     {
-      "key": "101942",
-      "category": "Brevet Plus Pool",
-      "city": "Ingenbohl",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "SLRG Sihlsee-Einsiedeln",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101942",
-      "canton": "SZ",
-      "lat": 47.002071380615234,
-      "lng": 8.595454216003418
-    },
-    {
       "key": "102171",
       "category": "WK BLS-AED",
       "city": "Porrentruy",
@@ -3034,7 +3006,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101348",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -3916,7 +3888,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Oberwil",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99714",
       "canton": "LU",
       "lat": 47.178199768066406,
@@ -5232,7 +5204,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99572",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -5498,7 +5470,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Weggis",
       "participation_max": 15,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102084",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -5596,7 +5568,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102714",
       "canton": null,
       "lat": null,
@@ -10020,7 +9992,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101127",
       "canton": null,
       "lat": null,
@@ -15564,7 +15536,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Wald",
       "participation_max": 18,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101625",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -16635,5 +16607,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-20T17:48:25+0000"
+  "geocoded_at": "2026-05-20T19:58:15+0000"
 }
