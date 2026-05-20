@@ -750,6 +750,12 @@
     "lat": 46.88322448730469,
     "lng": 7.565205097198486
   },
+  "Naters": {
+    "canton": "VS",
+    "label": "Naters (VS)",
+    "lat": 46.385929107666016,
+    "lng": 7.9576735496521
+  },
   "Nebikon": {
     "canton": "LU",
     "label": "Nebikon (LU)",
