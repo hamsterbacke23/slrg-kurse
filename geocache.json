@@ -1,4 +1,10 @@
 {
+  "1052": {
+    "canton": "AG",
+    "label": "Birmenstorf (AG) 1052 (CH 9273 7483 9543)",
+    "lat": 47.45991897583008,
+    "lng": 8.248859405517578
+  },
   "Aarau": {
     "canton": "AG",
     "label": "Aarau (AG)",
@@ -106,6 +112,12 @@
     "label": "Bern (BE)",
     "lat": 46.954559326171875,
     "lng": 7.420684814453125
+  },
+  "Biasca": {
+    "canton": "TI",
+    "label": "Biasca (TI)",
+    "lat": 46.362525939941406,
+    "lng": 9.027430534362793
   },
   "Bichelsee-Balterswil": {
     "canton": "TG",
@@ -461,6 +473,12 @@
     "label": "Hombrechtikon (ZH)",
     "lat": 47.25200271606445,
     "lng": 8.768488883972168
+  },
+  "Horgen": {
+    "canton": "ZH",
+    "label": "Horgen (ZH)",
+    "lat": 47.23603820800781,
+    "lng": 8.592978477478027
   },
   "Ingenbohl": {
     "canton": "SZ",
@@ -1061,6 +1079,12 @@
     "label": "Studen (BE)",
     "lat": 47.11361312866211,
     "lng": 7.3059468269348145
+  },
+  "Sursee": {
+    "canton": "LU",
+    "label": "Sursee (LU)",
+    "lat": 47.178199768066406,
+    "lng": 8.10302734375
   },
   "Sörenberg": {
     "canton": "LU",
