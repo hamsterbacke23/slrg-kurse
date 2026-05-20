@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-20T19:58:15+0000",
-  "count": 1186,
+  "scraped_at": "2026-05-20T21:47:37+0000",
+  "count": 1180,
   "courses": [
     {
       "key": "98223",
@@ -388,7 +388,7 @@
       "last_date": "2026-06-20",
       "company": "SSS Genève",
       "participation_max": 18,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102521",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -591,34 +591,6 @@
       "lng": null
     },
     {
-      "key": "102168",
-      "category": "WK Pool Plus",
-      "city": "Porrentruy",
-      "first_date": "2026-05-13",
-      "last_date": "2026-05-13",
-      "company": "SSS Porrentruy",
-      "participation_max": 15,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102168",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
-      "key": "102169",
-      "category": "WK Pool Pro",
-      "city": "Porrentruy",
-      "first_date": "2026-05-13",
-      "last_date": "2026-05-13",
-      "company": "SSS Porrentruy",
-      "participation_max": 15,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102169",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
       "key": "102099",
       "category": "Brevet Basis Pool",
       "city": "Balzers",
@@ -701,48 +673,6 @@
       "canton": "ZH",
       "lat": 47.53010559082031,
       "lng": 8.541247367858887
-    },
-    {
-      "key": "100935",
-      "category": "WK BLS-AED",
-      "city": "Paradiso",
-      "first_date": "2026-05-20",
-      "last_date": "2026-05-20",
-      "company": "SSS Paradiso",
-      "participation_max": 13,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100935",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
-      "key": "101533",
-      "category": "Modul See",
-      "city": "Moosseedorf",
-      "first_date": "2026-05-20",
-      "last_date": "2026-05-30",
-      "company": "SLRG Büren a. A.",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101533",
-      "canton": "BE",
-      "lat": 47.01114273071289,
-      "lng": 7.487063884735107
-    },
-    {
-      "key": "102754",
-      "category": "WK See",
-      "city": "Moosseedorf",
-      "first_date": "2026-05-20",
-      "last_date": "2026-05-20",
-      "company": "SLRG Büren a. A.",
-      "participation_max": 10,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102754",
-      "canton": "BE",
-      "lat": 47.01114273071289,
-      "lng": 7.487063884735107
     },
     {
       "key": "98757",
@@ -906,7 +836,7 @@
       "last_date": "2026-05-22",
       "company": "SSS Paradiso",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102733",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -10713,20 +10643,6 @@
       "lng": 6.9480791091918945
     },
     {
-      "key": "102282",
-      "category": "Modul Fluss",
-      "city": "Appenzell",
-      "first_date": "2026-09-06",
-      "last_date": "2026-09-06",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102282",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
       "key": "100949",
       "category": "Brevet Basis Pool",
       "city": "Paradiso",
@@ -16607,5 +16523,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-20T19:58:15+0000"
+  "geocoded_at": "2026-05-20T21:47:37+0000"
 }
