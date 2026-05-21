@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-21T01:54:13+0000",
-  "count": 1178,
+  "scraped_at": "2026-05-21T05:58:38+0000",
+  "count": 1177,
   "courses": [
     {
       "key": "98223",
@@ -206,7 +206,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Innerschwyz",
       "participation_max": 80,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101209",
       "canton": null,
       "lat": null,
@@ -451,20 +451,6 @@
       "lng": 8.460609436035156
     },
     {
-      "key": "102581",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-05-07",
-      "last_date": "2026-05-07",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 10,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102581",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102610",
       "category": "Brevet Basis Pool",
       "city": "Wädenswil",
@@ -549,6 +535,20 @@
       "lng": 6.9480791091918945
     },
     {
+      "key": "99833",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-05-12",
+      "last_date": "2026-05-21",
+      "company": "SLRG Zug",
+      "participation_max": 30,
+      "registered": 22,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99833",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99834",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -631,20 +631,6 @@
       "canton": "SG",
       "lat": 47.411685943603516,
       "lng": 9.626534461975098
-    },
-    {
-      "key": "101433",
-      "category": "Jugendbrevet",
-      "city": "Bülach",
-      "first_date": "2026-05-19",
-      "last_date": "2026-06-09",
-      "company": "SLRG Bülach",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101433",
-      "canton": "ZH",
-      "lat": 47.53010559082031,
-      "lng": 8.541247367858887
     },
     {
       "key": "98757",
@@ -892,7 +878,7 @@
       "last_date": "2026-05-22",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102500",
       "canton": "GE",
       "lat": 46.17317581176758,
@@ -2460,7 +2446,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Aarau",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101712",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -16495,5 +16481,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-21T01:54:13+0000"
+  "geocoded_at": "2026-05-21T05:58:38+0000"
 }
