@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-21T22:08:20+0000",
+  "scraped_at": "2026-05-21T23:45:49+0000",
   "count": 1170,
   "courses": [
     {
@@ -1970,7 +1970,7 @@
       "last_date": "2026-05-31",
       "company": "ETH Zürich",
       "participation_max": 26,
-      "registered": 26,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100542",
       "canton": null,
       "lat": null,
@@ -16383,5 +16383,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-21T22:08:20+0000"
+  "geocoded_at": "2026-05-21T23:45:49+0000"
 }
