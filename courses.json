@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-22T19:19:17+0000",
-  "count": 1170,
+  "scraped_at": "2026-05-22T21:02:00+0000",
+  "count": 1167,
   "courses": [
     {
       "key": "98223",
@@ -591,20 +591,6 @@
       "lng": 9.626534461975098
     },
     {
-      "key": "100934",
-      "category": "Brevet Plus Pool",
-      "city": "Paradiso",
-      "first_date": "2026-05-21",
-      "last_date": "2026-05-22",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100934",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
       "key": "101634",
       "category": "Modul BLS-AED",
       "city": "Prilly",
@@ -647,20 +633,6 @@
       "lng": 8.431046485900879
     },
     {
-      "key": "102733",
-      "category": "Brevet Pro Pool",
-      "city": "Paradiso",
-      "first_date": "2026-05-21",
-      "last_date": "2026-05-22",
-      "company": "SSS Paradiso",
-      "participation_max": 6,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102733",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
       "key": "99842",
       "category": "Modul See",
       "city": "Zug",
@@ -673,20 +645,6 @@
       "canton": "ZG",
       "lat": 47.151554107666016,
       "lng": 8.521272659301758
-    },
-    {
-      "key": "101901",
-      "category": "WK Pool Plus",
-      "city": "Paradiso",
-      "first_date": "2026-05-22",
-      "last_date": "2026-05-22",
-      "company": "SSS Paradiso",
-      "participation_max": 8,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101901",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "102318",
@@ -780,7 +738,7 @@
       "last_date": "2026-05-23",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99482",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -821,8 +779,8 @@
       "first_date": "2026-05-23",
       "last_date": "2026-05-23",
       "company": "SSS Paradiso",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 13,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100936",
       "canton": null,
       "lat": null,
@@ -2726,7 +2684,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Wald",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101621",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -3818,7 +3776,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Rapperswil-Jona",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100910",
       "canton": null,
       "lat": null,
@@ -16383,5 +16341,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-22T19:19:17+0000"
+  "geocoded_at": "2026-05-22T21:02:00+0000"
 }
