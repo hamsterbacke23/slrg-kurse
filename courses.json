@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-22T14:08:03+0000",
+  "scraped_at": "2026-05-22T17:00:52+0000",
   "count": 1170,
   "courses": [
     {
@@ -402,7 +402,7 @@
       "last_date": "2026-06-20",
       "company": "SSS Genève",
       "participation_max": 18,
-      "registered": 15,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102521",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -668,7 +668,7 @@
       "last_date": "2026-05-23",
       "company": "SLRG Zug",
       "participation_max": 13,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99842",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -2947,7 +2947,7 @@
       "category": "Modul See",
       "city": "",
       "first_date": "2026-06-06",
-      "last_date": "2026-06-07",
+      "last_date": "2026-09-20",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 14,
       "registered": 0,
@@ -4210,7 +4210,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Nidwalden",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102728",
       "canton": null,
       "lat": null,
@@ -4294,7 +4294,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Rapperswil-Jona",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100916",
       "canton": "SG",
       "lat": 47.22806167602539,
@@ -4868,7 +4868,7 @@
       "last_date": "2026-06-19",
       "company": "SSS Lausanne",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102680",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6394,7 +6394,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102530",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -7444,7 +7444,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Lachen",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101350",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -8326,7 +8326,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11518,7 +11518,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102146",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -16383,5 +16383,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-22T14:08:03+0000"
+  "geocoded_at": "2026-05-22T17:00:52+0000"
 }
