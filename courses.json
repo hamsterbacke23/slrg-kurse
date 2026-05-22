@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-22T17:00:52+0000",
+  "scraped_at": "2026-05-22T19:19:17+0000",
   "count": 1170,
   "courses": [
     {
@@ -682,7 +682,7 @@
       "last_date": "2026-05-22",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101901",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1129,8 +1129,8 @@
       "first_date": "2026-05-27",
       "last_date": "2026-05-27",
       "company": "SLRG Region Nordwest",
-      "participation_max": 15,
-      "registered": 15,
+      "participation_max": 17,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100664",
       "canton": null,
       "lat": null,
@@ -1368,7 +1368,7 @@
       "last_date": "2026-05-31",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 28,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99960",
       "canton": "ZH",
       "lat": 47.351829528808594,
@@ -5736,7 +5736,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Solothurn",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102749",
       "canton": null,
       "lat": null,
@@ -6142,7 +6142,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101957",
       "canton": null,
       "lat": null,
@@ -7136,7 +7136,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
       "participation_max": 18,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -11518,7 +11518,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102146",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -16383,5 +16383,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-22T17:00:52+0000"
+  "geocoded_at": "2026-05-22T19:19:17+0000"
 }
