@@ -726,6 +726,12 @@
     "lat": 46.930362701416016,
     "lng": 7.4850358963012695
   },
+  "Muttenz": {
+    "canton": "BL",
+    "label": "Muttenz (BL)",
+    "lat": 47.52326583862305,
+    "lng": 7.6465020179748535
+  },
   "Männedorf": {
     "canton": "ZH",
     "label": "Männedorf (ZH)",

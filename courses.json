@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-22T05:54:53+0000",
-  "count": 1170,
+  "scraped_at": "2026-05-22T08:44:33+0000",
+  "count": 1173,
   "courses": [
     {
       "key": "98223",
@@ -253,6 +253,20 @@
       "canton": "TG",
       "lat": 47.640594482421875,
       "lng": 9.175581932067871
+    },
+    {
+      "key": "102799",
+      "category": "Brevet Basis Pool",
+      "city": "Steg VS",
+      "first_date": "2026-04-13",
+      "last_date": "2026-06-15",
+      "company": "SLRG Oberwallis",
+      "participation_max": 5,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102799",
+      "canton": "VS",
+      "lat": 46.31085968017578,
+      "lng": 7.751997470855713
     },
     {
       "key": "102477",
@@ -757,34 +771,6 @@
       "canton": "BE",
       "lat": 46.620018005371094,
       "lng": 8.041796684265137
-    },
-    {
-      "key": "102500",
-      "category": "WK Pool Plus",
-      "city": "Veyrier",
-      "first_date": "2026-05-22",
-      "last_date": "2026-05-22",
-      "company": "SSS Genève",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102500",
-      "canton": "GE",
-      "lat": 46.17317581176758,
-      "lng": 6.1635823249816895
-    },
-    {
-      "key": "102501",
-      "category": "WK Pool Pro",
-      "city": "Veyrier",
-      "first_date": "2026-05-22",
-      "last_date": "2026-05-22",
-      "company": "SSS Genève",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102501",
-      "canton": "GE",
-      "lat": 46.17317581176758,
-      "lng": 6.1635823249816895
     },
     {
       "key": "98851",
@@ -2390,7 +2376,7 @@
       "last_date": "2026-06-03",
       "company": "SLRG Sarganserland",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102599",
       "canton": null,
       "lat": null,
@@ -2418,7 +2404,7 @@
       "last_date": "2026-06-03",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 17,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102687",
       "canton": null,
       "lat": null,
@@ -2488,7 +2474,7 @@
       "last_date": "2026-06-14",
       "company": "SSS Prilly",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101632",
       "canton": "VD",
       "lat": 46.53825378417969,
@@ -2614,7 +2600,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Aarau",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99423",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3132,7 +3118,7 @@
       "last_date": "2026-06-18",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100870",
       "canton": null,
       "lat": null,
@@ -3146,7 +3132,7 @@
       "last_date": "2026-06-18",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100871",
       "canton": null,
       "lat": null,
@@ -3160,7 +3146,7 @@
       "last_date": "2026-06-18",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100872",
       "canton": null,
       "lat": null,
@@ -4280,7 +4266,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Nidwalden",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102728",
       "canton": null,
       "lat": null,
@@ -6506,7 +6492,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Sektion Bern",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100893",
       "canton": null,
       "lat": null,
@@ -7577,6 +7563,20 @@
       "lng": 7.987195014953613
     },
     {
+      "key": "102807",
+      "category": "Modul BLS-AED",
+      "city": "Muttenz",
+      "first_date": "2026-07-14",
+      "last_date": "2026-07-14",
+      "company": "SLRG Sektion Muttenz",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102807",
+      "canton": "BL",
+      "lat": 47.52326583862305,
+      "lng": 7.6465020179748535
+    },
+    {
       "key": "101303",
       "category": "Modul BLS-AED",
       "city": "Arbon",
@@ -7967,6 +7967,20 @@
       "canton": "SG",
       "lat": 47.12102508544922,
       "lng": 9.347698211669922
+    },
+    {
+      "key": "102798",
+      "category": "Jugendbrevet",
+      "city": "",
+      "first_date": "2026-08-03",
+      "last_date": "2026-08-07",
+      "company": "SLRG Sarganserland",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102798",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99996",
@@ -8900,7 +8914,7 @@
       "last_date": "2026-08-21",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102105",
       "canton": "TI",
       "lat": 46.01959228515625,
@@ -11455,6 +11469,34 @@
       "lng": 8.294404029846191
     },
     {
+      "key": "102800",
+      "category": "WK Pool Basis",
+      "city": "Oberwil BL",
+      "first_date": "2026-09-21",
+      "last_date": "2026-09-21",
+      "company": "SLRG Oberwil",
+      "participation_max": 2,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102800",
+      "canton": "BL",
+      "lat": 47.51921463012695,
+      "lng": 7.545316219329834
+    },
+    {
+      "key": "102801",
+      "category": "WK Pool Plus",
+      "city": "Oberwil BL",
+      "first_date": "2026-09-21",
+      "last_date": "2026-09-21",
+      "company": "SLRG Oberwil",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102801",
+      "canton": "BL",
+      "lat": 47.51921463012695,
+      "lng": 7.545316219329834
+    },
+    {
       "key": "100278",
       "category": "WK Pool Basis",
       "city": "Chur",
@@ -13030,7 +13072,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101668",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -16362,7 +16404,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -16383,5 +16425,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-22T05:54:53+0000"
+  "geocoded_at": "2026-05-22T08:44:34+0000"
 }
