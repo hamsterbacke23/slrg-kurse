@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-22T01:55:33+0000",
+  "scraped_at": "2026-05-22T05:54:53+0000",
   "count": 1170,
   "courses": [
     {
@@ -766,7 +766,7 @@
       "last_date": "2026-05-22",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102500",
       "canton": "GE",
       "lat": 46.17317581176758,
@@ -1031,8 +1031,8 @@
       "first_date": "2026-05-24",
       "last_date": "2026-05-24",
       "company": "SLRG Zug",
-      "participation_max": 9,
-      "registered": 9,
+      "participation_max": 10,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99843",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -1410,7 +1410,7 @@
       "last_date": "2026-05-28",
       "company": "SLRG Sarganserland",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102734",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -2418,7 +2418,7 @@
       "last_date": "2026-06-03",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 17,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102687",
       "canton": null,
       "lat": null,
@@ -3243,8 +3243,8 @@
       "first_date": "2026-06-09",
       "last_date": "2026-06-09",
       "company": "SSS Charmey",
-      "participation_max": 6,
-      "registered": 6,
+      "participation_max": 12,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102638",
       "canton": "FR",
       "lat": 46.665679931640625,
@@ -6296,7 +6296,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102345",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -16383,5 +16383,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-22T01:55:33+0000"
+  "geocoded_at": "2026-05-22T05:54:53+0000"
 }
