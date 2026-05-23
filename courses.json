@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-23T17:50:47+0000",
+  "scraped_at": "2026-05-23T18:50:02+0000",
   "count": 1152,
   "courses": [
     {
@@ -668,7 +668,7 @@
       "last_date": "2026-05-23",
       "company": "SSS Paradiso",
       "participation_max": 13,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100936",
       "canton": null,
       "lat": null,
@@ -3454,7 +3454,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Weinfelden",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100376",
       "canton": "TG",
       "lat": 47.52652359008789,
@@ -6912,7 +6912,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102271",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -16131,5 +16131,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-23T17:50:47+0000"
+  "geocoded_at": "2026-05-23T18:50:02+0000"
 }
