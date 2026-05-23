@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-23T21:41:13+0000",
-  "count": 1150,
+  "scraped_at": "2026-05-23T22:39:57+0000",
+  "count": 1143,
   "courses": [
     {
       "key": "98223",
@@ -535,20 +535,6 @@
       "lng": null
     },
     {
-      "key": "100148",
-      "category": "Modul Fluss",
-      "city": "Heerbrugg",
-      "first_date": "2026-05-19",
-      "last_date": "2026-05-23",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100148",
-      "canton": "SG",
-      "lat": 47.411685943603516,
-      "lng": 9.626534461975098
-    },
-    {
       "key": "101634",
       "category": "Modul BLS-AED",
       "city": "Prilly",
@@ -605,20 +591,6 @@
       "lng": 8.521272659301758
     },
     {
-      "key": "98851",
-      "category": "Modul See",
-      "city": "Ebikon",
-      "first_date": "2026-05-23",
-      "last_date": "2026-05-23",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98851",
-      "canton": "LU",
-      "lat": 47.079551696777344,
-      "lng": 8.333163261413574
-    },
-    {
       "key": "100585",
       "category": "Modul See",
       "city": "Rolle",
@@ -631,34 +603,6 @@
       "canton": "VD",
       "lat": 46.42595672607422,
       "lng": 6.34889030456543
-    },
-    {
-      "key": "100936",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-05-23",
-      "last_date": "2026-05-23",
-      "company": "SSS Paradiso",
-      "participation_max": 13,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100936",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100965",
-      "category": "WK See",
-      "city": "Caslano",
-      "first_date": "2026-05-23",
-      "last_date": "2026-05-23",
-      "company": "SSS Paradiso",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100965",
-      "canton": "TI",
-      "lat": 45.968719482421875,
-      "lng": 8.87798023223877
     },
     {
       "key": "102596",
@@ -687,34 +631,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102669",
-      "category": "WK BLS-AED",
-      "city": "Küssnacht am Rig",
-      "first_date": "2026-05-23",
-      "last_date": "2026-05-23",
-      "company": "SLRG Küssnacht am Rigi",
-      "participation_max": 6,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102669",
-      "canton": "SZ",
-      "lat": 47.08266830444336,
-      "lng": 8.440006256103516
-    },
-    {
-      "key": "102670",
-      "category": "WK Pool Plus",
-      "city": "Weggis",
-      "first_date": "2026-05-23",
-      "last_date": "2026-05-23",
-      "company": "SLRG Küssnacht am Rigi",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102670",
-      "canton": "LU",
-      "lat": 47.03305435180664,
-      "lng": 8.431046485900879
     },
     {
       "key": "99487",
@@ -827,20 +743,6 @@
       "canton": "AG",
       "lat": 47.235843658447266,
       "lng": 8.182795524597168
-    },
-    {
-      "key": "101561",
-      "category": "Brevet Plus Pool",
-      "city": "Appenzell",
-      "first_date": "2026-05-26",
-      "last_date": "2026-06-09",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101561",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
     },
     {
       "key": "101874",
@@ -16103,5 +16005,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-23T21:41:13+0000"
+  "geocoded_at": "2026-05-23T22:39:58+0000"
 }
