@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-23T11:51:43+0000",
-  "count": 1156,
+  "scraped_at": "2026-05-23T12:52:10+0000",
+  "count": 1155,
   "courses": [
     {
       "key": "98223",
@@ -4462,7 +4462,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102602",
       "canton": null,
       "lat": null,
@@ -6016,7 +6016,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102108",
       "canton": null,
       "lat": null,
@@ -8499,20 +8499,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102261",
-      "category": "Modul See",
-      "city": "Goldswil b. Interlaken",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-15",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 14,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102261",
-      "canton": "BE",
-      "lat": 46.69535446166992,
-      "lng": 7.8780694007873535
     },
     {
       "key": "100689",
@@ -16187,5 +16173,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-23T11:51:43+0000"
+  "geocoded_at": "2026-05-23T12:52:10+0000"
 }
