@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-23T01:46:28+0000",
-  "count": 1163,
+  "scraped_at": "2026-05-23T05:29:23+0000",
+  "count": 1162,
   "courses": [
     {
       "key": "98223",
@@ -435,20 +435,6 @@
       "canton": "BE",
       "lat": 46.74045944213867,
       "lng": 7.60764217376709
-    },
-    {
-      "key": "102528",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-05-02",
-      "last_date": "2026-08-29",
-      "company": "SLRG Rafzerfeld",
-      "participation_max": 4,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102528",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102610",
@@ -5358,7 +5344,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101045",
       "canton": null,
       "lat": null,
@@ -8018,7 +8004,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99388",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -16285,5 +16271,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-23T01:46:28+0000"
+  "geocoded_at": "2026-05-23T05:29:23+0000"
 }
