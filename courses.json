@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-23T20:45:28+0000",
-  "count": 1151,
+  "scraped_at": "2026-05-23T21:41:13+0000",
+  "count": 1150,
   "courses": [
     {
       "key": "98223",
@@ -617,20 +617,6 @@
       "canton": "LU",
       "lat": 47.079551696777344,
       "lng": 8.333163261413574
-    },
-    {
-      "key": "99422",
-      "category": "WK BLS-AED",
-      "city": "Aarau",
-      "first_date": "2026-05-23",
-      "last_date": "2026-05-23",
-      "company": "SLRG Aarau",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99422",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
     },
     {
       "key": "100585",
@@ -16117,5 +16103,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-23T20:45:28+0000"
+  "geocoded_at": "2026-05-23T21:41:13+0000"
 }
