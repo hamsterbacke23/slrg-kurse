@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-23T08:00:40+0000",
-  "count": 1157,
+  "scraped_at": "2026-05-23T10:19:10+0000",
+  "count": 1156,
   "courses": [
     {
       "key": "98223",
@@ -731,20 +731,6 @@
       "lng": 8.87798023223877
     },
     {
-      "key": "102503",
-      "category": "Modul See",
-      "city": "Genève",
-      "first_date": "2026-05-23",
-      "last_date": "2026-05-23",
-      "company": "SSS Genève",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102503",
-      "canton": "GE",
-      "lat": 46.204559326171875,
-      "lng": 6.1424560546875
-    },
-    {
       "key": "102596",
       "category": "Brevet Pro Pool",
       "city": "Clarens",
@@ -1424,7 +1410,7 @@
       "last_date": "2026-05-30",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100814",
       "canton": "VS",
       "lat": 46.28894805908203,
@@ -5932,7 +5918,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101895",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7374,7 +7360,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101902",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -9614,7 +9600,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101900",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -11070,7 +11056,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Weinfelden",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100370",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -16201,5 +16187,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-23T08:00:40+0000"
+  "geocoded_at": "2026-05-23T10:19:10+0000"
 }
