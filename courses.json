@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-23T10:19:10+0000",
+  "scraped_at": "2026-05-23T11:51:43+0000",
   "count": 1156,
   "courses": [
     {
@@ -724,7 +724,7 @@
       "last_date": "2026-05-23",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100965",
       "canton": "TI",
       "lat": 45.968719482421875,
@@ -1507,8 +1507,8 @@
       "first_date": "2026-05-30",
       "last_date": "2026-05-30",
       "company": "SLRG Thun-Oberland",
-      "participation_max": 13,
-      "registered": 13,
+      "participation_max": 12,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101894",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -6954,7 +6954,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102271",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -15214,7 +15214,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101670",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -16187,5 +16187,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-23T10:19:10+0000"
+  "geocoded_at": "2026-05-23T11:51:43+0000"
 }
