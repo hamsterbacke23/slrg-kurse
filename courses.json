@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-24T12:58:24+0000",
-  "count": 1141,
+  "scraped_at": "2026-05-24T14:22:14+0000",
+  "count": 1140,
   "courses": [
     {
       "key": "98223",
@@ -239,20 +239,6 @@
       "canton": "SZ",
       "lat": 47.09868621826172,
       "lng": 8.818327903747559
-    },
-    {
-      "key": "102292",
-      "category": "Brevet Plus Pool",
-      "city": "Kreuzlingen",
-      "first_date": "2026-03-28",
-      "last_date": "2026-03-28",
-      "company": "Pädagogische Hochschule Thurgau",
-      "participation_max": 24,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102292",
-      "canton": "TG",
-      "lat": 47.640594482421875,
-      "lng": 9.175581932067871
     },
     {
       "key": "102799",
@@ -2376,7 +2362,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Küsnacht",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101985",
       "canton": null,
       "lat": null,
@@ -7066,7 +7052,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Sektion Züri",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101612",
       "canton": null,
       "lat": null,
@@ -15977,5 +15963,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-24T12:58:24+0000"
+  "geocoded_at": "2026-05-24T14:22:15+0000"
 }
