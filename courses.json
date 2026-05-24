@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-24T11:56:30+0000",
-  "count": 1142,
+  "scraped_at": "2026-05-24T12:58:24+0000",
+  "count": 1141,
   "courses": [
     {
       "key": "98223",
@@ -780,7 +780,7 @@
       "last_date": "2026-05-30",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102795",
       "canton": "AG",
       "lat": 47.45991897583008,
@@ -1429,20 +1429,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102717",
-      "category": "Brevet Pro Pool",
-      "city": "Kreuzlingen",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-31",
-      "company": "SLRG Ermatingen",
-      "participation_max": 5,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102717",
-      "canton": "TG",
-      "lat": 47.640594482421875,
-      "lng": 9.175581932067871
     },
     {
       "key": "102759",
@@ -4126,7 +4112,7 @@
       "last_date": "2026-06-14",
       "company": "SSS St. Imier",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102447",
       "canton": "BE",
       "lat": 47.152610778808594,
@@ -15991,5 +15977,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-24T11:56:30+0000"
+  "geocoded_at": "2026-05-24T12:58:24+0000"
 }
