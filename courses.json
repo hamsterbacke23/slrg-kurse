@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-24T19:59:20+0000",
+  "scraped_at": "2026-05-24T20:53:53+0000",
   "count": 1138,
   "courses": [
     {
@@ -4112,7 +4112,7 @@
       "last_date": "2026-06-16",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100937",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -4294,7 +4294,7 @@
       "last_date": "2026-06-19",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100939",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -15935,5 +15935,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-24T19:59:21+0000"
+  "geocoded_at": "2026-05-24T20:53:53+0000"
 }
