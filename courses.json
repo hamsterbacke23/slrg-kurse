@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-24T18:55:57+0000",
+  "scraped_at": "2026-05-24T19:59:20+0000",
   "count": 1138,
   "courses": [
     {
@@ -990,7 +990,7 @@
       "last_date": "2026-05-31",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 28,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99960",
       "canton": "ZH",
       "lat": 47.351829528808594,
@@ -4126,7 +4126,7 @@
       "last_date": "2026-06-19",
       "company": "SLRG Sektion Bern",
       "participation_max": 48,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102720",
       "canton": null,
       "lat": null,
@@ -11266,7 +11266,7 @@
       "last_date": "2026-09-26",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101644",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -11294,7 +11294,7 @@
       "last_date": "2026-09-26",
       "company": "SSS Delémont",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101647",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -15935,5 +15935,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-24T18:55:57+0000"
+  "geocoded_at": "2026-05-24T19:59:21+0000"
 }
