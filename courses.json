@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-24T15:52:24+0000",
-  "count": 1140,
+  "scraped_at": "2026-05-24T16:46:25+0000",
+  "count": 1139,
   "courses": [
     {
       "key": "98223",
@@ -617,20 +617,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "99487",
-      "category": "Modul See",
-      "city": "Arbon",
-      "first_date": "2026-05-24",
-      "last_date": "2026-05-24",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99487",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
     },
     {
       "key": "99843",
@@ -5834,7 +5820,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102345",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -8228,7 +8214,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101719",
       "canton": null,
       "lat": null,
@@ -15963,5 +15949,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-24T15:52:24+0000"
+  "geocoded_at": "2026-05-24T16:46:25+0000"
 }
