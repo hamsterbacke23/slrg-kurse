@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-24T17:47:51+0000",
-  "count": 1139,
+  "scraped_at": "2026-05-24T18:55:57+0000",
+  "count": 1138,
   "courses": [
     {
       "key": "98223",
@@ -561,20 +561,6 @@
       "canton": "LU",
       "lat": 47.03305435180664,
       "lng": 8.431046485900879
-    },
-    {
-      "key": "99842",
-      "category": "Modul See",
-      "city": "Zug",
-      "first_date": "2026-05-22",
-      "last_date": "2026-05-23",
-      "company": "SLRG Zug",
-      "participation_max": 13,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99842",
-      "canton": "ZG",
-      "lat": 47.151554107666016,
-      "lng": 8.521272659301758
     },
     {
       "key": "100585",
@@ -15949,5 +15935,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-24T17:47:51+0000"
+  "geocoded_at": "2026-05-24T18:55:57+0000"
 }
