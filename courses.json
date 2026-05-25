@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-25T16:56:06+0000",
-  "count": 1134,
+  "scraped_at": "2026-05-25T18:20:43+0000",
+  "count": 1135,
   "courses": [
     {
       "key": "98223",
@@ -962,7 +962,7 @@
       "last_date": "2026-05-31",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 28,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99960",
       "canton": "ZH",
       "lat": 47.351829528808594,
@@ -990,7 +990,7 @@
       "last_date": "2026-05-30",
       "company": "SLRG Männedorf",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100609",
       "canton": null,
       "lat": null,
@@ -1172,7 +1172,7 @@
       "last_date": "2026-05-30",
       "company": "SSS Gambarogno",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101169",
       "canton": "TI",
       "lat": 46.151206970214844,
@@ -1298,7 +1298,7 @@
       "last_date": "2026-05-30",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102371",
       "canton": "AG",
       "lat": 47.41621017456055,
@@ -2171,6 +2171,20 @@
       "canton": "SG",
       "lat": 47.42510986328125,
       "lng": 9.262721061706543
+    },
+    {
+      "key": "101171",
+      "category": "Modul See",
+      "city": "Quartino",
+      "first_date": "2026-06-06",
+      "last_date": "2026-06-06",
+      "company": "SSS Gambarogno",
+      "participation_max": 14,
+      "registered": 11,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101171",
+      "canton": "TI",
+      "lat": 46.151206970214844,
+      "lng": 8.897355079650879
     },
     {
       "key": "101172",
@@ -7458,7 +7472,7 @@
       "last_date": "2026-08-05",
       "company": "SLRG Büren a. A.",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101892",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -15879,5 +15893,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-25T16:56:06+0000"
+  "geocoded_at": "2026-05-25T18:20:43+0000"
 }
