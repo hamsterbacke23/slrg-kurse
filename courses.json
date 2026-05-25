@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-25T22:55:14+0000",
+  "scraped_at": "2026-05-25T23:53:53+0000",
   "count": 1135,
   "courses": [
     {
@@ -1312,7 +1312,7 @@
       "last_date": "2026-05-30",
       "company": "SSS Sion",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102434",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -15893,5 +15893,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-25T22:55:14+0000"
+  "geocoded_at": "2026-05-25T23:53:53+0000"
 }
