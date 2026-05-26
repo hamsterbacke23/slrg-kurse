@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-26T01:51:07+0000",
-  "count": 1135,
+  "scraped_at": "2026-05-26T05:55:44+0000",
+  "count": 1136,
   "courses": [
     {
       "key": "98223",
@@ -1709,6 +1709,20 @@
       "canton": "NE",
       "lat": 47.020973205566406,
       "lng": 6.9480791091918945
+    },
+    {
+      "key": "102778",
+      "category": "Jugendbrevet",
+      "city": "Horgen",
+      "first_date": "2026-06-02",
+      "last_date": "2026-06-03",
+      "company": "SLRG Horgen",
+      "participation_max": 18,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102778",
+      "canton": "ZH",
+      "lat": 47.23603820800781,
+      "lng": 8.592978477478027
     },
     {
       "key": "98854",
@@ -7472,7 +7486,7 @@
       "last_date": "2026-08-05",
       "company": "SLRG Büren a. A.",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101892",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7948,7 +7962,7 @@
       "last_date": "2026-08-14",
       "company": "SLRG Winterthur",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102149",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -15893,5 +15907,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-26T01:51:07+0000"
+  "geocoded_at": "2026-05-26T05:55:44+0000"
 }
