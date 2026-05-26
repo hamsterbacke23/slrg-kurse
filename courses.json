@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-26T21:24:26+0000",
-  "count": 1136,
+  "scraped_at": "2026-05-26T22:58:28+0000",
+  "count": 1132,
   "courses": [
     {
       "key": "98223",
@@ -591,20 +591,6 @@
       "lng": 9.556148529052734
     },
     {
-      "key": "98853",
-      "category": "WK Fluss",
-      "city": "",
-      "first_date": "2026-05-26",
-      "last_date": "2026-05-26",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98853",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100523",
       "category": "WK BLS-AED",
       "city": "",
@@ -631,48 +617,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101874",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-05-26",
-      "last_date": "2026-05-26",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101874",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101875",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-05-26",
-      "last_date": "2026-05-26",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101875",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102275",
-      "category": "Modul BLS-AED",
-      "city": "Dietlikon",
-      "first_date": "2026-05-26",
-      "last_date": "2026-05-26",
-      "company": "SLRG Kloten",
-      "participation_max": 16,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102275",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
     },
     {
       "key": "102795",
@@ -4350,7 +4294,7 @@
       "last_date": "2026-06-22",
       "company": "Società Svizzera di Salvataggio Chiasso",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100507",
       "canton": null,
       "lat": null,
@@ -5764,7 +5708,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102345",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -8900,7 +8844,7 @@
       "last_date": "2026-08-24",
       "company": "SLRG Emmental",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102606",
       "canton": "LU",
       "lat": 46.82255935668945,
@@ -8914,7 +8858,7 @@
       "last_date": "2026-08-24",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102607",
       "canton": "LU",
       "lat": 46.82255935668945,
@@ -15907,5 +15851,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-26T21:24:26+0000"
+  "geocoded_at": "2026-05-26T22:58:28+0000"
 }
