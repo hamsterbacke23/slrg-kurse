@@ -167,6 +167,12 @@
     "lat": 46.288421630859375,
     "lng": 7.718348503112793
   },
+  "Bärau": {
+    "canton": "BE",
+    "label": "Ort Bärau (BE) - Langnau im Emmental",
+    "lat": 46.931427001953125,
+    "lng": 7.8112897872924805
+  },
   "Bülach": {
     "canton": "ZH",
     "label": "Bülach (ZH)",
@@ -262,6 +268,12 @@
     "label": "Delémont (JU)",
     "lat": 47.37165451049805,
     "lng": 7.331088542938232
+  },
+  "Dielsdorf": {
+    "canton": "ZH",
+    "label": "Dielsdorf (ZH)",
+    "lat": 47.47540283203125,
+    "lng": 8.455204963684082
   },
   "Dietlikon": {
     "canton": "ZH",
