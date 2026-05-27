@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-27T21:31:30+0000",
-  "count": 1135,
+  "scraped_at": "2026-05-27T23:06:41+0000",
+  "count": 1134,
   "courses": [
     {
       "key": "98223",
@@ -642,20 +642,6 @@
       "participation_max": 20,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100522",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100858",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-05-28",
-      "last_date": "2026-05-28",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 0,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100858",
       "canton": null,
       "lat": null,
       "lng": null
@@ -15893,5 +15879,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-27T21:31:30+0000"
+  "geocoded_at": "2026-05-27T23:06:41+0000"
 }
