@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-27T00:00:45+0000",
-  "count": 1132,
+  "scraped_at": "2026-05-27T05:06:14+0000",
+  "count": 1135,
   "courses": [
     {
       "key": "98223",
@@ -1466,7 +1466,7 @@
       "last_date": "2026-05-31",
       "company": "SSS Porrentruy",
       "participation_max": 15,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102173",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -2913,6 +2913,20 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
+    },
+    {
+      "key": "102820",
+      "category": "Brevet Basis Pool",
+      "city": "Aeschi b. Spiez",
+      "first_date": "2026-06-11",
+      "last_date": "2026-06-11",
+      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102820",
+      "canton": "BE",
+      "lat": 46.654029846191406,
+      "lng": 7.699234485626221
     },
     {
       "key": "99925",
@@ -5265,6 +5279,34 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
+    },
+    {
+      "key": "102821",
+      "category": "Brevet Plus Pool",
+      "city": "Spiez",
+      "first_date": "2026-06-25",
+      "last_date": "2026-06-25",
+      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102821",
+      "canton": "BE",
+      "lat": 46.691070556640625,
+      "lng": 7.6608123779296875
+    },
+    {
+      "key": "102822",
+      "category": "WK Pool Plus",
+      "city": "Aeschi b. Spiez",
+      "first_date": "2026-06-25",
+      "last_date": "2026-06-25",
+      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102822",
+      "canton": "BE",
+      "lat": 46.654029846191406,
+      "lng": 7.699234485626221
     },
     {
       "key": "100836",
@@ -15851,5 +15893,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-27T00:00:45+0000"
+  "geocoded_at": "2026-05-27T05:06:14+0000"
 }
