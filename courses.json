@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-28T21:47:49+0000",
-  "count": 1128,
+  "scraped_at": "2026-05-28T23:04:31+0000",
+  "count": 1126,
   "courses": [
     {
       "key": "98223",
@@ -577,20 +577,6 @@
       "lng": null
     },
     {
-      "key": "100156",
-      "category": "WK Fluss",
-      "city": "Heerbrugg",
-      "first_date": "2026-05-28",
-      "last_date": "2026-05-28",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100156",
-      "canton": "SG",
-      "lat": 47.411685943603516,
-      "lng": 9.626534461975098
-    },
-    {
       "key": "100521",
       "category": "WK Pool Plus",
       "city": "",
@@ -614,20 +600,6 @@
       "participation_max": 20,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100522",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100863",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-05-28",
-      "last_date": "2026-05-28",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100863",
       "canton": null,
       "lat": null,
       "lng": null
@@ -1970,7 +1942,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101348",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -15795,5 +15767,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-28T21:47:49+0000"
+  "geocoded_at": "2026-05-28T23:04:31+0000"
 }
