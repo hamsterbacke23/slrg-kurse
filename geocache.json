@@ -293,6 +293,12 @@
     "lat": 47.079551696777344,
     "lng": 8.333163261413574
   },
+  "Eglisau": {
+    "canton": "ZH",
+    "label": "Eglisau (ZH)",
+    "lat": 47.57235336303711,
+    "lng": 8.523054122924805
+  },
   "Egnach": {
     "canton": "TG",
     "label": "Egnach (TG)",
@@ -424,6 +430,12 @@
     "label": "Grindelwald (BE)",
     "lat": 46.620018005371094,
     "lng": 8.041796684265137
+  },
+  "Hallau": {
+    "canton": "SH",
+    "label": "Hallau (SH)",
+    "lat": 47.70162582397461,
+    "lng": 8.43972110748291
   },
   "Hausmeister Schule EKMO": null,
   "Hedingen": {
