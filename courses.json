@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-30T02:53:11+0000",
-  "count": 1132,
+  "scraped_at": "2026-05-30T06:12:23+0000",
+  "count": 1128,
   "courses": [
     {
       "key": "98223",
@@ -479,20 +479,6 @@
       "lng": 9.556148529052734
     },
     {
-      "key": "102795",
-      "category": "Modul BLS-AED",
-      "city": "1052",
-      "first_date": "2026-05-26",
-      "last_date": "2026-05-30",
-      "company": "SSS Lausanne",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102795",
-      "canton": "AG",
-      "lat": 47.45991897583008,
-      "lng": 8.248859405517578
-    },
-    {
       "key": "102594",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -561,20 +547,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102663",
-      "category": "WK Pool Basis",
-      "city": "Sarnen",
-      "first_date": "2026-05-29",
-      "last_date": "2026-05-29",
-      "company": "SLRG Obwalden",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102663",
-      "canton": "OW",
-      "lat": 46.89374923706055,
-      "lng": 8.186779022216797
     },
     {
       "key": "102825",
@@ -759,20 +731,6 @@
       "lng": 8.182795524597168
     },
     {
-      "key": "101771",
-      "category": "Brevet Pro Pool",
-      "city": "Nidau",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-31",
-      "company": "SLRG Grenchen",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101771",
-      "canton": "BE",
-      "lat": 47.12384033203125,
-      "lng": 7.239261627197266
-    },
-    {
       "key": "101804",
       "category": "Brevet Plus Pool",
       "city": "Mels",
@@ -785,20 +743,6 @@
       "canton": "SG",
       "lat": 47.00428009033203,
       "lng": 9.317394256591797
-    },
-    {
-      "key": "101806",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101806",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101894",
@@ -871,20 +815,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "102549",
-      "category": "Modul BLS-AED",
-      "city": "Goldswil b. Interlaken",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 6,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102549",
-      "canton": "BE",
-      "lat": 46.69535446166992,
-      "lng": 7.8780694007873535
-    },
-    {
       "key": "102595",
       "category": "Modul BLS-AED",
       "city": "",
@@ -894,6 +824,20 @@
       "participation_max": 16,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102595",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102744",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-05-30",
+      "last_date": "2026-05-30",
+      "company": "Fachhochschule Nordwestschweiz FHNW",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102744",
       "canton": null,
       "lat": null,
       "lng": null
@@ -2992,7 +2936,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101182",
       "canton": null,
       "lat": null,
@@ -5553,8 +5497,8 @@
       "first_date": "2026-06-28",
       "last_date": "2026-06-28",
       "company": "SLRG Richterswil",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 13,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98405",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -5736,7 +5680,7 @@
       "last_date": "2026-07-01",
       "company": "SLRG Nidwalden",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101603",
       "canton": "NW",
       "lat": 46.9562873840332,
@@ -6351,8 +6295,8 @@
       "first_date": "2026-07-05",
       "last_date": "2026-07-05",
       "company": "SLRG Richterswil",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 13,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98406",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -15851,5 +15795,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-30T02:53:11+0000"
+  "geocoded_at": "2026-05-30T06:12:23+0000"
 }
