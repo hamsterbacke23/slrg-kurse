@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-30T12:56:08+0000",
-  "count": 1121,
+  "scraped_at": "2026-05-30T14:22:55+0000",
+  "count": 1120,
   "courses": [
     {
       "key": "98223",
@@ -841,20 +841,6 @@
       "canton": "SZ",
       "lat": 47.19688415527344,
       "lng": 8.854327201843262
-    },
-    {
-      "key": "100542",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "ETH Zürich",
-      "participation_max": 26,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100542",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101044",
@@ -3510,7 +3496,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102845",
       "canton": null,
       "lat": null,
@@ -3566,7 +3552,7 @@
       "last_date": "2026-06-19",
       "company": "SLRG Sektion Bern",
       "participation_max": 48,
-      "registered": 28,
+      "registered": 29,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102720",
       "canton": null,
       "lat": null,
@@ -8522,7 +8508,7 @@
       "last_date": "2026-08-26",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99897",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -12582,7 +12568,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100981",
       "canton": null,
       "lat": null,
@@ -15697,5 +15683,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-30T12:56:08+0000"
+  "geocoded_at": "2026-05-30T14:22:55+0000"
 }
