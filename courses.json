@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-30T17:54:04+0000",
-  "count": 1118,
+  "scraped_at": "2026-05-30T18:54:03+0000",
+  "count": 1113,
   "courses": [
     {
       "key": "98223",
@@ -80,7 +80,7 @@
       "last_date": "2026-11-12",
       "company": "SLRG Wil",
       "participation_max": 30,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100808",
       "canton": null,
       "lat": null,
@@ -577,34 +577,6 @@
       "lng": 9.130014419555664
     },
     {
-      "key": "99623",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Region Zürich",
-      "participation_max": 45,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99623",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "99624",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Region Zürich",
-      "participation_max": 45,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99624",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "99912",
       "category": "Modul BLS-AED",
       "city": "Riva San Vitale",
@@ -645,34 +617,6 @@
       "canton": "VS",
       "lat": 46.28894805908203,
       "lng": 7.975067138671875
-    },
-    {
-      "key": "101333",
-      "category": "Brevet Basis Pool",
-      "city": "Arbon",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Arbon",
-      "participation_max": 22,
-      "registered": 21,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101333",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
-      "key": "101341",
-      "category": "Brevet Basis Pool",
-      "city": "Menziken",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Sektion Hallwilersee",
-      "participation_max": 11,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101341",
-      "canton": "AG",
-      "lat": 47.235843658447266,
-      "lng": 8.182795524597168
     },
     {
       "key": "101804",
@@ -796,20 +740,6 @@
       "participation_max": 45,
       "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99615",
-      "canton": "SZ",
-      "lat": 47.19688415527344,
-      "lng": 8.854327201843262
-    },
-    {
-      "key": "99625",
-      "category": "WK See",
-      "city": "Lachen SZ",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "SLRG Region Zürich",
-      "participation_max": 45,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99625",
       "canton": "SZ",
       "lat": 47.19688415527344,
       "lng": 8.854327201843262
@@ -9264,7 +9194,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101907",
       "canton": null,
       "lat": null,
@@ -15655,5 +15585,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-30T17:54:04+0000"
+  "geocoded_at": "2026-05-30T18:54:03+0000"
 }
