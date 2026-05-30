@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-30T20:00:21+0000",
+  "scraped_at": "2026-05-30T20:58:13+0000",
   "count": 1111,
   "courses": [
     {
@@ -808,7 +808,7 @@
       "last_date": "2026-05-31",
       "company": "SSS Porrentruy",
       "participation_max": 15,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102171",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -2712,7 +2712,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101302",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11140,7 +11140,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102424",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -15557,5 +15557,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-30T20:00:21+0000"
+  "geocoded_at": "2026-05-30T20:58:13+0000"
 }
