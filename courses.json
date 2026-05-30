@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-30T16:50:37+0000",
+  "scraped_at": "2026-05-30T17:54:04+0000",
   "count": 1118,
   "courses": [
     {
@@ -654,7 +654,7 @@
       "last_date": "2026-05-30",
       "company": "SLRG Arbon",
       "participation_max": 22,
-      "registered": 22,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101333",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -4532,7 +4532,7 @@
       "last_date": "2026-06-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101836",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -7584,7 +7584,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100158",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -9208,7 +9208,7 @@
       "last_date": "2026-09-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100778",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -15655,5 +15655,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-30T16:50:37+0000"
+  "geocoded_at": "2026-05-30T17:54:04+0000"
 }
