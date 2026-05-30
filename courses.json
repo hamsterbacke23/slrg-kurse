@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-30T20:58:13+0000",
-  "count": 1111,
+  "scraped_at": "2026-05-30T21:56:18+0000",
+  "count": 1107,
   "courses": [
     {
       "key": "98223",
@@ -751,7 +751,7 @@
       "first_date": "2026-05-31",
       "last_date": "2026-05-31",
       "company": "SLRG Sektion Hallwilersee",
-      "participation_max": 12,
+      "participation_max": 10,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101342",
       "canton": "AG",
@@ -1032,7 +1032,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Oberwil",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99985",
       "canton": null,
       "lat": null,
@@ -1459,20 +1459,6 @@
       "lng": null
     },
     {
-      "key": "101193",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SLRG Rüti",
-      "participation_max": 20,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101193",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101348",
       "category": "Modul See",
       "city": "Lachen SZ",
@@ -1676,7 +1662,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102760",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -1975,48 +1961,6 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
-    },
-    {
-      "key": "100405",
-      "category": "WK BLS-AED",
-      "city": "Appenzell",
-      "first_date": "2026-06-10",
-      "last_date": "2026-06-10",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100405",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
-      "key": "100407",
-      "category": "WK Pool Basis",
-      "city": "Appenzell",
-      "first_date": "2026-06-10",
-      "last_date": "2026-06-10",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100407",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
-      "key": "100409",
-      "category": "WK Pool Plus",
-      "city": "Appenzell",
-      "first_date": "2026-06-10",
-      "last_date": "2026-06-10",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100409",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
     },
     {
       "key": "100887",
@@ -6800,7 +6744,7 @@
       "last_date": "2026-07-28",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100000",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -15557,5 +15501,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-30T20:58:13+0000"
+  "geocoded_at": "2026-05-30T21:56:18+0000"
 }
