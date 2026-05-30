@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-30T22:45:47+0000",
+  "scraped_at": "2026-05-30T23:48:16+0000",
   "count": 1106,
   "courses": [
     {
@@ -5904,7 +5904,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101803",
       "canton": "BE",
       "lat": 46.930362701416016,
@@ -9432,7 +9432,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101414",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -11980,7 +11980,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -15487,5 +15487,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-30T22:45:47+0000"
+  "geocoded_at": "2026-05-30T23:48:16+0000"
 }
