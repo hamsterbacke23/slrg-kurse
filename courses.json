@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-31T16:52:02+0000",
-  "count": 1099,
+  "scraped_at": "2026-05-31T17:51:25+0000",
+  "count": 1096,
   "courses": [
     {
       "key": "98223",
@@ -647,20 +647,6 @@
       "lng": null
     },
     {
-      "key": "102759",
-      "category": "Brevet Basis Pool",
-      "city": "Zuchwil",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Solothurn",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102759",
-      "canton": "SO",
-      "lat": 47.206111907958984,
-      "lng": 7.562047481536865
-    },
-    {
       "key": "102826",
       "category": "Modul BLS-AED",
       "city": "Bärau",
@@ -759,20 +745,6 @@
       "lng": 8.182795524597168
     },
     {
-      "key": "101511",
-      "category": "Modul See",
-      "city": "Bissone",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101511",
-      "canton": "TI",
-      "lat": 45.95045852661133,
-      "lng": 8.966944694519043
-    },
-    {
       "key": "102171",
       "category": "WK BLS-AED",
       "city": "Porrentruy",
@@ -827,20 +799,6 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
-    },
-    {
-      "key": "102344",
-      "category": "WK See",
-      "city": "Bissone",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "SSS Paradiso",
-      "participation_max": 10,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102344",
-      "canton": "TI",
-      "lat": 45.95045852661133,
-      "lng": 8.966944694519043
     },
     {
       "key": "99283",
@@ -1353,8 +1311,8 @@
       "first_date": "2026-06-06",
       "last_date": "2026-06-06",
       "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 11,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100849",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -4518,7 +4476,7 @@
       "last_date": "2026-06-25",
       "company": "SSS Nord-Vaudois",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102764",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -15389,5 +15347,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-31T16:52:02+0000"
+  "geocoded_at": "2026-05-31T17:51:25+0000"
 }
