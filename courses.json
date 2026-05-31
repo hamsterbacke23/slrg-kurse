@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-31T06:19:18+0000",
+  "scraped_at": "2026-05-31T09:39:09+0000",
   "count": 1104,
   "courses": [
     {
@@ -1228,7 +1228,7 @@
       "last_date": "2026-06-05",
       "company": "SLRG Solothurn",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102761",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -1634,7 +1634,7 @@
       "last_date": "2026-06-06",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102760",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -2754,7 +2754,7 @@
       "last_date": "2026-06-20",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101781",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -3902,7 +3902,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Rüti",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101438",
       "canton": null,
       "lat": null,
@@ -6375,16 +6375,16 @@
     {
       "key": "102823",
       "category": "Modul See",
-      "city": "Quartino",
+      "city": "Piazzogna, via Cantonale 2",
       "first_date": "2026-07-11",
       "last_date": "2026-07-11",
       "company": "SSS Gambarogno",
       "participation_max": 10,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102823",
-      "canton": "TI",
-      "lat": 46.151206970214844,
-      "lng": 8.897355079650879
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "101046",
@@ -7122,7 +7122,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7360,7 +7360,7 @@
       "last_date": "2026-08-12",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102755",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7598,7 +7598,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Bauma",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102130",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -7612,7 +7612,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Altberg",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102199",
       "canton": null,
       "lat": null,
@@ -8018,7 +8018,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100896",
       "canton": null,
       "lat": null,
@@ -12344,7 +12344,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100981",
       "canton": null,
       "lat": null,
@@ -13786,7 +13786,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99337",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -15459,5 +15459,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-31T06:19:18+0000"
+  "geocoded_at": "2026-05-31T09:39:10+0000"
 }
