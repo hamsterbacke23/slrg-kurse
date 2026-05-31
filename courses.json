@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-31T21:44:58+0000",
-  "count": 1087,
+  "scraped_at": "2026-05-31T22:44:45+0000",
+  "count": 1086,
   "courses": [
     {
       "key": "98223",
@@ -493,20 +493,6 @@
       "lng": 8.971078872680664
     },
     {
-      "key": "99960",
-      "category": "Brevet Basis Pool",
-      "city": "Uster",
-      "first_date": "2026-05-29",
-      "last_date": "2026-05-31",
-      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
-      "participation_max": 28,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99960",
-      "canton": "ZH",
-      "lat": 47.351829528808594,
-      "lng": 8.7227144241333
-    },
-    {
       "key": "99912",
       "category": "Modul BLS-AED",
       "city": "Riva San Vitale",
@@ -731,6 +717,20 @@
       "lng": 8.893594741821289
     },
     {
+      "key": "102601",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-06-01",
+      "last_date": "2026-06-01",
+      "company": "SLRG Sarganserland",
+      "participation_max": 10,
+      "registered": 5,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102601",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102771",
       "category": "Brevet Basis Pool",
       "city": "Sion",
@@ -922,20 +922,6 @@
       "participation_max": 4,
       "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102599",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102601",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-06-03",
-      "last_date": "2026-06-03",
-      "company": "SLRG Sarganserland",
-      "participation_max": 10,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102601",
       "canton": null,
       "lat": null,
       "lng": null
@@ -3062,7 +3048,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102845",
       "canton": null,
       "lat": null,
@@ -6576,7 +6562,7 @@
       "last_date": "2026-08-12",
       "company": "SLRG Sarganserland",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102604",
       "canton": "SG",
       "lat": 47.12102508544922,
@@ -15221,5 +15207,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-31T21:44:58+0000"
+  "geocoded_at": "2026-05-31T22:44:45+0000"
 }
