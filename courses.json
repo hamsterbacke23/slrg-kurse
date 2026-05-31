@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-31T02:00:15+0000",
-  "count": 1106,
+  "scraped_at": "2026-05-31T06:19:18+0000",
+  "count": 1104,
   "courses": [
     {
       "key": "98223",
@@ -752,7 +752,7 @@
       "last_date": "2026-05-31",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101342",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -785,20 +785,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101899",
-      "category": "Brevet Plus Pool",
-      "city": "Thun",
-      "first_date": "2026-05-31",
-      "last_date": "2026-05-31",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101899",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
     },
     {
       "key": "102171",
@@ -1429,20 +1415,6 @@
       "canton": "SG",
       "lat": 47.42510986328125,
       "lng": 9.262721061706543
-    },
-    {
-      "key": "101171",
-      "category": "Modul See",
-      "city": "Quartino",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SSS Gambarogno",
-      "participation_max": 14,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101171",
-      "canton": "TI",
-      "lat": 46.151206970214844,
-      "lng": 8.897355079650879
     },
     {
       "key": "101172",
@@ -2320,7 +2292,7 @@
       "last_date": "2026-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102281",
       "canton": "TG",
       "lat": 47.658878326416016,
@@ -2334,7 +2306,7 @@
       "last_date": "2026-06-12",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102391",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -11252,7 +11224,7 @@
       "last_date": "2026-10-08",
       "company": "SLRG Oberwallis",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101559",
       "canton": null,
       "lat": null,
@@ -15487,5 +15459,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-05-31T02:00:15+0000"
+  "geocoded_at": "2026-05-31T06:19:18+0000"
 }
