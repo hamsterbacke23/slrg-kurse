@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-02T20:36:50+0000",
-  "count": 1084,
+  "scraped_at": "2026-06-02T22:53:03+0000",
+  "count": 1083,
   "courses": [
     {
       "key": "98223",
@@ -323,20 +323,6 @@
       "canton": "GE",
       "lat": 46.204559326171875,
       "lng": 6.1424560546875
-    },
-    {
-      "key": "102692",
-      "category": "Jugendbrevet",
-      "city": "Paradiso",
-      "first_date": "2026-04-27",
-      "last_date": "2026-06-01",
-      "company": "SSS Paradiso",
-      "participation_max": 7,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102692",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "102647",
@@ -1284,7 +1270,7 @@
       "last_date": "2026-06-07",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102659",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -2432,7 +2418,7 @@
       "last_date": "2026-06-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102102",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3580,7 +3566,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102386",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -10944,7 +10930,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99441",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -15179,5 +15165,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-02T20:36:50+0000"
+  "geocoded_at": "2026-06-02T22:53:03+0000"
 }
