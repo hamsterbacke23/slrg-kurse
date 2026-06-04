@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-03T22:20:02+0000",
+  "scraped_at": "2026-06-04T00:23:20+0000",
   "count": 1082,
   "courses": [
     {
@@ -8410,7 +8410,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102140",
       "canton": null,
       "lat": null,
@@ -15151,5 +15151,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-03T22:20:02+0000"
+  "geocoded_at": "2026-06-04T00:23:20+0000"
 }
