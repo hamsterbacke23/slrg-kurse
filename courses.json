@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-04T00:23:20+0000",
-  "count": 1082,
+  "scraped_at": "2026-06-04T05:29:33+0000",
+  "count": 1083,
   "courses": [
     {
       "key": "98223",
@@ -743,6 +743,20 @@
       "canton": "VD",
       "lat": 46.53825378417969,
       "lng": 6.604588985443115
+    },
+    {
+      "key": "102745",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-06-04",
+      "last_date": "2026-06-04",
+      "company": "Fachhochschule Nordwestschweiz FHNW",
+      "participation_max": 24,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102745",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "101710",
@@ -1690,7 +1704,7 @@
       "last_date": "2026-06-11",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102843",
       "canton": "ZH",
       "lat": 47.57235336303711,
@@ -6968,7 +6982,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99571",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -15151,5 +15165,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-04T00:23:20+0000"
+  "geocoded_at": "2026-06-04T05:29:33+0000"
 }
