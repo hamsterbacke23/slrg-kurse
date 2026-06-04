@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-04T21:20:12+0000",
-  "count": 1079,
+  "scraped_at": "2026-06-04T22:58:42+0000",
+  "count": 1078,
   "courses": [
     {
       "key": "98223",
@@ -771,20 +771,6 @@
       "canton": "ZH",
       "lat": 47.41958999633789,
       "lng": 8.434049606323242
-    },
-    {
-      "key": "102587",
-      "category": "WK BLS-AED",
-      "city": "Gipf-Oberfrick",
-      "first_date": "2026-06-05",
-      "last_date": "2026-06-05",
-      "company": "SLRG Fricktal",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102587",
-      "canton": "AG",
-      "lat": 47.489688873291016,
-      "lng": 8.006566047668457
     },
     {
       "key": "102761",
@@ -4098,7 +4084,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Winterthur",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99348",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -5022,7 +5008,7 @@
       "last_date": "2026-07-02",
       "company": "SLRG Winterthur",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102608",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -5904,7 +5890,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101902",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -15109,5 +15095,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-04T21:20:12+0000"
+  "geocoded_at": "2026-06-04T22:58:42+0000"
 }
