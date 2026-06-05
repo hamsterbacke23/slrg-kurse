@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-05T00:02:58+0000",
-  "count": 1078,
+  "scraped_at": "2026-06-05T05:05:55+0000",
+  "count": 1079,
   "courses": [
     {
       "key": "98223",
@@ -15,6 +15,20 @@
       "canton": "VD",
       "lat": 46.3162727355957,
       "lng": 6.202526569366455
+    },
+    {
+      "key": "99659",
+      "category": "Jugendbrevet",
+      "city": "",
+      "first_date": "2025-10-23",
+      "last_date": "2026-01-22",
+      "company": "SLRG Frauenfeld",
+      "participation_max": 12,
+      "registered": 10,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99659",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "102218",
@@ -2054,7 +2068,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101302",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -3902,7 +3916,7 @@
       "last_date": "2026-06-26",
       "company": "SSS Lugano",
       "participation_max": 25,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101531",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4966,7 +4980,7 @@
       "last_date": "2026-07-02",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98758",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -6912,7 +6926,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99571",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -15095,5 +15109,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-05T00:02:58+0000"
+  "geocoded_at": "2026-06-05T05:05:55+0000"
 }
