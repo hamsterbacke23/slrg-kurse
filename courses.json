@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-05T15:45:06+0000",
-  "count": 1090,
+  "scraped_at": "2026-06-05T17:44:00+0000",
+  "count": 1091,
   "courses": [
     {
       "key": "98223",
@@ -869,6 +869,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "100353",
+      "category": "WK Pool Pro",
+      "city": "Romont FR",
+      "first_date": "2026-06-06",
+      "last_date": "2026-06-06",
+      "company": "SSS Région Romande",
+      "participation_max": 15,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100353",
+      "canton": "FR",
+      "lat": 46.69870376586914,
+      "lng": 6.923159599304199
     },
     {
       "key": "100614",
@@ -3733,8 +3747,8 @@
       "first_date": "2026-06-21",
       "last_date": "2026-06-21",
       "company": "SLRG Sektion Züri",
-      "participation_max": 25,
-      "registered": 25,
+      "participation_max": 26,
+      "registered": 26,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101045",
       "canton": null,
       "lat": null,
@@ -6520,7 +6534,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101893",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -9502,7 +9516,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 7,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101645",
       "canton": "BE",
       "lat": 47.25593948364258,
@@ -11812,7 +11826,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101668",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -15263,5 +15277,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-05T15:45:06+0000"
+  "geocoded_at": "2026-06-05T17:44:01+0000"
 }
