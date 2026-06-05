@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-05T21:13:44+0000",
-  "count": 1090,
+  "scraped_at": "2026-06-05T22:53:39+0000",
+  "count": 1084,
   "courses": [
     {
       "key": "98223",
@@ -717,20 +717,6 @@
       "lng": null
     },
     {
-      "key": "102753",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-06-03",
-      "last_date": "2026-06-10",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102753",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "99292",
       "category": "Brevet Basis Pool",
       "city": "Winterthur",
@@ -785,62 +771,6 @@
       "canton": "SO",
       "lat": 47.206111907958984,
       "lng": 7.562047481536865
-    },
-    {
-      "key": "98015",
-      "category": "WK Modul SLRG",
-      "city": "Romont FR",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SSS Région Romande",
-      "participation_max": 46,
-      "registered": 45,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98015",
-      "canton": "FR",
-      "lat": 46.69870376586914,
-      "lng": 6.923159599304199
-    },
-    {
-      "key": "98016",
-      "category": "WK Modul Methodik",
-      "city": "Romont FR",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SSS Région Romande",
-      "participation_max": 46,
-      "registered": 45,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98016",
-      "canton": "FR",
-      "lat": 46.69870376586914,
-      "lng": 6.923159599304199
-    },
-    {
-      "key": "98017",
-      "category": "WK Expert Pool",
-      "city": "Romont FR",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SSS Région Romande",
-      "participation_max": 46,
-      "registered": 45,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98017",
-      "canton": "FR",
-      "lat": 46.69870376586914,
-      "lng": 6.923159599304199
-    },
-    {
-      "key": "98018",
-      "category": "WK Expert BLS-AED inkl. SRC-Rollout 2025",
-      "city": "Romont FR",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SSS Région Romande",
-      "participation_max": 42,
-      "registered": 41,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98018",
-      "canton": "FR",
-      "lat": 46.69870376586914,
-      "lng": 6.923159599304199
     },
     {
       "key": "99423",
@@ -1228,7 +1158,7 @@
       "last_date": "2026-06-07",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 15,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101618",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -1933,20 +1863,6 @@
       "canton": "BS",
       "lat": 47.5545539855957,
       "lng": 7.590269565582275
-    },
-    {
-      "key": "100376",
-      "category": "WK See",
-      "city": "Egnach",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-20",
-      "company": "SLRG Weinfelden",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100376",
-      "canton": "TG",
-      "lat": 47.52652359008789,
-      "lng": 9.364821434020996
     },
     {
       "key": "100586",
@@ -15263,5 +15179,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-05T21:13:44+0000"
+  "geocoded_at": "2026-06-05T22:53:39+0000"
 }
