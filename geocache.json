@@ -588,6 +588,12 @@
     "lat": 46.65501022338867,
     "lng": 6.508055686950684
   },
+  "La Tour-de-Peilz": {
+    "canton": "VD",
+    "label": "La Tour-de-Peilz (VD)",
+    "lat": 46.43476104736328,
+    "lng": 6.854816913604736
+  },
   "Lachen": {
     "canton": "SZ",
     "label": "Lachen (SZ)",
