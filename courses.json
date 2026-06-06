@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-06T21:52:39+0000",
-  "count": 1057,
+  "scraped_at": "2026-06-06T22:51:12+0000",
+  "count": 1053,
   "courses": [
     {
       "key": "98223",
@@ -507,20 +507,6 @@
       "lng": 6.854816913604736
     },
     {
-      "key": "100814",
-      "category": "Brevet Basis Pool",
-      "city": "Brig",
-      "first_date": "2026-05-30",
-      "last_date": "2026-05-30",
-      "company": "SLRG Oberwallis",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100814",
-      "canton": "VS",
-      "lat": 46.28894805908203,
-      "lng": 7.975067138671875
-    },
-    {
       "key": "101804",
       "category": "Brevet Plus Pool",
       "city": "Mels",
@@ -603,34 +589,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "100149",
-      "category": "Modul Fluss",
-      "city": "Grabs",
-      "first_date": "2026-06-02",
-      "last_date": "2026-06-06",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100149",
-      "canton": "SG",
-      "lat": 47.16484832763672,
-      "lng": 9.390880584716797
-    },
-    {
-      "key": "98854",
-      "category": "Modul Fluss",
-      "city": "Luzern",
-      "first_date": "2026-06-03",
-      "last_date": "2026-06-06",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98854",
-      "canton": "LU",
-      "lat": 47.05473327636719,
-      "lng": 8.300894737243652
     },
     {
       "key": "101713",
@@ -729,20 +687,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100768",
-      "category": "Brevet Basis Pool",
-      "city": "Langenthal",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100768",
-      "canton": "BE",
-      "lat": 47.212921142578125,
-      "lng": 7.807295799255371
     },
     {
       "key": "100832",
@@ -14801,5 +14745,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-06T21:52:39+0000"
+  "geocoded_at": "2026-06-06T22:51:12+0000"
 }
