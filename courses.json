@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-06T20:51:21+0000",
-  "count": 1062,
+  "scraped_at": "2026-06-06T21:52:39+0000",
+  "count": 1057,
   "courses": [
     {
       "key": "98223",
@@ -633,20 +633,6 @@
       "lng": 8.300894737243652
     },
     {
-      "key": "101712",
-      "category": "Modul See",
-      "city": "Aarau",
-      "first_date": "2026-06-03",
-      "last_date": "2026-06-06",
-      "company": "SLRG Aarau",
-      "participation_max": 14,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101712",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
-    },
-    {
       "key": "101713",
       "category": "Modul Fluss",
       "city": "Aarau",
@@ -731,34 +717,6 @@
       "lng": 8.434049606323242
     },
     {
-      "key": "99423",
-      "category": "WK BLS-AED",
-      "city": "Aarau",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SLRG Aarau",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99423",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
-    },
-    {
-      "key": "100177",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SLRG Baden-Brugg",
-      "participation_max": 13,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100177",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100614",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -815,20 +773,6 @@
       "lng": 9.262721061706543
     },
     {
-      "key": "101348",
-      "category": "Modul See",
-      "city": "Lachen SZ",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SLRG Lachen",
-      "participation_max": 20,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101348",
-      "canton": "SZ",
-      "lat": 47.19688415527344,
-      "lng": 8.854327201843262
-    },
-    {
       "key": "101621",
       "category": "Brevet Basis Pool",
       "city": "Wald",
@@ -841,20 +785,6 @@
       "canton": "ZH",
       "lat": 47.28373718261719,
       "lng": 8.916254043579102
-    },
-    {
-      "key": "101876",
-      "category": "Brevet Basis Pool",
-      "city": "Nebikon",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101876",
-      "canton": "LU",
-      "lat": 47.191654205322266,
-      "lng": 7.987195014953613
     },
     {
       "key": "102790",
@@ -4434,7 +4364,7 @@
       "last_date": "2026-06-29",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101759",
       "canton": "AG",
       "lat": 47.38810348510742,
@@ -14871,5 +14801,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-06T20:51:21+0000"
+  "geocoded_at": "2026-06-06T21:52:39+0000"
 }
