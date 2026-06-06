@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T02:01:51+0000",
+  "scraped_at": "2026-06-06T06:17:59+0000",
   "count": 1084,
   "courses": [
     {
@@ -458,7 +458,7 @@
       "last_date": "2026-06-13",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100585",
       "canton": "VD",
       "lat": 46.42595672607422,
@@ -990,7 +990,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Lugano",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102440",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -1116,7 +1116,7 @@
       "last_date": "2026-06-06",
       "company": "SSS Payerne",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102888",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -1508,7 +1508,7 @@
       "last_date": "2026-06-11",
       "company": "SLRG Emmental",
       "participation_max": 1,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102920",
       "canton": null,
       "lat": null,
@@ -3916,7 +3916,7 @@
       "last_date": "2026-06-26",
       "company": "SSS Lugano",
       "participation_max": 25,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101531",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -9544,7 +9544,7 @@
       "last_date": "2026-09-13",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100847",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -15179,5 +15179,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-06T02:01:51+0000"
+  "geocoded_at": "2026-06-06T06:17:59+0000"
 }
