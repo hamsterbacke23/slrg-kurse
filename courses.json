@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-06T15:03:00+0000",
-  "count": 1075,
+  "scraped_at": "2026-06-06T16:54:57+0000",
+  "count": 1068,
   "courses": [
     {
       "key": "98223",
@@ -801,48 +801,6 @@
       "lng": 8.278470993041992
     },
     {
-      "key": "100849",
-      "category": "WK See",
-      "city": "Arbon",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100849",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
-      "key": "100850",
-      "category": "WK See",
-      "city": "Arbon",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 9,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100850",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
-      "key": "100851",
-      "category": "WK See",
-      "city": "Arbon",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 11,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100851",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
       "key": "101134",
       "category": "Brevet Basis Pool",
       "city": "Gossau SG",
@@ -997,20 +955,6 @@
       "lng": null
     },
     {
-      "key": "102888",
-      "category": "WK BLS-AED",
-      "city": "Payerne",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-06",
-      "company": "SSS Payerne",
-      "participation_max": 6,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102888",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
-    },
-    {
       "key": "101130",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -1018,53 +962,11 @@
       "last_date": "2026-06-07",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 22,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101130",
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101617",
-      "category": "WK See",
-      "city": "Arbon",
-      "first_date": "2026-06-07",
-      "last_date": "2026-06-07",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101617",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
-      "key": "101618",
-      "category": "WK See",
-      "city": "Arbon",
-      "first_date": "2026-06-07",
-      "last_date": "2026-06-07",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 15,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101618",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
-      "key": "101619",
-      "category": "WK See",
-      "city": "Arbon",
-      "first_date": "2026-06-07",
-      "last_date": "2026-06-07",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101619",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
     },
     {
       "key": "100870",
@@ -2082,7 +1984,7 @@
       "last_date": "2026-06-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102102",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4504,7 +4406,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102530",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -4644,7 +4546,7 @@
       "last_date": "2026-07-06",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102777",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -13982,7 +13884,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Wald",
       "participation_max": 18,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101625",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -15053,5 +14955,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-06T15:03:00+0000"
+  "geocoded_at": "2026-06-06T16:54:57+0000"
 }
