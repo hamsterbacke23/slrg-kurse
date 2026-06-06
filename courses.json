@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T22:51:12+0000",
+  "scraped_at": "2026-06-06T23:53:13+0000",
   "count": 1053,
   "courses": [
     {
@@ -5414,7 +5414,7 @@
       "last_date": "2026-07-12",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101046",
       "canton": null,
       "lat": null,
@@ -14745,5 +14745,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-06T22:51:12+0000"
+  "geocoded_at": "2026-06-06T23:53:13+0000"
 }
