@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-06T16:54:57+0000",
+  "scraped_at": "2026-06-06T17:57:52+0000",
   "count": 1068,
   "courses": [
     {
@@ -122,7 +122,7 @@
       "last_date": "2026-06-03",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102217",
       "canton": null,
       "lat": null,
@@ -5316,7 +5316,7 @@
       "last_date": "2026-07-07",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101114",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -5750,7 +5750,7 @@
       "last_date": "2026-07-21",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100941",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -9894,7 +9894,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Baldeggersee",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100838",
       "canton": "LU",
       "lat": 47.16489791870117,
@@ -13562,7 +13562,7 @@
       "last_date": "2026-12-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102698",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -14955,5 +14955,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-06T16:54:57+0000"
+  "geocoded_at": "2026-06-06T17:57:52+0000"
 }
