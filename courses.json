@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-07T02:04:24+0000",
+  "scraped_at": "2026-06-07T06:54:36+0000",
   "count": 1053,
   "courses": [
     {
@@ -1312,7 +1312,7 @@
       "last_date": "2026-06-12",
       "company": "SSS St. Maurice",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102070",
       "canton": null,
       "lat": null,
@@ -8074,7 +8074,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102609",
       "canton": "ZH",
       "lat": 47.366180419921875,
@@ -14745,5 +14745,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-07T02:04:24+0000"
+  "geocoded_at": "2026-06-07T06:54:36+0000"
 }
