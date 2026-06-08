@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-08T21:30:12+0000",
-  "count": 1038,
+  "scraped_at": "2026-06-08T23:05:00+0000",
+  "count": 1036,
   "courses": [
     {
       "key": "98223",
@@ -82,20 +82,6 @@
       "participation_max": 30,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100808",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "98938",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-01-26",
-      "last_date": "2026-06-08",
-      "company": "SLRG Wil",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98938",
       "canton": null,
       "lat": null,
       "lng": null
@@ -395,20 +381,6 @@
       "lng": 9.556148529052734
     },
     {
-      "key": "102145",
-      "category": "Jugendbrevet",
-      "city": "Menziken",
-      "first_date": "2026-05-28",
-      "last_date": "2026-06-07",
-      "company": "SLRG Sektion Hallwilersee",
-      "participation_max": 17,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102145",
-      "canton": "AG",
-      "lat": 47.235843658447266,
-      "lng": 8.182795524597168
-    },
-    {
       "key": "99902",
       "category": "Brevet Plus Pool",
       "city": "Mendrisio",
@@ -673,20 +645,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "102272",
-      "category": "Modul BLS-AED",
-      "city": "Dietlikon",
-      "first_date": "2026-06-09",
-      "last_date": "2026-06-09",
-      "company": "SLRG Kloten",
-      "participation_max": 16,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102272",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
     },
     {
       "key": "102638",
@@ -5601,6 +5559,20 @@
       "canton": "BL",
       "lat": 47.483455657958984,
       "lng": 7.7250237464904785
+    },
+    {
+      "key": "101908",
+      "category": "Jugendbrevet",
+      "city": "Thun",
+      "first_date": "2026-08-03",
+      "last_date": "2026-08-07",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 8,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101908",
+      "canton": "BE",
+      "lat": 46.74045944213867,
+      "lng": 7.60764217376709
     },
     {
       "key": "102097",
@@ -14535,5 +14507,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-08T21:30:12+0000"
+  "geocoded_at": "2026-06-08T23:05:00+0000"
 }
