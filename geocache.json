@@ -840,6 +840,12 @@
     "lat": 47.09866714477539,
     "lng": 9.064586639404297
   },
+  "Oberkirch LU": {
+    "canton": "LU",
+    "label": "Oberkirch (LU)",
+    "lat": 47.154170989990234,
+    "lng": 8.110082626342773
+  },
   "Oberwil BL": {
     "canton": "BL",
     "label": "Oberwil (BL)",
