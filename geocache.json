@@ -630,6 +630,12 @@
     "lat": 46.60649871826172,
     "lng": 6.231893062591553
   },
+  "Lengnau BE": {
+    "canton": "BE",
+    "label": "Lengnau (BE)",
+    "lat": 47.184417724609375,
+    "lng": 7.367916584014893
+  },
   "Lenk": {
     "canton": "BE",
     "label": "Lenk (BE)",
