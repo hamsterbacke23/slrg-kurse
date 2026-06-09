@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-09T21:26:53+0000",
-  "count": 1032,
+  "scraped_at": "2026-06-09T23:07:04+0000",
+  "count": 1031,
   "courses": [
     {
       "key": "98223",
@@ -253,20 +253,6 @@
       "canton": "GE",
       "lat": 46.204559326171875,
       "lng": 6.1424560546875
-    },
-    {
-      "key": "102648",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-05-02",
-      "last_date": "2026-05-03",
-      "company": "SSS Fribourg",
-      "participation_max": 0,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102648",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102649",
@@ -1578,7 +1564,7 @@
       "last_date": "2026-06-13",
       "company": "SLRG Nidwalden",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102728",
       "canton": null,
       "lat": null,
@@ -14451,5 +14437,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-09T21:26:53+0000"
+  "geocoded_at": "2026-06-09T23:07:04+0000"
 }
