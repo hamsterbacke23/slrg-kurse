@@ -371,6 +371,12 @@
     "lat": 46.91195297241211,
     "lng": 8.643176078796387
   },
+  "Freiburg": {
+    "canton": "FR",
+    "label": "Freiburg (FR)",
+    "lat": 46.80337142944336,
+    "lng": 7.161778926849365
+  },
   "Fribourg": {
     "canton": "FR",
     "label": "Fribourg (FR)",
@@ -1158,6 +1164,18 @@
     "label": "Ort Sörenberg (LU) - Flühli",
     "lat": 46.82255935668945,
     "lng": 8.033738136291504
+  },
+  "Tenero": {
+    "canton": "TI",
+    "label": "Tenero-Contra (TI)",
+    "lat": 46.17926788330078,
+    "lng": 8.851685523986816
+  },
+  "Tenero / Paradiso": {
+    "canton": "TI",
+    "label": "Tenero-Contra (TI)",
+    "lat": 46.17926788330078,
+    "lng": 8.851685523986816
   },
   "Thun": {
     "canton": "BE",
