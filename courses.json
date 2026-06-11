@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-11T00:05:59+0000",
+  "scraped_at": "2026-06-11T05:16:59+0000",
   "count": 1030,
   "courses": [
     {
@@ -4196,7 +4196,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Gambarogno",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101175",
       "canton": "TI",
       "lat": 46.151206970214844,
@@ -5820,7 +5820,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -6506,7 +6506,7 @@
       "last_date": "2026-09-07",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99710",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -7094,7 +7094,7 @@
       "last_date": "2026-09-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99711",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -14423,5 +14423,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-11T00:05:59+0000"
+  "geocoded_at": "2026-06-11T05:16:59+0000"
 }
