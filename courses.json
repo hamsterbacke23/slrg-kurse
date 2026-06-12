@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-12T09:49:55+0000",
-  "count": 1018,
+  "scraped_at": "2026-06-12T12:46:00+0000",
+  "count": 1017,
   "courses": [
     {
       "key": "98223",
@@ -423,20 +423,6 @@
       "lng": 8.893594741821289
     },
     {
-      "key": "102771",
-      "category": "Brevet Basis Pool",
-      "city": "Sion",
-      "first_date": "2026-06-01",
-      "last_date": "2026-06-11",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102771",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
       "key": "101713",
       "category": "Modul Fluss",
       "city": "Aarau",
@@ -612,7 +598,7 @@
       "last_date": "2026-06-12",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102928",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -1144,7 +1130,7 @@
       "last_date": "2026-06-13",
       "company": "SSS St. Imier",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102446",
       "canton": "BE",
       "lat": 47.152610778808594,
@@ -1207,6 +1193,20 @@
       "lng": null
     },
     {
+      "key": "102728",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-06-13",
+      "last_date": "2026-06-13",
+      "company": "SLRG Nidwalden",
+      "participation_max": 12,
+      "registered": 8,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102728",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102844",
       "category": "Modul Fluss",
       "city": "Luzern",
@@ -1214,7 +1214,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102844",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -1485,20 +1485,6 @@
       "canton": "BE",
       "lat": 47.152610778808594,
       "lng": 6.991116523742676
-    },
-    {
-      "key": "102751",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Ermatingen",
-      "participation_max": 10,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102751",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102845",
@@ -2082,7 +2068,7 @@
       "last_date": "2026-06-20",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100966",
       "canton": "TI",
       "lat": 45.968719482421875,
@@ -3300,7 +3286,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102672",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -3790,7 +3776,7 @@
       "last_date": "2026-07-01",
       "company": "SSS Romont",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102940",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -4910,7 +4896,7 @@
       "last_date": "2026-07-22",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100942",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -5022,7 +5008,7 @@
       "last_date": "2026-07-25",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100967",
       "canton": null,
       "lat": null,
@@ -8088,7 +8074,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102282",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -8368,7 +8354,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100827",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -9026,7 +9012,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 36,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102527",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -10524,7 +10510,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99298",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -14255,5 +14241,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-12T09:49:55+0000"
+  "geocoded_at": "2026-06-12T12:46:00+0000"
 }
