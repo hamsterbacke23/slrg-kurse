@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-13T15:23:03+0000",
-  "count": 989,
+  "scraped_at": "2026-06-13T17:05:24+0000",
+  "count": 988,
   "courses": [
     {
       "key": "98223",
@@ -871,34 +871,6 @@
       "lng": 8.300894737243652
     },
     {
-      "key": "102890",
-      "category": "WK Pool Plus",
-      "city": "Payerne",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SSS Payerne",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102890",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
-    },
-    {
-      "key": "102892",
-      "category": "WK BLS-AED",
-      "city": "Payerne",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SSS Payerne",
-      "participation_max": 6,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102892",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
-    },
-    {
       "key": "102963",
       "category": "WK BLS-AED",
       "city": "Freiburg",
@@ -1569,6 +1541,20 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "100113",
+      "category": "WK See",
+      "city": "Ermatingen",
+      "first_date": "2026-06-20",
+      "last_date": "2026-06-20",
+      "company": "SLRG Ermatingen",
+      "participation_max": 10,
+      "registered": 9,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100113",
+      "canton": "TG",
+      "lat": 47.655548095703125,
+      "lng": 9.095743179321289
     },
     {
       "key": "100264",
@@ -8592,7 +8578,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102525",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -10244,7 +10230,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -13849,5 +13835,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-13T15:23:03+0000"
+  "geocoded_at": "2026-06-13T17:05:24+0000"
 }
