@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-13T13:16:39+0000",
-  "count": 1001,
+  "scraped_at": "2026-06-13T15:23:03+0000",
+  "count": 989,
   "courses": [
     {
       "key": "98223",
@@ -311,20 +311,6 @@
       "lng": null
     },
     {
-      "key": "99902",
-      "category": "Brevet Plus Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-05-29",
-      "last_date": "2026-06-12",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99902",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
-    },
-    {
       "key": "102858",
       "category": "Jugendbrevet",
       "city": "La Tour-de-Peilz",
@@ -535,76 +521,6 @@
       "lng": null
     },
     {
-      "key": "102927",
-      "category": "Brevet Basis Pool",
-      "city": "Basel",
-      "first_date": "2026-06-10",
-      "last_date": "2026-06-12",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102927",
-      "canton": "BS",
-      "lat": 47.5545539855957,
-      "lng": 7.590269565582275
-    },
-    {
-      "key": "102928",
-      "category": "Brevet Plus Pool",
-      "city": "Basel",
-      "first_date": "2026-06-10",
-      "last_date": "2026-06-12",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102928",
-      "canton": "BS",
-      "lat": 47.5545539855957,
-      "lng": 7.590269565582275
-    },
-    {
-      "key": "99925",
-      "category": "WK Pool Plus",
-      "city": "Mendrisio",
-      "first_date": "2026-06-12",
-      "last_date": "2026-06-12",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99925",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
-    },
-    {
-      "key": "102506",
-      "category": "Modul See",
-      "city": "Genève",
-      "first_date": "2026-06-12",
-      "last_date": "2026-06-12",
-      "company": "SSS Genève",
-      "participation_max": 14,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102506",
-      "canton": "GE",
-      "lat": 46.204559326171875,
-      "lng": 6.1424560546875
-    },
-    {
-      "key": "99429",
-      "category": "Brevet Basis Pool",
-      "city": "Aarau",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-20",
-      "company": "SLRG Aarau",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99429",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
-    },
-    {
       "key": "99714",
       "category": "WK See",
       "city": "Sursee",
@@ -617,34 +533,6 @@
       "canton": "LU",
       "lat": 47.178199768066406,
       "lng": 8.10302734375
-    },
-    {
-      "key": "99908",
-      "category": "Modul See",
-      "city": "Riva San Vitale",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99908",
-      "canton": "TI",
-      "lat": 45.9117317199707,
-      "lng": 8.964438438415527
-    },
-    {
-      "key": "99930",
-      "category": "WK See",
-      "city": "Riva San Vitale",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99930",
-      "canton": "TI",
-      "lat": 45.9117317199707,
-      "lng": 8.964438438415527
     },
     {
       "key": "100648",
@@ -843,20 +731,6 @@
       "lng": null
     },
     {
-      "key": "101760",
-      "category": "Brevet Pro Pool",
-      "city": "Engollon",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-14",
-      "company": "SSS Val-de-Ruz",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101760",
-      "canton": "NE",
-      "lat": 47.03848648071289,
-      "lng": 6.92204475402832
-    },
-    {
       "key": "101936",
       "category": "Brevet Basis Pool",
       "city": "Wangen an der Aare",
@@ -927,34 +801,6 @@
       "lng": null
     },
     {
-      "key": "102426",
-      "category": "Modul See",
-      "city": "Hilterfingen",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SLRG Muri-Gümligen",
-      "participation_max": 28,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102426",
-      "canton": "BE",
-      "lat": 46.74281311035156,
-      "lng": 7.660449504852295
-    },
-    {
-      "key": "102427",
-      "category": "WK See",
-      "city": "Hilterfingen",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SLRG Muri-Gümligen",
-      "participation_max": 14,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102427",
-      "canton": "BE",
-      "lat": 46.74281311035156,
-      "lng": 7.660449504852295
-    },
-    {
       "key": "102446",
       "category": "Brevet Basis Pool",
       "city": "St-Imier",
@@ -967,20 +813,6 @@
       "canton": "BE",
       "lat": 47.152610778808594,
       "lng": 6.991116523742676
-    },
-    {
-      "key": "102507",
-      "category": "Modul See",
-      "city": "Genève",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SSS Genève",
-      "participation_max": 14,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102507",
-      "canton": "GE",
-      "lat": 46.204559326171875,
-      "lng": 6.1424560546875
     },
     {
       "key": "102683",
@@ -2656,7 +2488,7 @@
       "last_date": "2026-06-26",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102496",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -6212,7 +6044,7 @@
       "last_date": "2026-08-20",
       "company": "SLRG Zug",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99841",
       "canton": null,
       "lat": null,
@@ -8774,7 +8606,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102526",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -8788,7 +8620,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 36,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102527",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -14017,5 +13849,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-13T13:16:39+0000"
+  "geocoded_at": "2026-06-13T15:23:03+0000"
 }
