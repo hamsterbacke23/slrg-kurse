@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-13T17:05:24+0000",
-  "count": 988,
+  "scraped_at": "2026-06-13T18:23:42+0000",
+  "count": 986,
   "courses": [
     {
       "key": "98223",
@@ -465,20 +465,6 @@
       "lng": 8.278470993041992
     },
     {
-      "key": "101134",
-      "category": "Brevet Basis Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-13",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101134",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
-    },
-    {
       "key": "100870",
       "category": "Modul BLS-AED",
       "city": "",
@@ -668,7 +654,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101340",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -869,20 +855,6 @@
       "canton": "LU",
       "lat": 47.05473327636719,
       "lng": 8.300894737243652
-    },
-    {
-      "key": "102963",
-      "category": "WK BLS-AED",
-      "city": "Freiburg",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SLRG Deutschfreiburg",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102963",
-      "canton": "FR",
-      "lat": 46.80337142944336,
-      "lng": 7.161778926849365
     },
     {
       "key": "100452",
@@ -2642,7 +2614,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Nidwalden",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101605",
       "canton": "NW",
       "lat": 46.99097442626953,
@@ -4392,7 +4364,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101902",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -4910,7 +4882,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102715",
       "canton": "SG",
       "lat": 47.16484832763672,
@@ -5456,7 +5428,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99571",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -5568,7 +5540,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101994",
       "canton": null,
       "lat": null,
@@ -13835,5 +13807,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-13T17:05:24+0000"
+  "geocoded_at": "2026-06-13T18:23:42+0000"
 }
