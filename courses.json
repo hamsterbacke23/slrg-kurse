@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-13T19:28:41+0000",
-  "count": 986,
+  "scraped_at": "2026-06-13T20:24:41+0000",
+  "count": 981,
   "courses": [
     {
       "key": "98223",
@@ -605,34 +605,6 @@
       "lng": null
     },
     {
-      "key": "100911",
-      "category": "Modul See",
-      "city": "Jona",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SLRG Rapperswil-Jona",
-      "participation_max": 18,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100911",
-      "canton": "SG",
-      "lat": 47.23091506958008,
-      "lng": 8.836261749267578
-    },
-    {
-      "key": "100912",
-      "category": "WK See",
-      "city": "Jona",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SLRG Rapperswil-Jona",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100912",
-      "canton": "SG",
-      "lat": 47.23091506958008,
-      "lng": 8.836261749267578
-    },
-    {
       "key": "101182",
       "category": "Modul BLS-AED",
       "city": "",
@@ -673,20 +645,6 @@
       "canton": "VD",
       "lat": 46.42595672607422,
       "lng": 6.34889030456543
-    },
-    {
-      "key": "101499",
-      "category": "WK BLS-AED",
-      "city": "Jona",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SLRG Rapperswil-Jona",
-      "participation_max": 14,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101499",
-      "canton": "SG",
-      "lat": 47.23091506958008,
-      "lng": 8.836261749267578
     },
     {
       "key": "101523",
@@ -843,20 +801,6 @@
       "lng": null
     },
     {
-      "key": "102844",
-      "category": "Modul Fluss",
-      "city": "Luzern",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-14",
-      "company": "SLRG Seuzach-Weinland",
-      "participation_max": 10,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102844",
-      "canton": "LU",
-      "lat": 47.05473327636719,
-      "lng": 8.300894737243652
-    },
-    {
       "key": "100452",
       "category": "Modul See",
       "city": "",
@@ -864,7 +808,7 @@
       "last_date": "2026-06-14",
       "company": "SLRG Uri",
       "participation_max": 9,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100452",
       "canton": null,
       "lat": null,
@@ -877,8 +821,8 @@
       "first_date": "2026-06-14",
       "last_date": "2026-06-14",
       "company": "SLRG Uri",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 11,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100453",
       "canton": null,
       "lat": null,
@@ -1513,20 +1457,6 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
-    },
-    {
-      "key": "100113",
-      "category": "WK See",
-      "city": "Ermatingen",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Ermatingen",
-      "participation_max": 10,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100113",
-      "canton": "TG",
-      "lat": 47.655548095703125,
-      "lng": 9.095743179321289
     },
     {
       "key": "100264",
@@ -2572,7 +2502,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Bülach",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101430",
       "canton": "ZH",
       "lat": 47.469303131103516,
@@ -2880,7 +2810,7 @@
       "last_date": "2026-06-27",
       "company": "Kantonspolizei Zürich",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102897",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -12245,8 +12175,8 @@
       "first_date": "2026-11-20",
       "last_date": "2026-11-20",
       "company": "SLRG Thalwil-Langnau",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 16,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102589",
       "canton": null,
       "lat": null,
@@ -13807,5 +13737,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-13T19:28:41+0000"
+  "geocoded_at": "2026-06-13T20:24:42+0000"
 }
