@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-13T20:24:41+0000",
-  "count": 981,
+  "scraped_at": "2026-06-13T21:25:06+0000",
+  "count": 979,
   "courses": [
     {
       "key": "98223",
@@ -729,20 +729,6 @@
       "canton": "ZH",
       "lat": 47.38089370727539,
       "lng": 8.427435874938965
-    },
-    {
-      "key": "102401",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SLRG Baden-Brugg",
-      "participation_max": 14,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102401",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102446",
@@ -1583,20 +1569,6 @@
       "canton": "SG",
       "lat": 47.42510986328125,
       "lng": 9.262721061706543
-    },
-    {
-      "key": "101438",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Rüti",
-      "participation_max": 20,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101438",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101540",
@@ -3986,7 +3958,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101116",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -13737,5 +13709,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-13T20:24:42+0000"
+  "geocoded_at": "2026-06-13T21:25:07+0000"
 }
