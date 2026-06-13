@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-13T08:42:06+0000",
-  "count": 1007,
+  "scraped_at": "2026-06-13T11:06:15+0000",
+  "count": 1005,
   "courses": [
     {
       "key": "98223",
@@ -626,7 +626,7 @@
       "last_date": "2026-06-12",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101112",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -857,20 +857,6 @@
       "lng": 6.34889030456543
     },
     {
-      "key": "101447",
-      "category": "Brevet Basis Pool",
-      "city": "Thun",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 25,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101447",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
-    },
-    {
       "key": "101499",
       "category": "WK BLS-AED",
       "city": "Jona",
@@ -1046,7 +1032,7 @@
       "last_date": "2026-06-13",
       "company": "SSS Genève",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102507",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -1809,20 +1795,6 @@
       "lng": 8.527311325073242
     },
     {
-      "key": "100110",
-      "category": "Modul See",
-      "city": "Ermatingen",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Ermatingen",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100110",
-      "canton": "TG",
-      "lat": 47.655548095703125,
-      "lng": 9.095743179321289
-    },
-    {
       "key": "100264",
       "category": "WK See",
       "city": "Walenstadt",
@@ -2012,7 +1984,7 @@
       "last_date": "2026-06-21",
       "company": "SSS Delémont",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101708",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -4476,7 +4448,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102385",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -7304,7 +7276,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102874",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -10174,7 +10146,7 @@
       "last_date": "2026-10-24",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101975",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -14101,5 +14073,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-13T08:42:06+0000"
+  "geocoded_at": "2026-06-13T11:06:15+0000"
 }
