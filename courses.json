@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-14T14:43:19+0000",
+  "scraped_at": "2026-06-14T15:31:13+0000",
   "count": 960,
   "courses": [
     {
@@ -589,20 +589,6 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
-    },
-    {
-      "key": "101527",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SSS Lugano",
-      "participation_max": 20,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101527",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102209",
@@ -1345,6 +1331,20 @@
       "canton": "SG",
       "lat": 47.42510986328125,
       "lng": 9.262721061706543
+    },
+    {
+      "key": "101438",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-06-20",
+      "last_date": "2026-06-20",
+      "company": "SLRG Rüti",
+      "participation_max": 20,
+      "registered": 18,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101438",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "101540",
@@ -6688,7 +6688,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Oberwil",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99715",
       "canton": null,
       "lat": null,
@@ -13443,5 +13443,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-14T14:43:19+0000"
+  "geocoded_at": "2026-06-14T15:31:13+0000"
 }
