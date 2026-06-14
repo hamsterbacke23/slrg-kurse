@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-14T19:29:15+0000",
-  "count": 957,
+  "scraped_at": "2026-06-14T20:25:14+0000",
+  "count": 951,
   "courses": [
     {
       "key": "98223",
@@ -395,20 +395,6 @@
       "lng": 8.720227241516113
     },
     {
-      "key": "101632",
-      "category": "Modul See",
-      "city": "Prilly",
-      "first_date": "2026-06-04",
-      "last_date": "2026-06-14",
-      "company": "SSS Prilly",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101632",
-      "canton": "VD",
-      "lat": 46.53825378417969,
-      "lng": 6.604588985443115
-    },
-    {
       "key": "102207",
       "category": "Modul BLS-AED",
       "city": "Weiningen ZH",
@@ -603,76 +589,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100913",
-      "category": "WK Fluss",
-      "city": "",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Rapperswil-Jona",
-      "participation_max": 16,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100913",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100915",
-      "category": "WK Pool Plus",
-      "city": "Rapperswil SG",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Rapperswil-Jona",
-      "participation_max": 14,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100915",
-      "canton": "SG",
-      "lat": 47.22806167602539,
-      "lng": 8.824080467224121
-    },
-    {
-      "key": "100916",
-      "category": "WK Pool Basis",
-      "city": "Rapperswil SG",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Rapperswil-Jona",
-      "participation_max": 6,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100916",
-      "canton": "SG",
-      "lat": 47.22806167602539,
-      "lng": 8.824080467224121
-    },
-    {
-      "key": "100917",
-      "category": "WK BLS-AED",
-      "city": "Jona",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Rapperswil-Jona",
-      "participation_max": 16,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100917",
-      "canton": "SG",
-      "lat": 47.23091506958008,
-      "lng": 8.836261749267578
-    },
-    {
-      "key": "101039",
-      "category": "Modul See",
-      "city": "Rapperswil",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Rapperswil-Jona",
-      "participation_max": 19,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101039",
-      "canton": "BE",
-      "lat": 47.066368103027344,
-      "lng": 7.4149861335754395
     },
     {
       "key": "101495",
@@ -2404,7 +2320,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Emmental",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102109",
       "canton": null,
       "lat": null,
@@ -4812,7 +4728,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -6114,7 +6030,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Sektion Luzern",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100881",
       "canton": null,
       "lat": null,
@@ -13401,5 +13317,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-14T19:29:15+0000"
+  "geocoded_at": "2026-06-14T20:25:14+0000"
 }
