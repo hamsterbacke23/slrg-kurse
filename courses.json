@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-14T21:24:58+0000",
-  "count": 950,
+  "scraped_at": "2026-06-14T22:22:04+0000",
+  "count": 947,
   "courses": [
     {
       "key": "98223",
@@ -589,62 +589,6 @@
       "canton": "TG",
       "lat": 47.64158630371094,
       "lng": 8.916030883789062
-    },
-    {
-      "key": "101877",
-      "category": "Brevet Plus Pool",
-      "city": "Nebikon",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101877",
-      "canton": "LU",
-      "lat": 47.191654205322266,
-      "lng": 7.987195014953613
-    },
-    {
-      "key": "102269",
-      "category": "Brevet Basis Pool",
-      "city": "Dietlikon",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Kloten",
-      "participation_max": 20,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102269",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
-    },
-    {
-      "key": "102447",
-      "category": "Brevet Plus Pool",
-      "city": "St-Imier",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SSS St. Imier",
-      "participation_max": 16,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102447",
-      "canton": "BE",
-      "lat": 47.152610778808594,
-      "lng": 6.991116523742676
-    },
-    {
-      "key": "102845",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102845",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100892",
@@ -5279,6 +5223,20 @@
       "canton": "VS",
       "lat": 46.288421630859375,
       "lng": 7.718348503112793
+    },
+    {
+      "key": "100889",
+      "category": "WK See",
+      "city": "Ebikon",
+      "first_date": "2026-08-17",
+      "last_date": "2026-08-17",
+      "company": "SLRG Sektion Luzern",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
+      "canton": "LU",
+      "lat": 47.079551696777344,
+      "lng": 8.333163261413574
     },
     {
       "key": "101291",
@@ -13303,5 +13261,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-14T21:24:58+0000"
+  "geocoded_at": "2026-06-14T22:22:04+0000"
 }
