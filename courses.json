@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-14T13:30:45+0000",
-  "count": 965,
+  "scraped_at": "2026-06-14T14:43:19+0000",
+  "count": 960,
   "courses": [
     {
       "key": "98223",
@@ -591,34 +591,6 @@
       "lng": 9.425399780273438
     },
     {
-      "key": "101405",
-      "category": "WK Expert See",
-      "city": "Rolle",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SSS Région Romande",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101405",
-      "canton": "VD",
-      "lat": 46.42595672607422,
-      "lng": 6.34889030456543
-    },
-    {
-      "key": "101523",
-      "category": "Modul See",
-      "city": "Lugano",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-13",
-      "company": "SSS Lugano",
-      "participation_max": 20,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101523",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
       "key": "101527",
       "category": "WK See",
       "city": "",
@@ -687,20 +659,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100686",
-      "category": "Brevet Basis Pool",
-      "city": "Spreitenbach",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100686",
-      "canton": "AG",
-      "lat": 47.41796112060547,
-      "lng": 8.362970352172852
     },
     {
       "key": "100913",
@@ -1711,34 +1669,6 @@
       "lng": 8.278470993041992
     },
     {
-      "key": "100926",
-      "category": "Modul See",
-      "city": "Ascona",
-      "first_date": "2026-06-21",
-      "last_date": "2026-06-21",
-      "company": "SSS Ascona",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100926",
-      "canton": "TI",
-      "lat": 46.148372650146484,
-      "lng": 8.76872730255127
-    },
-    {
-      "key": "100927",
-      "category": "WK See",
-      "city": "Ascona",
-      "first_date": "2026-06-21",
-      "last_date": "2026-06-21",
-      "company": "SSS Ascona",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100927",
-      "canton": "TI",
-      "lat": 46.148372650146484,
-      "lng": 8.76872730255127
-    },
-    {
       "key": "101045",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -1830,7 +1760,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 19,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102235",
       "canton": null,
       "lat": null,
@@ -3608,7 +3538,7 @@
       "last_date": "2026-07-12",
       "company": "SLRG Sektion Bern",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100973",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -4112,7 +4042,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
       "canton": null,
       "lat": null,
@@ -4994,7 +4924,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Sektion Olten",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102533",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -6086,7 +6016,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Grenchen",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100678",
       "canton": null,
       "lat": null,
@@ -13492,7 +13422,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 49,
+      "registered": 53,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -13513,5 +13443,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-14T13:30:45+0000"
+  "geocoded_at": "2026-06-14T14:43:19+0000"
 }
