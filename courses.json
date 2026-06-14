@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-14T05:29:48+0000",
-  "count": 970,
+  "scraped_at": "2026-06-14T07:27:56+0000",
+  "count": 969,
   "courses": [
     {
       "key": "98223",
@@ -612,7 +612,7 @@
       "last_date": "2026-06-13",
       "company": "SSS Région Romande",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101405",
       "canton": "VD",
       "lat": 46.42595672607422,
@@ -807,8 +807,8 @@
       "first_date": "2026-06-14",
       "last_date": "2026-06-14",
       "company": "SLRG Rapperswil-Jona",
-      "participation_max": 18,
-      "registered": 18,
+      "participation_max": 19,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101039",
       "canton": "BE",
       "lat": 47.066368103027344,
@@ -855,20 +855,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102234",
-      "category": "Brevet Basis Pool",
-      "city": "Adliswil",
-      "first_date": "2026-06-14",
-      "last_date": "2026-06-14",
-      "company": "SLRG Thalwil-Langnau",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102234",
-      "canton": "ZH",
-      "lat": 47.308265686035156,
-      "lng": 8.525269508361816
     },
     {
       "key": "102269",
@@ -2516,7 +2502,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102057",
       "canton": "BE",
       "lat": 46.74281311035156,
@@ -3691,8 +3677,8 @@
       "first_date": "2026-07-06",
       "last_date": "2026-07-12",
       "company": "SLRG Sektion Bern",
-      "participation_max": 14,
-      "registered": 14,
+      "participation_max": 16,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100974",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -13268,7 +13254,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99102",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -13282,7 +13268,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99103",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -13296,7 +13282,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99105",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -13310,7 +13296,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99106",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -13583,5 +13569,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-14T05:29:48+0000"
+  "geocoded_at": "2026-06-14T07:27:56+0000"
 }
