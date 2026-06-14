@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-14T16:27:55+0000",
+  "scraped_at": "2026-06-14T17:27:32+0000",
   "count": 960,
   "courses": [
     {
@@ -5078,7 +5078,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99571",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -9236,7 +9236,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Sektion Züri",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101184",
       "canton": null,
       "lat": null,
@@ -13443,5 +13443,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-14T16:27:55+0000"
+  "geocoded_at": "2026-06-14T17:27:32+0000"
 }
