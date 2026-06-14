@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-14T10:54:45+0000",
-  "count": 967,
+  "scraped_at": "2026-06-14T11:40:19+0000",
+  "count": 968,
   "courses": [
     {
       "key": "98223",
@@ -799,6 +799,20 @@
       "canton": "BE",
       "lat": 47.066368103027344,
       "lng": 7.4149861335754395
+    },
+    {
+      "key": "101164",
+      "category": "WK See",
+      "city": "",
+      "first_date": "2026-06-14",
+      "last_date": "2026-06-14",
+      "company": "SLRG Frauenfeld",
+      "participation_max": 10,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101164",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "101495",
@@ -1718,7 +1732,7 @@
       "last_date": "2026-06-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100687",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -3552,7 +3566,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
       "participation_max": 18,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -4140,7 +4154,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
       "canton": null,
       "lat": null,
@@ -13541,5 +13555,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-14T10:54:45+0000"
+  "geocoded_at": "2026-06-14T11:40:20+0000"
 }
