@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-14T09:01:14+0000",
-  "count": 968,
+  "scraped_at": "2026-06-14T10:54:45+0000",
+  "count": 967,
   "courses": [
     {
       "key": "98223",
@@ -521,20 +521,6 @@
       "lng": null
     },
     {
-      "key": "100655",
-      "category": "WK Expert BLS-AED inkl. SRC-Rollout 2025",
-      "city": "",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-14",
-      "company": "SLRG Region Nordwest",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100655",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100657",
       "category": "WK Modul SLRG",
       "city": "",
@@ -626,7 +612,7 @@
       "last_date": "2026-06-13",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101523",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -640,7 +626,7 @@
       "last_date": "2026-06-13",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101527",
       "canton": null,
       "lat": null,
@@ -3370,7 +3356,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101524",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -3510,7 +3496,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102666",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -3566,7 +3552,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
       "participation_max": 18,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -4084,7 +4070,7 @@
       "last_date": "2026-07-14",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102807",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -7836,7 +7822,7 @@
       "last_date": "2026-09-13",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100847",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -13555,5 +13541,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-14T09:01:14+0000"
+  "geocoded_at": "2026-06-14T10:54:45+0000"
 }
