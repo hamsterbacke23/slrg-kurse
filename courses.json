@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-15T07:44:56+0000",
-  "count": 956,
+  "scraped_at": "2026-06-15T10:00:17+0000",
+  "count": 953,
   "courses": [
     {
       "key": "98223",
@@ -451,48 +451,6 @@
       "lng": null
     },
     {
-      "key": "100648",
-      "category": "WK Expert Pool",
-      "city": "",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-14",
-      "company": "SLRG Region Nordwest",
-      "participation_max": 16,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100648",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100654",
-      "category": "WK Modul Methodik",
-      "city": "",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-14",
-      "company": "SLRG Region Nordwest",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100654",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100657",
-      "category": "WK Modul SLRG",
-      "city": "",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-14",
-      "company": "SLRG Region Nordwest",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100657",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100661",
       "category": "WK Expert See",
       "city": "",
@@ -905,7 +863,7 @@
       "first_date": "2026-06-19",
       "last_date": "2026-06-20",
       "company": "SLRG Sektion Sempachersee",
-      "participation_max": 14,
+      "participation_max": 10,
       "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102063",
       "canton": "LU",
@@ -1312,7 +1270,7 @@
       "last_date": "2026-06-20",
       "company": "SSS Sion",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102776",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -5260,7 +5218,7 @@
       "last_date": "2026-08-21",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102105",
       "canton": "TI",
       "lat": 46.01959228515625,
@@ -5554,7 +5512,7 @@
       "last_date": "2026-08-20",
       "company": "SLRG Pfäffikon",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102934",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -6492,7 +6450,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102874",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -7514,7 +7472,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101802",
       "canton": null,
       "lat": null,
@@ -9390,7 +9348,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Bielersee",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101814",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -13387,5 +13345,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-15T07:44:56+0000"
+  "geocoded_at": "2026-06-15T10:00:17+0000"
 }
