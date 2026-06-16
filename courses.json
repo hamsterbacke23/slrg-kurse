@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-16T20:58:29+0000",
-  "count": 948,
+  "scraped_at": "2026-06-16T21:54:17+0000",
+  "count": 947,
   "courses": [
     {
       "key": "98223",
@@ -547,20 +547,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100937",
-      "category": "Brevet Basis Pool",
-      "city": "Paradiso",
-      "first_date": "2026-06-15",
-      "last_date": "2026-06-16",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100937",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "102720",
@@ -2516,7 +2502,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101716",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -13275,5 +13261,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-16T20:58:29+0000"
+  "geocoded_at": "2026-06-16T21:54:17+0000"
 }
