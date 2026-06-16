@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-16T19:08:03+0000",
+  "scraped_at": "2026-06-16T20:58:29+0000",
   "count": 948,
   "courses": [
     {
@@ -612,7 +612,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101349",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -2404,7 +2404,7 @@
       "last_date": "2026-07-01",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99896",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -2516,7 +2516,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101716",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -2838,7 +2838,7 @@
       "last_date": "2026-07-04",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99913",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -3314,7 +3314,7 @@
       "last_date": "2026-07-09",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102414",
       "canton": "LU",
       "lat": 47.191654205322266,
@@ -4952,7 +4952,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102982",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5960,7 +5960,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98759",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -9600,7 +9600,7 @@
       "last_date": "2026-10-23",
       "company": "SLRG Zug",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99860",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -13275,5 +13275,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-16T19:08:03+0000"
+  "geocoded_at": "2026-06-16T20:58:29+0000"
 }
