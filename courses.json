@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-16T03:00:52+0000",
+  "scraped_at": "2026-06-16T05:44:54+0000",
   "count": 947,
   "courses": [
     {
@@ -1662,7 +1662,7 @@
       "last_date": "2026-06-25",
       "company": "SSS Nord-Vaudois",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102764",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -2544,7 +2544,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102781",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -3118,7 +3118,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
       "participation_max": 18,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -3678,7 +3678,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101902",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -4756,7 +4756,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -4896,7 +4896,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Altberg",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102199",
       "canton": null,
       "lat": null,
@@ -5428,7 +5428,7 @@
       "last_date": "2026-08-20",
       "company": "SLRG Pfäffikon",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102934",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -13261,5 +13261,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-16T03:00:52+0000"
+  "geocoded_at": "2026-06-16T05:44:54+0000"
 }
