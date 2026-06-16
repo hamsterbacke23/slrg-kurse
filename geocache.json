@@ -281,6 +281,12 @@
     "lat": 47.47540283203125,
     "lng": 8.455204963684082
   },
+  "Diessbach b. Büren": {
+    "canton": "BE",
+    "label": "Diessbach bei Büren (BE)",
+    "lat": 47.10683059692383,
+    "lng": 7.3647027015686035
+  },
   "Dietlikon": {
     "canton": "ZH",
     "label": "Dietlikon (ZH)",
@@ -767,6 +773,12 @@
     "label": "Moosseedorf (BE)",
     "lat": 47.01114273071289,
     "lng": 7.487063884735107
+  },
+  "Muri": {
+    "canton": "BE",
+    "label": "Muri bei Bern (BE)",
+    "lat": 46.933433532714844,
+    "lng": 7.499686241149902
   },
   "Muri AG": {
     "canton": "AG",
