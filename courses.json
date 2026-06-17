@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-17T00:25:55+0000",
+  "scraped_at": "2026-06-17T01:46:27+0000",
   "count": 947,
   "courses": [
     {
@@ -4812,7 +4812,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101488",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -13261,5 +13261,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-17T00:25:56+0000"
+  "geocoded_at": "2026-06-17T01:46:27+0000"
 }
