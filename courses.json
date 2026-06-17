@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-17T19:40:19+0000",
-  "count": 953,
+  "scraped_at": "2026-06-17T20:38:45+0000",
+  "count": 951,
   "courses": [
     {
       "key": "98223",
@@ -2201,20 +2201,6 @@
       "lng": 8.208498001098633
     },
     {
-      "key": "101758",
-      "category": "Modul See",
-      "city": "Seengen",
-      "first_date": "2026-06-28",
-      "last_date": "2026-06-28",
-      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
-      "participation_max": 14,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101758",
-      "canton": "AG",
-      "lat": 47.32706069946289,
-      "lng": 8.210016250610352
-    },
-    {
       "key": "101930",
       "category": "Brevet Plus Pool",
       "city": "Muri AG",
@@ -2353,20 +2339,6 @@
       "canton": "NW",
       "lat": 46.9562873840332,
       "lng": 8.360700607299805
-    },
-    {
-      "key": "101759",
-      "category": "Modul Fluss",
-      "city": "Künten",
-      "first_date": "2026-06-29",
-      "last_date": "2026-06-29",
-      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
-      "participation_max": 14,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101759",
-      "canton": "AG",
-      "lat": 47.38810348510742,
-      "lng": 8.327415466308594
     },
     {
       "key": "102094",
@@ -13345,5 +13317,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-17T19:40:19+0000"
+  "geocoded_at": "2026-06-17T20:38:45+0000"
 }
