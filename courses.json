@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-17T03:00:40+0000",
+  "scraped_at": "2026-06-17T05:32:44+0000",
   "count": 947,
   "courses": [
     {
@@ -325,20 +325,6 @@
       "lng": null
     },
     {
-      "key": "101601",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-06-02",
-      "last_date": "2026-06-12",
-      "company": "SLRG Frauenfeld",
-      "participation_max": 16,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101601",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101713",
       "category": "Modul Fluss",
       "city": "Aarau",
@@ -530,6 +516,20 @@
       "participation_max": 12,
       "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102685",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "101164",
+      "category": "WK See",
+      "city": "",
+      "first_date": "2026-06-14",
+      "last_date": "2026-06-14",
+      "company": "SLRG Frauenfeld",
+      "participation_max": 10,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101164",
       "canton": null,
       "lat": null,
       "lng": null
@@ -766,7 +766,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102664",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1340,7 +1340,7 @@
       "last_date": "2026-06-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100687",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -1760,7 +1760,7 @@
       "last_date": "2026-06-26",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102496",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -1886,7 +1886,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Bülach",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101430",
       "canton": "ZH",
       "lat": 47.469303131103516,
@@ -2432,7 +2432,7 @@
       "last_date": "2026-06-29",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101759",
       "canton": "AG",
       "lat": 47.38810348510742,
@@ -9516,7 +9516,7 @@
       "last_date": "2026-11-19",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99561",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -13261,5 +13261,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-17T03:00:40+0000"
+  "geocoded_at": "2026-06-17T05:32:44+0000"
 }
