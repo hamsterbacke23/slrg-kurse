@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-17T21:36:21+0000",
-  "count": 950,
+  "scraped_at": "2026-06-17T22:31:10+0000",
+  "count": 947,
   "courses": [
     {
       "key": "98223",
@@ -423,20 +423,6 @@
       "lng": null
     },
     {
-      "key": "100938",
-      "category": "WK BLS-AED",
-      "city": "Paradiso",
-      "first_date": "2026-06-10",
-      "last_date": "2026-06-10",
-      "company": "SSS Paradiso",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100938",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
       "key": "100661",
       "category": "WK Expert See",
       "city": "",
@@ -577,20 +563,6 @@
       "lng": null
     },
     {
-      "key": "100166",
-      "category": "WK BLS-AED",
-      "city": "Heerbrugg",
-      "first_date": "2026-06-17",
-      "last_date": "2026-06-17",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100166",
-      "canton": "SG",
-      "lat": 47.411685943603516,
-      "lng": 9.626534461975098
-    },
-    {
       "key": "101349",
       "category": "WK See",
       "city": "Lachen SZ",
@@ -631,20 +603,6 @@
       "canton": "SG",
       "lat": 47.12102508544922,
       "lng": 9.347698211669922
-    },
-    {
-      "key": "102899",
-      "category": "WK BLS-AED",
-      "city": " Paradiso",
-      "first_date": "2026-06-17",
-      "last_date": "2026-06-17",
-      "company": "SSS Paradiso",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102899",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "100157",
@@ -13303,5 +13261,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-17T21:36:21+0000"
+  "geocoded_at": "2026-06-17T22:31:10+0000"
 }
