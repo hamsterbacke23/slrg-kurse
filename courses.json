@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-17T20:38:45+0000",
-  "count": 951,
+  "scraped_at": "2026-06-17T21:36:21+0000",
+  "count": 950,
   "courses": [
     {
       "key": "98223",
@@ -645,20 +645,6 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
-    },
-    {
-      "key": "102948",
-      "category": "Modul BLS-AED",
-      "city": "Neuchâtel",
-      "first_date": "2026-06-17",
-      "last_date": "2026-06-17",
-      "company": "SSS Section de Boudry",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102948",
-      "canton": "NE",
-      "lat": 47.020973205566406,
-      "lng": 6.9480791091918945
     },
     {
       "key": "100157",
@@ -1396,7 +1382,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102932",
       "canton": "BE",
       "lat": 46.933433532714844,
@@ -5820,7 +5806,7 @@
       "last_date": "2026-09-16",
       "company": "SLRG Sektion Olten",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102534",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -11028,7 +11014,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101466",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -11658,7 +11644,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100142",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -13317,5 +13303,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-17T20:38:45+0000"
+  "geocoded_at": "2026-06-17T21:36:21+0000"
 }
