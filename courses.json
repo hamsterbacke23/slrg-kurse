@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-17T11:30:34+0000",
+  "scraped_at": "2026-06-17T13:05:27+0000",
   "count": 955,
   "courses": [
     {
@@ -304,7 +304,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102826",
       "canton": "BE",
       "lat": 46.931427001953125,
@@ -318,7 +318,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102827",
       "canton": null,
       "lat": null,
@@ -619,20 +619,6 @@
       "lng": 8.854327201843262
     },
     {
-      "key": "101959",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-06-17",
-      "last_date": "2026-06-17",
-      "company": "SLRG Solothurn",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101959",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102602",
       "category": "WK See",
       "city": "",
@@ -673,6 +659,20 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
+    },
+    {
+      "key": "102948",
+      "category": "Modul BLS-AED",
+      "city": "Neuchâtel",
+      "first_date": "2026-06-17",
+      "last_date": "2026-06-17",
+      "company": "SSS Section de Boudry",
+      "participation_max": 12,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102948",
+      "canton": "NE",
+      "lat": 47.020973205566406,
+      "lng": 6.9480791091918945
     },
     {
       "key": "100157",
@@ -821,8 +821,8 @@
       "first_date": "2026-06-19",
       "last_date": "2026-06-20",
       "company": "SLRG Sektion Sempachersee",
-      "participation_max": 8,
-      "registered": 7,
+      "participation_max": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102063",
       "canton": "LU",
       "lat": 47.140193939208984,
@@ -883,6 +883,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "99095",
+      "category": "Modul See",
+      "city": "Walenstadt",
+      "first_date": "2026-06-20",
+      "last_date": "2026-06-20",
+      "company": "SLRG Sarganserland",
+      "participation_max": 12,
+      "registered": 7,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99095",
+      "canton": "SG",
+      "lat": 47.12102508544922,
+      "lng": 9.347698211669922
     },
     {
       "key": "99570",
@@ -1233,20 +1247,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102873",
-      "category": "Brevet Basis Pool",
-      "city": "Derendingen",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Solothurn",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102873",
-      "canton": "SO",
-      "lat": 47.193782806396484,
-      "lng": 7.59089994430542
     },
     {
       "key": "99845",
@@ -2502,7 +2502,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102781",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -2628,7 +2628,7 @@
       "last_date": "2026-07-01",
       "company": "SSS Romont",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102995",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -2824,7 +2824,7 @@
       "last_date": "2026-07-04",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100698",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -3468,7 +3468,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102385",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -5190,7 +5190,7 @@
       "last_date": "2026-09-01",
       "company": "SSS Neuchâtel",
       "participation_max": 14,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102986",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -6170,7 +6170,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101127",
       "canton": null,
       "lat": null,
@@ -7080,7 +7080,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102864",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -11882,7 +11882,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101675",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -13373,5 +13373,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-17T11:30:34+0000"
+  "geocoded_at": "2026-06-17T13:05:27+0000"
 }
