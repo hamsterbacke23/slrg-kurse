@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-18T04:38:15+0000",
-  "count": 947,
+  "scraped_at": "2026-06-18T06:33:11+0000",
+  "count": 945,
   "courses": [
     {
       "key": "98223",
@@ -689,6 +689,20 @@
       "lng": null
     },
     {
+      "key": "102665",
+      "category": "Modul See",
+      "city": "Sarnen",
+      "first_date": "2026-06-18",
+      "last_date": "2026-06-20",
+      "company": "SLRG Obwalden",
+      "participation_max": 12,
+      "registered": 4,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102665",
+      "canton": "OW",
+      "lat": 46.89374923706055,
+      "lng": 8.186779022216797
+    },
+    {
       "key": "102772",
       "category": "Brevet Plus Pool",
       "city": "Sion",
@@ -1340,7 +1354,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102932",
       "canton": "BE",
       "lat": 46.933433532714844,
@@ -2243,20 +2257,6 @@
       "lng": 8.616456031799316
     },
     {
-      "key": "99896",
-      "category": "Brevet Basis Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-06-29",
-      "last_date": "2026-07-01",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99896",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
-    },
-    {
       "key": "100893",
       "category": "Modul See",
       "city": "",
@@ -2395,20 +2395,6 @@
       "canton": "BE",
       "lat": 46.74045944213867,
       "lng": 7.60764217376709
-    },
-    {
-      "key": "99903",
-      "category": "Brevet Plus Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-07-01",
-      "last_date": "2026-07-03",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99903",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
     },
     {
       "key": "100895",
@@ -2591,20 +2577,6 @@
       "canton": "ZH",
       "lat": 47.49905014038086,
       "lng": 8.720227241516113
-    },
-    {
-      "key": "99926",
-      "category": "WK Pool Plus",
-      "city": "Mendrisio",
-      "first_date": "2026-07-03",
-      "last_date": "2026-07-03",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99926",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
     },
     {
       "key": "101566",
@@ -13261,5 +13233,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-18T04:38:15+0000"
+  "geocoded_at": "2026-06-18T06:33:11+0000"
 }
