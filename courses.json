@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-18T18:57:53+0000",
+  "scraped_at": "2026-06-18T19:46:59+0000",
   "count": 939,
   "courses": [
     {
@@ -1102,7 +1102,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Grenchen",
       "participation_max": 40,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100674",
       "canton": null,
       "lat": null,
@@ -1816,7 +1816,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101929",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -13149,5 +13149,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-18T18:57:53+0000"
+  "geocoded_at": "2026-06-18T19:46:59+0000"
 }
