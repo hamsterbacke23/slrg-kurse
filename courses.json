@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-18T17:59:01+0000",
-  "count": 940,
+  "scraped_at": "2026-06-18T18:57:53+0000",
+  "count": 939,
   "courses": [
     {
       "key": "98223",
@@ -309,20 +309,6 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
-    },
-    {
-      "key": "99292",
-      "category": "Brevet Basis Pool",
-      "city": "Winterthur",
-      "first_date": "2026-06-04",
-      "last_date": "2026-06-18",
-      "company": "SLRG Winterthur",
-      "participation_max": 22,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99292",
-      "canton": "ZH",
-      "lat": 47.49905014038086,
-      "lng": 8.720227241516113
     },
     {
       "key": "102207",
@@ -3468,7 +3454,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
       "canton": null,
       "lat": null,
@@ -5960,7 +5946,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101127",
       "canton": null,
       "lat": null,
@@ -6590,7 +6576,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100802",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -12092,7 +12078,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Wald",
       "participation_max": 18,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101625",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -13163,5 +13149,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-18T17:59:01+0000"
+  "geocoded_at": "2026-06-18T18:57:53+0000"
 }
