@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-18T19:46:59+0000",
+  "scraped_at": "2026-06-18T20:44:57+0000",
   "count": 939,
   "courses": [
     {
@@ -206,7 +206,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Sektion Bern",
       "participation_max": 70,
-      "registered": 45,
+      "registered": 46,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102340",
       "canton": null,
       "lat": null,
@@ -1158,7 +1158,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Baldeggersee",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100835",
       "canton": "AG",
       "lat": 47.46938705444336,
@@ -1396,7 +1396,7 @@
       "last_date": "2026-06-26",
       "company": "SSS Lugano",
       "participation_max": 25,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101531",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -1942,7 +1942,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102671",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -2586,7 +2586,7 @@
       "last_date": "2026-07-04",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100698",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -3090,7 +3090,7 @@
       "last_date": "2026-07-08",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101115",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -7962,7 +7962,7 @@
       "last_date": "2026-10-01",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99553",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -12876,7 +12876,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 3,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99106",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -13114,7 +13114,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99115",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -13149,5 +13149,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-18T19:46:59+0000"
+  "geocoded_at": "2026-06-18T20:44:57+0000"
 }
