@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-18T20:44:57+0000",
-  "count": 939,
+  "scraped_at": "2026-06-18T21:38:06+0000",
+  "count": 938,
   "courses": [
     {
       "key": "98223",
@@ -871,20 +871,6 @@
       "lng": 9.262721061706543
     },
     {
-      "key": "101438",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Rüti",
-      "participation_max": 20,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101438",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101540",
       "category": "Modul See",
       "city": "Nidau",
@@ -1158,7 +1144,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Baldeggersee",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100835",
       "canton": "AG",
       "lat": 47.46938705444336,
@@ -3860,7 +3846,7 @@
       "last_date": "2026-08-05",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99996",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5638,7 +5624,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102061",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -13149,5 +13135,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-18T20:44:57+0000"
+  "geocoded_at": "2026-06-18T21:38:06+0000"
 }
