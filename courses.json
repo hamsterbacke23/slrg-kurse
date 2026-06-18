@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-18T21:38:06+0000",
-  "count": 938,
+  "scraped_at": "2026-06-18T22:34:58+0000",
+  "count": 931,
   "courses": [
     {
       "key": "98223",
@@ -339,48 +339,6 @@
       "lng": 8.278470993041992
     },
     {
-      "key": "100870",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-06-08",
-      "last_date": "2026-06-18",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100870",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100871",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-06-08",
-      "last_date": "2026-06-18",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100871",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100872",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-06-08",
-      "last_date": "2026-06-18",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100872",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100661",
       "category": "WK Expert See",
       "city": "",
@@ -547,20 +505,6 @@
       "canton": "SG",
       "lat": 47.12102508544922,
       "lng": 9.347698211669922
-    },
-    {
-      "key": "100157",
-      "category": "WK Fluss",
-      "city": "Grabs",
-      "first_date": "2026-06-18",
-      "last_date": "2026-06-18",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100157",
-      "canton": "SG",
-      "lat": 47.16484832763672,
-      "lng": 9.390880584716797
     },
     {
       "key": "100506",
@@ -757,48 +701,6 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
-    },
-    {
-      "key": "100337",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Basel",
-      "participation_max": 10,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100337",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100338",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100338",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100339",
-      "category": "WK BLS-AED",
-      "city": "Basel",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Basel",
-      "participation_max": 15,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100339",
-      "canton": "BS",
-      "lat": 47.5545539855957,
-      "lng": 7.590269565582275
     },
     {
       "key": "100673",
@@ -13135,5 +13037,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-18T21:38:06+0000"
+  "geocoded_at": "2026-06-18T22:34:58+0000"
 }
