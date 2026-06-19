@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T14:59:45+0000",
+  "scraped_at": "2026-06-19T16:05:57+0000",
   "count": 933,
   "courses": [
     {
@@ -1018,7 +1018,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Baldeggersee",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100835",
       "canton": "AG",
       "lat": 47.46938705444336,
@@ -2796,7 +2796,7 @@
       "last_date": "2026-07-07",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101114",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -2894,7 +2894,7 @@
       "last_date": "2026-07-08",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101115",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -2908,7 +2908,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101116",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -3020,7 +3020,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Thun-Oberland",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102260",
       "canton": "BE",
       "lat": 46.69535446166992,
@@ -4000,7 +4000,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -5624,7 +5624,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102048",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -11224,7 +11224,7 @@
       "last_date": "2026-11-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101784",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -13065,5 +13065,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-19T14:59:45+0000"
+  "geocoded_at": "2026-06-19T16:05:57+0000"
 }
