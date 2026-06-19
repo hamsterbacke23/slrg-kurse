@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-19T05:38:23+0000",
-  "count": 931,
+  "scraped_at": "2026-06-19T07:42:20+0000",
+  "count": 933,
   "courses": [
     {
       "key": "98223",
@@ -220,7 +220,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Sektion Bern",
       "participation_max": 70,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102341",
       "canton": null,
       "lat": null,
@@ -250,20 +250,6 @@
       "participation_max": 4,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102598",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102595",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-05-30",
-      "last_date": "2026-06-13",
-      "company": "SLRG Illnau-Effretikon",
-      "participation_max": 16,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102595",
       "canton": null,
       "lat": null,
       "lng": null
@@ -514,7 +500,7 @@
       "last_date": "2026-06-18",
       "company": "Società Svizzera di Salvataggio Chiasso",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100506",
       "canton": null,
       "lat": null,
@@ -1186,11 +1172,25 @@
       "last_date": "2026-06-22",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 40,
-      "registered": 0,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102903",
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103023",
+      "category": "WK Pool Pro",
+      "city": "Oberuzwil",
+      "first_date": "2026-06-22",
+      "last_date": "2026-06-26",
+      "company": "SLRG Wil",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103023",
+      "canton": "SG",
+      "lat": 47.41975021362305,
+      "lng": 9.143709182739258
     },
     {
       "key": "100508",
@@ -1228,7 +1228,7 @@
       "last_date": "2026-06-23",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101491",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -1921,20 +1921,6 @@
       "lng": 8.926308631896973
     },
     {
-      "key": "99878",
-      "category": "Brevet Basis Pool",
-      "city": "La Sarraz",
-      "first_date": "2026-06-28",
-      "last_date": "2026-06-28",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99878",
-      "canton": "VD",
-      "lat": 46.65501022338867,
-      "lng": 6.508055686950684
-    },
-    {
       "key": "101489",
       "category": "Modul See",
       "city": "Beinwil am See",
@@ -2411,20 +2397,6 @@
       "lng": null
     },
     {
-      "key": "99879",
-      "category": "Brevet Basis Pool",
-      "city": "La Sarraz",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99879",
-      "canton": "VD",
-      "lat": 46.65501022338867,
-      "lng": 6.508055686950684
-    },
-    {
       "key": "99884",
       "category": "WK Pool Plus",
       "city": "La Sarraz",
@@ -2474,7 +2446,7 @@
       "last_date": "2026-07-04",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100698",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -2705,20 +2677,6 @@
       "lng": 8.686915397644043
     },
     {
-      "key": "99882",
-      "category": "Brevet Plus Pool",
-      "city": "La Sarraz",
-      "first_date": "2026-07-05",
-      "last_date": "2026-07-05",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99882",
-      "canton": "VD",
-      "lat": 46.65501022338867,
-      "lng": 6.508055686950684
-    },
-    {
       "key": "101614",
       "category": "Modul Fluss",
       "city": "",
@@ -2787,20 +2745,6 @@
       "canton": "ZH",
       "lat": 47.20124435424805,
       "lng": 8.686915397644043
-    },
-    {
-      "key": "99373",
-      "category": "Modul See",
-      "city": "Villeneuve VD",
-      "first_date": "2026-07-06",
-      "last_date": "2026-07-11",
-      "company": "Swimsports",
-      "participation_max": 10,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99373",
-      "canton": "VD",
-      "lat": 46.4063606262207,
-      "lng": 6.953111171722412
     },
     {
       "key": "100890",
@@ -2955,20 +2899,6 @@
       "canton": "BE",
       "lat": 47.12384033203125,
       "lng": 7.239261627197266
-    },
-    {
-      "key": "100786",
-      "category": "Modul BLS-AED",
-      "city": "Aarau",
-      "first_date": "2026-07-08",
-      "last_date": "2026-07-08",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 8,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100786",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
     },
     {
       "key": "101115",
@@ -3195,6 +3125,34 @@
       "lng": 8.455204963684082
     },
     {
+      "key": "103013",
+      "category": "Modul BLS-AED",
+      "city": "Clarens",
+      "first_date": "2026-07-11",
+      "last_date": "2026-07-11",
+      "company": "SSS Riviera",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103013",
+      "canton": "VD",
+      "lat": 46.44438552856445,
+      "lng": 6.891254425048828
+    },
+    {
+      "key": "103014",
+      "category": "WK BLS-AED",
+      "city": "Clarens",
+      "first_date": "2026-07-11",
+      "last_date": "2026-07-11",
+      "company": "SSS Riviera",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103014",
+      "canton": "VD",
+      "lat": 46.44438552856445,
+      "lng": 6.891254425048828
+    },
+    {
       "key": "101046",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -3375,6 +3333,34 @@
       "canton": "VS",
       "lat": 46.287025451660156,
       "lng": 7.86685037612915
+    },
+    {
+      "key": "103016",
+      "category": "WK Pool Pro",
+      "city": "",
+      "first_date": "2026-07-20",
+      "last_date": "2026-09-13",
+      "company": "SSS Meyrin",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103016",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103017",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-07-20",
+      "last_date": "2026-09-13",
+      "company": "SSS Meyrin",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103017",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "102766",
@@ -4028,7 +4014,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -4868,7 +4854,7 @@
       "last_date": "2026-09-07",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99710",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -5057,18 +5043,18 @@
       "lng": 8.781831741333008
     },
     {
-      "key": "99880",
-      "category": "Brevet Basis Pool",
-      "city": "La Sarraz",
+      "key": "99840",
+      "category": "WK BLS-AED",
+      "city": "",
       "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "Swimsports",
-      "participation_max": 12,
+      "last_date": "2026-08-27",
+      "company": "SLRG Zug",
+      "participation_max": 30,
       "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99880",
-      "canton": "VD",
-      "lat": 46.65501022338867,
-      "lng": 6.508055686950684
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99885",
@@ -5463,6 +5449,20 @@
       "lng": null
     },
     {
+      "key": "103015",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-08-25",
+      "last_date": "2026-08-25",
+      "company": "SLRG Zug",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103015",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99711",
       "category": "Modul BLS-AED",
       "city": "Oberwil BL",
@@ -5470,7 +5470,7 @@
       "last_date": "2026-09-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99711",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -7101,6 +7101,20 @@
       "lng": 7.807864665985107
     },
     {
+      "key": "102997",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-09-12",
+      "last_date": "2026-09-13",
+      "company": "SSS St. Maurice",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102997",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100562",
       "category": "Brevet Basis Pool",
       "city": "Bassins",
@@ -8219,6 +8233,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103018",
+      "category": "Modul BLS-AED",
+      "city": "Allschwil",
+      "first_date": "2026-09-30",
+      "last_date": "2026-09-30",
+      "company": "SLRG Basel",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103018",
+      "canton": "BL",
+      "lat": 47.54563903808594,
+      "lng": 7.536828994750977
     },
     {
       "key": "99390",
@@ -9600,7 +9628,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -13037,5 +13065,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-19T05:38:23+0000"
+  "geocoded_at": "2026-06-19T07:42:20+0000"
 }

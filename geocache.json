@@ -870,6 +870,12 @@
     "lat": 47.154170989990234,
     "lng": 8.110082626342773
   },
+  "Oberuzwil": {
+    "canton": "SG",
+    "label": "Oberuzwil (SG)",
+    "lat": 47.41975021362305,
+    "lng": 9.143709182739258
+  },
   "Oberwil BL": {
     "canton": "BL",
     "label": "Oberwil (BL)",
