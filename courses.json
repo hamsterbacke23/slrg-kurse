@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-19T20:28:04+0000",
-  "count": 932,
+  "scraped_at": "2026-06-19T21:22:11+0000",
+  "count": 931,
   "courses": [
     {
       "key": "98223",
@@ -603,20 +603,6 @@
       "canton": "LU",
       "lat": 47.140193939208984,
       "lng": 8.191203117370605
-    },
-    {
-      "key": "102398",
-      "category": "Modul Fluss",
-      "city": "Luzern",
-      "first_date": "2026-06-19",
-      "last_date": "2026-06-20",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102398",
-      "canton": "LU",
-      "lat": 47.05473327636719,
-      "lng": 8.300894737243652
     },
     {
       "key": "102731",
@@ -1802,7 +1788,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102671",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -1942,7 +1928,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102530",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -13051,5 +13037,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-19T20:28:04+0000"
+  "geocoded_at": "2026-06-19T21:22:12+0000"
 }
