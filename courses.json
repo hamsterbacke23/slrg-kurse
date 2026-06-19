@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T00:29:40+0000",
+  "scraped_at": "2026-06-19T01:52:55+0000",
   "count": 931,
   "courses": [
     {
@@ -7024,7 +7024,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101721",
       "canton": null,
       "lat": null,
@@ -13037,5 +13037,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-19T00:29:40+0000"
+  "geocoded_at": "2026-06-19T01:52:55+0000"
 }
