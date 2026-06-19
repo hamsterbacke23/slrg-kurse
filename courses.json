@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T18:30:27+0000",
+  "scraped_at": "2026-06-19T19:30:35+0000",
   "count": 932,
   "courses": [
     {
@@ -3706,7 +3706,7 @@
       "last_date": "2026-08-05",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99996",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -3734,7 +3734,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100003",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -4742,7 +4742,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101490",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -13051,5 +13051,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-19T18:30:27+0000"
+  "geocoded_at": "2026-06-19T19:30:35+0000"
 }
