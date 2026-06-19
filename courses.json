@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-19T03:01:10+0000",
+  "scraped_at": "2026-06-19T05:38:23+0000",
   "count": 931,
   "courses": [
     {
@@ -990,7 +990,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Grenchen",
       "participation_max": 40,
-      "registered": 12,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100674",
       "canton": null,
       "lat": null,
@@ -5526,7 +5526,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102061",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -9012,7 +9012,7 @@
       "last_date": "2026-10-24",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101975",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -13037,5 +13037,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-19T03:01:10+0000"
+  "geocoded_at": "2026-06-19T05:38:23+0000"
 }
