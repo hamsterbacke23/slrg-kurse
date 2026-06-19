@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-19T17:33:34+0000",
-  "count": 933,
+  "scraped_at": "2026-06-19T18:30:27+0000",
+  "count": 932,
   "courses": [
     {
       "key": "98223",
@@ -96,20 +96,6 @@
       "participation_max": 20,
       "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102217",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102703",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-01-30",
-      "last_date": "2026-06-19",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 16,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102703",
       "canton": null,
       "lat": null,
       "lng": null
@@ -2852,7 +2838,7 @@
       "last_date": "2026-07-09",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102414",
       "canton": "LU",
       "lat": 47.191654205322266,
@@ -3034,7 +3020,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102385",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -13065,5 +13051,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-19T17:33:34+0000"
+  "geocoded_at": "2026-06-19T18:30:27+0000"
 }
