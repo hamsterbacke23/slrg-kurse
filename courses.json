@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-20T20:25:05+0000",
+  "scraped_at": "2026-06-20T21:26:04+0000",
   "count": 921,
   "courses": [
     {
@@ -7318,7 +7318,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100366",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -7346,7 +7346,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Weinfelden",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100370",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -12897,5 +12897,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T20:25:05+0000"
+  "geocoded_at": "2026-06-20T21:26:04+0000"
 }
