@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-20T15:30:16+0000",
-  "count": 921,
+  "scraped_at": "2026-06-20T16:27:04+0000",
+  "count": 922,
   "courses": [
     {
       "key": "98223",
@@ -631,6 +631,20 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "100113",
+      "category": "WK See",
+      "city": "Ermatingen",
+      "first_date": "2026-06-20",
+      "last_date": "2026-06-20",
+      "company": "SLRG Ermatingen",
+      "participation_max": 10,
+      "registered": 9,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100113",
+      "canton": "TG",
+      "lat": 47.655548095703125,
+      "lng": 9.095743179321289
     },
     {
       "key": "100833",
@@ -7640,7 +7654,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -8662,7 +8676,7 @@
       "last_date": "2026-10-11",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102988",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -12897,5 +12911,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T15:30:16+0000"
+  "geocoded_at": "2026-06-20T16:27:04+0000"
 }
