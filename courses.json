@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-20T17:28:19+0000",
+  "scraped_at": "2026-06-20T18:24:39+0000",
   "count": 921,
   "courses": [
     {
@@ -1172,7 +1172,7 @@
       "last_date": "2026-06-25",
       "company": "SSS Nord-Vaudois",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102764",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -12897,5 +12897,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T17:28:19+0000"
+  "geocoded_at": "2026-06-20T18:24:39+0000"
 }
