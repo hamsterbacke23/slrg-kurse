@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-20T01:38:32+0000",
+  "scraped_at": "2026-06-20T02:59:40+0000",
   "count": 931,
   "courses": [
     {
@@ -9012,7 +9012,7 @@
       "last_date": "2026-10-24",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101975",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -13037,5 +13037,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T01:38:32+0000"
+  "geocoded_at": "2026-06-20T02:59:40+0000"
 }
