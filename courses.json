@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-20T04:35:52+0000",
-  "count": 931,
+  "scraped_at": "2026-06-20T06:28:07+0000",
+  "count": 930,
   "courses": [
     {
       "key": "98223",
@@ -605,20 +605,6 @@
       "lng": 8.191203117370605
     },
     {
-      "key": "102731",
-      "category": "Brevet Basis Pool",
-      "city": "Lugano",
-      "first_date": "2026-06-19",
-      "last_date": "2026-06-19",
-      "company": "SSS Lugano",
-      "participation_max": 20,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102731",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
       "key": "99570",
       "category": "Modul See",
       "city": "Zürich",
@@ -1088,7 +1074,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102932",
       "canton": "BE",
       "lat": 46.933433532714844,
@@ -3006,7 +2992,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102385",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -13037,5 +13023,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T04:35:52+0000"
+  "geocoded_at": "2026-06-20T06:28:07+0000"
 }
