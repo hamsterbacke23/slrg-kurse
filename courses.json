@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-20T06:28:07+0000",
-  "count": 930,
+  "scraped_at": "2026-06-20T08:07:06+0000",
+  "count": 928,
   "courses": [
     {
       "key": "98223",
@@ -731,20 +731,6 @@
       "lng": 8.916254043579102
     },
     {
-      "key": "102004",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102004",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102084",
       "category": "Modul See",
       "city": "Weggis",
@@ -1011,20 +997,6 @@
       "lng": 7.239261627197266
     },
     {
-      "key": "102235",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-06-21",
-      "last_date": "2026-06-21",
-      "company": "SLRG Thalwil-Langnau",
-      "participation_max": 17,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102235",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102662",
       "category": "Modul See",
       "city": "Spiez",
@@ -1060,7 +1032,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102931",
       "canton": "BE",
       "lat": 47.10683059692383,
@@ -1074,7 +1046,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102932",
       "canton": "BE",
       "lat": 46.933433532714844,
@@ -2096,7 +2068,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102497",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -5764,7 +5736,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101127",
       "canton": null,
       "lat": null,
@@ -13023,5 +12995,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T06:28:07+0000"
+  "geocoded_at": "2026-06-20T08:07:07+0000"
 }
