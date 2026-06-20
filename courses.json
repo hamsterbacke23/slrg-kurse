@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-20T11:35:28+0000",
-  "count": 923,
+  "scraped_at": "2026-06-20T12:29:00+0000",
+  "count": 921,
   "courses": [
     {
       "key": "98223",
@@ -633,20 +633,6 @@
       "lng": 8.527311325073242
     },
     {
-      "key": "100673",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Grenchen",
-      "participation_max": 40,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100673",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100833",
       "category": "Modul See",
       "city": "Baldegg",
@@ -841,20 +827,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "102866",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Uri",
-      "participation_max": 15,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102866",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "99845",
@@ -9978,7 +9950,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
       "canton": null,
       "lat": null,
@@ -12925,5 +12897,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T11:35:28+0000"
+  "geocoded_at": "2026-06-20T12:29:00+0000"
 }
