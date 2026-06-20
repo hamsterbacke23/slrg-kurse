@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-20T18:24:39+0000",
+  "scraped_at": "2026-06-20T19:28:44+0000",
   "count": 921,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-06-20",
       "company": "SLRG Ermatingen",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100113",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -654,7 +654,7 @@
       "last_date": "2026-06-20",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100940",
       "canton": "TI",
       "lat": 45.968719482421875,
@@ -668,7 +668,7 @@
       "last_date": "2026-06-20",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100966",
       "canton": "TI",
       "lat": 45.968719482421875,
@@ -1970,7 +1970,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102497",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -2431,8 +2431,8 @@
       "first_date": "2026-07-04",
       "last_date": "2026-07-04",
       "company": "SLRG Sektion Täuffelen",
-      "participation_max": 14,
-      "registered": 14,
+      "participation_max": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102276",
       "canton": "BE",
       "lat": 47.065650939941406,
@@ -4364,7 +4364,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102982",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -12897,5 +12897,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T18:24:39+0000"
+  "geocoded_at": "2026-06-20T19:28:45+0000"
 }
