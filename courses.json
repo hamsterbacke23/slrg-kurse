@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-20T14:42:57+0000",
+  "scraped_at": "2026-06-20T15:30:16+0000",
   "count": 921,
   "courses": [
     {
@@ -850,7 +850,7 @@
       "last_date": "2026-06-21",
       "company": "SLRG Grenchen",
       "participation_max": 40,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100674",
       "canton": null,
       "lat": null,
@@ -962,7 +962,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102931",
       "canton": "BE",
       "lat": 47.10683059692383,
@@ -976,7 +976,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102932",
       "canton": "BE",
       "lat": 46.933433532714844,
@@ -12897,5 +12897,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-20T14:42:57+0000"
+  "geocoded_at": "2026-06-20T15:30:16+0000"
 }
