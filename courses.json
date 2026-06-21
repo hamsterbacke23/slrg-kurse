@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T20:28:16+0000",
-  "count": 899,
+  "scraped_at": "2026-06-21T21:25:52+0000",
+  "count": 898,
   "courses": [
     {
       "key": "98223",
@@ -477,20 +477,6 @@
       "canton": "ZH",
       "lat": 47.49905014038086,
       "lng": 8.720227241516113
-    },
-    {
-      "key": "99844",
-      "category": "Modul Fluss",
-      "city": "Zug",
-      "first_date": "2026-06-19",
-      "last_date": "2026-06-20",
-      "company": "SLRG Zug",
-      "participation_max": 11,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99844",
-      "canton": "ZG",
-      "lat": 47.151554107666016,
-      "lng": 8.521272659301758
     },
     {
       "key": "100507",
@@ -3188,7 +3174,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Thun-Oberland",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101908",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -12589,5 +12575,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T20:28:16+0000"
+  "geocoded_at": "2026-06-21T21:25:52+0000"
 }
