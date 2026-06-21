@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T21:25:52+0000",
-  "count": 898,
+  "scraped_at": "2026-06-21T22:23:07+0000",
+  "count": 896,
   "courses": [
     {
       "key": "98223",
@@ -255,20 +255,6 @@
       "lng": null
     },
     {
-      "key": "101713",
-      "category": "Modul Fluss",
-      "city": "Aarau",
-      "first_date": "2026-06-03",
-      "last_date": "2026-06-21",
-      "company": "SLRG Aarau",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101713",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
-    },
-    {
       "key": "102207",
       "category": "Modul BLS-AED",
       "city": "Weiningen ZH",
@@ -521,20 +507,6 @@
       "lng": 9.262721061706543
     },
     {
-      "key": "101624",
-      "category": "Brevet Plus Pool",
-      "city": "Wald ZH",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Wald",
-      "participation_max": 24,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101624",
-      "canton": "ZH",
-      "lat": 47.28373718261719,
-      "lng": 8.916254043579102
-    },
-    {
       "key": "102084",
       "category": "Modul See",
       "city": "Weggis",
@@ -673,20 +645,6 @@
       "canton": "BE",
       "lat": 46.933433532714844,
       "lng": 7.499686241149902
-    },
-    {
-      "key": "102985",
-      "category": "Modul See",
-      "city": "Zürich",
-      "first_date": "2026-06-21",
-      "last_date": "2026-06-21",
-      "company": "SLRG Höngg",
-      "participation_max": 16,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102985",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
     },
     {
       "key": "102104",
@@ -7969,6 +7927,20 @@
       "lng": 7.718348503112793
     },
     {
+      "key": "103019",
+      "category": "WK Pool Plus",
+      "city": "Allschwil",
+      "first_date": "2026-10-04",
+      "last_date": "2026-10-04",
+      "company": "SLRG Basel",
+      "participation_max": 17,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103019",
+      "canton": "BL",
+      "lat": 47.54563903808594,
+      "lng": 7.536828994750977
+    },
+    {
       "key": "100779",
       "category": "WK BLS-AED",
       "city": "Aarau",
@@ -12575,5 +12547,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T21:25:52+0000"
+  "geocoded_at": "2026-06-21T22:23:07+0000"
 }
