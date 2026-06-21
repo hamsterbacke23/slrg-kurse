@@ -143,6 +143,12 @@
     "lat": 47.63327407836914,
     "lng": 9.210403442382812
   },
+  "Bremgarten": {
+    "canton": "BE",
+    "label": "Bremgarten bei Bern (BE)",
+    "lat": 46.97819519042969,
+    "lng": 7.43417501449585
+  },
   "Bremgarten AG": {
     "canton": "AG",
     "label": "Bremgarten (AG)",

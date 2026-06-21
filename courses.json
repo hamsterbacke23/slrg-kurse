@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T15:31:55+0000",
-  "count": 902,
+  "scraped_at": "2026-06-21T16:29:24+0000",
+  "count": 901,
   "courses": [
     {
       "key": "98223",
@@ -561,20 +561,6 @@
       "canton": "SG",
       "lat": 47.42510986328125,
       "lng": 9.262721061706543
-    },
-    {
-      "key": "101540",
-      "category": "Modul See",
-      "city": "Nidau",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Bielersee",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101540",
-      "canton": "BE",
-      "lat": 47.12384033203125,
-      "lng": 7.239261627197266
     },
     {
       "key": "101624",
@@ -3020,7 +3006,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100316",
       "canton": null,
       "lat": null,
@@ -5204,7 +5190,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99316",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -5367,16 +5353,16 @@
     {
       "key": "101127",
       "category": "Modul Fluss",
-      "city": "",
+      "city": "Bremgarten",
       "first_date": "2026-08-29",
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 12,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101127",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "BE",
+      "lat": 46.97819519042969,
+      "lng": 7.43417501449585
     },
     {
       "key": "101733",
@@ -5437,30 +5423,30 @@
     {
       "key": "102139",
       "category": "WK Fluss",
-      "city": "",
+      "city": "Bremgarten",
       "first_date": "2026-08-29",
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 8,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102139",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "BE",
+      "lat": 46.97819519042969,
+      "lng": 7.43417501449585
     },
     {
       "key": "102140",
       "category": "WK Fluss",
-      "city": "",
+      "city": "Bremgarten",
       "first_date": "2026-08-29",
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 8,
       "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102140",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "BE",
+      "lat": 46.97819519042969,
+      "lng": 7.43417501449585
     },
     {
       "key": "102214",
@@ -7934,7 +7920,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102424",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -8074,7 +8060,7 @@
       "last_date": "2026-10-09",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100481",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -12631,5 +12617,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T15:31:55+0000"
+  "geocoded_at": "2026-06-21T16:29:25+0000"
 }
