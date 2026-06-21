@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-21T18:26:12+0000",
+  "scraped_at": "2026-06-21T19:29:07+0000",
   "count": 900,
   "courses": [
     {
@@ -283,20 +283,6 @@
       "lng": 8.434049606323242
     },
     {
-      "key": "100832",
-      "category": "Jugendbrevet",
-      "city": "Baldegg",
-      "first_date": "2026-06-06",
-      "last_date": "2026-06-20",
-      "company": "SLRG Baldeggersee",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100832",
-      "canton": "AG",
-      "lat": 47.46938705444336,
-      "lng": 8.278470993041992
-    },
-    {
       "key": "100661",
       "category": "WK Expert See",
       "city": "",
@@ -535,18 +521,18 @@
       "lng": null
     },
     {
-      "key": "100833",
-      "category": "Modul See",
-      "city": "Baldegg",
+      "key": "100966",
+      "category": "WK See",
+      "city": "Caslano",
       "first_date": "2026-06-20",
       "last_date": "2026-06-20",
-      "company": "SLRG Baldeggersee",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100833",
-      "canton": "AG",
-      "lat": 47.46938705444336,
-      "lng": 8.278470993041992
+      "company": "SSS Paradiso",
+      "participation_max": 16,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100966",
+      "canton": "TI",
+      "lat": 45.968719482421875,
+      "lng": 8.87798023223877
     },
     {
       "key": "101136",
@@ -813,6 +799,20 @@
       "canton": "AG",
       "lat": 47.26459884643555,
       "lng": 8.208498001098633
+    },
+    {
+      "key": "100581",
+      "category": "Modul Fluss",
+      "city": "Brugg AG",
+      "first_date": "2026-06-24",
+      "last_date": "2026-06-24",
+      "company": "ETH Zürich",
+      "participation_max": 12,
+      "registered": 12,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100581",
+      "canton": "AG",
+      "lat": 47.474945068359375,
+      "lng": 8.169898986816406
     },
     {
       "key": "100792",
@@ -3048,7 +3048,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101763",
       "canton": null,
       "lat": null,
@@ -12603,5 +12603,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T18:26:12+0000"
+  "geocoded_at": "2026-06-21T19:29:07+0000"
 }
