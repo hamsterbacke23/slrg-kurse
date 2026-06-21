@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T05:32:02+0000",
-  "count": 914,
+  "scraped_at": "2026-06-21T07:30:02+0000",
+  "count": 912,
   "courses": [
     {
       "key": "98223",
@@ -507,20 +507,6 @@
       "lng": 8.186779022216797
     },
     {
-      "key": "102665",
-      "category": "Modul See",
-      "city": "Sarnen",
-      "first_date": "2026-06-18",
-      "last_date": "2026-06-20",
-      "company": "SLRG Obwalden",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102665",
-      "canton": "OW",
-      "lat": 46.89374923706055,
-      "lng": 8.186779022216797
-    },
-    {
       "key": "102772",
       "category": "Brevet Plus Pool",
       "city": "Sion",
@@ -689,20 +675,6 @@
       "lng": null
     },
     {
-      "key": "102661",
-      "category": "WK Pool Plus",
-      "city": "Wald ZH",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SLRG Wald",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102661",
-      "canton": "ZH",
-      "lat": 47.28373718261719,
-      "lng": 8.916254043579102
-    },
-    {
       "key": "102775",
       "category": "Modul BLS-AED",
       "city": "Sion",
@@ -864,7 +836,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102931",
       "canton": "BE",
       "lat": 47.10683059692383,
@@ -878,7 +850,7 @@
       "last_date": "2026-06-21",
       "company": "Cevi Schweiz",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102932",
       "canton": "BE",
       "lat": 46.933433532714844,
@@ -12799,5 +12771,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T05:32:02+0000"
+  "geocoded_at": "2026-06-21T07:30:02+0000"
 }
