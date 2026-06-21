@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T16:29:24+0000",
-  "count": 901,
+  "scraped_at": "2026-06-21T17:28:53+0000",
+  "count": 902,
   "courses": [
     {
       "key": "98223",
@@ -659,6 +659,20 @@
       "canton": "BE",
       "lat": 47.12384033203125,
       "lng": 7.239261627197266
+    },
+    {
+      "key": "101836",
+      "category": "Brevet Plus Pool",
+      "city": "Dietlikon",
+      "first_date": "2026-06-21",
+      "last_date": "2026-06-21",
+      "company": "Schweizerischer Badmeisterverband SBV",
+      "participation_max": 12,
+      "registered": 10,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101836",
+      "canton": "ZH",
+      "lat": 47.42268371582031,
+      "lng": 8.613987922668457
     },
     {
       "key": "102662",
@@ -4868,7 +4882,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Grenchen",
       "participation_max": 20,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100677",
       "canton": null,
       "lat": null,
@@ -12617,5 +12631,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T16:29:25+0000"
+  "geocoded_at": "2026-06-21T17:28:53+0000"
 }
