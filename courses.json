@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T13:31:44+0000",
-  "count": 903,
+  "scraped_at": "2026-06-21T14:43:22+0000",
+  "count": 902,
   "courses": [
     {
       "key": "98223",
@@ -645,20 +645,6 @@
       "canton": "LU",
       "lat": 47.05473327636719,
       "lng": 8.300894737243652
-    },
-    {
-      "key": "100687",
-      "category": "Brevet Basis Pool",
-      "city": "Spreitenbach",
-      "first_date": "2026-06-21",
-      "last_date": "2026-06-21",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100687",
-      "canton": "AG",
-      "lat": 47.41796112060547,
-      "lng": 8.362970352172852
     },
     {
       "key": "100835",
@@ -1816,7 +1802,7 @@
       "last_date": "2026-07-01",
       "company": "SSS Romont",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102939",
       "canton": null,
       "lat": null,
@@ -6646,7 +6632,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102056",
       "canton": "BE",
       "lat": 47.25593948364258,
@@ -9152,7 +9138,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102053",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -12645,5 +12631,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T13:31:44+0000"
+  "geocoded_at": "2026-06-21T14:43:22+0000"
 }
