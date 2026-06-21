@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T19:29:07+0000",
-  "count": 900,
+  "scraped_at": "2026-06-21T20:28:16+0000",
+  "count": 899,
   "courses": [
     {
       "key": "98223",
@@ -108,7 +108,7 @@
       "last_date": "2026-06-23",
       "company": "SLRG Sarganserland",
       "participation_max": 9,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102794",
       "canton": null,
       "lat": null,
@@ -337,20 +337,6 @@
       "canton": "BS",
       "lat": 47.5545539855957,
       "lng": 7.590269565582275
-    },
-    {
-      "key": "100892",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-06-15",
-      "last_date": "2026-06-20",
-      "company": "SLRG Sektion Bern",
-      "participation_max": 25,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100892",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100937",
@@ -4322,7 +4308,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102423",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -6100,7 +6086,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Grenchen",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100680",
       "canton": null,
       "lat": null,
@@ -12603,5 +12589,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T19:29:07+0000"
+  "geocoded_at": "2026-06-21T20:28:16+0000"
 }
