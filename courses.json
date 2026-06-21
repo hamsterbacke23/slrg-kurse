@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-21T12:32:42+0000",
-  "count": 905,
+  "scraped_at": "2026-06-21T13:31:44+0000",
+  "count": 903,
   "courses": [
     {
       "key": "98223",
@@ -645,34 +645,6 @@
       "canton": "LU",
       "lat": 47.05473327636719,
       "lng": 8.300894737243652
-    },
-    {
-      "key": "100675",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-06-21",
-      "last_date": "2026-06-21",
-      "company": "SLRG Grenchen",
-      "participation_max": 20,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100675",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100676",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-06-21",
-      "last_date": "2026-06-21",
-      "company": "SLRG Grenchen",
-      "participation_max": 20,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100676",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100687",
@@ -2586,7 +2558,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Rüti",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101194",
       "canton": "ZH",
       "lat": 47.28143310546875,
@@ -2866,7 +2838,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101902",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -5400,7 +5372,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100815",
       "canton": "VS",
       "lat": 46.28894805908203,
@@ -6114,7 +6086,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Wädenswil",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102178",
       "canton": null,
       "lat": null,
@@ -12673,5 +12645,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T12:32:43+0000"
+  "geocoded_at": "2026-06-21T13:31:44+0000"
 }
