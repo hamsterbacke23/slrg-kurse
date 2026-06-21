@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-21T07:30:02+0000",
+  "scraped_at": "2026-06-21T09:10:28+0000",
   "count": 912,
   "courses": [
     {
@@ -3636,7 +3636,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99400",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10482,7 +10482,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101466",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -12771,5 +12771,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-21T07:30:02+0000"
+  "geocoded_at": "2026-06-21T09:10:28+0000"
 }
