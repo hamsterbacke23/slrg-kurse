@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-22T22:31:07+0000",
+  "scraped_at": "2026-06-22T23:27:18+0000",
   "count": 890,
   "courses": [
     {
@@ -1718,7 +1718,7 @@
       "last_date": "2026-07-03",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102498",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -12463,5 +12463,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-22T22:31:07+0000"
+  "geocoded_at": "2026-06-22T23:27:18+0000"
 }
