@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-22T21:07:51+0000",
+  "scraped_at": "2026-06-22T22:31:07+0000",
   "count": 890,
   "courses": [
     {
@@ -449,20 +449,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100966",
-      "category": "WK See",
-      "city": "Caslano",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-20",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100966",
-      "canton": "TI",
-      "lat": 45.968719482421875,
-      "lng": 8.87798023223877
     },
     {
       "key": "101136",
@@ -4098,7 +4084,7 @@
       "last_date": "2026-08-26",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102862",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -8459,6 +8445,20 @@
       "lng": 7.711877822875977
     },
     {
+      "key": "103020",
+      "category": "Brevet Plus Pool",
+      "city": "Allschwil",
+      "first_date": "2026-10-17",
+      "last_date": "2026-10-17",
+      "company": "SLRG Basel",
+      "participation_max": 17,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
+      "canton": "BL",
+      "lat": 47.54563903808594,
+      "lng": 7.536828994750977
+    },
+    {
       "key": "100693",
       "category": "Brevet Basis Pool",
       "city": "Spreitenbach",
@@ -12463,5 +12463,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-22T21:07:51+0000"
+  "geocoded_at": "2026-06-22T22:31:07+0000"
 }
