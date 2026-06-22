@@ -798,6 +798,12 @@
     "lat": 46.930362701416016,
     "lng": 7.4850358963012695
   },
+  "Murten": {
+    "canton": "FR",
+    "label": "Murten (FR)",
+    "lat": 46.94218063354492,
+    "lng": 7.174732685089111
+  },
   "Muttenz": {
     "canton": "BL",
     "label": "Muttenz (BL)",
