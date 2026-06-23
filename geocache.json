@@ -1183,6 +1183,12 @@
     "lat": 47.11361312866211,
     "lng": 7.3059468269348145
   },
+  "Sugiez": {
+    "canton": "FR",
+    "label": "Ort Sugiez (FR) - Mont-Vully",
+    "lat": 46.96506118774414,
+    "lng": 7.117027282714844
+  },
   "Sursee": {
     "canton": "LU",
     "label": "Sursee (LU)",
