@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-23T18:34:50+0000",
+  "scraped_at": "2026-06-23T19:33:07+0000",
   "count": 915,
   "courses": [
     {
@@ -1102,7 +1102,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Emmental",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102109",
       "canton": null,
       "lat": null,
@@ -1256,7 +1256,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Winterthur",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99349",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -12813,5 +12813,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-23T18:34:50+0000"
+  "geocoded_at": "2026-06-23T19:33:07+0000"
 }
