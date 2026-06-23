@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-23T04:30:16+0000",
-  "count": 890,
+  "scraped_at": "2026-06-23T06:20:42+0000",
+  "count": 892,
   "courses": [
     {
       "key": "98223",
@@ -409,6 +409,34 @@
       "lng": 8.953682899475098
     },
     {
+      "key": "102664",
+      "category": "Brevet Basis Pool",
+      "city": "Sarnen",
+      "first_date": "2026-06-18",
+      "last_date": "2026-06-20",
+      "company": "SLRG Obwalden",
+      "participation_max": 12,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102664",
+      "canton": "OW",
+      "lat": 46.89374923706055,
+      "lng": 8.186779022216797
+    },
+    {
+      "key": "102665",
+      "category": "Modul See",
+      "city": "Sarnen",
+      "first_date": "2026-06-18",
+      "last_date": "2026-06-20",
+      "company": "SLRG Obwalden",
+      "participation_max": 12,
+      "registered": 6,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102665",
+      "canton": "OW",
+      "lat": 46.89374923706055,
+      "lng": 8.186779022216797
+    },
+    {
       "key": "102772",
       "category": "Brevet Plus Pool",
       "city": "Sion",
@@ -668,7 +696,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Solothurn",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102749",
       "canton": null,
       "lat": null,
@@ -1438,7 +1466,7 @@
       "last_date": "2026-06-29",
       "company": "SSS Gambarogno",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103010",
       "canton": null,
       "lat": null,
@@ -3832,7 +3860,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Bauma",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102130",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -4028,7 +4056,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -8536,7 +8564,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100378",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -12463,5 +12491,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-23T04:30:16+0000"
+  "geocoded_at": "2026-06-23T06:20:42+0000"
 }
