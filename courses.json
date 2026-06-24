@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T20:30:23+0000",
+  "scraped_at": "2026-06-24T21:27:48+0000",
   "count": 917,
   "courses": [
     {
@@ -2026,7 +2026,7 @@
       "last_date": "2026-07-12",
       "company": "SLRG Sektion Bern",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100973",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -3776,7 +3776,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101488",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -3916,7 +3916,7 @@
       "last_date": "2026-08-16",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100689",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -12841,5 +12841,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-24T20:30:23+0000"
+  "geocoded_at": "2026-06-24T21:27:48+0000"
 }
