@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T15:43:29+0000",
+  "scraped_at": "2026-06-24T16:39:27+0000",
   "count": 918,
   "courses": [
     {
@@ -976,7 +976,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101929",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -1228,7 +1228,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101930",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -1886,7 +1886,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Sektion Täuffelen",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102276",
       "canton": "BE",
       "lat": 47.065650939941406,
@@ -1970,7 +1970,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -2096,7 +2096,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101828",
       "canton": "TI",
       "lat": 46.01959228515625,
@@ -5106,7 +5106,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99317",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -12855,5 +12855,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-24T15:43:29+0000"
+  "geocoded_at": "2026-06-24T16:39:27+0000"
 }
