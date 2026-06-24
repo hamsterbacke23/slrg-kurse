@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T04:32:34+0000",
+  "scraped_at": "2026-06-24T06:18:36+0000",
   "count": 914,
   "courses": [
     {
@@ -2026,7 +2026,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
       "participation_max": 18,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -2082,7 +2082,7 @@
       "last_date": "2026-07-14",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100890",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -12799,5 +12799,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-24T04:32:34+0000"
+  "geocoded_at": "2026-06-24T06:18:36+0000"
 }
