@@ -258,6 +258,12 @@
     "lat": 47.001983642578125,
     "lng": 8.526065826416016
   },
+  "Couvet": {
+    "canton": "NE",
+    "label": "Ort Couvet (NE) - Val-de-Travers",
+    "lat": 46.926021575927734,
+    "lng": 6.633546829223633
+  },
   "Crans VS": {
     "canton": "VS",
     "label": "Crans-Montana (VS)",
