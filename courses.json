@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-24T21:27:48+0000",
-  "count": 917,
+  "scraped_at": "2026-06-24T22:25:40+0000",
+  "count": 916,
   "courses": [
     {
       "key": "98223",
@@ -365,20 +365,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101349",
-      "category": "WK See",
-      "city": "Lachen SZ",
-      "first_date": "2026-06-17",
-      "last_date": "2026-06-24",
-      "company": "SLRG Lachen",
-      "participation_max": 20,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101349",
-      "canton": "SZ",
-      "lat": 47.19688415527344,
-      "lng": 8.854327201843262
     },
     {
       "key": "102602",
@@ -12841,5 +12827,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-24T21:27:48+0000"
+  "geocoded_at": "2026-06-24T22:25:40+0000"
 }
