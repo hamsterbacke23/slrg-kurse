@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T06:18:36+0000",
+  "scraped_at": "2026-06-24T08:06:06+0000",
   "count": 914,
   "courses": [
     {
@@ -192,7 +192,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Sektion Bern",
       "participation_max": 70,
-      "registered": 50,
+      "registered": 51,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102340",
       "canton": null,
       "lat": null,
@@ -206,7 +206,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Sektion Bern",
       "participation_max": 70,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102341",
       "canton": null,
       "lat": null,
@@ -2082,7 +2082,7 @@
       "last_date": "2026-07-14",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100890",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -3398,7 +3398,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -4238,7 +4238,7 @@
       "last_date": "2026-09-01",
       "company": "SSS Neuchâtel",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102986",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -4574,7 +4574,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Bülach",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101424",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -6016,7 +6016,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Wädenswil",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102178",
       "canton": null,
       "lat": null,
@@ -6548,7 +6548,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101722",
       "canton": null,
       "lat": null,
@@ -8816,7 +8816,7 @@
       "last_date": "2026-10-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100548",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -12799,5 +12799,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-24T06:18:36+0000"
+  "geocoded_at": "2026-06-24T08:06:06+0000"
 }
