@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T13:40:44+0000",
+  "scraped_at": "2026-06-24T14:53:01+0000",
   "count": 919,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Solothurn",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102749",
       "canton": null,
       "lat": null,
@@ -1004,7 +1004,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101929",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -1242,7 +1242,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101930",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -1298,7 +1298,7 @@
       "last_date": "2026-06-28",
       "company": "Société de sauvetage du Vully ",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103040",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -2907,8 +2907,8 @@
       "first_date": "2026-07-26",
       "last_date": "2026-07-26",
       "company": "SLRG Emmental",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 13,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100846",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -3342,7 +3342,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100818",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -5666,7 +5666,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103066",
       "canton": null,
       "lat": null,
@@ -8746,7 +8746,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103075",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -10454,7 +10454,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101050",
       "canton": null,
       "lat": null,
@@ -12869,5 +12869,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-24T13:40:44+0000"
+  "geocoded_at": "2026-06-24T14:53:01+0000"
 }
