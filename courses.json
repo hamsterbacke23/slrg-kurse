@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-24T11:53:31+0000",
-  "count": 920,
+  "scraped_at": "2026-06-24T12:37:39+0000",
+  "count": 919,
   "courses": [
     {
       "key": "98223",
@@ -605,20 +605,6 @@
       "lng": 8.988879203796387
     },
     {
-      "key": "101956",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-06-24",
-      "last_date": "2026-06-24",
-      "company": "SLRG Solothurn",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101956",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102687",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -990,7 +976,7 @@
       "last_date": "2026-06-28",
       "company": "SSS St. Imier",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101881",
       "canton": null,
       "lat": null,
@@ -1661,7 +1647,7 @@
       "first_date": "2026-07-03",
       "last_date": "2026-07-04",
       "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 16,
+      "participation_max": 13,
       "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101566",
       "canton": null,
@@ -5736,7 +5722,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Zug",
       "participation_max": 5,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103067",
       "canton": null,
       "lat": null,
@@ -12883,5 +12869,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-24T11:53:33+0000"
+  "geocoded_at": "2026-06-24T12:37:39+0000"
 }
