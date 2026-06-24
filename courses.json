@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-24T12:37:39+0000",
+  "scraped_at": "2026-06-24T13:40:44+0000",
   "count": 919,
   "courses": [
     {
@@ -1130,7 +1130,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102837",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -1802,7 +1802,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101524",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -2488,7 +2488,7 @@
       "last_date": "2026-07-16",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101757",
       "canton": "LU",
       "lat": 47.191654205322266,
@@ -3524,7 +3524,7 @@
       "last_date": "2026-08-10",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100982",
       "canton": "ZH",
       "lat": 47.32124328613281,
@@ -3930,7 +3930,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102982",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -10650,7 +10650,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Bülach",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101432",
       "canton": "ZH",
       "lat": 47.5283088684082,
@@ -10733,7 +10733,7 @@
       "first_date": "2026-11-14",
       "last_date": "2026-11-14",
       "company": "SSS Région Romande",
-      "participation_max": 37,
+      "participation_max": 40,
       "registered": 37,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98019",
       "canton": "FR",
@@ -10747,7 +10747,7 @@
       "first_date": "2026-11-14",
       "last_date": "2026-11-14",
       "company": "SSS Région Romande",
-      "participation_max": 37,
+      "participation_max": 40,
       "registered": 37,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98020",
       "canton": "FR",
@@ -10761,7 +10761,7 @@
       "first_date": "2026-11-14",
       "last_date": "2026-11-14",
       "company": "SSS Région Romande",
-      "participation_max": 37,
+      "participation_max": 40,
       "registered": 37,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98021",
       "canton": "FR",
@@ -10775,7 +10775,7 @@
       "first_date": "2026-11-14",
       "last_date": "2026-11-14",
       "company": "SSS Région Romande",
-      "participation_max": 35,
+      "participation_max": 38,
       "registered": 35,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98022",
       "canton": "FR",
@@ -12869,5 +12869,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-24T12:37:39+0000"
+  "geocoded_at": "2026-06-24T13:40:44+0000"
 }
