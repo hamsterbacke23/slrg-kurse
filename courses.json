@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-25T17:36:07+0000",
+  "scraped_at": "2026-06-25T18:38:33+0000",
   "count": 909,
   "courses": [
     {
@@ -234,7 +234,7 @@
       "last_date": "2026-06-20",
       "company": "SSS Genève",
       "participation_max": 18,
-      "registered": 18,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102521",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -1382,7 +1382,7 @@
       "last_date": "2026-07-01",
       "company": "SLRG Wetzikon",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102444",
       "canton": null,
       "lat": null,
@@ -2250,7 +2250,7 @@
       "last_date": "2026-07-11",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102883",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3860,7 +3860,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bielersee",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101541",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -7290,7 +7290,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -8942,7 +8942,7 @@
       "last_date": "2026-10-23",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99928",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -11364,7 +11364,7 @@
       "last_date": "2026-11-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99938",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -12729,5 +12729,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-25T17:36:07+0000"
+  "geocoded_at": "2026-06-25T18:38:33+0000"
 }
