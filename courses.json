@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-25T19:31:49+0000",
+  "scraped_at": "2026-06-25T20:36:17+0000",
   "count": 909,
   "courses": [
     {
@@ -780,7 +780,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Bülach",
       "participation_max": 30,
-      "registered": 19,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101429",
       "canton": "ZH",
       "lat": 47.469303131103516,
@@ -12729,5 +12729,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-25T19:31:49+0000"
+  "geocoded_at": "2026-06-25T20:36:17+0000"
 }
