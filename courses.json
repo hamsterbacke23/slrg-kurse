@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-25T22:27:05+0000",
-  "count": 907,
+  "scraped_at": "2026-06-25T23:26:12+0000",
+  "count": 908,
   "courses": [
     {
       "key": "98223",
@@ -1219,6 +1219,20 @@
       "canton": "GR",
       "lat": 46.83235549926758,
       "lng": 9.516542434692383
+    },
+    {
+      "key": "102925",
+      "category": "WK Pool Plus",
+      "city": "Tenero",
+      "first_date": "2026-06-29",
+      "last_date": "2026-06-29",
+      "company": "SLRG Emmental",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102925",
+      "canton": "TI",
+      "lat": 46.17926788330078,
+      "lng": 8.851685523986816
     },
     {
       "key": "100150",
@@ -12701,5 +12715,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-25T22:27:06+0000"
+  "geocoded_at": "2026-06-25T23:26:12+0000"
 }
