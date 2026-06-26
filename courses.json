@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26T18:29:56+0000",
-  "count": 920,
+  "scraped_at": "2026-06-26T19:30:18+0000",
+  "count": 918,
   "courses": [
     {
       "key": "98223",
@@ -15,20 +15,6 @@
       "canton": "VD",
       "lat": 46.3162727355957,
       "lng": 6.202526569366455
-    },
-    {
-      "key": "102218",
-      "category": "Jugend Erlebnismodul",
-      "city": "",
-      "first_date": "2025-10-29",
-      "last_date": "2026-05-27",
-      "company": "SSS Estavayer-le-Lac",
-      "participation_max": 20,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102218",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100592",
@@ -82,20 +68,6 @@
       "participation_max": 30,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100808",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102217",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-01-28",
-      "last_date": "2026-06-03",
-      "company": "SSS Estavayer-le-Lac",
-      "participation_max": 20,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102217",
       "canton": null,
       "lat": null,
       "lng": null
@@ -920,7 +892,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Uri",
       "participation_max": 15,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103060",
       "canton": null,
       "lat": null,
@@ -9642,7 +9614,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101422",
       "canton": "BE",
       "lat": 47.14190673828125,
@@ -12883,5 +12855,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-26T18:29:56+0000"
+  "geocoded_at": "2026-06-26T19:30:18+0000"
 }
