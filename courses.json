@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-26T11:50:31+0000",
+  "scraped_at": "2026-06-26T12:35:01+0000",
   "count": 919,
   "courses": [
     {
@@ -850,7 +850,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102345",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -2767,7 +2767,7 @@
       "first_date": "2026-07-27",
       "last_date": "2026-07-31",
       "company": "SLRG Thun-Oberland",
-      "participation_max": 20,
+      "participation_max": 24,
       "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101904",
       "canton": "BE",
@@ -2837,8 +2837,8 @@
       "first_date": "2026-08-03",
       "last_date": "2026-08-07",
       "company": "SLRG Thun-Oberland",
-      "participation_max": 25,
-      "registered": 22,
+      "participation_max": 24,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101908",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -4588,7 +4588,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Grenchen",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100677",
       "canton": null,
       "lat": null,
@@ -6086,7 +6086,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101414",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -12869,5 +12869,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-26T11:50:31+0000"
+  "geocoded_at": "2026-06-26T12:35:01+0000"
 }
