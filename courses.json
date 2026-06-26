@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-26T19:30:18+0000",
+  "scraped_at": "2026-06-26T20:30:03+0000",
   "count": 918,
   "courses": [
     {
@@ -808,7 +808,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102345",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -905,8 +905,8 @@
       "first_date": "2026-06-27",
       "last_date": "2026-06-27",
       "company": "SLRG Uri",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103061",
       "canton": null,
       "lat": null,
@@ -1088,7 +1088,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 17,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102094",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -1760,7 +1760,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Richterswil",
       "participation_max": 13,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98406",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -5946,7 +5946,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Oberwallis",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103055",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -12855,5 +12855,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-26T19:30:18+0000"
+  "geocoded_at": "2026-06-26T20:30:03+0000"
 }
