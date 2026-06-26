@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26T21:26:17+0000",
-  "count": 917,
+  "scraped_at": "2026-06-26T22:22:26+0000",
+  "count": 915,
   "courses": [
     {
       "key": "98223",
@@ -213,20 +213,6 @@
       "lng": 7.8112897872924805
     },
     {
-      "key": "102827",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-05-30",
-      "last_date": "2026-06-24",
-      "company": "SLRG Emmental",
-      "participation_max": 18,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102827",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102207",
       "category": "Modul BLS-AED",
       "city": "Weiningen ZH",
@@ -418,20 +404,6 @@
       "participation_max": 4,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102540",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102104",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-06-22",
-      "last_date": "2026-06-26",
-      "company": "SSS Paradiso",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102104",
       "canton": null,
       "lat": null,
       "lng": null
@@ -3874,7 +3846,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -6058,7 +6030,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 20,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101414",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -12841,5 +12813,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-26T21:26:17+0000"
+  "geocoded_at": "2026-06-26T22:22:26+0000"
 }
