@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-26T14:49:24+0000",
+  "scraped_at": "2026-06-26T15:42:17+0000",
   "count": 920,
   "courses": [
     {
@@ -584,7 +584,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Winterthur",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99348",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -934,7 +934,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Uri",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103061",
       "canton": null,
       "lat": null,
@@ -2026,7 +2026,7 @@
       "last_date": "2026-07-07",
       "company": "SLRG Frauenfeld",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103062",
       "canton": null,
       "lat": null,
@@ -2446,7 +2446,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102388",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -3006,7 +3006,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Monthey",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102738",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -12883,5 +12883,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-26T14:49:24+0000"
+  "geocoded_at": "2026-06-26T15:42:17+0000"
 }
