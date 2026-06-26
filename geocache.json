@@ -162,6 +162,12 @@
     "lat": 46.28894805908203,
     "lng": 7.975067138671875
   },
+  "Brigerbad": {
+    "canton": "VS",
+    "label": "Ort Brigerbad (VS) - Brig-Glis",
+    "lat": 46.30108642578125,
+    "lng": 7.926656246185303
+  },
   "Brugg AG": {
     "canton": "AG",
     "label": "Brugg (AG)",
@@ -461,6 +467,12 @@
     "label": "Grindelwald (BE)",
     "lat": 46.620018005371094,
     "lng": 8.041796684265137
+  },
+  "Grosshöchstetten": {
+    "canton": "BE",
+    "label": "Grosshöchstetten (BE)",
+    "lat": 46.90689468383789,
+    "lng": 7.6245927810668945
   },
   "Hallau": {
     "canton": "SH",
@@ -1339,6 +1351,12 @@
     "label": "Winterthur (ZH)",
     "lat": 47.49905014038086,
     "lng": 8.720227241516113
+  },
+  "Worb": {
+    "canton": "BE",
+    "label": "Worb (BE)",
+    "lat": 46.93036651611328,
+    "lng": 7.569691181182861
   },
   "Worblaufen": {
     "canton": "BE",
