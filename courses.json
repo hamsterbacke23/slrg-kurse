@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26T08:10:40+0000",
-  "count": 923,
+  "scraped_at": "2026-06-26T10:02:55+0000",
+  "count": 920,
   "courses": [
     {
       "key": "98223",
@@ -206,7 +206,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Sektion Bern",
       "participation_max": 70,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102341",
       "canton": null,
       "lat": null,
@@ -519,20 +519,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "102773",
-      "category": "WK Pool Plus",
-      "city": "Sion",
-      "first_date": "2026-06-25",
-      "last_date": "2026-06-25",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102773",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "102774",
@@ -941,20 +927,6 @@
       "lng": 8.455204963684082
     },
     {
-      "key": "102897",
-      "category": "Brevet Basis Pool",
-      "city": "Kloten",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "Kantonspolizei Zürich",
-      "participation_max": 20,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102897",
-      "canton": "ZH",
-      "lat": 47.4587516784668,
-      "lng": 8.582091331481934
-    },
-    {
       "key": "103060",
       "category": "WK Pool Pro",
       "city": "",
@@ -1046,7 +1018,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101930",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -1060,7 +1032,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102530",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -1079,20 +1051,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102898",
-      "category": "Brevet Plus Pool",
-      "city": "Kloten",
-      "first_date": "2026-06-28",
-      "last_date": "2026-06-28",
-      "company": "Kantonspolizei Zürich",
-      "participation_max": 26,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102898",
-      "canton": "ZH",
-      "lat": 47.4587516784668,
-      "lng": 8.582091331481934
     },
     {
       "key": "103040",
@@ -1312,7 +1270,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102781",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -1368,7 +1326,7 @@
       "last_date": "2026-07-01",
       "company": "SLRG Grenchen",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102224",
       "canton": null,
       "lat": null,
@@ -2320,7 +2278,7 @@
       "last_date": "2026-07-11",
       "company": "SSS Riviera",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103013",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -2488,7 +2446,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102388",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -5414,7 +5372,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103080",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -7164,7 +7122,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102475",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -8018,7 +7976,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -8620,7 +8578,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Bielersee",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101814",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -10076,7 +10034,7 @@
       "last_date": "2026-11-03",
       "company": "SLRG Bülach",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101428",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -12925,5 +12883,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-26T08:10:40+0000"
+  "geocoded_at": "2026-06-26T10:02:55+0000"
 }
