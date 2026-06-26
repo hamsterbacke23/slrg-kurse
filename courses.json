@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-26T17:30:23+0000",
+  "scraped_at": "2026-06-26T18:29:56+0000",
   "count": 920,
   "courses": [
     {
@@ -1269,7 +1269,7 @@
       "first_date": "2026-06-30",
       "last_date": "2026-06-30",
       "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
+      "participation_max": 13,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102781",
       "canton": "BE",
@@ -2208,7 +2208,7 @@
       "last_date": "2026-07-11",
       "company": "SSS Gambarogno",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102823",
       "canton": null,
       "lat": null,
@@ -12883,5 +12883,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-26T17:30:23+0000"
+  "geocoded_at": "2026-06-26T18:29:56+0000"
 }
