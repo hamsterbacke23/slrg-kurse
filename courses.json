@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-27T13:29:26+0000",
+  "scraped_at": "2026-06-27T14:28:53+0000",
   "count": 905,
   "courses": [
     {
@@ -1004,7 +1004,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103094",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -3440,7 +3440,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101488",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -3790,7 +3790,7 @@
       "last_date": "2026-08-18",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100777",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12673,5 +12673,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T13:29:26+0000"
+  "geocoded_at": "2026-06-27T14:28:53+0000"
 }
