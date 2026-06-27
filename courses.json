@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27T04:27:41+0000",
-  "count": 915,
+  "scraped_at": "2026-06-27T06:09:37+0000",
+  "count": 912,
   "courses": [
     {
       "key": "98223",
@@ -472,7 +472,7 @@
       "last_date": "2026-06-26",
       "company": "SLRG Baldeggersee",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100837",
       "canton": "AG",
       "lat": 47.46938705444336,
@@ -603,34 +603,6 @@
       "canton": "NE",
       "lat": 47.03848648071289,
       "lng": 6.92204475402832
-    },
-    {
-      "key": "101429",
-      "category": "Modul See",
-      "city": "Niederhasli",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Bülach",
-      "participation_max": 30,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101429",
-      "canton": "ZH",
-      "lat": 47.469303131103516,
-      "lng": 8.486824989318848
-    },
-    {
-      "key": "101430",
-      "category": "WK See",
-      "city": "Niederhasli",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Bülach",
-      "participation_max": 20,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101430",
-      "canton": "ZH",
-      "lat": 47.469303131103516,
-      "lng": 8.486824989318848
     },
     {
       "key": "101473",
@@ -813,20 +785,6 @@
       "canton": "SZ",
       "lat": 47.08266830444336,
       "lng": 8.440006256103516
-    },
-    {
-      "key": "102837",
-      "category": "Brevet Basis Pool",
-      "city": "Dielsdorf",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Wehntal",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102837",
-      "canton": "ZH",
-      "lat": 47.47540283203125,
-      "lng": 8.455204963684082
     },
     {
       "key": "102897",
@@ -1060,7 +1018,7 @@
       "last_date": "2026-07-06",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102777",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3986,7 +3944,7 @@
       "last_date": "2026-09-08",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102756",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -11756,7 +11714,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100144",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -12813,5 +12771,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T04:27:41+0000"
+  "geocoded_at": "2026-06-27T06:09:37+0000"
 }
