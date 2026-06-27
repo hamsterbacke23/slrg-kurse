@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27T06:09:37+0000",
-  "count": 912,
+  "scraped_at": "2026-06-27T07:55:49+0000",
+  "count": 911,
   "courses": [
     {
       "key": "98223",
@@ -479,20 +479,6 @@
       "lng": 8.278470993041992
     },
     {
-      "key": "101497",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-06-26",
-      "last_date": "2026-06-27",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101497",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101931",
       "category": "Modul BLS-AED",
       "city": "Muri AG",
@@ -605,18 +591,18 @@
       "lng": 6.92204475402832
     },
     {
-      "key": "101473",
-      "category": "Modul See",
-      "city": "Seewen",
+      "key": "101430",
+      "category": "WK See",
+      "city": "Niederhasli",
       "first_date": "2026-06-27",
       "last_date": "2026-06-27",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 18,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101473",
-      "canton": "SO",
-      "lat": 47.42806625366211,
-      "lng": 7.650906085968018
+      "company": "SLRG Bülach",
+      "participation_max": 20,
+      "registered": 9,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101430",
+      "canton": "ZH",
+      "lat": 47.469303131103516,
+      "lng": 8.486824989318848
     },
     {
       "key": "101498",
@@ -1200,7 +1186,7 @@
       "last_date": "2026-07-01",
       "company": "SLRG Arbon",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101338",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12771,5 +12757,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T06:09:37+0000"
+  "geocoded_at": "2026-06-27T07:55:49+0000"
 }
