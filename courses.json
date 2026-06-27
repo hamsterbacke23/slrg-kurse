@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-27T10:36:07+0000",
+  "scraped_at": "2026-06-27T11:28:22+0000",
   "count": 907,
   "courses": [
     {
@@ -836,7 +836,7 @@
       "last_date": "2026-06-28",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102530",
       "canton": "AR",
       "lat": 47.40953826904297,
@@ -976,7 +976,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102925",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -1914,7 +1914,7 @@
       "last_date": "2026-07-09",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102886",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6310,7 +6310,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 13,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101645",
       "canton": "BE",
       "lat": 47.25593948364258,
@@ -9026,7 +9026,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
       "canton": null,
       "lat": null,
@@ -12701,5 +12701,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T10:36:07+0000"
+  "geocoded_at": "2026-06-27T11:28:22+0000"
 }
