@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-27T12:20:28+0000",
+  "scraped_at": "2026-06-27T13:29:26+0000",
   "count": 905,
   "courses": [
     {
@@ -1004,7 +1004,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103094",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -2110,7 +2110,7 @@
       "last_date": "2026-07-16",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101757",
       "canton": "LU",
       "lat": 47.191654205322266,
@@ -3034,7 +3034,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103068",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -12673,5 +12673,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T12:20:28+0000"
+  "geocoded_at": "2026-06-27T13:29:26+0000"
 }
