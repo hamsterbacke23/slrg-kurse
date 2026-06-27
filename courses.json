@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-27T16:20:27+0000",
+  "scraped_at": "2026-06-27T17:22:01+0000",
   "count": 902,
   "courses": [
     {
@@ -2599,7 +2599,7 @@
       "first_date": "2026-08-03",
       "last_date": "2026-08-07",
       "company": "SLRG Thun-Oberland",
-      "participation_max": 23,
+      "participation_max": 24,
       "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101908",
       "canton": "BE",
@@ -3832,7 +3832,7 @@
       "last_date": "2026-09-07",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99710",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -3860,7 +3860,7 @@
       "last_date": "2026-08-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100787",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4518,7 +4518,7 @@
       "last_date": "2026-09-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99711",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -6800,7 +6800,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101183",
       "canton": null,
       "lat": null,
@@ -12631,5 +12631,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T16:20:27+0000"
+  "geocoded_at": "2026-06-27T17:22:02+0000"
 }
