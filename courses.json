@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27T17:22:01+0000",
-  "count": 902,
+  "scraped_at": "2026-06-27T18:19:55+0000",
+  "count": 901,
   "courses": [
     {
       "key": "98223",
@@ -463,20 +463,6 @@
       "canton": "AG",
       "lat": 47.271732330322266,
       "lng": 8.338957786560059
-    },
-    {
-      "key": "99348",
-      "category": "Modul See",
-      "city": "Bichelsee-Balterswil",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Winterthur",
-      "participation_max": 14,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99348",
-      "canton": "TG",
-      "lat": 47.452247619628906,
-      "lng": 8.926308631896973
     },
     {
       "key": "100152",
@@ -962,7 +948,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103094",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -2600,7 +2586,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101908",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -12631,5 +12617,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T17:22:02+0000"
+  "geocoded_at": "2026-06-27T18:19:55+0000"
 }
