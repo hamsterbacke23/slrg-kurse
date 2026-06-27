@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27T11:28:22+0000",
-  "count": 907,
+  "scraped_at": "2026-06-27T12:20:28+0000",
+  "count": 905,
   "courses": [
     {
       "key": "98223",
@@ -435,20 +435,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "103090",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-06-25",
-      "last_date": "2026-06-26",
-      "company": "SSS Lugano",
-      "participation_max": 5,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103090",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100836",
@@ -1653,20 +1639,6 @@
       "canton": "ZH",
       "lat": 47.42268371582031,
       "lng": 8.613987922668457
-    },
-    {
-      "key": "102277",
-      "category": "WK See",
-      "city": "Täuffelen",
-      "first_date": "2026-07-05",
-      "last_date": "2026-07-05",
-      "company": "SLRG Sektion Täuffelen",
-      "participation_max": 14,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102277",
-      "canton": "BE",
-      "lat": 47.065650939941406,
-      "lng": 7.195646286010742
     },
     {
       "key": "98408",
@@ -5442,7 +5414,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Zug",
       "participation_max": 5,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103067",
       "canton": null,
       "lat": null,
@@ -12701,5 +12673,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T11:28:22+0000"
+  "geocoded_at": "2026-06-27T12:20:28+0000"
 }
