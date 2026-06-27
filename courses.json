@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27T09:39:46+0000",
-  "count": 909,
+  "scraped_at": "2026-06-27T10:36:07+0000",
+  "count": 907,
   "courses": [
     {
       "key": "98223",
@@ -500,7 +500,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Winterthur",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99348",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -549,20 +549,6 @@
       "lng": null
     },
     {
-      "key": "101398",
-      "category": "WK Pool Pro",
-      "city": "Engollon",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SSS Val-de-Ruz",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101398",
-      "canton": "NE",
-      "lat": 47.03848648071289,
-      "lng": 6.92204475402832
-    },
-    {
       "key": "101399",
       "category": "WK BLS-AED",
       "city": "Engollon",
@@ -572,20 +558,6 @@
       "participation_max": 12,
       "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101399",
-      "canton": "NE",
-      "lat": 47.03848648071289,
-      "lng": 6.92204475402832
-    },
-    {
-      "key": "101400",
-      "category": "WK Pool Plus",
-      "city": "Engollon",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SSS Val-de-Ruz",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101400",
       "canton": "NE",
       "lat": 47.03848648071289,
       "lng": 6.92204475402832
@@ -766,7 +738,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Uri",
       "participation_max": 15,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103060",
       "canton": null,
       "lat": null,
@@ -780,7 +752,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Uri",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103061",
       "canton": null,
       "lat": null,
@@ -794,7 +766,7 @@
       "last_date": "2026-06-27",
       "company": "SLRG Uri",
       "participation_max": 5,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103086",
       "canton": null,
       "lat": null,
@@ -906,7 +878,7 @@
       "last_date": "2026-06-28",
       "company": "Société de sauvetage du Vully ",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103040",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -1074,7 +1046,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101716",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -3034,7 +3006,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100818",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -5694,7 +5666,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100802",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -6254,7 +6226,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Ermatingen",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100115",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -6814,7 +6786,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100116",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -12729,5 +12701,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T09:39:46+0000"
+  "geocoded_at": "2026-06-27T10:36:07+0000"
 }
