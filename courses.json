@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27T18:19:55+0000",
-  "count": 901,
+  "scraped_at": "2026-06-27T19:27:47+0000",
+  "count": 898,
   "courses": [
     {
       "key": "98223",
@@ -353,20 +353,6 @@
       "lng": 8.720227241516113
     },
     {
-      "key": "101136",
-      "category": "Brevet Plus Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-06-20",
-      "last_date": "2026-06-27",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101136",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
-    },
-    {
       "key": "102084",
       "category": "Modul See",
       "city": "Weggis",
@@ -421,34 +407,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100836",
-      "category": "WK See",
-      "city": "Baldegg",
-      "first_date": "2026-06-26",
-      "last_date": "2026-06-26",
-      "company": "SLRG Baldeggersee",
-      "participation_max": 17,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100836",
-      "canton": "AG",
-      "lat": 47.46938705444336,
-      "lng": 8.278470993041992
-    },
-    {
-      "key": "100837",
-      "category": "WK Pool Plus",
-      "city": "Baldegg",
-      "first_date": "2026-06-26",
-      "last_date": "2026-06-26",
-      "company": "SLRG Baldeggersee",
-      "participation_max": 16,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100837",
-      "canton": "AG",
-      "lat": 47.46938705444336,
-      "lng": 8.278470993041992
     },
     {
       "key": "101931",
@@ -1578,7 +1536,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102271",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -5708,7 +5666,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Oberwallis",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103055",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -12617,5 +12575,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T18:19:55+0000"
+  "geocoded_at": "2026-06-27T19:27:47+0000"
 }
