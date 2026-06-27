@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-27T14:28:53+0000",
-  "count": 905,
+  "scraped_at": "2026-06-27T15:24:31+0000",
+  "count": 902,
   "courses": [
     {
       "key": "98223",
@@ -178,7 +178,7 @@
       "last_date": "2026-06-17",
       "company": "SLRG Sektion Bern",
       "participation_max": 70,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102341",
       "canton": null,
       "lat": null,
@@ -423,20 +423,6 @@
       "lng": null
     },
     {
-      "key": "101531",
-      "category": "Jugendbrevet",
-      "city": "Lugano",
-      "first_date": "2026-06-24",
-      "last_date": "2026-06-26",
-      "company": "SSS Lugano",
-      "participation_max": 25,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101531",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
       "key": "100836",
       "category": "WK See",
       "city": "Baldegg",
@@ -533,20 +519,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101399",
-      "category": "WK BLS-AED",
-      "city": "Engollon",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SSS Val-de-Ruz",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101399",
-      "canton": "NE",
-      "lat": 47.03848648071289,
-      "lng": 6.92204475402832
     },
     {
       "key": "101498",
@@ -659,20 +631,6 @@
       "canton": "AR",
       "lat": 47.40953826904297,
       "lng": 9.531137466430664
-    },
-    {
-      "key": "102494",
-      "category": "Brevet Basis Pool",
-      "city": "Mühledorf SO",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Limpachtal",
-      "participation_max": 15,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102494",
-      "canton": "SO",
-      "lat": 47.13530731201172,
-      "lng": 7.476200103759766
     },
     {
       "key": "102671",
@@ -4994,7 +4952,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102049",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -12673,5 +12631,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-27T14:28:53+0000"
+  "geocoded_at": "2026-06-27T15:24:31+0000"
 }
