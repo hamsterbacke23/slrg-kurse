@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28T16:22:51+0000",
-  "count": 881,
+  "scraped_at": "2026-06-28T17:24:04+0000",
+  "count": 879,
   "courses": [
     {
       "key": "98223",
@@ -206,7 +206,7 @@
       "last_date": "2026-06-24",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102826",
       "canton": "BE",
       "lat": 46.931427001953125,
@@ -451,34 +451,6 @@
       "lng": 9.531137466430664
     },
     {
-      "key": "103060",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Uri",
-      "participation_max": 15,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103060",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103061",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Uri",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103061",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "98405",
       "category": "Modul See",
       "city": "Richterswil",
@@ -547,6 +519,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103040",
+      "category": "Brevet Basis Pool",
+      "city": "Murten",
+      "first_date": "2026-06-28",
+      "last_date": "2026-06-28",
+      "company": "Société de sauvetage du Vully ",
+      "participation_max": 12,
+      "registered": 9,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103040",
+      "canton": "FR",
+      "lat": 46.94218063354492,
+      "lng": 7.174732685089111
     },
     {
       "key": "98407",
@@ -877,7 +863,7 @@
       "first_date": "2026-07-02",
       "last_date": "2026-07-02",
       "company": "SLRG Thalwil-Langnau",
-      "participation_max": 12,
+      "participation_max": 8,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98750",
       "canton": "ZH",
@@ -1501,20 +1487,6 @@
       "lng": 8.988879203796387
     },
     {
-      "key": "103022",
-      "category": "Modul See",
-      "city": "Sugiez",
-      "first_date": "2026-07-08",
-      "last_date": "2026-07-08",
-      "company": "Société de sauvetage du Vully ",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103022",
-      "canton": "FR",
-      "lat": 46.96506118774414,
-      "lng": 7.117027282714844
-    },
-    {
       "key": "101116",
       "category": "Brevet Plus Pool",
       "city": "Lugano",
@@ -1648,7 +1620,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102385",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -1849,6 +1821,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103022",
+      "category": "Modul See",
+      "city": "Sugiez",
+      "first_date": "2026-07-15",
+      "last_date": "2026-07-15",
+      "company": "Société de sauvetage du Vully ",
+      "participation_max": 12,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103022",
+      "canton": "FR",
+      "lat": 46.96506118774414,
+      "lng": 7.117027282714844
     },
     {
       "key": "102973",
@@ -3713,20 +3699,6 @@
       "lng": 6.954207420349121
     },
     {
-      "key": "102934",
-      "category": "WK See",
-      "city": "Pfäffikon ZH",
-      "first_date": "2026-08-20",
-      "last_date": "2026-08-20",
-      "company": "SLRG Pfäffikon",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102934",
-      "canton": "ZH",
-      "lat": 47.37028121948242,
-      "lng": 8.781831741333008
-    },
-    {
       "key": "103033",
       "category": "Modul Fluss",
       "city": "Luzern",
@@ -5022,7 +4994,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103066",
       "canton": null,
       "lat": null,
@@ -12337,5 +12309,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-28T16:22:51+0000"
+  "geocoded_at": "2026-06-28T17:24:04+0000"
 }
