@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28T17:24:04+0000",
-  "count": 879,
+  "scraped_at": "2026-06-28T18:19:42+0000",
+  "count": 878,
   "courses": [
     {
       "key": "98223",
@@ -465,20 +465,6 @@
       "lng": 8.686915397644043
     },
     {
-      "key": "99349",
-      "category": "WK See",
-      "city": "Bichelsee-Balterswil",
-      "first_date": "2026-06-28",
-      "last_date": "2026-06-28",
-      "company": "SLRG Winterthur",
-      "participation_max": 14,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99349",
-      "canton": "TG",
-      "lat": 47.452247619628906,
-      "lng": 8.926308631896973
-    },
-    {
       "key": "101930",
       "category": "Brevet Plus Pool",
       "city": "Muri AG",
@@ -654,7 +640,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103094",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -723,7 +709,7 @@
       "first_date": "2026-06-30",
       "last_date": "2026-06-30",
       "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
+      "participation_max": 13,
       "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102781",
       "canton": "BE",
@@ -2026,7 +2012,7 @@
       "last_date": "2026-07-24",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100943",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -4798,7 +4784,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103080",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -4896,7 +4882,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -12309,5 +12295,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-28T17:24:04+0000"
+  "geocoded_at": "2026-06-28T18:19:42+0000"
 }
