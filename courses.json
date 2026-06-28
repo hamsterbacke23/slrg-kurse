@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28T06:27:33+0000",
-  "count": 888,
+  "scraped_at": "2026-06-28T08:05:33+0000",
+  "count": 885,
   "courses": [
     {
       "key": "98223",
@@ -297,34 +297,6 @@
       "lng": 8.953682899475098
     },
     {
-      "key": "102602",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-06-17",
-      "last_date": "2026-06-24",
-      "company": "SLRG Sarganserland",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102602",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102603",
-      "category": "WK See",
-      "city": "Walenstadt",
-      "first_date": "2026-06-17",
-      "last_date": "2026-06-24",
-      "company": "SLRG Sarganserland",
-      "participation_max": 9,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102603",
-      "canton": "SG",
-      "lat": 47.12102508544922,
-      "lng": 9.347698211669922
-    },
-    {
       "key": "100939",
       "category": "Brevet Plus Pool",
       "city": "Paradiso",
@@ -421,20 +393,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101498",
-      "category": "WK Fluss",
-      "city": "Flurlingen",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 11,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101498",
-      "canton": "ZH",
-      "lat": 47.68342590332031,
-      "lng": 8.635716438293457
     },
     {
       "key": "101881",
@@ -724,7 +682,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102925",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -766,7 +724,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103094",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -1158,7 +1116,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Gambarogno",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101174",
       "canton": "TI",
       "lat": 46.135459899902344,
@@ -1172,7 +1130,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Gambarogno",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101175",
       "canton": "TI",
       "lat": 46.151206970214844,
@@ -1424,7 +1382,7 @@
       "last_date": "2026-07-14",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100890",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -1872,7 +1830,7 @@
       "last_date": "2026-07-16",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101757",
       "canton": "LU",
       "lat": 47.191654205322266,
@@ -12435,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-28T06:27:33+0000"
+  "geocoded_at": "2026-06-28T08:05:33+0000"
 }
