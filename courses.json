@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28T18:19:42+0000",
-  "count": 878,
+  "scraped_at": "2026-06-28T19:28:04+0000",
+  "count": 876,
   "courses": [
     {
       "key": "98223",
@@ -199,20 +199,6 @@
       "lng": null
     },
     {
-      "key": "102826",
-      "category": "Modul BLS-AED",
-      "city": "Bärau",
-      "first_date": "2026-05-30",
-      "last_date": "2026-06-24",
-      "company": "SLRG Emmental",
-      "participation_max": 18,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102826",
-      "canton": "BE",
-      "lat": 46.931427001953125,
-      "lng": 7.8112897872924805
-    },
-    {
       "key": "102207",
       "category": "Modul BLS-AED",
       "city": "Weiningen ZH",
@@ -393,20 +379,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101929",
-      "category": "Brevet Basis Pool",
-      "city": "Muri AG",
-      "first_date": "2026-06-27",
-      "last_date": "2026-06-27",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 24,
-      "registered": 22,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101929",
-      "canton": "AG",
-      "lat": 47.271732330322266,
-      "lng": 8.338957786560059
     },
     {
       "key": "102108",
@@ -1214,7 +1186,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102666",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1466,7 +1438,7 @@
       "last_date": "2026-07-08",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101115",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -12295,5 +12267,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-28T18:19:42+0000"
+  "geocoded_at": "2026-06-28T19:28:04+0000"
 }
