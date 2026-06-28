@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T10:49:07+0000",
+  "scraped_at": "2026-06-28T11:31:07+0000",
   "count": 884,
   "courses": [
     {
@@ -710,7 +710,7 @@
       "last_date": "2026-06-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103094",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -4868,7 +4868,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103080",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -12379,5 +12379,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-28T10:49:07+0000"
+  "geocoded_at": "2026-06-28T11:31:07+0000"
 }
