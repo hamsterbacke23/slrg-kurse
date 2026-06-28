@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T14:30:55+0000",
+  "scraped_at": "2026-06-28T15:25:10+0000",
   "count": 882,
   "courses": [
     {
@@ -3944,7 +3944,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102636",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -5694,7 +5694,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102864",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -6086,7 +6086,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -6436,7 +6436,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100116",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -12351,5 +12351,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-28T14:30:55+0000"
+  "geocoded_at": "2026-06-28T15:25:10+0000"
 }
