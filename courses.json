@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28T04:38:12+0000",
-  "count": 889,
+  "scraped_at": "2026-06-28T06:27:33+0000",
+  "count": 888,
   "courses": [
     {
       "key": "98223",
@@ -633,20 +633,6 @@
       "lng": null
     },
     {
-      "key": "103040",
-      "category": "Brevet Basis Pool",
-      "city": "Murten",
-      "first_date": "2026-06-28",
-      "last_date": "2026-06-28",
-      "company": "Société de sauvetage du Vully ",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103040",
-      "canton": "FR",
-      "lat": 46.94218063354492,
-      "lng": 7.174732685089111
-    },
-    {
       "key": "98407",
       "category": "WK See",
       "city": "Richterswil",
@@ -1172,7 +1158,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Gambarogno",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101174",
       "canton": "TI",
       "lat": 46.135459899902344,
@@ -12449,5 +12435,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-28T04:38:12+0000"
+  "geocoded_at": "2026-06-28T06:27:33+0000"
 }
