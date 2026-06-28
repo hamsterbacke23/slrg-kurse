@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-28T08:05:33+0000",
+  "scraped_at": "2026-06-28T09:58:20+0000",
   "count": 885,
   "courses": [
     {
@@ -1578,7 +1578,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101116",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -2908,7 +2908,7 @@
       "last_date": "2026-08-11",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99435",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3104,7 +3104,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -8060,7 +8060,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100866",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-28T08:05:33+0000"
+  "geocoded_at": "2026-06-28T09:58:20+0000"
 }
