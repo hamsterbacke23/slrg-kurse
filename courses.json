@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-29T19:31:14+0000",
-  "count": 862,
+  "scraped_at": "2026-06-29T20:32:59+0000",
+  "count": 861,
   "courses": [
     {
       "key": "98223",
@@ -320,20 +320,6 @@
       "participation_max": 4,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102540",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100894",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-06-24",
-      "last_date": "2026-06-28",
-      "company": "SLRG Sektion Bern",
-      "participation_max": 16,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100894",
       "canton": null,
       "lat": null,
       "lng": null
@@ -3384,7 +3370,7 @@
       "last_date": "2026-08-20",
       "company": "SLRG Zug",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99839",
       "canton": null,
       "lat": null,
@@ -3594,7 +3580,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Bülach",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101424",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -5736,7 +5722,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Züri",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101765",
       "canton": null,
       "lat": null,
@@ -12071,5 +12057,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-29T19:31:14+0000"
+  "geocoded_at": "2026-06-29T20:32:59+0000"
 }
