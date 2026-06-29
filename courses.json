@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-29T20:32:59+0000",
+  "scraped_at": "2026-06-29T21:28:18+0000",
   "count": 861,
   "courses": [
     {
@@ -1284,7 +1284,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101117",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -3370,7 +3370,7 @@
       "last_date": "2026-08-20",
       "company": "SLRG Zug",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99839",
       "canton": null,
       "lat": null,
@@ -3384,7 +3384,7 @@
       "last_date": "2026-08-20",
       "company": "SLRG Zug",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99841",
       "canton": null,
       "lat": null,
@@ -12057,5 +12057,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-29T20:32:59+0000"
+  "geocoded_at": "2026-06-29T21:28:19+0000"
 }
