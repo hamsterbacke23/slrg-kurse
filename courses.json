@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-29T18:35:14+0000",
-  "count": 863,
+  "scraped_at": "2026-06-29T19:31:14+0000",
+  "count": 862,
   "courses": [
     {
       "key": "98223",
@@ -353,20 +353,6 @@
       "lng": 9.531137466430664
     },
     {
-      "key": "101930",
-      "category": "Brevet Plus Pool",
-      "city": "Muri AG",
-      "first_date": "2026-06-28",
-      "last_date": "2026-06-28",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 24,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101930",
-      "canton": "AG",
-      "lat": 47.271732330322266,
-      "lng": 8.338957786560059
-    },
-    {
       "key": "102530",
       "category": "Brevet Basis Pool",
       "city": "Eschen",
@@ -528,7 +514,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102497",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -1046,7 +1032,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
       "participation_max": 28,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -1339,7 +1325,7 @@
       "first_date": "2026-07-11",
       "last_date": "2026-07-11",
       "company": "SLRG Rüti",
-      "participation_max": 12,
+      "participation_max": 14,
       "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101194",
       "canton": "ZH",
@@ -2110,7 +2096,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102798",
       "canton": null,
       "lat": null,
@@ -5750,7 +5736,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Züri",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101765",
       "canton": null,
       "lat": null,
@@ -6590,7 +6576,7 @@
       "last_date": "2026-09-23",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102297",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -9600,7 +9586,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Altberg",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102213",
       "canton": "ZH",
       "lat": 47.42002487182617,
@@ -12085,5 +12071,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-29T18:35:14+0000"
+  "geocoded_at": "2026-06-29T19:31:14+0000"
 }
