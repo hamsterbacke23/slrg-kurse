@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-29T04:39:43+0000",
-  "count": 870,
+  "scraped_at": "2026-06-29T06:30:52+0000",
+  "count": 869,
   "courses": [
     {
       "key": "98223",
@@ -395,20 +395,6 @@
       "lng": 9.531137466430664
     },
     {
-      "key": "103040",
-      "category": "Brevet Basis Pool",
-      "city": "Murten",
-      "first_date": "2026-06-28",
-      "last_date": "2026-06-28",
-      "company": "Société de sauvetage du Vully ",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103040",
-      "canton": "FR",
-      "lat": 46.94218063354492,
-      "lng": 7.174732685089111
-    },
-    {
       "key": "98407",
       "category": "WK See",
       "city": "Richterswil",
@@ -612,7 +598,7 @@
       "last_date": "2026-06-30",
       "company": "SSS Lugano",
       "participation_max": 5,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103091",
       "canton": null,
       "lat": null,
@@ -1143,8 +1129,8 @@
       "first_date": "2026-07-05",
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
-      "participation_max": 16,
-      "registered": 16,
+      "participation_max": 28,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -4042,7 +4028,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100885",
       "canton": null,
       "lat": null,
@@ -5274,7 +5260,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Oberwallis",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103055",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -11742,7 +11728,7 @@
       "last_date": "2027-02-02",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102699",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -12183,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-29T04:39:43+0000"
+  "geocoded_at": "2026-06-29T06:30:52+0000"
 }
