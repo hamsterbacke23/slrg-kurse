@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-29T21:28:18+0000",
-  "count": 861,
+  "scraped_at": "2026-06-29T22:21:09+0000",
+  "count": 860,
   "courses": [
     {
       "key": "98223",
@@ -351,20 +351,6 @@
       "canton": "AR",
       "lat": 47.40953826904297,
       "lng": 9.531137466430664
-    },
-    {
-      "key": "98407",
-      "category": "WK See",
-      "city": "Richterswil",
-      "first_date": "2026-06-29",
-      "last_date": "2026-06-29",
-      "company": "SLRG Richterswil",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98407",
-      "canton": "ZH",
-      "lat": 47.20124435424805,
-      "lng": 8.686915397644043
     },
     {
       "key": "99284",
@@ -12057,5 +12043,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-29T21:28:19+0000"
+  "geocoded_at": "2026-06-29T22:21:09+0000"
 }
