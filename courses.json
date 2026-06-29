@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-29T08:35:45+0000",
-  "count": 866,
+  "scraped_at": "2026-06-29T10:30:15+0000",
+  "count": 865,
   "courses": [
     {
       "key": "98223",
@@ -528,7 +528,7 @@
       "last_date": "2026-06-30",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101716",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -766,7 +766,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 13,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101566",
       "canton": null,
       "lat": null,
@@ -939,20 +939,6 @@
       "canton": "ZH",
       "lat": 47.68342590332031,
       "lng": 8.635716438293457
-    },
-    {
-      "key": "101604",
-      "category": "Modul See",
-      "city": "Stansstad",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SLRG Nidwalden",
-      "participation_max": 14,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101604",
-      "canton": "NW",
-      "lat": 46.99097442626953,
-      "lng": 8.362213134765625
     },
     {
       "key": "101715",
@@ -1578,7 +1564,7 @@
       "last_date": "2026-07-27",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102887",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2600,7 +2586,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -6310,7 +6296,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Thun-Oberland",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102262",
       "canton": "BE",
       "lat": 46.69535446166992,
@@ -7920,7 +7906,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103075",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -8116,7 +8102,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -8424,7 +8410,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101668",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12127,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-29T08:35:45+0000"
+  "geocoded_at": "2026-06-29T10:30:15+0000"
 }
