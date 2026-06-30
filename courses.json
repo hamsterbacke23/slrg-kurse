@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-30T10:10:45+0000",
+  "scraped_at": "2026-06-30T11:50:52+0000",
   "count": 867,
   "courses": [
     {
@@ -598,7 +598,7 @@
       "last_date": "2026-07-02",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98750",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -1116,7 +1116,7 @@
       "last_date": "2026-07-09",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 30,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102059",
       "canton": "BE",
       "lat": 47.212921142578125,
@@ -3706,7 +3706,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102839",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4112,7 +4112,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -6044,7 +6044,7 @@
       "last_date": "2026-09-17",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100865",
       "canton": null,
       "lat": null,
@@ -6604,7 +6604,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -7038,7 +7038,7 @@
       "last_date": "2026-09-30",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103018",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -9670,7 +9670,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102538",
       "canton": null,
       "lat": null,
@@ -10216,7 +10216,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Lyss",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101992",
       "canton": null,
       "lat": null,
@@ -10398,7 +10398,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100142",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-30T10:10:45+0000"
+  "geocoded_at": "2026-06-30T11:50:52+0000"
 }
