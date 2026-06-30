@@ -1256,6 +1256,12 @@
     "lat": 46.695247650146484,
     "lng": 7.84113883972168
   },
+  "Unterterzen": {
+    "canton": "SG",
+    "label": "Ort Unterterzen (SG) - Quarten",
+    "lat": 47.11335372924805,
+    "lng": 9.252167701721191
+  },
   "Urdorf": {
     "canton": "ZH",
     "label": "Urdorf (ZH)",

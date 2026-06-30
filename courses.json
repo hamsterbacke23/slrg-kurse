@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30T04:32:27+0000",
-  "count": 860,
+  "scraped_at": "2026-06-30T06:23:21+0000",
+  "count": 868,
   "courses": [
     {
       "key": "98223",
@@ -451,6 +451,20 @@
       "lng": 8.851685523986816
     },
     {
+      "key": "103113",
+      "category": "Jugendbrevet",
+      "city": "Les Acacias",
+      "first_date": "2026-06-29",
+      "last_date": "2026-07-03",
+      "company": "SSS Genève",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103113",
+      "canton": "NE",
+      "lat": 47.0006217956543,
+      "lng": 6.92034387588501
+    },
+    {
       "key": "100150",
       "category": "Modul Fluss",
       "city": "Heerbrugg",
@@ -458,7 +472,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100150",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -477,20 +491,6 @@
       "canton": "ZH",
       "lat": 47.25200271606445,
       "lng": 8.768488883972168
-    },
-    {
-      "key": "102497",
-      "category": "Modul BLS-AED",
-      "city": "Spiez",
-      "first_date": "2026-06-30",
-      "last_date": "2026-06-30",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102497",
-      "canton": "BE",
-      "lat": 46.691070556640625,
-      "lng": 7.6608123779296875
     },
     {
       "key": "102781",
@@ -640,7 +640,7 @@
       "last_date": "2026-07-02",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98758",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -780,7 +780,7 @@
       "last_date": "2026-07-04",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100769",
       "canton": "BE",
       "lat": 47.22467041015625,
@@ -1165,6 +1165,20 @@
       "lng": 7.987195014953613
     },
     {
+      "key": "103114",
+      "category": "Jugendbrevet",
+      "city": "Les Acacias",
+      "first_date": "2026-07-06",
+      "last_date": "2026-07-10",
+      "company": "SSS Genève",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103114",
+      "canton": "NE",
+      "lat": 47.0006217956543,
+      "lng": 6.92034387588501
+    },
+    {
       "key": "100776",
       "category": "WK BLS-AED",
       "city": "Aarau",
@@ -1361,20 +1375,6 @@
       "lng": 9.359646797180176
     },
     {
-      "key": "102823",
-      "category": "Modul See",
-      "city": "Piazzogna, via Cantonale 2",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SSS Gambarogno",
-      "participation_max": 10,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102823",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102883",
       "category": "WK BLS-AED",
       "city": "Sion",
@@ -1457,6 +1457,20 @@
       "canton": "VD",
       "lat": 46.44438552856445,
       "lng": 6.891254425048828
+    },
+    {
+      "key": "103118",
+      "category": "Modul BLS-AED",
+      "city": "Freiburg",
+      "first_date": "2026-07-11",
+      "last_date": "2026-07-11",
+      "company": "SLRG Deutschfreiburg",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103118",
+      "canton": "FR",
+      "lat": 46.80337142944336,
+      "lng": 7.161778926849365
     },
     {
       "key": "101046",
@@ -1569,6 +1583,20 @@
       "canton": "FR",
       "lat": 46.96506118774414,
       "lng": 7.117027282714844
+    },
+    {
+      "key": "103117",
+      "category": "Modul See",
+      "city": "Freiburg",
+      "first_date": "2026-07-16",
+      "last_date": "2026-07-19",
+      "company": "SLRG Deutschfreiburg",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103117",
+      "canton": "FR",
+      "lat": 46.80337142944336,
+      "lng": 7.161778926849365
     },
     {
       "key": "102973",
@@ -2423,6 +2451,20 @@
       "canton": "SG",
       "lat": 47.411685943603516,
       "lng": 9.626534461975098
+    },
+    {
+      "key": "103102",
+      "category": "Modul See",
+      "city": "Unterterzen",
+      "first_date": "2026-08-08",
+      "last_date": "2026-08-08",
+      "company": "SLRG Sarganserland",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103102",
+      "canton": "SG",
+      "lat": 47.11335372924805,
+      "lng": 9.252167701721191
     },
     {
       "key": "100848",
@@ -3314,7 +3356,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Sektion Olten",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102537",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -3333,6 +3375,20 @@
       "canton": "NE",
       "lat": 47.06060028076172,
       "lng": 6.902266502380371
+    },
+    {
+      "key": "103122",
+      "category": "WK See",
+      "city": "Sarnen",
+      "first_date": "2026-08-19",
+      "last_date": "2026-08-19",
+      "company": "SLRG Obwalden",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
+      "canton": "OW",
+      "lat": 46.89374923706055,
+      "lng": 8.186779022216797
     },
     {
       "key": "99559",
@@ -3725,6 +3781,20 @@
       "canton": "VD",
       "lat": 46.65501022338867,
       "lng": 6.508055686950684
+    },
+    {
+      "key": "103115",
+      "category": "WK See",
+      "city": "Thun",
+      "first_date": "2026-08-22",
+      "last_date": "2026-08-22",
+      "company": "SLRG Büren a. A.",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103115",
+      "canton": "BE",
+      "lat": 46.74045944213867,
+      "lng": 7.60764217376709
     },
     {
       "key": "99883",
@@ -4133,6 +4203,20 @@
       "lng": 8.338957786560059
     },
     {
+      "key": "103112",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-08-28",
+      "last_date": "2026-08-28",
+      "company": "SLRG Muri-Gümligen",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103112",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99316",
       "category": "WK Pool Plus",
       "city": "Bellinzona",
@@ -4252,7 +4336,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100659",
       "canton": null,
       "lat": null,
@@ -4266,7 +4350,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100660",
       "canton": null,
       "lat": null,
@@ -4280,7 +4364,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100662",
       "canton": null,
       "lat": null,
@@ -4539,6 +4623,20 @@
       "lng": 7.569691181182861
     },
     {
+      "key": "103123",
+      "category": "WK See",
+      "city": "Sarnen",
+      "first_date": "2026-08-29",
+      "last_date": "2026-08-29",
+      "company": "SLRG Obwalden",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103123",
+      "canton": "OW",
+      "lat": 46.89374923706055,
+      "lng": 8.186779022216797
+    },
+    {
       "key": "99715",
       "category": "WK Fluss",
       "city": "",
@@ -4728,7 +4826,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103066",
       "canton": null,
       "lat": null,
@@ -4784,7 +4882,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Zug",
       "participation_max": 5,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103067",
       "canton": null,
       "lat": null,
@@ -5806,7 +5904,7 @@
       "last_date": "2026-09-13",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100847",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -6632,7 +6730,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 26,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100433",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -6646,7 +6744,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100434",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -6660,7 +6758,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100435",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -6674,7 +6772,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100436",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -6884,7 +6982,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100438",
       "canton": null,
       "lat": null,
@@ -8443,6 +8541,20 @@
       "canton": "NE",
       "lat": 47.020973205566406,
       "lng": 6.9480791091918945
+    },
+    {
+      "key": "103124",
+      "category": "Brevet Basis Pool",
+      "city": "Winterthur",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Winterthur",
+      "participation_max": 22,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
+      "canton": "ZH",
+      "lat": 47.49905014038086,
+      "lng": 8.720227241516113
     },
     {
       "key": "101049",
@@ -12043,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-30T04:32:27+0000"
+  "geocoded_at": "2026-06-30T06:23:22+0000"
 }
