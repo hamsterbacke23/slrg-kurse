@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30T20:33:52+0000",
-  "count": 858,
+  "scraped_at": "2026-06-30T21:28:41+0000",
+  "count": 857,
   "courses": [
     {
       "key": "98223",
@@ -325,20 +325,6 @@
       "lng": 8.527311325073242
     },
     {
-      "key": "103094",
-      "category": "WK See",
-      "city": "Tenero",
-      "first_date": "2026-06-29",
-      "last_date": "2026-06-29",
-      "company": "SLRG Emmental",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103094",
-      "canton": "TI",
-      "lat": 46.17926788330078,
-      "lng": 8.851685523986816
-    },
-    {
       "key": "103113",
       "category": "Jugendbrevet",
       "city": "Les Acacias",
@@ -626,7 +612,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Gambarogno",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101174",
       "canton": "TI",
       "lat": 46.135459899902344,
@@ -836,7 +822,7 @@
       "last_date": "2026-07-05",
       "company": "SLRG Bauma",
       "participation_max": 28,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -2166,7 +2152,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99394",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12015,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-30T20:33:52+0000"
+  "geocoded_at": "2026-06-30T21:28:41+0000"
 }
