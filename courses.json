@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30T08:09:23+0000",
-  "count": 869,
+  "scraped_at": "2026-06-30T10:10:45+0000",
+  "count": 867,
   "courses": [
     {
       "key": "98223",
@@ -339,20 +339,6 @@
       "lng": 9.531137466430664
     },
     {
-      "key": "102530",
-      "category": "Brevet Basis Pool",
-      "city": "Eschen",
-      "first_date": "2026-06-28",
-      "last_date": "2026-06-28",
-      "company": "SLRG Sarganserland",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102530",
-      "canton": "AR",
-      "lat": 47.40953826904297,
-      "lng": 9.531137466430664
-    },
-    {
       "key": "99284",
       "category": "Modul See",
       "city": "Küsnacht ZH",
@@ -491,20 +477,6 @@
       "canton": "ZH",
       "lat": 47.25200271606445,
       "lng": 8.768488883972168
-    },
-    {
-      "key": "102781",
-      "category": "Brevet Basis Pool",
-      "city": "Thun",
-      "first_date": "2026-06-30",
-      "last_date": "2026-06-30",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 13,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102781",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
     },
     {
       "key": "103091",
@@ -766,7 +738,7 @@
       "last_date": "2026-07-04",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100698",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -1326,7 +1298,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Lachen",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101350",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -2390,7 +2362,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100818",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -2460,7 +2432,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103102",
       "canton": "SG",
       "lat": 47.11335372924805,
@@ -2656,7 +2628,7 @@
       "last_date": "2026-08-12",
       "company": "SLRG Appenzell",
       "participation_max": 25,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100634",
       "canton": null,
       "lat": null,
@@ -3888,7 +3860,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100855",
       "canton": null,
       "lat": null,
@@ -5050,7 +5022,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100377",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -8354,7 +8326,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12169,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-30T08:09:23+0000"
+  "geocoded_at": "2026-06-30T10:10:45+0000"
 }
