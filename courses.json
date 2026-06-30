@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30T11:50:52+0000",
-  "count": 867,
+  "scraped_at": "2026-06-30T12:33:36+0000",
+  "count": 864,
   "courses": [
     {
       "key": "98223",
@@ -197,34 +197,6 @@
       "canton": "ZH",
       "lat": 47.41958999633789,
       "lng": 8.434049606323242
-    },
-    {
-      "key": "100661",
-      "category": "WK Expert See",
-      "city": "",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-14",
-      "company": "SLRG Region Nordwest",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100661",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100663",
-      "category": "WK Expert Fluss",
-      "city": "",
-      "first_date": "2026-06-13",
-      "last_date": "2026-06-14",
-      "company": "SLRG Region Nordwest",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100663",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102209",
@@ -479,20 +451,6 @@
       "lng": 8.768488883972168
     },
     {
-      "key": "103091",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-06-30",
-      "last_date": "2026-06-30",
-      "company": "SSS Lugano",
-      "participation_max": 5,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103091",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100895",
       "category": "Modul Fluss",
       "city": "",
@@ -654,7 +612,7 @@
       "last_date": "2026-07-02",
       "company": "SLRG Winterthur",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102608",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -2824,7 +2782,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Arbon",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101331",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -3118,7 +3076,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102966",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -10636,7 +10594,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG Emmental",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102979",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -12120,7 +12078,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 62,
+      "registered": 63,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -12134,12 +12092,12 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98493",
       "canton": null,
       "lat": null,
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-30T11:50:52+0000"
+  "geocoded_at": "2026-06-30T12:33:36+0000"
 }
