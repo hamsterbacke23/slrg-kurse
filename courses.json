@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-30T13:31:41+0000",
-  "count": 865,
+  "scraped_at": "2026-06-30T14:47:15+0000",
+  "count": 864,
   "courses": [
     {
       "key": "98223",
@@ -309,20 +309,6 @@
       "canton": "AR",
       "lat": 47.40953826904297,
       "lng": 9.531137466430664
-    },
-    {
-      "key": "99284",
-      "category": "Modul See",
-      "city": "Küsnacht ZH",
-      "first_date": "2026-06-29",
-      "last_date": "2026-06-29",
-      "company": "SLRG Emmental",
-      "participation_max": 20,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99284",
-      "canton": "ZH",
-      "lat": 47.32124328613281,
-      "lng": 8.616456031799316
     },
     {
       "key": "100893",
@@ -4084,7 +4070,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -4504,7 +4490,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102609",
       "canton": "ZH",
       "lat": 47.366180419921875,
@@ -4518,7 +4504,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102874",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -4532,7 +4518,7 @@
       "last_date": "2026-08-29",
       "company": "Salvataggio Sub Minusio",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102946",
       "canton": null,
       "lat": null,
@@ -6338,7 +6324,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102475",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -8508,7 +8494,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -12113,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-06-30T13:31:41+0000"
+  "geocoded_at": "2026-06-30T14:47:15+0000"
 }
