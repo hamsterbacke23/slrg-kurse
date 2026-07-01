@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T11:59:41+0000",
+  "scraped_at": "2026-07-01T13:10:03+0000",
   "count": 850,
   "courses": [
     {
@@ -276,7 +276,7 @@
       "last_date": "2026-07-03",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103113",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -892,7 +892,7 @@
       "last_date": "2026-07-07",
       "company": "SLRG Frauenfeld",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103062",
       "canton": null,
       "lat": null,
@@ -1326,7 +1326,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101902",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -2054,7 +2054,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99430",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2264,7 +2264,7 @@
       "last_date": "2026-08-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100945",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -2698,7 +2698,7 @@
       "last_date": "2026-08-16",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100689",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -2950,7 +2950,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102423",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -2964,7 +2964,7 @@
       "last_date": "2026-09-08",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102756",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -3510,7 +3510,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -5162,7 +5162,7 @@
       "last_date": "2026-09-08",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101514",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -11903,5 +11903,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-01T11:59:41+0000"
+  "geocoded_at": "2026-07-01T13:10:03+0000"
 }
