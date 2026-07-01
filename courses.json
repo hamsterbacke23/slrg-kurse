@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T15:50:30+0000",
+  "scraped_at": "2026-07-01T16:44:40+0000",
   "count": 850,
   "courses": [
     {
@@ -234,7 +234,7 @@
       "last_date": "2026-07-03",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103113",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -3342,7 +3342,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102636",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -3510,7 +3510,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102637",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -11903,5 +11903,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-01T15:50:30+0000"
+  "geocoded_at": "2026-07-01T16:44:40+0000"
 }
