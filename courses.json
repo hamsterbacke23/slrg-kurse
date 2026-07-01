@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T20:31:07+0000",
+  "scraped_at": "2026-07-01T21:28:41+0000",
   "count": 847,
   "courses": [
     {
@@ -1704,7 +1704,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102798",
       "canton": null,
       "lat": null,
@@ -3426,7 +3426,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 26,
+      "registered": 27,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -5834,7 +5834,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99851",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5848,7 +5848,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99852",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5862,7 +5862,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99853",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11861,5 +11861,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-01T20:31:07+0000"
+  "geocoded_at": "2026-07-01T21:28:41+0000"
 }
