@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T14:55:07+0000",
+  "scraped_at": "2026-07-01T15:50:30+0000",
   "count": 850,
   "courses": [
     {
@@ -1452,7 +1452,7 @@
       "last_date": "2026-07-24",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101905",
       "canton": null,
       "lat": null,
@@ -5960,7 +5960,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100366",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -6772,7 +6772,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99390",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -6786,7 +6786,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99396",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -6800,7 +6800,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99402",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7206,7 +7206,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99441",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -9782,7 +9782,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99432",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11903,5 +11903,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-01T14:55:07+0000"
+  "geocoded_at": "2026-07-01T15:50:30+0000"
 }
