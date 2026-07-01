@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-01T21:28:41+0000",
+  "scraped_at": "2026-07-01T22:25:00+0000",
   "count": 847,
   "courses": [
     {
@@ -3426,7 +3426,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 27,
+      "registered": 28,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -3440,7 +3440,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Grenchen",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100677",
       "canton": null,
       "lat": null,
@@ -11861,5 +11861,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-01T21:28:41+0000"
+  "geocoded_at": "2026-07-01T22:25:00+0000"
 }
