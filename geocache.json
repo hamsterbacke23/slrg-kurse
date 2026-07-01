@@ -246,6 +246,12 @@
     "lat": 46.44438552856445,
     "lng": 6.891254425048828
   },
+  "Cologny": {
+    "canton": "GE",
+    "label": "Cologny (GE)",
+    "lat": 46.22124099731445,
+    "lng": 6.176814556121826
+  },
   "Coppet": {
     "canton": "VD",
     "label": "Coppet (VD)",
