@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-01T16:44:40+0000",
-  "count": 850,
+  "scraped_at": "2026-07-01T17:34:01+0000",
+  "count": 849,
   "courses": [
     {
       "key": "98223",
@@ -85,20 +85,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102207",
-      "category": "Modul BLS-AED",
-      "city": "Weiningen ZH",
-      "first_date": "2026-06-05",
-      "last_date": "2026-06-05",
-      "company": "SLRG Altberg",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102207",
-      "canton": "ZH",
-      "lat": 47.41958999633789,
-      "lng": 8.434049606323242
     },
     {
       "key": "102209",
@@ -1046,7 +1032,7 @@
       "last_date": "2026-07-11",
       "company": "SSS Paradiso",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102899",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -11903,5 +11889,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-01T16:44:40+0000"
+  "geocoded_at": "2026-07-01T17:34:01+0000"
 }
