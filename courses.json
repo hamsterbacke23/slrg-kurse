@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T20:26:07+0000",
+  "scraped_at": "2026-07-02T21:22:53+0000",
   "count": 843,
   "courses": [
     {
@@ -584,7 +584,7 @@
       "last_date": "2026-07-14",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100890",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -639,8 +639,8 @@
       "first_date": "2026-07-06",
       "last_date": "2026-07-07",
       "company": "SSS Lugano",
-      "participation_max": 22,
-      "registered": 22,
+      "participation_max": 25,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101114",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -724,7 +724,7 @@
       "last_date": "2026-07-09",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101799",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -751,8 +751,8 @@
       "first_date": "2026-07-08",
       "last_date": "2026-07-08",
       "company": "SSS Lugano",
-      "participation_max": 15,
-      "registered": 15,
+      "participation_max": 20,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101115",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -766,7 +766,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101116",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -1004,7 +1004,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103118",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -1144,7 +1144,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103117",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -11805,5 +11805,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T20:26:07+0000"
+  "geocoded_at": "2026-07-02T21:22:53+0000"
 }
