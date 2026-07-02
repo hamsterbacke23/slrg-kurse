@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T17:31:46+0000",
-  "count": 845,
+  "scraped_at": "2026-07-02T18:28:09+0000",
+  "count": 844,
   "courses": [
     {
       "key": "98223",
@@ -281,20 +281,6 @@
       "canton": "LU",
       "lat": 47.07655334472656,
       "lng": 8.273947715759277
-    },
-    {
-      "key": "102608",
-      "category": "Brevet Basis Pool",
-      "city": "Winterthur",
-      "first_date": "2026-07-02",
-      "last_date": "2026-07-02",
-      "company": "SLRG Winterthur",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102608",
-      "canton": "ZH",
-      "lat": 47.49905014038086,
-      "lng": 8.720227241516113
     },
     {
       "key": "101566",
@@ -3272,7 +3258,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102636",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -3440,7 +3426,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102637",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -7570,7 +7556,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103075",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11833,5 +11819,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T17:31:46+0000"
+  "geocoded_at": "2026-07-02T18:28:09+0000"
 }
