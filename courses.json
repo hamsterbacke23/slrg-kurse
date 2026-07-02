@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T18:28:09+0000",
+  "scraped_at": "2026-07-02T19:28:19+0000",
   "count": 844,
   "courses": [
     {
@@ -4434,7 +4434,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103066",
       "canton": null,
       "lat": null,
@@ -11819,5 +11819,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T18:28:09+0000"
+  "geocoded_at": "2026-07-02T19:28:19+0000"
 }
