@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T21:22:53+0000",
-  "count": 843,
+  "scraped_at": "2026-07-02T22:20:09+0000",
+  "count": 842,
   "courses": [
     {
       "key": "98223",
@@ -250,20 +250,6 @@
       "participation_max": 16,
       "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100895",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100884",
-      "category": "WK Fluss",
-      "city": "",
-      "first_date": "2026-07-02",
-      "last_date": "2026-07-02",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100884",
       "canton": null,
       "lat": null,
       "lng": null
@@ -11805,5 +11791,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T21:22:53+0000"
+  "geocoded_at": "2026-07-02T22:20:09+0000"
 }
