@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T16:31:16+0000",
+  "scraped_at": "2026-07-02T17:31:46+0000",
   "count": 845,
   "courses": [
     {
@@ -1046,7 +1046,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103137",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -6660,7 +6660,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102298",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -7472,7 +7472,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Bielersee",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101814",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -11833,5 +11833,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T16:31:16+0000"
+  "geocoded_at": "2026-07-02T17:31:46+0000"
 }
