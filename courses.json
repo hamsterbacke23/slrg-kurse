@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T13:30:37+0000",
+  "scraped_at": "2026-07-02T14:42:21+0000",
   "count": 846,
   "courses": [
     {
@@ -794,7 +794,7 @@
       "last_date": "2026-07-08",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101115",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -2446,7 +2446,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Arbon",
       "participation_max": 20,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101331",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -5638,7 +5638,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102655",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -6086,7 +6086,7 @@
       "last_date": "2026-09-20",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100563",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -10384,7 +10384,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99551",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11847,5 +11847,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T13:30:37+0000"
+  "geocoded_at": "2026-07-02T14:42:21+0000"
 }
