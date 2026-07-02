@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T12:33:58+0000",
+  "scraped_at": "2026-07-02T13:30:37+0000",
   "count": 846,
   "courses": [
     {
@@ -416,7 +416,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101524",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -2656,7 +2656,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bielersee",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101541",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -2936,7 +2936,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Sektion Olten",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102350",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -5008,7 +5008,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101415",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -8578,7 +8578,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101422",
       "canton": "BE",
       "lat": 47.14190673828125,
@@ -11847,5 +11847,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T12:33:58+0000"
+  "geocoded_at": "2026-07-02T13:30:37+0000"
 }
