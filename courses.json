@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-02T15:43:00+0000",
-  "count": 846,
+  "scraped_at": "2026-07-02T16:31:16+0000",
+  "count": 845,
   "courses": [
     {
       "key": "98223",
@@ -250,20 +250,6 @@
       "participation_max": 16,
       "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100895",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102939",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-07-01",
-      "last_date": "2026-07-01",
-      "company": "SSS Romont",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102939",
       "canton": null,
       "lat": null,
       "lng": null
@@ -2488,7 +2474,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101719",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -4056,7 +4042,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 9,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101734",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -6254,7 +6240,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -8382,7 +8368,7 @@
       "last_date": "2026-11-03",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103036",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11847,5 +11833,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T15:43:00+0000"
+  "geocoded_at": "2026-07-02T16:31:16+0000"
 }
