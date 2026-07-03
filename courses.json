@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-02T23:21:48+0000",
+  "scraped_at": "2026-07-03T00:20:31+0000",
   "count": 842,
   "courses": [
     {
@@ -3356,7 +3356,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 30,
+      "registered": 31,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -11791,5 +11791,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-02T23:21:48+0000"
+  "geocoded_at": "2026-07-03T00:20:31+0000"
 }
