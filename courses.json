@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-03T12:32:27+0000",
-  "count": 847,
+  "scraped_at": "2026-07-03T13:30:59+0000",
+  "count": 846,
   "courses": [
     {
       "key": "98223",
@@ -2852,7 +2852,7 @@
       "last_date": "2026-09-08",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102756",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -3272,7 +3272,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102636",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -3300,7 +3300,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102838",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3389,20 +3389,6 @@
       "canton": "VD",
       "lat": 46.65501022338867,
       "lng": 6.508055686950684
-    },
-    {
-      "key": "100560",
-      "category": "Brevet Basis Pool",
-      "city": "Grand-Lancy",
-      "first_date": "2026-08-23",
-      "last_date": "2026-08-23",
-      "company": "SSS La Côte",
-      "participation_max": 36,
-      "registered": 33,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
-      "canton": "GE",
-      "lat": 46.18354034423828,
-      "lng": 6.120214939117432
     },
     {
       "key": "100677",
@@ -5526,7 +5512,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -6086,7 +6072,7 @@
       "last_date": "2026-09-20",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100563",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -11861,5 +11847,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-03T12:32:27+0000"
+  "geocoded_at": "2026-07-03T13:30:59+0000"
 }
