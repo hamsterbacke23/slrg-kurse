@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-03T10:50:37+0000",
+  "scraped_at": "2026-07-03T11:44:28+0000",
   "count": 847,
   "courses": [
     {
@@ -220,7 +220,7 @@
       "last_date": "2026-07-03",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103113",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -2124,7 +2124,7 @@
       "last_date": "2026-08-09",
       "company": "SLRG Arbon",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103173",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -3398,7 +3398,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 31,
+      "registered": 33,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -3664,7 +3664,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102061",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -6086,7 +6086,7 @@
       "last_date": "2026-09-20",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100563",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -10720,7 +10720,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Wald",
       "participation_max": 18,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101625",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -11861,5 +11861,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-03T10:50:37+0000"
+  "geocoded_at": "2026-07-03T11:44:29+0000"
 }
