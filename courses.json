@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-03T11:44:28+0000",
+  "scraped_at": "2026-07-03T12:32:27+0000",
   "count": 847,
   "courses": [
     {
@@ -1242,7 +1242,7 @@
       "last_date": "2026-07-21",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100941",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1550,7 +1550,7 @@
       "last_date": "2026-07-31",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101904",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -11861,5 +11861,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-03T11:44:29+0000"
+  "geocoded_at": "2026-07-03T12:32:27+0000"
 }
