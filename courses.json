@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-03T19:28:10+0000",
+  "scraped_at": "2026-07-03T20:22:45+0000",
   "count": 846,
   "courses": [
     {
@@ -3776,7 +3776,7 @@
       "last_date": "2026-08-27",
       "company": "Société de sauvetage du Vully ",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103021",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -11847,5 +11847,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-03T19:28:11+0000"
+  "geocoded_at": "2026-07-03T20:22:45+0000"
 }
