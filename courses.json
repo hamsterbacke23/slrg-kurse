@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-03T17:28:18+0000",
+  "scraped_at": "2026-07-03T18:23:58+0000",
   "count": 846,
   "courses": [
     {
@@ -1816,7 +1816,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103059",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -2768,7 +2768,7 @@
       "last_date": "2026-08-26",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102862",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -11847,5 +11847,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-03T17:28:19+0000"
+  "geocoded_at": "2026-07-03T18:23:58+0000"
 }
