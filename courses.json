@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-03T04:22:28+0000",
-  "count": 842,
+  "scraped_at": "2026-07-03T06:10:24+0000",
+  "count": 846,
   "courses": [
     {
       "key": "98223",
@@ -626,7 +626,7 @@
       "last_date": "2026-07-07",
       "company": "SSS Lugano",
       "participation_max": 25,
-      "registered": 24,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101114",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -738,7 +738,7 @@
       "last_date": "2026-07-08",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101115",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -785,6 +785,20 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
+    },
+    {
+      "key": "103138",
+      "category": "Brevet Basis Pool",
+      "city": "Belp",
+      "first_date": "2026-07-09",
+      "last_date": "2026-07-09",
+      "company": "SLRG Muri-Gümligen",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103138",
+      "canton": "BE",
+      "lat": 46.888587951660156,
+      "lng": 7.510859966278076
     },
     {
       "key": "101117",
@@ -2089,6 +2103,20 @@
       "lng": null
     },
     {
+      "key": "103173",
+      "category": "Modul See",
+      "city": "Arbon",
+      "first_date": "2026-08-09",
+      "last_date": "2026-08-09",
+      "company": "SLRG Arbon",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103173",
+      "canton": "TG",
+      "lat": 47.51548385620117,
+      "lng": 9.425399780273438
+    },
+    {
       "key": "99709",
       "category": "Brevet Basis Pool",
       "city": "Oberwil BL",
@@ -2880,7 +2908,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Sektion Olten",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102350",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -3174,7 +3202,7 @@
       "last_date": "2026-08-29",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101782",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -3543,6 +3571,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103152",
+      "category": "Brevet Plus Pool",
+      "city": "St. Gallen",
+      "first_date": "2026-08-25",
+      "last_date": "2026-08-25",
+      "company": "SLRG Toggenburg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103152",
+      "canton": "SG",
+      "lat": 47.423583984375,
+      "lng": 9.388508796691895
     },
     {
       "key": "99711",
@@ -4182,7 +4224,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103070",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -6553,6 +6595,20 @@
       "canton": "ZH",
       "lat": 47.259639739990234,
       "lng": 8.697005271911621
+    },
+    {
+      "key": "103140",
+      "category": "Modul See",
+      "city": "Bichelsee-Balterswil",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "SLRG Winterthur",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103140",
+      "canton": "TG",
+      "lat": 47.452247619628906,
+      "lng": 8.926308631896973
     },
     {
       "key": "100437",
@@ -11791,5 +11847,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-03T04:22:28+0000"
+  "geocoded_at": "2026-07-03T06:10:29+0000"
 }

@@ -114,6 +114,12 @@
     "lat": 46.21047592163086,
     "lng": 8.988633155822754
   },
+  "Belp": {
+    "canton": "BE",
+    "label": "Belp (BE)",
+    "lat": 46.888587951660156,
+    "lng": 7.510859966278076
+  },
   "Bern": {
     "canton": "BE",
     "label": "Bern (BE)",
@@ -1177,6 +1183,12 @@
     "label": "Ort St-Légier-La Chiésaz (VD) - Blonay - Saint-Légier",
     "lat": 46.47169876098633,
     "lng": 6.87440824508667
+  },
+  "St. Gallen": {
+    "canton": "SG",
+    "label": "St. Gallen (SG)",
+    "lat": 47.423583984375,
+    "lng": 9.388508796691895
   },
   "Stans": {
     "canton": "NW",
