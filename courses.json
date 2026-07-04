@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-04T13:28:21+0000",
+  "scraped_at": "2026-07-04T14:28:44+0000",
   "count": 843,
   "courses": [
     {
@@ -542,7 +542,7 @@
       "last_date": "2026-07-07",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100975",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -9796,7 +9796,7 @@
       "last_date": "2026-11-14",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101245",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -11805,5 +11805,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T13:28:21+0000"
+  "geocoded_at": "2026-07-04T14:28:44+0000"
 }
