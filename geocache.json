@@ -968,6 +968,12 @@
     "lat": 46.16372299194336,
     "lng": 6.119792938232422
   },
+  "Pontresina": {
+    "canton": "GR",
+    "label": "Pontresina (GR)",
+    "lat": 46.437503814697266,
+    "lng": 9.972612380981445
+  },
   "Porrentruy": {
     "canton": "JU",
     "label": "Porrentruy (JU)",
