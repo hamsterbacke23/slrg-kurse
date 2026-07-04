@@ -1,21 +1,7 @@
 {
-  "scraped_at": "2026-07-04T04:19:17+0000",
-  "count": 846,
+  "scraped_at": "2026-07-04T06:02:11+0000",
+  "count": 845,
   "courses": [
-    {
-      "key": "98223",
-      "category": "Jugendbrevet",
-      "city": "Coppet",
-      "first_date": "2025-09-01",
-      "last_date": "2027-06-22",
-      "company": "SSS La Côte",
-      "participation_max": 10,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98223",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
-    },
     {
       "key": "100592",
       "category": "Jugendbrevet",
@@ -11847,5 +11833,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T04:19:17+0000"
+  "geocoded_at": "2026-07-04T06:02:12+0000"
 }
