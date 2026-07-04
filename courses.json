@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T08:51:39+0000",
-  "count": 847,
+  "scraped_at": "2026-07-04T09:40:26+0000",
+  "count": 845,
   "courses": [
     {
       "key": "100592",
@@ -281,34 +281,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "99913",
-      "category": "Modul BLS-AED",
-      "city": "Riva San Vitale",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 6,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99913",
-      "canton": "TI",
-      "lat": 45.9117317199707,
-      "lng": 8.964438438415527
-    },
-    {
-      "key": "99935",
-      "category": "WK BLS-AED",
-      "city": "Riva S",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 6,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99935",
-      "canton": "TI",
-      "lat": 45.9117317199707,
-      "lng": 8.964438438415527
     },
     {
       "key": "100698",
@@ -626,7 +598,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Paradiso",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101828",
       "canton": "TI",
       "lat": 46.01959228515625,
@@ -7570,7 +7542,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Franches-Montagnes",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103087",
       "canton": "JU",
       "lat": 47.263877868652344,
@@ -7598,7 +7570,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Franches-Montagnes",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103089",
       "canton": "JU",
       "lat": 47.263877868652344,
@@ -7976,7 +7948,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11861,5 +11833,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T08:51:39+0000"
+  "geocoded_at": "2026-07-04T09:40:26+0000"
 }
