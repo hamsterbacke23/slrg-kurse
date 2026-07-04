@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T20:17:51+0000",
-  "count": 836,
+  "scraped_at": "2026-07-04T21:16:58+0000",
+  "count": 835,
   "courses": [
     {
       "key": "100592",
@@ -659,20 +659,6 @@
       "canton": "VD",
       "lat": 46.4063606262207,
       "lng": 6.953111171722412
-    },
-    {
-      "key": "101194",
-      "category": "Modul See",
-      "city": "Meilen",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SLRG Rüti",
-      "participation_max": 14,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101194",
-      "canton": "ZH",
-      "lat": 47.28143310546875,
-      "lng": 8.646059036254883
     },
     {
       "key": "101350",
@@ -1648,7 +1634,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Altberg",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102197",
       "canton": null,
       "lat": null,
@@ -2334,7 +2320,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Bauma",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102130",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -3020,7 +3006,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Bülach",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101424",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -11707,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T20:17:51+0000"
+  "geocoded_at": "2026-07-04T21:16:58+0000"
 }
