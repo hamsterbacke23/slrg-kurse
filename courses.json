@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T17:20:45+0000",
-  "count": 840,
+  "scraped_at": "2026-07-04T18:17:10+0000",
+  "count": 839,
   "courses": [
     {
       "key": "100592",
@@ -295,20 +295,6 @@
       "canton": "BE",
       "lat": 47.22467041015625,
       "lng": 7.657536029815674
-    },
-    {
-      "key": "101332",
-      "category": "Brevet Basis Pool",
-      "city": "Arbon",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SLRG Arbon",
-      "participation_max": 20,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101332",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
     },
     {
       "key": "101524",
@@ -11763,5 +11749,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T17:20:45+0000"
+  "geocoded_at": "2026-07-04T18:17:10+0000"
 }
