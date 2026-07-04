@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T21:16:58+0000",
-  "count": 835,
+  "scraped_at": "2026-07-04T22:16:11+0000",
+  "count": 831,
   "courses": [
     {
       "key": "100592",
@@ -85,20 +85,6 @@
       "canton": "ZH",
       "lat": 47.49905014038086,
       "lng": 8.720227241516113
-    },
-    {
-      "key": "102539",
-      "category": "Modul Methodik",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-07-04",
-      "company": "SLRG Region Ost",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102539",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102540",
@@ -199,20 +185,6 @@
       "lng": 6.92034387588501
     },
     {
-      "key": "100150",
-      "category": "Modul Fluss",
-      "city": "Heerbrugg",
-      "first_date": "2026-06-30",
-      "last_date": "2026-07-04",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100150",
-      "canton": "SG",
-      "lat": 47.411685943603516,
-      "lng": 9.626534461975098
-    },
-    {
       "key": "100895",
       "category": "Modul Fluss",
       "city": "",
@@ -255,20 +227,6 @@
       "lng": null
     },
     {
-      "key": "100769",
-      "category": "Brevet Basis Pool",
-      "city": "Wangen an der Aare",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100769",
-      "canton": "BE",
-      "lat": 47.22467041015625,
-      "lng": 7.657536029815674
-    },
-    {
       "key": "101524",
       "category": "Modul See",
       "city": "Lugano",
@@ -309,20 +267,6 @@
       "canton": "ZH",
       "lat": 47.68342590332031,
       "lng": 8.635716438293457
-    },
-    {
-      "key": "101715",
-      "category": "Modul See",
-      "city": "Hombrechtikon",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SLRG Sektion Stäfa",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101715",
-      "canton": "ZH",
-      "lat": 47.25200271606445,
-      "lng": 8.768488883972168
     },
     {
       "key": "101803",
@@ -836,7 +780,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103137",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -11693,5 +11637,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T21:16:58+0000"
+  "geocoded_at": "2026-07-04T22:16:11+0000"
 }
