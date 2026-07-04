@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T16:20:36+0000",
-  "count": 841,
+  "scraped_at": "2026-07-04T17:20:45+0000",
+  "count": 840,
   "courses": [
     {
       "key": "100592",
@@ -617,20 +617,6 @@
       "canton": "BE",
       "lat": 47.12384033203125,
       "lng": 7.239261627197266
-    },
-    {
-      "key": "103062",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-07-07",
-      "last_date": "2026-07-07",
-      "company": "SLRG Frauenfeld",
-      "participation_max": 16,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103062",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101115",
@@ -8172,7 +8158,7 @@
       "last_date": "2026-10-26",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102658",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -8858,7 +8844,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102786",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11777,5 +11763,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T16:20:36+0000"
+  "geocoded_at": "2026-07-04T17:20:45+0000"
 }
