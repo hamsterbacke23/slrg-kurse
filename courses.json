@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-04T10:36:36+0000",
-  "count": 845,
+  "scraped_at": "2026-07-04T11:28:34+0000",
+  "count": 844,
   "courses": [
     {
       "key": "100592",
@@ -421,20 +421,6 @@
       "canton": "BE",
       "lat": 47.065650939941406,
       "lng": 7.195646286010742
-    },
-    {
-      "key": "102387",
-      "category": "Brevet Basis Pool",
-      "city": "Romanshorn",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SLRG Romanshorn",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102387",
-      "canton": "TG",
-      "lat": 47.564979553222656,
-      "lng": 9.359646797180176
     },
     {
       "key": "102441",
@@ -2068,7 +2054,7 @@
       "last_date": "2026-08-09",
       "company": "SLRG Arbon",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103173",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -3244,7 +3230,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102838",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -10174,7 +10160,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100371",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -10202,7 +10188,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100373",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -11833,5 +11819,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T10:36:37+0000"
+  "geocoded_at": "2026-07-04T11:28:34+0000"
 }
