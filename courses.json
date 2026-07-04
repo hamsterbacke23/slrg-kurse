@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-04T09:40:26+0000",
+  "scraped_at": "2026-07-04T10:36:36+0000",
   "count": 845,
   "courses": [
     {
@@ -3244,7 +3244,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102838",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3258,7 +3258,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102839",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3272,7 +3272,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102840",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5764,7 +5764,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99852",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5988,7 +5988,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 36,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102527",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -11833,5 +11833,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-04T09:40:26+0000"
+  "geocoded_at": "2026-07-04T10:36:37+0000"
 }
