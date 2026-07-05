@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-05T22:17:41+0000",
-  "count": 822,
+  "scraped_at": "2026-07-05T23:20:20+0000",
+  "count": 821,
   "courses": [
     {
       "key": "100592",
@@ -183,20 +183,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101803",
-      "category": "Modul Fluss",
-      "city": "Muri b. Bern",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SLRG Bielersee",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101803",
-      "canton": "BE",
-      "lat": 46.930362701416016,
-      "lng": 7.4850358963012695
     },
     {
       "key": "102210",
@@ -2698,7 +2684,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103033",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -11511,5 +11497,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T22:17:41+0000"
+  "geocoded_at": "2026-07-05T23:20:20+0000"
 }
