@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-05T07:58:19+0000",
+  "scraped_at": "2026-07-05T09:07:02+0000",
   "count": 828,
   "courses": [
     {
@@ -1830,7 +1830,7 @@
       "last_date": "2026-08-09",
       "company": "SLRG Arbon",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103173",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -1858,7 +1858,7 @@
       "last_date": "2026-08-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100945",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -2026,7 +2026,7 @@
       "last_date": "2026-08-14",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100947",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -2110,7 +2110,7 @@
       "last_date": "2026-08-15",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100948",
       "canton": null,
       "lat": null,
@@ -7948,7 +7948,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -11595,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T07:58:19+0000"
+  "geocoded_at": "2026-07-05T09:07:02+0000"
 }
