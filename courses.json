@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-05T16:19:58+0000",
+  "scraped_at": "2026-07-05T17:24:12+0000",
   "count": 824,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102969",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -1816,7 +1816,7 @@
       "last_date": "2026-08-10",
       "company": "SLRG Emmental",
       "participation_max": 19,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100982",
       "canton": "ZH",
       "lat": 47.32124328613281,
@@ -2236,7 +2236,7 @@
       "last_date": "2026-08-16",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100689",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -2922,7 +2922,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102636",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -3076,7 +3076,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102637",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -3384,7 +3384,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -3706,7 +3706,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101900",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -4588,7 +4588,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Grenchen",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100680",
       "canton": null,
       "lat": null,
@@ -8816,7 +8816,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100255",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -9264,7 +9264,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Bülach",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101432",
       "canton": "ZH",
       "lat": 47.5283088684082,
@@ -11539,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T16:19:58+0000"
+  "geocoded_at": "2026-07-05T17:24:12+0000"
 }
