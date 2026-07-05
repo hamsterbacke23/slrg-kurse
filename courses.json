@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-05T17:24:12+0000",
+  "scraped_at": "2026-07-05T18:18:54+0000",
   "count": 824,
   "courses": [
     {
@@ -164,7 +164,7 @@
       "last_date": "2026-07-06",
       "company": "SLRG Kloten",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103093",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11539,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T17:24:12+0000"
+  "geocoded_at": "2026-07-05T18:18:54+0000"
 }
