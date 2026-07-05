@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-05T06:16:53+0000",
-  "count": 831,
+  "scraped_at": "2026-07-05T07:58:19+0000",
+  "count": 828,
   "courses": [
     {
       "key": "100592",
@@ -199,34 +199,6 @@
       "lng": null
     },
     {
-      "key": "101566",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-07-03",
-      "last_date": "2026-07-04",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 13,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101566",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102593",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-07-03",
-      "last_date": "2026-07-03",
-      "company": "SLRG Illnau-Effretikon",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102593",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101524",
       "category": "Modul See",
       "city": "Lugano",
@@ -253,20 +225,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "101567",
-      "category": "WK Fluss",
-      "city": "Flurlingen",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101567",
-      "canton": "ZH",
-      "lat": 47.68342590332031,
-      "lng": 8.635716438293457
     },
     {
       "key": "101803",
@@ -11637,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T06:16:53+0000"
+  "geocoded_at": "2026-07-05T07:58:19+0000"
 }
