@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-05T14:29:33+0000",
-  "count": 827,
+  "scraped_at": "2026-07-05T15:24:50+0000",
+  "count": 824,
   "courses": [
     {
       "key": "100592",
@@ -199,20 +199,6 @@
       "lng": null
     },
     {
-      "key": "101528",
-      "category": "WK See",
-      "city": "Lugano",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SSS Lugano",
-      "participation_max": 20,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101528",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
       "key": "101803",
       "category": "Modul Fluss",
       "city": "Muri b. Bern",
@@ -253,34 +239,6 @@
       "canton": "ZH",
       "lat": 47.20124435424805,
       "lng": 8.686915397644043
-    },
-    {
-      "key": "101614",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-07-05",
-      "last_date": "2026-07-05",
-      "company": "Société Internationale de Sauvetage du Léman",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101614",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102128",
-      "category": "Brevet Basis Pool",
-      "city": "Bauma",
-      "first_date": "2026-07-05",
-      "last_date": "2026-07-05",
-      "company": "SLRG Bauma",
-      "participation_max": 28,
-      "registered": 23,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102128",
-      "canton": "ZH",
-      "lat": 47.37466812133789,
-      "lng": 8.893594741821289
     },
     {
       "key": "98408",
@@ -2208,7 +2166,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Bauma",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102130",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -2404,7 +2362,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -2530,7 +2488,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102423",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -2782,7 +2740,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Zug",
       "participation_max": 30,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
       "canton": null,
       "lat": null,
@@ -11581,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T14:29:33+0000"
+  "geocoded_at": "2026-07-05T15:24:50+0000"
 }
