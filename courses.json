@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-05T19:27:32+0000",
-  "count": 824,
+  "scraped_at": "2026-07-05T20:22:10+0000",
+  "count": 823,
   "courses": [
     {
       "key": "100592",
@@ -113,20 +113,6 @@
       "canton": "SG",
       "lat": 47.41975021362305,
       "lng": 9.143709182739258
-    },
-    {
-      "key": "100893",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-06-29",
-      "last_date": "2026-07-04",
-      "company": "SLRG Sektion Bern",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100893",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102777",
@@ -276,7 +262,7 @@
       "last_date": "2026-07-12",
       "company": "SLRG Sektion Bern",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100973",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -1732,7 +1718,7 @@
       "last_date": "2026-08-09",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102005",
       "canton": null,
       "lat": null,
@@ -4112,7 +4098,7 @@
       "last_date": "2026-09-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100778",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4532,7 +4518,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Emmental",
       "participation_max": 2,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103072",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -5092,7 +5078,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101802",
       "canton": null,
       "lat": null,
@@ -7108,7 +7094,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100866",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -11539,5 +11525,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T19:27:32+0000"
+  "geocoded_at": "2026-07-05T20:22:10+0000"
 }
