@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-05T21:20:55+0000",
-  "count": 823,
+  "scraped_at": "2026-07-05T22:17:41+0000",
+  "count": 822,
   "courses": [
     {
       "key": "100592",
@@ -211,20 +211,6 @@
       "canton": "ZH",
       "lat": 47.30222702026367,
       "lng": 8.450304985046387
-    },
-    {
-      "key": "98406",
-      "category": "Modul See",
-      "city": "Richterswil",
-      "first_date": "2026-07-05",
-      "last_date": "2026-07-05",
-      "company": "SLRG Richterswil",
-      "participation_max": 13,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98406",
-      "canton": "ZH",
-      "lat": 47.20124435424805,
-      "lng": 8.686915397644043
     },
     {
       "key": "98408",
@@ -11525,5 +11511,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T21:20:55+0000"
+  "geocoded_at": "2026-07-05T22:17:41+0000"
 }
