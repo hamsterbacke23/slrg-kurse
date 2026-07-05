@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-05T12:23:40+0000",
+  "scraped_at": "2026-07-05T13:28:57+0000",
   "count": 828,
   "courses": [
     {
@@ -892,7 +892,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101303",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -6534,7 +6534,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102476",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -11595,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T12:23:40+0000"
+  "geocoded_at": "2026-07-05T13:28:57+0000"
 }
