@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-05T15:24:50+0000",
+  "scraped_at": "2026-07-05T16:19:58+0000",
   "count": 824,
   "courses": [
     {
@@ -108,7 +108,7 @@
       "last_date": "2026-07-08",
       "company": "SLRG Wil",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103023",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -1970,7 +1970,7 @@
       "last_date": "2026-08-14",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100947",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -3020,7 +3020,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103115",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -11539,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-05T15:24:50+0000"
+  "geocoded_at": "2026-07-05T16:19:58+0000"
 }
