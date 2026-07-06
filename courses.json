@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T02:59:22+0000",
+  "scraped_at": "2026-07-06T04:34:49+0000",
   "count": 821,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103118",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -11497,5 +11497,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-06T02:59:22+0000"
+  "geocoded_at": "2026-07-06T04:34:49+0000"
 }
