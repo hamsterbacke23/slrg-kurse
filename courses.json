@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T21:28:42+0000",
+  "scraped_at": "2026-07-06T22:24:09+0000",
   "count": 824,
   "courses": [
     {
@@ -169,20 +169,6 @@
       "canton": "ZH",
       "lat": 47.30222702026367,
       "lng": 8.450304985046387
-    },
-    {
-      "key": "98408",
-      "category": "WK See",
-      "city": "Richterswil",
-      "first_date": "2026-07-06",
-      "last_date": "2026-07-06",
-      "company": "SLRG Richterswil",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98408",
-      "canton": "ZH",
-      "lat": 47.20124435424805,
-      "lng": 8.686915397644043
     },
     {
       "key": "100890",
@@ -3622,7 +3608,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100815",
       "canton": "VS",
       "lat": 46.28894805908203,
@@ -6231,6 +6217,20 @@
       "canton": "ZH",
       "lat": 47.259639739990234,
       "lng": 8.697005271911621
+    },
+    {
+      "key": "103177",
+      "category": "WK Pool Plus",
+      "city": "Allschwil",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103177",
+      "canton": "BL",
+      "lat": 47.54563903808594,
+      "lng": 7.536828994750977
     },
     {
       "key": "100437",
@@ -11539,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-06T21:28:43+0000"
+  "geocoded_at": "2026-07-06T22:24:09+0000"
 }
