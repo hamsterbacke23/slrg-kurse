@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T17:50:27+0000",
+  "scraped_at": "2026-07-06T18:34:23+0000",
   "count": 826,
   "courses": [
     {
@@ -808,7 +808,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102388",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -2740,7 +2740,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Zug",
       "participation_max": 30,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
       "canton": null,
       "lat": null,
@@ -2824,7 +2824,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -3216,7 +3216,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Zug",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103015",
       "canton": null,
       "lat": null,
@@ -3300,7 +3300,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102061",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -11567,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-06T17:50:27+0000"
+  "geocoded_at": "2026-07-06T18:34:23+0000"
 }
