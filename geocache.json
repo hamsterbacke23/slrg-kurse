@@ -986,6 +986,12 @@
     "lat": 46.53825378417969,
     "lng": 6.604588985443115
   },
+  "Pully": {
+    "canton": "VD",
+    "label": "Pully (VD)",
+    "lat": 46.47946548461914,
+    "lng": 6.654235363006592
+  },
   "Quartino": {
     "canton": "TI",
     "label": "Ort Quartino (TI) - Gambarogno",
