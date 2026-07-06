@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T18:34:23+0000",
+  "scraped_at": "2026-07-06T19:30:36+0000",
   "count": 826,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103137",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -752,7 +752,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103117",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -2740,7 +2740,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Zug",
       "participation_max": 30,
-      "registered": 9,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
       "canton": null,
       "lat": null,
@@ -3216,7 +3216,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Zug",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103015",
       "canton": null,
       "lat": null,
@@ -5176,7 +5176,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -5736,7 +5736,7 @@
       "last_date": "2026-09-20",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100563",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -11567,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-06T18:34:23+0000"
+  "geocoded_at": "2026-07-06T19:30:36+0000"
 }
