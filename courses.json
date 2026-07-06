@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-06T04:34:49+0000",
+  "scraped_at": "2026-07-06T06:28:58+0000",
   "count": 821,
   "courses": [
     {
@@ -4336,7 +4336,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100802",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -7962,7 +7962,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Bülach",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101434",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -8620,7 +8620,7 @@
       "last_date": "2026-11-03",
       "company": "SLRG Bülach",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101428",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -8704,7 +8704,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Innerschwyz",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101461",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -8816,7 +8816,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101462",
       "canton": null,
       "lat": null,
@@ -8830,7 +8830,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101463",
       "canton": null,
       "lat": null,
@@ -11497,5 +11497,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-06T04:34:49+0000"
+  "geocoded_at": "2026-07-06T06:28:58+0000"
 }
