@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-06T20:34:49+0000",
-  "count": 825,
+  "scraped_at": "2026-07-06T21:28:42+0000",
+  "count": 824,
   "courses": [
     {
       "key": "100592",
@@ -113,20 +113,6 @@
       "canton": "SG",
       "lat": 47.41975021362305,
       "lng": 9.143709182739258
-    },
-    {
-      "key": "102777",
-      "category": "Brevet Basis Pool",
-      "city": "Sion",
-      "first_date": "2026-06-29",
-      "last_date": "2026-07-06",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102777",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "103092",
@@ -2824,7 +2810,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100559",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -5722,7 +5708,7 @@
       "last_date": "2026-09-20",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100563",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -11553,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-06T20:34:49+0000"
+  "geocoded_at": "2026-07-06T21:28:43+0000"
 }
