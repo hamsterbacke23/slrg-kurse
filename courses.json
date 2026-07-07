@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-07T04:26:38+0000",
-  "count": 824,
+  "scraped_at": "2026-07-07T06:19:44+0000",
+  "count": 830,
   "courses": [
     {
       "key": "100592",
@@ -589,6 +589,34 @@
       "canton": "FR",
       "lat": 46.80337142944336,
       "lng": 7.161778926849365
+    },
+    {
+      "key": "103190",
+      "category": "WK See",
+      "city": "",
+      "first_date": "2026-07-11",
+      "last_date": "2026-07-12",
+      "company": "SLRG Uri",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103190",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103192",
+      "category": "WK Pool Pro",
+      "city": "Clarens",
+      "first_date": "2026-07-11",
+      "last_date": "2026-07-11",
+      "company": "SSS Riviera",
+      "participation_max": 2,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103192",
+      "canton": "VD",
+      "lat": 46.44438552856445,
+      "lng": 6.891254425048828
     },
     {
       "key": "101046",
@@ -1415,6 +1443,34 @@
       "canton": "SO",
       "lat": 47.206111907958984,
       "lng": 7.562047481536865
+    },
+    {
+      "key": "103193",
+      "category": "WK Pool Basis",
+      "city": "Altstätten SG",
+      "first_date": "2026-08-06",
+      "last_date": "2026-08-06",
+      "company": "SLRG Mittelrheintal",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103193",
+      "canton": "SG",
+      "lat": 47.363311767578125,
+      "lng": 9.543599128723145
+    },
+    {
+      "key": "103194",
+      "category": "WK Pool Plus",
+      "city": "Altstätten SG",
+      "first_date": "2026-08-06",
+      "last_date": "2026-08-06",
+      "company": "SLRG Mittelrheintal",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103194",
+      "canton": "SG",
+      "lat": 47.363311767578125,
+      "lng": 9.543599128723145
     },
     {
       "key": "102197",
@@ -2383,6 +2439,20 @@
       "lng": null
     },
     {
+      "key": "103195",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-08-17",
+      "last_date": "2026-08-19",
+      "company": "SSS Neuchâtel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103195",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100777",
       "category": "WK BLS-AED",
       "city": "Aarau",
@@ -2675,6 +2745,20 @@
       "canton": "ZH",
       "lat": 47.37028121948242,
       "lng": 8.781831741333008
+    },
+    {
+      "key": "103196",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-08-20",
+      "last_date": "2026-08-20",
+      "company": "SSS Neuchâtel",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103196",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103033",
@@ -11539,5 +11623,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-07T04:26:38+0000"
+  "geocoded_at": "2026-07-07T06:19:45+0000"
 }

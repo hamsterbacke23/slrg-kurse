@@ -36,6 +36,12 @@
     "lat": 46.886905670166016,
     "lng": 8.638254165649414
   },
+  "Altstätten SG": {
+    "canton": "SG",
+    "label": "Altstätten (SG)",
+    "lat": 47.363311767578125,
+    "lng": 9.543599128723145
+  },
   "Appenzell": {
     "canton": "AI",
     "label": "Appenzell (AI)",
