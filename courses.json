@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T17:36:33+0000",
+  "scraped_at": "2026-07-07T18:36:29+0000",
   "count": 828,
   "courses": [
     {
@@ -2166,7 +2166,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102869",
       "canton": "SH",
       "lat": 47.70162582397461,
@@ -4224,7 +4224,7 @@
       "last_date": "2026-09-02",
       "company": "SSS Section de Boudry",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102645",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11126,7 +11126,7 @@
       "last_date": "2027-01-19",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102700",
       "canton": null,
       "lat": null,
@@ -11595,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-07T17:36:33+0000"
+  "geocoded_at": "2026-07-07T18:36:29+0000"
 }
