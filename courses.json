@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T12:52:33+0000",
+  "scraped_at": "2026-07-07T13:40:44+0000",
   "count": 827,
   "courses": [
     {
@@ -3356,7 +3356,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103121",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -5610,7 +5610,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Thun-Oberland",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102262",
       "canton": "BE",
       "lat": 46.69535446166992,
@@ -5904,7 +5904,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-07T12:52:33+0000"
+  "geocoded_at": "2026-07-07T13:40:44+0000"
 }
