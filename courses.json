@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T06:19:44+0000",
+  "scraped_at": "2026-07-07T08:04:01+0000",
   "count": 830,
   "courses": [
     {
@@ -290,7 +290,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103114",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -388,7 +388,7 @@
       "last_date": "2026-07-09",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103138",
       "canton": "BE",
       "lat": 46.888587951660156,
@@ -712,6 +712,20 @@
       "participation_max": 16,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103063",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102528",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-07-15",
+      "last_date": "2026-09-29",
+      "company": "SLRG Rafzerfeld",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102528",
       "canton": null,
       "lat": null,
       "lng": null
@@ -2628,7 +2642,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Obwalden",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -3965,20 +3979,6 @@
       "lng": null
     },
     {
-      "key": "99825",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-08-30",
-      "last_date": "2026-08-30",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99825",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
-    },
-    {
       "key": "100690",
       "category": "Brevet Basis Pool",
       "city": "Spreitenbach",
@@ -4630,7 +4630,7 @@
       "last_date": "2026-09-06",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -4812,7 +4812,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102864",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -6310,7 +6310,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103177",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -8186,7 +8186,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Baldeggersee",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102196",
       "canton": "LU",
       "lat": 47.18844985961914,
@@ -11623,5 +11623,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-07T06:19:45+0000"
+  "geocoded_at": "2026-07-07T08:04:01+0000"
 }
