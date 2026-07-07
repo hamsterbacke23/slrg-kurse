@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-07T16:44:46+0000",
+  "scraped_at": "2026-07-07T17:36:33+0000",
   "count": 828,
   "courses": [
     {
@@ -1802,7 +1802,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101554",
       "canton": "VS",
       "lat": 46.385929107666016,
@@ -3034,7 +3034,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103115",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -5344,7 +5344,7 @@
       "last_date": "2026-09-17",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100865",
       "canton": null,
       "lat": null,
@@ -5806,7 +5806,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98760",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -7766,7 +7766,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100882",
       "canton": null,
       "lat": null,
@@ -11595,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-07T16:44:46+0000"
+  "geocoded_at": "2026-07-07T17:36:33+0000"
 }
