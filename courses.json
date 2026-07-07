@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-07T13:40:44+0000",
-  "count": 827,
+  "scraped_at": "2026-07-07T14:56:49+0000",
+  "count": 828,
   "courses": [
     {
       "key": "100592",
@@ -1410,7 +1410,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103059",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -2012,7 +2012,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -2166,7 +2166,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102869",
       "canton": "SH",
       "lat": 47.70162582397461,
@@ -2936,7 +2936,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102636",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -2992,7 +2992,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102840",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3034,7 +3034,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103115",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -3818,7 +3818,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102246",
       "canton": null,
       "lat": null,
@@ -5918,7 +5918,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103035",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -8536,7 +8536,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102978",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -11161,6 +11161,20 @@
       "lng": null
     },
     {
+      "key": "103178",
+      "category": "Brevet Basis Pool",
+      "city": "Allschwil",
+      "first_date": "2027-01-20",
+      "last_date": "2027-01-27",
+      "company": "SLRG Basel",
+      "participation_max": 17,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103178",
+      "canton": "BL",
+      "lat": 47.54563903808594,
+      "lng": 7.536828994750977
+    },
+    {
       "key": "102701",
       "category": "WK Pool Plus",
       "city": "",
@@ -11581,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-07T13:40:44+0000"
+  "geocoded_at": "2026-07-07T14:56:49+0000"
 }
