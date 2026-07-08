@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08T20:25:50+0000",
-  "count": 828,
+  "scraped_at": "2026-07-08T21:22:26+0000",
+  "count": 826,
   "courses": [
     {
       "key": "100592",
@@ -99,20 +99,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103023",
-      "category": "WK Pool Pro",
-      "city": "Oberuzwil",
-      "first_date": "2026-06-22",
-      "last_date": "2026-07-08",
-      "company": "SLRG Wil",
-      "participation_max": 8,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103023",
-      "canton": "SG",
-      "lat": 47.41975021362305,
-      "lng": 9.143709182739258
     },
     {
       "key": "103113",
@@ -367,20 +353,6 @@
       "lng": 8.988879203796387
     },
     {
-      "key": "101194",
-      "category": "Modul See",
-      "city": "Meilen",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SLRG Rüti",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101194",
-      "canton": "ZH",
-      "lat": 47.28143310546875,
-      "lng": 8.646059036254883
-    },
-    {
       "key": "101350",
       "category": "Modul Fluss",
       "city": "Bremgarten AG",
@@ -556,7 +528,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103137",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -1885,7 +1857,7 @@
       "first_date": "2026-08-12",
       "last_date": "2026-08-14",
       "company": "SLRG Winterthur",
-      "participation_max": 24,
+      "participation_max": 2,
       "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102149",
       "canton": "ZH",
@@ -3412,7 +3384,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100155",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -11595,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T20:25:50+0000"
+  "geocoded_at": "2026-07-08T21:22:26+0000"
 }
