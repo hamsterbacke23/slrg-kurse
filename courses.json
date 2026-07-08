@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08T16:29:05+0000",
-  "count": 827,
+  "scraped_at": "2026-07-08T17:29:00+0000",
+  "count": 828,
   "courses": [
     {
       "key": "100592",
@@ -367,6 +367,20 @@
       "lng": 8.988879203796387
     },
     {
+      "key": "101194",
+      "category": "Modul See",
+      "city": "Meilen",
+      "first_date": "2026-07-11",
+      "last_date": "2026-07-11",
+      "company": "SLRG Rüti",
+      "participation_max": 14,
+      "registered": 13,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101194",
+      "canton": "ZH",
+      "lat": 47.28143310546875,
+      "lng": 8.646059036254883
+    },
+    {
       "key": "101350",
       "category": "Modul Fluss",
       "city": "Bremgarten AG",
@@ -556,7 +570,7 @@
       "last_date": "2026-07-12",
       "company": "SLRG Uri",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103190",
       "canton": null,
       "lat": null,
@@ -1704,7 +1718,7 @@
       "last_date": "2026-08-09",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102402",
       "canton": null,
       "lat": null,
@@ -11581,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T16:29:05+0000"
+  "geocoded_at": "2026-07-08T17:29:00+0000"
 }
