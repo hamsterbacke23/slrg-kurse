@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08T05:57:38+0000",
-  "count": 827,
+  "scraped_at": "2026-07-08T06:53:27+0000",
+  "count": 826,
   "courses": [
     {
       "key": "100592",
@@ -659,20 +659,6 @@
       "canton": "BL",
       "lat": 47.52326583862305,
       "lng": 7.6465020179748535
-    },
-    {
-      "key": "103063",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-07-14",
-      "last_date": "2026-07-14",
-      "company": "SLRG Frauenfeld",
-      "participation_max": 16,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103063",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102528",
@@ -5736,7 +5722,7 @@
       "last_date": "2026-09-20",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100692",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -11581,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T05:57:38+0000"
+  "geocoded_at": "2026-07-08T06:53:28+0000"
 }
