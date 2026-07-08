@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T19:28:24+0000",
+  "scraped_at": "2026-07-08T20:25:50+0000",
   "count": 828,
   "courses": [
     {
@@ -1984,7 +1984,7 @@
       "last_date": "2026-08-14",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102258",
       "canton": "LU",
       "lat": 47.140193939208984,
@@ -4714,7 +4714,7 @@
       "last_date": "2026-09-08",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101514",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4840,7 +4840,7 @@
       "last_date": "2026-09-09",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101515",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4882,7 +4882,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101516",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -7738,7 +7738,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100251",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -11595,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T19:28:24+0000"
+  "geocoded_at": "2026-07-08T20:25:50+0000"
 }
