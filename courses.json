@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T09:44:40+0000",
+  "scraped_at": "2026-07-08T10:38:44+0000",
   "count": 827,
   "courses": [
     {
@@ -794,7 +794,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103187",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -920,7 +920,7 @@
       "last_date": "2026-07-22",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103188",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -1746,7 +1746,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -1830,7 +1830,7 @@
       "last_date": "2026-08-11",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103043",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -2936,7 +2936,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102636",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -4000,7 +4000,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100318",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -7360,7 +7360,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100317",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T09:44:40+0000"
+  "geocoded_at": "2026-07-08T10:38:45+0000"
 }
