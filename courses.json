@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T17:29:00+0000",
+  "scraped_at": "2026-07-08T18:26:07+0000",
   "count": 828,
   "courses": [
     {
@@ -752,7 +752,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101303",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -808,7 +808,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103187",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -1508,7 +1508,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99388",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1522,7 +1522,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99394",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11595,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T17:29:00+0000"
+  "geocoded_at": "2026-07-08T18:26:07+0000"
 }
