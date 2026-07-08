@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T14:45:44+0000",
+  "scraped_at": "2026-07-08T15:43:15+0000",
   "count": 827,
   "courses": [
     {
@@ -346,7 +346,7 @@
       "last_date": "2026-07-09",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103138",
       "canton": "BE",
       "lat": 46.888587951660156,
@@ -4574,7 +4574,7 @@
       "last_date": "2026-09-06",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -5092,7 +5092,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101802",
       "canton": null,
       "lat": null,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T14:45:44+0000"
+  "geocoded_at": "2026-07-08T15:43:15+0000"
 }
