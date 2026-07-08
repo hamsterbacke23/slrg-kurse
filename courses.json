@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-08T12:27:36+0000",
+  "scraped_at": "2026-07-08T13:30:54+0000",
   "count": 827,
   "courses": [
     {
@@ -1312,7 +1312,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101890",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -3230,7 +3230,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103152",
       "canton": "SG",
       "lat": 47.423583984375,
@@ -3902,7 +3902,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Obwalden",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103123",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -4602,7 +4602,7 @@
       "last_date": "2026-09-06",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100691",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -5148,7 +5148,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T12:27:36+0000"
+  "geocoded_at": "2026-07-08T13:30:54+0000"
 }
