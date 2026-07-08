@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08T08:48:14+0000",
-  "count": 828,
+  "scraped_at": "2026-07-08T09:44:40+0000",
+  "count": 827,
   "courses": [
     {
       "key": "100592",
@@ -871,20 +871,6 @@
       "lng": null
     },
     {
-      "key": "102766",
-      "category": "Modul Fluss",
-      "city": "Worblaufen",
-      "first_date": "2026-07-21",
-      "last_date": "2026-07-25",
-      "company": "SSS Nord-Vaudois",
-      "participation_max": 8,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102766",
-      "canton": "BE",
-      "lat": 46.979942321777344,
-      "lng": 7.462385177612305
-    },
-    {
       "key": "102767",
       "category": "WK Fluss",
       "city": "Worblaufen",
@@ -1424,7 +1410,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103193",
       "canton": "SG",
       "lat": 47.363311767578125,
@@ -2852,7 +2838,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -3034,7 +3020,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103115",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7891,7 +7877,7 @@
       "first_date": "2026-10-24",
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
-      "participation_max": 22,
+      "participation_max": 16,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
@@ -7906,7 +7892,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101049",
       "canton": null,
       "lat": null,
@@ -9684,7 +9670,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101616",
       "canton": null,
       "lat": null,
@@ -11595,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-08T08:48:14+0000"
+  "geocoded_at": "2026-07-08T09:44:40+0000"
 }
