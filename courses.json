@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-09T14:59:11+0000",
-  "count": 824,
+  "scraped_at": "2026-07-09T16:03:40+0000",
+  "count": 822,
   "courses": [
     {
       "key": "100592",
@@ -283,34 +283,6 @@
       "lng": 8.988879203796387
     },
     {
-      "key": "102885",
-      "category": "WK Pool Pro",
-      "city": "Sion",
-      "first_date": "2026-07-09",
-      "last_date": "2026-07-09",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102885",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
-      "key": "102886",
-      "category": "WK Pool Plus",
-      "city": "Sion",
-      "first_date": "2026-07-09",
-      "last_date": "2026-07-09",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102886",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
       "key": "103138",
       "category": "Brevet Basis Pool",
       "city": "Belp",
@@ -458,7 +430,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102969",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -654,7 +626,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Rafzerfeld",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102875",
       "canton": null,
       "lat": null,
@@ -5582,7 +5554,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102347",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11539,5 +11511,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-09T14:59:11+0000"
+  "geocoded_at": "2026-07-09T16:03:40+0000"
 }
