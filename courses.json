@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-09T06:22:59+0000",
+  "scraped_at": "2026-07-09T08:06:32+0000",
   "count": 825,
   "courses": [
     {
@@ -192,7 +192,7 @@
       "last_date": "2026-07-07",
       "company": "SSS Lugano",
       "participation_max": 25,
-      "registered": 24,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101114",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -612,7 +612,7 @@
       "last_date": "2026-07-14",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102942",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -2012,7 +2012,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Arbon",
       "participation_max": 20,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101331",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -9040,7 +9040,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Region Ost",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102541",
       "canton": null,
       "lat": null,
@@ -10244,7 +10244,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Sektion Bern",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102871",
       "canton": null,
       "lat": null,
@@ -11553,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-09T06:22:59+0000"
+  "geocoded_at": "2026-07-09T08:06:32+0000"
 }
