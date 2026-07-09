@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-09T17:34:29+0000",
+  "scraped_at": "2026-07-09T18:32:58+0000",
   "count": 822,
   "courses": [
     {
@@ -472,7 +472,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103118",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -2278,7 +2278,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102966",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -11511,5 +11511,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-09T17:34:29+0000"
+  "geocoded_at": "2026-07-09T18:32:58+0000"
 }
