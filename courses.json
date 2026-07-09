@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-09T04:24:30+0000",
-  "count": 826,
+  "scraped_at": "2026-07-09T06:22:59+0000",
+  "count": 825,
   "courses": [
     {
       "key": "100592",
@@ -407,20 +407,6 @@
       "canton": "TG",
       "lat": 47.564979553222656,
       "lng": 9.359646797180176
-    },
-    {
-      "key": "102823",
-      "category": "Modul See",
-      "city": "Piazzogna, via Cantonale 2",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SSS Gambarogno",
-      "participation_max": 10,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102823",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102883",
@@ -1326,7 +1312,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102715",
       "canton": "SG",
       "lat": 47.16484832763672,
@@ -11567,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-09T04:24:30+0000"
+  "geocoded_at": "2026-07-09T06:22:59+0000"
 }
