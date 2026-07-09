@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-09T13:09:41+0000",
-  "count": 825,
+  "scraped_at": "2026-07-09T14:59:11+0000",
+  "count": 824,
   "courses": [
     {
       "key": "100592",
@@ -213,20 +213,6 @@
       "lng": 8.944768905639648
     },
     {
-      "key": "102059",
-      "category": "Jugendbrevet",
-      "city": "Langenthal",
-      "first_date": "2026-07-06",
-      "last_date": "2026-07-09",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 30,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102059",
-      "canton": "BE",
-      "lat": 47.212921142578125,
-      "lng": 7.807295799255371
-    },
-    {
       "key": "102414",
       "category": "Jugendbrevet",
       "city": "Nebikon",
@@ -248,7 +234,7 @@
       "last_date": "2026-07-10",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103114",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -304,7 +290,7 @@
       "last_date": "2026-07-09",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102885",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -724,7 +710,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101303",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -2138,7 +2124,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102869",
       "canton": "SH",
       "lat": 47.70162582397461,
@@ -4070,7 +4056,7 @@
       "last_date": "2026-09-02",
       "company": "SSS Lausanne",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102863",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -5022,7 +5008,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 13,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101645",
       "canton": "BE",
       "lat": 47.25593948364258,
@@ -6310,7 +6296,7 @@
       "last_date": "2026-09-30",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102588",
       "canton": null,
       "lat": null,
@@ -7542,7 +7528,7 @@
       "last_date": "2026-10-22",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100551",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -7864,7 +7850,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101049",
       "canton": null,
       "lat": null,
@@ -11553,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-09T13:09:41+0000"
+  "geocoded_at": "2026-07-09T14:59:11+0000"
 }
