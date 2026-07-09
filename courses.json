@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-09T18:32:58+0000",
+  "scraped_at": "2026-07-09T19:30:03+0000",
   "count": 822,
   "courses": [
     {
@@ -387,8 +387,8 @@
       "first_date": "2026-07-11",
       "last_date": "2026-07-11",
       "company": "SSS Sion",
-      "participation_max": 4,
-      "registered": 4,
+      "participation_max": 5,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102883",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -681,7 +681,7 @@
       "first_date": "2026-07-18",
       "last_date": "2026-07-18",
       "company": "SLRG Arbon",
-      "participation_max": 8,
+      "participation_max": 12,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101303",
       "canton": "TG",
@@ -2698,7 +2698,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Zug",
       "participation_max": 30,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
       "canton": null,
       "lat": null,
@@ -2936,7 +2936,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102840",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3314,7 +3314,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -11511,5 +11511,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-09T18:32:58+0000"
+  "geocoded_at": "2026-07-09T19:30:03+0000"
 }
