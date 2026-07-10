@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-10T11:57:42+0000",
-  "count": 820,
+  "scraped_at": "2026-07-10T12:48:44+0000",
+  "count": 819,
   "courses": [
     {
       "key": "100592",
@@ -253,20 +253,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "103138",
-      "category": "Brevet Basis Pool",
-      "city": "Belp",
-      "first_date": "2026-07-09",
-      "last_date": "2026-07-09",
-      "company": "SLRG Muri-Gümligen",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103138",
-      "canton": "BE",
-      "lat": 46.888587951660156,
-      "lng": 7.510859966278076
     },
     {
       "key": "101117",
@@ -1186,7 +1172,7 @@
       "last_date": "2026-08-05",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99996",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5078,7 +5064,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11483,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-10T11:57:42+0000"
+  "geocoded_at": "2026-07-10T12:48:44+0000"
 }
