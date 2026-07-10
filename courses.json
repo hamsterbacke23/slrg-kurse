@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-10T22:19:26+0000",
+  "scraped_at": "2026-07-10T23:17:40+0000",
   "count": 817,
   "courses": [
     {
@@ -640,7 +640,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102388",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -11441,5 +11441,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-10T22:19:26+0000"
+  "geocoded_at": "2026-07-10T23:17:41+0000"
 }
