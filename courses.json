@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-10T15:44:50+0000",
+  "scraped_at": "2026-07-10T16:38:44+0000",
   "count": 818,
   "courses": [
     {
@@ -430,7 +430,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103137",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -584,7 +584,7 @@
       "last_date": "2026-07-15",
       "company": "Société de sauvetage du Vully ",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103022",
       "canton": "FR",
       "lat": 46.96506118774414,
@@ -1312,7 +1312,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103194",
       "canton": "SG",
       "lat": 47.363311767578125,
@@ -1746,7 +1746,7 @@
       "last_date": "2026-08-12",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100946",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -2726,7 +2726,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -2964,7 +2964,7 @@
       "last_date": "2026-08-26",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99897",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -5050,7 +5050,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5624,7 +5624,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Sektion Luzern",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103031",
       "canton": null,
       "lat": null,
@@ -11455,5 +11455,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-10T15:44:50+0000"
+  "geocoded_at": "2026-07-10T16:38:44+0000"
 }
