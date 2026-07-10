@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-10T14:51:28+0000",
-  "count": 819,
+  "scraped_at": "2026-07-10T15:44:50+0000",
+  "count": 818,
   "courses": [
     {
       "key": "100592",
@@ -211,20 +211,6 @@
       "canton": "NE",
       "lat": 47.0006217956543,
       "lng": 6.92034387588501
-    },
-    {
-      "key": "101799",
-      "category": "Brevet Plus Pool",
-      "city": "Nidau",
-      "first_date": "2026-07-07",
-      "last_date": "2026-07-09",
-      "company": "SLRG Bielersee",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101799",
-      "canton": "BE",
-      "lat": 47.12384033203125,
-      "lng": 7.239261627197266
     },
     {
       "key": "101115",
@@ -668,7 +654,7 @@
       "last_date": "2026-07-18",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102388",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -766,7 +752,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103017",
       "canton": null,
       "lat": null,
@@ -906,7 +892,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100819",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -2740,7 +2726,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -3118,7 +3104,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103152",
       "canton": "SG",
       "lat": 47.423583984375,
@@ -11469,5 +11455,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-10T14:51:28+0000"
+  "geocoded_at": "2026-07-10T15:44:50+0000"
 }
