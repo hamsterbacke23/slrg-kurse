@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-10T13:36:18+0000",
+  "scraped_at": "2026-07-10T14:51:28+0000",
   "count": 819,
   "courses": [
     {
@@ -612,7 +612,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103117",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -752,7 +752,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103016",
       "canton": null,
       "lat": null,
@@ -2600,7 +2600,7 @@
       "last_date": "2026-08-20",
       "company": "SSS Monthey",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102742",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -11469,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-10T13:36:19+0000"
+  "geocoded_at": "2026-07-10T14:51:28+0000"
 }
