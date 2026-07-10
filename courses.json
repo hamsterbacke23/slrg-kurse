@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-10T06:17:19+0000",
+  "scraped_at": "2026-07-10T08:05:05+0000",
   "count": 821,
   "courses": [
     {
@@ -934,7 +934,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100819",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1354,7 +1354,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103194",
       "canton": "SG",
       "lat": 47.363311767578125,
@@ -1494,7 +1494,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100818",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -2978,7 +2978,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Grenchen",
       "participation_max": 20,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100678",
       "canton": null,
       "lat": null,
@@ -5666,7 +5666,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Sektion Luzern",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103031",
       "canton": null,
       "lat": null,
@@ -11476,7 +11476,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 48,
+      "registered": 52,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11497,5 +11497,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-10T06:17:19+0000"
+  "geocoded_at": "2026-07-10T08:05:05+0000"
 }
