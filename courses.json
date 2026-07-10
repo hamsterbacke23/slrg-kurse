@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-10T21:20:56+0000",
-  "count": 818,
+  "scraped_at": "2026-07-10T22:19:26+0000",
+  "count": 817,
   "courses": [
     {
       "key": "100592",
@@ -183,20 +183,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "101828",
-      "category": "Jugendbrevet",
-      "city": "Savosa",
-      "first_date": "2026-07-06",
-      "last_date": "2026-07-10",
-      "company": "SSS Paradiso",
-      "participation_max": 18,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101828",
-      "canton": "TI",
-      "lat": 46.01959228515625,
-      "lng": 8.944768905639648
     },
     {
       "key": "103114",
@@ -11455,5 +11441,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-10T21:20:56+0000"
+  "geocoded_at": "2026-07-10T22:19:26+0000"
 }
