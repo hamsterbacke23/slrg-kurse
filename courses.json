@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-11T18:14:27+0000",
-  "count": 803,
+  "scraped_at": "2026-07-11T19:23:15+0000",
+  "count": 802,
   "courses": [
     {
       "key": "100592",
@@ -225,20 +225,6 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
-    },
-    {
-      "key": "102969",
-      "category": "Brevet Plus Pool",
-      "city": "Dielsdorf",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SLRG Wehntal",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102969",
-      "canton": "ZH",
-      "lat": 47.47540283203125,
-      "lng": 8.455204963684082
     },
     {
       "key": "103190",
@@ -1018,7 +1004,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102715",
       "canton": "SG",
       "lat": 47.16484832763672,
@@ -3706,7 +3692,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100319",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5386,7 +5372,7 @@
       "last_date": "2026-09-20",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100563",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -11245,5 +11231,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T18:14:27+0000"
+  "geocoded_at": "2026-07-11T19:23:16+0000"
 }
