@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-11T16:15:06+0000",
+  "scraped_at": "2026-07-11T17:18:48+0000",
   "count": 803,
   "courses": [
     {
@@ -1438,7 +1438,7 @@
       "last_date": "2026-08-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100945",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -4840,7 +4840,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11245,5 +11245,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T16:15:06+0000"
+  "geocoded_at": "2026-07-11T17:18:48+0000"
 }
