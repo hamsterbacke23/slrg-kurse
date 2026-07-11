@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-11T17:18:48+0000",
+  "scraped_at": "2026-07-11T18:14:27+0000",
   "count": 803,
   "courses": [
     {
@@ -528,7 +528,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103016",
       "canton": null,
       "lat": null,
@@ -542,7 +542,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103017",
       "canton": null,
       "lat": null,
@@ -4770,7 +4770,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Züri",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101765",
       "canton": null,
       "lat": null,
@@ -11245,5 +11245,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T17:18:48+0000"
+  "geocoded_at": "2026-07-11T18:14:27+0000"
 }
