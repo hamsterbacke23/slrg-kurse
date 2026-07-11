@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-11T10:23:38+0000",
-  "count": 811,
+  "scraped_at": "2026-07-11T11:20:18+0000",
+  "count": 810,
   "courses": [
     {
       "key": "100592",
@@ -269,20 +269,6 @@
       "lng": null
     },
     {
-      "key": "102385",
-      "category": "Brevet Basis Pool",
-      "city": "Romanshorn",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SLRG Romanshorn",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102385",
-      "canton": "TG",
-      "lat": 47.564979553222656,
-      "lng": 9.359646797180176
-    },
-    {
       "key": "102883",
       "category": "WK BLS-AED",
       "city": "Sion",
@@ -346,7 +332,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103137",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -598,7 +584,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103189",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -11357,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T10:23:39+0000"
+  "geocoded_at": "2026-07-11T11:20:18+0000"
 }
