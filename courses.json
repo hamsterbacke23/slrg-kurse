@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-11T05:50:00+0000",
-  "count": 816,
+  "scraped_at": "2026-07-11T06:40:15+0000",
+  "count": 815,
   "courses": [
     {
       "key": "100592",
@@ -269,20 +269,6 @@
       "lng": null
     },
     {
-      "key": "102260",
-      "category": "Modul See",
-      "city": "Goldswil b. Interlaken",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102260",
-      "canton": "BE",
-      "lat": 46.69535446166992,
-      "lng": 7.8780694007873535
-    },
-    {
       "key": "102385",
       "category": "Brevet Basis Pool",
       "city": "Romanshorn",
@@ -290,7 +276,7 @@
       "last_date": "2026-07-11",
       "company": "SLRG Romanshorn",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102385",
       "canton": "TG",
       "lat": 47.564979553222656,
@@ -11427,5 +11413,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T05:50:00+0000"
+  "geocoded_at": "2026-07-11T06:40:15+0000"
 }
