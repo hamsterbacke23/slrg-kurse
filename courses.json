@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-11T14:24:47+0000",
+  "scraped_at": "2026-07-11T15:19:04+0000",
   "count": 804,
   "courses": [
     {
@@ -2264,7 +2264,7 @@
       "last_date": "2026-09-09",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102654",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11259,5 +11259,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T14:24:47+0000"
+  "geocoded_at": "2026-07-11T15:19:04+0000"
 }
