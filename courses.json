@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-11T21:14:14+0000",
-  "count": 802,
+  "scraped_at": "2026-07-11T22:13:52+0000",
+  "count": 799,
   "courses": [
     {
       "key": "100592",
@@ -183,48 +183,6 @@
       "canton": "NE",
       "lat": 47.0006217956543,
       "lng": 6.92034387588501
-    },
-    {
-      "key": "101350",
-      "category": "Modul Fluss",
-      "city": "Bremgarten AG",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SLRG Lachen",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101350",
-      "canton": "AG",
-      "lat": 47.346309661865234,
-      "lng": 8.333881378173828
-    },
-    {
-      "key": "101612",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 15,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101612",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102899",
-      "category": "WK BLS-AED",
-      "city": " Paradiso",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SSS Paradiso",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102899",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "103190",
@@ -11231,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T21:14:14+0000"
+  "geocoded_at": "2026-07-11T22:13:52+0000"
 }
