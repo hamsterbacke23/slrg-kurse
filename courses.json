@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-11T08:31:24+0000",
-  "count": 813,
+  "scraped_at": "2026-07-11T09:28:58+0000",
+  "count": 812,
   "courses": [
     {
       "key": "100592",
@@ -348,20 +348,6 @@
       "participation_max": 6,
       "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103013",
-      "canton": "VD",
-      "lat": 46.44438552856445,
-      "lng": 6.891254425048828
-    },
-    {
-      "key": "103014",
-      "category": "WK BLS-AED",
-      "city": "Clarens",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SSS Riviera",
-      "participation_max": 2,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103014",
       "canton": "VD",
       "lat": 46.44438552856445,
       "lng": 6.891254425048828
@@ -5764,7 +5750,7 @@
       "last_date": "2026-10-01",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99553",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11385,5 +11371,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T08:31:24+0000"
+  "geocoded_at": "2026-07-11T09:28:58+0000"
 }
