@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-11T15:19:04+0000",
-  "count": 804,
+  "scraped_at": "2026-07-11T16:15:06+0000",
+  "count": 803,
   "courses": [
     {
       "key": "100592",
@@ -239,20 +239,6 @@
       "canton": "ZH",
       "lat": 47.47540283203125,
       "lng": 8.455204963684082
-    },
-    {
-      "key": "103137",
-      "category": "Brevet Basis Pool",
-      "city": "Freiburg",
-      "first_date": "2026-07-11",
-      "last_date": "2026-07-11",
-      "company": "SLRG Deutschfreiburg",
-      "participation_max": 10,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103137",
-      "canton": "FR",
-      "lat": 46.80337142944336,
-      "lng": 7.161778926849365
     },
     {
       "key": "103190",
@@ -1788,7 +1774,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101994",
       "canton": null,
       "lat": null,
@@ -11259,5 +11245,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-11T15:19:04+0000"
+  "geocoded_at": "2026-07-11T16:15:06+0000"
 }
