@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12T14:27:48+0000",
+  "scraped_at": "2026-07-12T15:19:22+0000",
   "count": 798,
   "courses": [
     {
@@ -528,7 +528,7 @@
       "last_date": "2026-07-22",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103188",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -612,7 +612,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100819",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -11175,5 +11175,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-12T14:27:48+0000"
+  "geocoded_at": "2026-07-12T15:19:22+0000"
 }
