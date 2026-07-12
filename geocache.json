@@ -703,6 +703,12 @@
     "lat": 47.0006217956543,
     "lng": 6.92034387588501
   },
+  "Les Avanchets": {
+    "canton": "GE",
+    "label": "Quartierteil Les Avanchets (GE) - Vernier",
+    "lat": 46.22064971923828,
+    "lng": 6.109553337097168
+  },
   "Leytron": {
     "canton": "VS",
     "label": "Leytron (VS)",

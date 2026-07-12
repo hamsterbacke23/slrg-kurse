@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-12T21:14:36+0000",
-  "count": 798,
+  "scraped_at": "2026-07-12T22:14:17+0000",
+  "count": 799,
   "courses": [
     {
       "key": "100592",
@@ -3713,6 +3713,20 @@
       "lng": null
     },
     {
+      "key": "103076",
+      "category": "WK BLS-AED",
+      "city": "Les Avanchets",
+      "first_date": "2026-08-31",
+      "last_date": "2026-08-31",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103076",
+      "canton": "GE",
+      "lat": 46.22064971923828,
+      "lng": 6.109553337097168
+    },
+    {
       "key": "100778",
       "category": "WK BLS-AED",
       "city": "Aarau",
@@ -4210,7 +4224,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Grenchen",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100680",
       "canton": null,
       "lat": null,
@@ -10272,7 +10286,7 @@
       "last_date": "2026-12-16",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103057",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11175,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-12T21:14:36+0000"
+  "geocoded_at": "2026-07-12T22:14:17+0000"
 }
