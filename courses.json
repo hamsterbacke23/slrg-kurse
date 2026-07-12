@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12T08:40:54+0000",
+  "scraped_at": "2026-07-12T09:31:45+0000",
   "count": 799,
   "courses": [
     {
@@ -892,7 +892,7 @@
       "last_date": "2026-08-05",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99996",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -2585,8 +2585,8 @@
       "first_date": "2026-08-22",
       "last_date": "2026-08-22",
       "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 16,
+      "participation_max": 17,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102838",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -2599,8 +2599,8 @@
       "first_date": "2026-08-22",
       "last_date": "2026-08-23",
       "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 16,
+      "participation_max": 17,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102839",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -2613,7 +2613,7 @@
       "first_date": "2026-08-22",
       "last_date": "2026-08-23",
       "company": "SSS Genève",
-      "participation_max": 16,
+      "participation_max": 17,
       "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102840",
       "canton": "VD",
@@ -5204,7 +5204,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Thun-Oberland",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102262",
       "canton": "BE",
       "lat": 46.69535446166992,
@@ -5610,7 +5610,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99431",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11189,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-12T08:40:54+0000"
+  "geocoded_at": "2026-07-12T09:31:45+0000"
 }
