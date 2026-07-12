@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12T09:31:45+0000",
+  "scraped_at": "2026-07-12T10:28:35+0000",
   "count": 799,
   "courses": [
     {
@@ -304,7 +304,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Rafzerfeld",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102875",
       "canton": null,
       "lat": null,
@@ -318,7 +318,7 @@
       "last_date": "2026-07-15",
       "company": "Société de sauvetage du Vully ",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103022",
       "canton": "FR",
       "lat": 46.96506118774414,
@@ -1423,7 +1423,7 @@
       "first_date": "2026-08-11",
       "last_date": "2026-08-11",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 8,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99435",
       "canton": "AG",
@@ -4182,7 +4182,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103073",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -5917,7 +5917,7 @@
       "first_date": "2026-09-29",
       "last_date": "2026-09-29",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 8,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99436",
       "canton": "AG",
@@ -9361,7 +9361,7 @@
       "first_date": "2026-11-17",
       "last_date": "2026-11-17",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 8,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99437",
       "canton": "AG",
@@ -11189,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-12T09:31:45+0000"
+  "geocoded_at": "2026-07-12T10:28:35+0000"
 }
