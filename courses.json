@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12T17:20:08+0000",
+  "scraped_at": "2026-07-12T18:15:03+0000",
   "count": 798,
   "courses": [
     {
@@ -416,7 +416,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103189",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -864,7 +864,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -2180,7 +2180,7 @@
       "last_date": "2026-09-09",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102654",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11154,7 +11154,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 52,
+      "registered": 53,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11175,5 +11175,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-12T17:20:08+0000"
+  "geocoded_at": "2026-07-12T18:15:03+0000"
 }
