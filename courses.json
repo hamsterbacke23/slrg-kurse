@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12T15:19:22+0000",
+  "scraped_at": "2026-07-12T16:16:38+0000",
   "count": 798,
   "courses": [
     {
@@ -696,7 +696,7 @@
       "last_date": "2026-07-25",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102891",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1102,7 +1102,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99388",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1116,7 +1116,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99394",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1130,7 +1130,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99400",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3314,7 +3314,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102049",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -3398,7 +3398,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102246",
       "canton": null,
       "lat": null,
@@ -11175,5 +11175,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-12T15:19:22+0000"
+  "geocoded_at": "2026-07-12T16:16:38+0000"
 }
