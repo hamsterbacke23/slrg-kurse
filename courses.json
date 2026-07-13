@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-13T13:45:09+0000",
-  "count": 797,
+  "scraped_at": "2026-07-13T14:55:23+0000",
+  "count": 795,
   "courses": [
     {
       "key": "100592",
@@ -185,6 +185,20 @@
       "lng": 6.92034387588501
     },
     {
+      "key": "103222",
+      "category": "Jugendbrevet",
+      "city": "Zuchwil",
+      "first_date": "2026-07-09",
+      "last_date": "2026-07-11",
+      "company": "SLRG Solothurn",
+      "participation_max": 12,
+      "registered": 9,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103222",
+      "canton": "SO",
+      "lat": 47.206111907958984,
+      "lng": 7.562047481536865
+    },
+    {
       "key": "101757",
       "category": "Jugendbrevet",
       "city": "Nebikon",
@@ -234,7 +248,7 @@
       "last_date": "2026-07-14",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102942",
       "canton": "TI",
       "lat": 46.17926788330078,
@@ -388,7 +402,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103187",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -486,7 +500,7 @@
       "last_date": "2026-07-22",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100942",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -528,7 +542,7 @@
       "last_date": "2026-07-24",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101905",
       "canton": null,
       "lat": null,
@@ -1354,7 +1368,7 @@
       "last_date": "2026-08-10",
       "company": "SLRG Emmental",
       "participation_max": 22,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100982",
       "canton": "ZH",
       "lat": 47.32124328613281,
@@ -2551,48 +2565,6 @@
       "lng": 9.396230697631836
     },
     {
-      "key": "102838",
-      "category": "Modul BLS-AED",
-      "city": "Romanel-sur-Lausanne",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SSS Genève",
-      "participation_max": 17,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102838",
-      "canton": "VD",
-      "lat": 46.55949401855469,
-      "lng": 6.608593940734863
-    },
-    {
-      "key": "102839",
-      "category": "Brevet Basis Pool",
-      "city": "Romanel-sur-Lausanne",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-23",
-      "company": "SSS Genève",
-      "participation_max": 17,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102839",
-      "canton": "VD",
-      "lat": 46.55949401855469,
-      "lng": 6.608593940734863
-    },
-    {
-      "key": "102840",
-      "category": "Brevet Plus Pool",
-      "city": "Romanel-sur-Lausanne",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-23",
-      "company": "SSS Genève",
-      "participation_max": 17,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102840",
-      "canton": "VD",
-      "lat": 46.55949401855469,
-      "lng": 6.608593940734863
-    },
-    {
       "key": "102938",
       "category": "Modul See",
       "city": "",
@@ -3398,7 +3370,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102609",
       "canton": "ZH",
       "lat": 47.366180419921875,
@@ -5736,7 +5708,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102074",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -7640,7 +7612,7 @@
       "last_date": "2026-11-03",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103036",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -9838,7 +9810,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102870",
       "canton": null,
       "lat": null,
@@ -11161,5 +11133,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-13T13:45:09+0000"
+  "geocoded_at": "2026-07-13T14:55:23+0000"
 }
