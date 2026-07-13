@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-13T14:55:23+0000",
+  "scraped_at": "2026-07-13T15:52:25+0000",
   "count": 795,
   "courses": [
     {
@@ -570,7 +570,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100315",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -11133,5 +11133,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-13T14:55:23+0000"
+  "geocoded_at": "2026-07-13T15:52:25+0000"
 }
