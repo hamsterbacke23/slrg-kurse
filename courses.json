@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-13T18:29:47+0000",
+  "scraped_at": "2026-07-13T19:28:02+0000",
   "count": 794,
   "courses": [
     {
@@ -2572,7 +2572,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103115",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -2838,7 +2838,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102061",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -4728,7 +4728,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -7822,7 +7822,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101422",
       "canton": "BE",
       "lat": 47.14190673828125,
@@ -9628,7 +9628,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99551",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11119,5 +11119,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-13T18:29:47+0000"
+  "geocoded_at": "2026-07-13T19:28:02+0000"
 }
