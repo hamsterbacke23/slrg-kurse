@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-14T07:31:14+0000",
+  "scraped_at": "2026-07-14T08:40:27+0000",
   "count": 791,
   "courses": [
     {
@@ -555,7 +555,7 @@
       "first_date": "2026-07-25",
       "last_date": "2026-07-25",
       "company": "SLRG Emmental",
-      "participation_max": 16,
+      "participation_max": 18,
       "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100819",
       "canton": "LU",
@@ -2054,7 +2054,7 @@
       "last_date": "2026-09-07",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99710",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -2600,7 +2600,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100855",
       "canton": null,
       "lat": null,
@@ -4168,7 +4168,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 20,
-      "registered": 20,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101414",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -11077,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-14T07:31:14+0000"
+  "geocoded_at": "2026-07-14T08:40:27+0000"
 }
