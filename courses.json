@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-14T21:18:15+0000",
-  "count": 790,
+  "scraped_at": "2026-07-14T22:17:54+0000",
+  "count": 789,
   "courses": [
     {
       "key": "100592",
@@ -197,20 +197,6 @@
       "canton": "LU",
       "lat": 47.191654205322266,
       "lng": 7.987195014953613
-    },
-    {
-      "key": "102942",
-      "category": "Brevet Pro Pool",
-      "city": "Tenero / Paradiso",
-      "first_date": "2026-07-13",
-      "last_date": "2026-07-14",
-      "company": "SSS Paradiso",
-      "participation_max": 10,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102942",
-      "canton": "TI",
-      "lat": 46.17926788330078,
-      "lng": 8.851685523986816
     },
     {
       "key": "102528",
@@ -11063,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-14T21:18:15+0000"
+  "geocoded_at": "2026-07-14T22:17:55+0000"
 }
