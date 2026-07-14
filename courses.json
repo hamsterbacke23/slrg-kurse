@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-14T06:38:33+0000",
+  "scraped_at": "2026-07-14T07:31:14+0000",
   "count": 791,
   "courses": [
     {
@@ -360,7 +360,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103187",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -556,7 +556,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100819",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1746,7 +1746,7 @@
       "last_date": "2026-08-16",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100689",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -2292,7 +2292,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Zug",
       "participation_max": 30,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
       "canton": null,
       "lat": null,
@@ -2712,7 +2712,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Zug",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103015",
       "canton": null,
       "lat": null,
@@ -11077,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-14T06:38:33+0000"
+  "geocoded_at": "2026-07-14T07:31:14+0000"
 }
