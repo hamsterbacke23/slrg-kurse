@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T18:20:36+0000",
+  "scraped_at": "2026-07-15T19:25:51+0000",
   "count": 830,
   "courses": [
     {
@@ -822,7 +822,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -5246,7 +5246,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 34,
+      "registered": 35,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99619",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5274,7 +5274,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 35,
+      "registered": 36,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99621",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5288,7 +5288,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 34,
+      "registered": 35,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99622",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5750,7 +5750,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103035",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -8046,7 +8046,7 @@
       "last_date": "2026-11-03",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103036",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -9292,7 +9292,7 @@
       "last_date": "2026-12-01",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103037",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11623,5 +11623,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T18:20:36+0000"
+  "geocoded_at": "2026-07-15T19:25:51+0000"
 }
