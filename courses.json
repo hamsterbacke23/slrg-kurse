@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15T05:45:18+0000",
-  "count": 789,
+  "scraped_at": "2026-07-15T06:39:18+0000",
+  "count": 791,
   "courses": [
     {
       "key": "100592",
@@ -85,6 +85,34 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103092",
+      "category": "Brevet Basis Pool",
+      "city": "Zürich",
+      "first_date": "2026-06-29",
+      "last_date": "2026-07-06",
+      "company": "SLRG Kloten",
+      "participation_max": 16,
+      "registered": 8,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103092",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103093",
+      "category": "Brevet Plus Pool",
+      "city": "Zürich",
+      "first_date": "2026-06-29",
+      "last_date": "2026-07-06",
+      "company": "SLRG Kloten",
+      "participation_max": 14,
+      "registered": 10,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103093",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
     },
     {
       "key": "103113",
@@ -1942,7 +1970,7 @@
       "last_date": "2026-08-18",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100777",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3202,7 +3230,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102139",
       "canton": "BE",
       "lat": 46.97819519042969,
@@ -5092,7 +5120,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102347",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11049,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T05:45:18+0000"
+  "geocoded_at": "2026-07-15T06:39:18+0000"
 }
