@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T06:39:18+0000",
+  "scraped_at": "2026-07-15T07:33:31+0000",
   "count": 791,
   "courses": [
     {
@@ -1970,7 +1970,7 @@
       "last_date": "2026-08-18",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100777",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2572,7 +2572,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102637",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -11077,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T06:39:18+0000"
+  "geocoded_at": "2026-07-15T07:33:32+0000"
 }
