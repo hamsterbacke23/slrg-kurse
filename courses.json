@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T11:28:54+0000",
+  "scraped_at": "2026-07-15T12:24:15+0000",
   "count": 831,
   "courses": [
     {
@@ -1102,7 +1102,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103225",
       "canton": null,
       "lat": null,
@@ -2306,7 +2306,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Obwalden",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -4406,7 +4406,7 @@
       "last_date": "2026-09-06",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -4532,7 +4532,7 @@
       "last_date": "2026-09-08",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101514",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -11637,5 +11637,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T11:28:54+0000"
+  "geocoded_at": "2026-07-15T12:24:15+0000"
 }
