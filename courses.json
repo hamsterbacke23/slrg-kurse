@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T14:31:25+0000",
+  "scraped_at": "2026-07-15T15:28:19+0000",
   "count": 830,
   "courses": [
     {
@@ -668,7 +668,7 @@
       "last_date": "2026-07-31",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101904",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -822,7 +822,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -11623,5 +11623,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T14:31:25+0000"
+  "geocoded_at": "2026-07-15T15:28:19+0000"
 }
