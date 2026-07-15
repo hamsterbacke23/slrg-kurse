@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T09:34:20+0000",
+  "scraped_at": "2026-07-15T10:31:24+0000",
   "count": 831,
   "courses": [
     {
@@ -2544,7 +2544,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -5428,7 +5428,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Weinfelden",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100370",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -8606,7 +8606,7 @@
       "last_date": "2026-11-12",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100878",
       "canton": null,
       "lat": null,
@@ -9082,7 +9082,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
       "canton": "SZ",
       "lat": 47.19816589355469,
@@ -11637,5 +11637,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T09:34:20+0000"
+  "geocoded_at": "2026-07-15T10:31:24+0000"
 }
