@@ -420,6 +420,12 @@
     "lat": 46.80337142944336,
     "lng": 7.161778926849365
   },
+  "Freienbach": {
+    "canton": "SZ",
+    "label": "Freienbach (SZ)",
+    "lat": 47.19816589355469,
+    "lng": 8.765596389770508
+  },
   "Fribourg": {
     "canton": "FR",
     "label": "Fribourg (FR)",
@@ -491,6 +497,12 @@
     "label": "Grosshöchstetten (BE)",
     "lat": 46.90689468383789,
     "lng": 7.6245927810668945
+  },
+  "Gstaad": {
+    "canton": "BE",
+    "label": "Ort Gstaad (BE) - Saanen",
+    "lat": 46.474002838134766,
+    "lng": 7.289914131164551
   },
   "Hallau": {
     "canton": "SH",
