@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15T19:25:51+0000",
-  "count": 830,
+  "scraped_at": "2026-07-15T20:19:28+0000",
+  "count": 828,
   "courses": [
     {
       "key": "100592",
@@ -115,20 +115,6 @@
       "lng": 8.527311325073242
     },
     {
-      "key": "103113",
-      "category": "Jugendbrevet",
-      "city": "Les Acacias",
-      "first_date": "2026-06-29",
-      "last_date": "2026-07-03",
-      "company": "SSS Genève",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103113",
-      "canton": "NE",
-      "lat": 47.0006217956543,
-      "lng": 6.92034387588501
-    },
-    {
       "key": "102210",
       "category": "Modul See",
       "city": "Hedingen",
@@ -183,20 +169,6 @@
       "canton": "BE",
       "lat": 46.954559326171875,
       "lng": 7.420684814453125
-    },
-    {
-      "key": "103114",
-      "category": "Jugendbrevet",
-      "city": "Les Acacias",
-      "first_date": "2026-07-06",
-      "last_date": "2026-07-10",
-      "company": "SSS Genève",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103114",
-      "canton": "NE",
-      "lat": 47.0006217956543,
-      "lng": 6.92034387588501
     },
     {
       "key": "103222",
@@ -3832,7 +3804,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100873",
       "canton": null,
       "lat": null,
@@ -3846,7 +3818,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100874",
       "canton": null,
       "lat": null,
@@ -3860,7 +3832,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100875",
       "canton": null,
       "lat": null,
@@ -4252,7 +4224,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Wald",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102081",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -5736,7 +5708,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11623,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T19:25:51+0000"
+  "geocoded_at": "2026-07-15T20:19:28+0000"
 }
