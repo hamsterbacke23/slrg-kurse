@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T04:02:30+0000",
+  "scraped_at": "2026-07-15T05:45:18+0000",
   "count": 789,
   "courses": [
     {
@@ -318,7 +318,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
       "canton": null,
       "lat": null,
@@ -696,7 +696,7 @@
       "last_date": "2026-07-30",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102894",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -780,7 +780,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -1060,7 +1060,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99430",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -5092,7 +5092,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102347",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -7346,7 +7346,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -9138,7 +9138,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101616",
       "canton": null,
       "lat": null,
@@ -9474,7 +9474,7 @@
       "last_date": "2026-11-22",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101138",
       "canton": null,
       "lat": null,
@@ -11049,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T04:02:30+0000"
+  "geocoded_at": "2026-07-15T05:45:18+0000"
 }
