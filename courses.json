@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-15T12:24:15+0000",
-  "count": 831,
+  "scraped_at": "2026-07-15T13:29:28+0000",
+  "count": 830,
   "courses": [
     {
       "key": "100592",
@@ -236,20 +236,6 @@
       "participation_max": 4,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102528",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102875",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-07-15",
-      "last_date": "2026-08-30",
-      "company": "SLRG Rafzerfeld",
-      "participation_max": 4,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102875",
       "canton": null,
       "lat": null,
       "lng": null
@@ -836,7 +822,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -3132,7 +3118,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -4672,7 +4658,7 @@
       "last_date": "2026-09-09",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101515",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4714,7 +4700,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101516",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -6996,7 +6982,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -9082,7 +9068,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
       "canton": "SZ",
       "lat": 47.19816589355469,
@@ -9698,7 +9684,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101732",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -11616,7 +11602,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 59,
+      "registered": 60,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11637,5 +11623,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-15T12:24:15+0000"
+  "geocoded_at": "2026-07-15T13:29:28+0000"
 }
