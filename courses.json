@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-16T06:44:01+0000",
-  "count": 828,
+  "scraped_at": "2026-07-16T07:38:29+0000",
+  "count": 827,
   "courses": [
     {
       "key": "100592",
@@ -225,20 +225,6 @@
       "canton": "FR",
       "lat": 46.96506118774414,
       "lng": 7.117027282714844
-    },
-    {
-      "key": "103117",
-      "category": "Modul See",
-      "city": "Freiburg",
-      "first_date": "2026-07-16",
-      "last_date": "2026-07-19",
-      "company": "SLRG Deutschfreiburg",
-      "participation_max": 14,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103117",
-      "canton": "FR",
-      "lat": 46.80337142944336,
-      "lng": 7.161778926849365
     },
     {
       "key": "102973",
@@ -9894,7 +9880,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100373",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -11574,7 +11560,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 73,
+      "registered": 74,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11595,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T06:44:01+0000"
+  "geocoded_at": "2026-07-16T07:38:30+0000"
 }
