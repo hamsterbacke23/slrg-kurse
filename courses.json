@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T20:15:52+0000",
+  "scraped_at": "2026-07-16T21:19:19+0000",
   "count": 827,
   "courses": [
     {
@@ -4210,7 +4210,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Wald",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102081",
       "canton": "ZH",
       "lat": 47.28373718261719,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T20:15:52+0000"
+  "geocoded_at": "2026-07-16T21:19:19+0000"
 }
