@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T13:29:46+0000",
+  "scraped_at": "2026-07-16T14:37:08+0000",
   "count": 827,
   "courses": [
     {
@@ -1368,7 +1368,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -2082,7 +2082,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101490",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -2404,7 +2404,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Zug",
       "participation_max": 30,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
       "canton": null,
       "lat": null,
@@ -3580,7 +3580,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103080",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -8228,7 +8228,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101422",
       "canton": "BE",
       "lat": 47.14190673828125,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T13:29:46+0000"
+  "geocoded_at": "2026-07-16T14:37:08+0000"
 }
