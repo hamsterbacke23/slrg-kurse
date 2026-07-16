@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T17:27:10+0000",
+  "scraped_at": "2026-07-16T18:20:30+0000",
   "count": 827,
   "courses": [
     {
@@ -1438,7 +1438,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Sektion Olten",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102533",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -2138,7 +2138,7 @@
       "last_date": "2026-09-01",
       "company": "SSS Neuchâtel",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102986",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -2403,7 +2403,7 @@
       "first_date": "2026-08-22",
       "last_date": "2026-08-27",
       "company": "SLRG Zug",
-      "participation_max": 30,
+      "participation_max": 20,
       "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
       "canton": null,
@@ -5274,7 +5274,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99852",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T17:27:10+0000"
+  "geocoded_at": "2026-07-16T18:20:30+0000"
 }
