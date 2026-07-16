@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T19:25:40+0000",
+  "scraped_at": "2026-07-16T20:15:52+0000",
   "count": 827,
   "courses": [
     {
@@ -318,7 +318,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103189",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -6590,7 +6590,7 @@
       "last_date": "2026-10-08",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101925",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T19:25:40+0000"
+  "geocoded_at": "2026-07-16T20:15:52+0000"
 }
