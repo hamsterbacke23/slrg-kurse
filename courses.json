@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T07:38:29+0000",
+  "scraped_at": "2026-07-16T08:42:40+0000",
   "count": 827,
   "courses": [
     {
@@ -290,7 +290,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
       "canton": null,
       "lat": null,
@@ -2502,7 +2502,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100559",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -5708,7 +5708,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103035",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -7290,7 +7290,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101639",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -9026,7 +9026,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
       "canton": "SZ",
       "lat": 47.19816589355469,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T07:38:30+0000"
+  "geocoded_at": "2026-07-16T08:42:40+0000"
 }
