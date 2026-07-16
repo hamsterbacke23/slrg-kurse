@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T08:42:40+0000",
+  "scraped_at": "2026-07-16T09:37:41+0000",
   "count": 827,
   "courses": [
     {
@@ -360,7 +360,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103016",
       "canton": null,
       "lat": null,
@@ -794,7 +794,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103082",
       "canton": null,
       "lat": null,
@@ -1032,7 +1032,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103083",
       "canton": null,
       "lat": null,
@@ -1102,7 +1102,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99430",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T08:42:40+0000"
+  "geocoded_at": "2026-07-16T09:37:41+0000"
 }
