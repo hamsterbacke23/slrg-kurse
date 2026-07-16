@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T18:20:30+0000",
+  "scraped_at": "2026-07-16T19:25:40+0000",
   "count": 827,
   "courses": [
     {
@@ -2222,7 +2222,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Sektion Olten",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102537",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -2697,8 +2697,8 @@
       "first_date": "2026-08-23",
       "last_date": "2026-08-23",
       "company": "SLRG Emmental",
-      "participation_max": 10,
-      "registered": 0,
+      "participation_max": 12,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103229",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -6393,7 +6393,7 @@
       "first_date": "2026-10-04",
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
-      "participation_max": 12,
+      "participation_max": 24,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
@@ -8858,7 +8858,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101692",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T18:20:30+0000"
+  "geocoded_at": "2026-07-16T19:25:40+0000"
 }
