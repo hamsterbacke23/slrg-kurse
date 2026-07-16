@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T16:26:19+0000",
+  "scraped_at": "2026-07-16T17:27:10+0000",
   "count": 827,
   "courses": [
     {
@@ -1760,7 +1760,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102116",
       "canton": null,
       "lat": null,
@@ -3832,7 +3832,7 @@
       "last_date": "2026-09-02",
       "company": "SSS Lausanne",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102863",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -6170,7 +6170,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102298",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T16:26:19+0000"
+  "geocoded_at": "2026-07-16T17:27:10+0000"
 }
