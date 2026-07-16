@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T12:26:43+0000",
+  "scraped_at": "2026-07-16T13:29:46+0000",
   "count": 827,
   "courses": [
     {
@@ -1004,7 +1004,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102729",
       "canton": null,
       "lat": null,
@@ -1648,7 +1648,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -2852,7 +2852,7 @@
       "last_date": "2026-08-30",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102766",
       "canton": "BE",
       "lat": 46.979942321777344,
@@ -4224,7 +4224,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Wädenswil",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102178",
       "canton": null,
       "lat": null,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T12:26:43+0000"
+  "geocoded_at": "2026-07-16T13:29:46+0000"
 }
