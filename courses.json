@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-16T21:19:19+0000",
-  "count": 827,
+  "scraped_at": "2026-07-16T22:18:14+0000",
+  "count": 826,
   "courses": [
     {
       "key": "100592",
@@ -183,20 +183,6 @@
       "canton": "SO",
       "lat": 47.206111907958984,
       "lng": 7.562047481536865
-    },
-    {
-      "key": "101757",
-      "category": "Jugendbrevet",
-      "city": "Nebikon",
-      "first_date": "2026-07-13",
-      "last_date": "2026-07-16",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 16,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101757",
-      "canton": "LU",
-      "lat": 47.191654205322266,
-      "lng": 7.987195014953613
     },
     {
       "key": "102528",
@@ -626,7 +612,7 @@
       "last_date": "2026-07-31",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101904",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -1452,7 +1438,7 @@
       "last_date": "2026-08-11",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103043",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -11581,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T21:19:19+0000"
+  "geocoded_at": "2026-07-16T22:18:14+0000"
 }
