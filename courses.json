@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-16T00:15:51+0000",
+  "scraped_at": "2026-07-16T01:30:44+0000",
   "count": 828,
   "courses": [
     {
@@ -2460,7 +2460,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Appenzell",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100231",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -11595,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-16T00:15:51+0000"
+  "geocoded_at": "2026-07-16T01:30:44+0000"
 }
