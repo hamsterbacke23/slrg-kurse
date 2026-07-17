@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-17T11:26:54+0000",
+  "scraped_at": "2026-07-17T12:21:34+0000",
   "count": 827,
   "courses": [
     {
@@ -724,7 +724,7 @@
       "last_date": "2026-08-10",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103234",
       "canton": null,
       "lat": null,
@@ -2698,7 +2698,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103229",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -7724,7 +7724,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102051",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -7752,7 +7752,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102053",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -11112,7 +11112,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103129",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-17T11:26:54+0000"
+  "geocoded_at": "2026-07-17T12:21:35+0000"
 }
