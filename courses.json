@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-17T05:51:05+0000",
-  "count": 826,
+  "scraped_at": "2026-07-17T06:42:11+0000",
+  "count": 828,
   "courses": [
     {
       "key": "100592",
@@ -1583,6 +1583,34 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
+    },
+    {
+      "key": "103276",
+      "category": "WK Pool Pro",
+      "city": "Sarnen",
+      "first_date": "2026-08-13",
+      "last_date": "2026-08-13",
+      "company": "SLRG Obwalden",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103276",
+      "canton": "OW",
+      "lat": 46.89374923706055,
+      "lng": 8.186779022216797
+    },
+    {
+      "key": "103277",
+      "category": "WK BLS-AED",
+      "city": "Sarnen",
+      "first_date": "2026-08-13",
+      "last_date": "2026-08-13",
+      "company": "SLRG Obwalden",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103277",
+      "canton": "OW",
+      "lat": 46.89374923706055,
+      "lng": 8.186779022216797
     },
     {
       "key": "101906",
@@ -11567,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-17T05:51:05+0000"
+  "geocoded_at": "2026-07-17T06:42:11+0000"
 }
