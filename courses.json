@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-17T10:30:32+0000",
+  "scraped_at": "2026-07-17T11:26:54+0000",
   "count": 827,
   "courses": [
     {
@@ -2903,16 +2903,16 @@
     {
       "key": "103226",
       "category": "WK BLS-AED",
-      "city": "",
+      "city": "Prilly",
       "first_date": "2026-08-25",
       "last_date": "2026-08-28",
       "company": "SSS Prilly",
       "participation_max": 5,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103226",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "VD",
+      "lat": 46.53825378417969,
+      "lng": 6.604588985443115
     },
     {
       "key": "103251",
@@ -3860,7 +3860,7 @@
       "last_date": "2026-08-31",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103076",
       "canton": "GE",
       "lat": 46.22064971923828,
@@ -5176,7 +5176,7 @@
       "last_date": "2026-09-24",
       "company": "SSS Sion",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103245",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -7934,7 +7934,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100253",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-17T10:30:32+0000"
+  "geocoded_at": "2026-07-17T11:26:54+0000"
 }
