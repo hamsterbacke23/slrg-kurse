@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-17T07:36:36+0000",
+  "scraped_at": "2026-07-17T08:39:48+0000",
   "count": 828,
   "courses": [
     {
@@ -1718,7 +1718,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101488",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -2194,7 +2194,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100169",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -3272,7 +3272,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100650",
       "canton": null,
       "lat": null,
@@ -3300,7 +3300,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100658",
       "canton": null,
       "lat": null,
@@ -3314,7 +3314,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100659",
       "canton": null,
       "lat": null,
@@ -3328,7 +3328,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100660",
       "canton": null,
       "lat": null,
@@ -3342,7 +3342,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100662",
       "canton": null,
       "lat": null,
@@ -9236,7 +9236,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99345",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -11595,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-17T07:36:36+0000"
+  "geocoded_at": "2026-07-17T08:39:48+0000"
 }
