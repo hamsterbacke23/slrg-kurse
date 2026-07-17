@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-17T16:24:00+0000",
+  "scraped_at": "2026-07-17T17:22:53+0000",
   "count": 827,
   "courses": [
     {
@@ -4434,7 +4434,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101671",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7136,7 +7136,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103248",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -10258,7 +10258,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Sektion Bern",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102871",
       "canton": null,
       "lat": null,
@@ -11581,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-17T16:24:00+0000"
+  "geocoded_at": "2026-07-17T17:22:53+0000"
 }
