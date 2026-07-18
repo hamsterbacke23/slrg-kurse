@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T12:13:36+0000",
+  "scraped_at": "2026-07-18T13:27:43+0000",
   "count": 826,
   "courses": [
     {
@@ -136,7 +136,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101524",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -1074,7 +1074,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Mittelrheintal",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100151",
       "canton": "SG",
       "lat": 47.3646125793457,
@@ -6674,7 +6674,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101971",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -6702,7 +6702,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101973",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -11567,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T12:13:36+0000"
+  "geocoded_at": "2026-07-18T13:27:43+0000"
 }
