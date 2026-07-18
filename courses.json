@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T09:28:10+0000",
+  "scraped_at": "2026-07-18T10:26:13+0000",
   "count": 826,
   "courses": [
     {
@@ -318,7 +318,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103016",
       "canton": null,
       "lat": null,
@@ -332,7 +332,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103017",
       "canton": null,
       "lat": null,
@@ -1074,7 +1074,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Mittelrheintal",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100151",
       "canton": "SG",
       "lat": 47.3646125793457,
@@ -11546,7 +11546,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 75,
+      "registered": 76,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11567,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T09:28:10+0000"
+  "geocoded_at": "2026-07-18T10:26:13+0000"
 }
