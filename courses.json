@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T18:14:56+0000",
+  "scraped_at": "2026-07-18T19:22:46+0000",
   "count": 825,
   "courses": [
     {
@@ -248,7 +248,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
       "canton": null,
       "lat": null,
@@ -696,7 +696,7 @@
       "last_date": "2026-08-10",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103234",
       "canton": null,
       "lat": null,
@@ -1984,7 +1984,7 @@
       "last_date": "2026-08-21",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102105",
       "canton": "TI",
       "lat": 46.01959228515625,
@@ -6142,7 +6142,7 @@
       "last_date": "2026-09-30",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103018",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11553,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T18:14:56+0000"
+  "geocoded_at": "2026-07-18T19:22:46+0000"
 }
