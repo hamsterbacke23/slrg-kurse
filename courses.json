@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-18T10:26:13+0000",
-  "count": 826,
+  "scraped_at": "2026-07-18T11:19:21+0000",
+  "count": 828,
   "courses": [
     {
       "key": "100592",
@@ -113,6 +113,34 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "103091",
+      "category": "WK See",
+      "city": "",
+      "first_date": "2026-06-30",
+      "last_date": "2026-06-30",
+      "company": "SSS Lugano",
+      "participation_max": 5,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103091",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "101524",
+      "category": "Modul See",
+      "city": "Lugano",
+      "first_date": "2026-07-04",
+      "last_date": "2026-07-04",
+      "company": "SSS Lugano",
+      "participation_max": 20,
+      "registered": 12,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101524",
+      "canton": "TI",
+      "lat": 46.0294303894043,
+      "lng": 8.988879203796387
     },
     {
       "key": "102210",
@@ -7752,7 +7780,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -11567,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T10:26:13+0000"
+  "geocoded_at": "2026-07-18T11:19:21+0000"
 }
