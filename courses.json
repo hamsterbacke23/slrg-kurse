@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T17:18:40+0000",
+  "scraped_at": "2026-07-18T18:14:56+0000",
   "count": 825,
   "courses": [
     {
@@ -458,7 +458,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100819",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1368,7 +1368,7 @@
       "last_date": "2026-08-11",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99435",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2894,7 +2894,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103251",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3174,7 +3174,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99317",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -11553,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T17:18:40+0000"
+  "geocoded_at": "2026-07-18T18:14:56+0000"
 }
