@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T05:43:09+0000",
+  "scraped_at": "2026-07-18T06:34:29+0000",
   "count": 826,
   "courses": [
     {
@@ -11546,7 +11546,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 74,
+      "registered": 75,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11567,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T05:43:09+0000"
+  "geocoded_at": "2026-07-18T06:34:29+0000"
 }
