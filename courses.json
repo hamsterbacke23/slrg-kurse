@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T19:22:46+0000",
+  "scraped_at": "2026-07-18T20:13:35+0000",
   "count": 825,
   "courses": [
     {
@@ -11168,7 +11168,7 @@
       "last_date": "2027-03-12",
       "company": "SLRG Bielersee",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103249",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -11553,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T19:22:46+0000"
+  "geocoded_at": "2026-07-18T20:13:36+0000"
 }
