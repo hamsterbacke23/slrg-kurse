@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T06:34:29+0000",
+  "scraped_at": "2026-07-18T07:30:19+0000",
   "count": 826,
   "courses": [
     {
@@ -402,7 +402,7 @@
       "last_date": "2026-07-24",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101905",
       "canton": null,
       "lat": null,
@@ -11567,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T06:34:29+0000"
+  "geocoded_at": "2026-07-18T07:30:19+0000"
 }
