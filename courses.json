@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-18T20:13:35+0000",
+  "scraped_at": "2026-07-18T21:14:11+0000",
   "count": 825,
   "courses": [
     {
@@ -3804,7 +3804,7 @@
       "last_date": "2026-09-02",
       "company": "SSS Lausanne",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102863",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -11553,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T20:13:36+0000"
+  "geocoded_at": "2026-07-18T21:14:11+0000"
 }
