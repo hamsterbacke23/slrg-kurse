@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-18T11:19:21+0000",
-  "count": 828,
+  "scraped_at": "2026-07-18T12:13:36+0000",
+  "count": 826,
   "courses": [
     {
       "key": "100592",
@@ -122,7 +122,7 @@
       "last_date": "2026-06-30",
       "company": "SSS Lugano",
       "participation_max": 5,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103091",
       "canton": null,
       "lat": null,
@@ -255,20 +255,6 @@
       "lng": 9.425399780273438
     },
     {
-      "key": "102388",
-      "category": "WK Pool Plus",
-      "city": "Romanshorn",
-      "first_date": "2026-07-18",
-      "last_date": "2026-07-18",
-      "company": "SLRG Romanshorn",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102388",
-      "canton": "TG",
-      "lat": 47.564979553222656,
-      "lng": 9.359646797180176
-    },
-    {
       "key": "101135",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -276,7 +262,7 @@
       "last_date": "2026-07-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
       "canton": null,
       "lat": null,
@@ -290,7 +276,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103187",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -533,20 +519,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102880",
-      "category": "Modul BLS-AED",
-      "city": "Romanshorn",
-      "first_date": "2026-07-25",
-      "last_date": "2026-07-25",
-      "company": "SLRG Romanshorn",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102880",
-      "canton": "TG",
-      "lat": 47.564979553222656,
-      "lng": 9.359646797180176
     },
     {
       "key": "102889",
@@ -11595,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T11:19:21+0000"
+  "geocoded_at": "2026-07-18T12:13:36+0000"
 }
