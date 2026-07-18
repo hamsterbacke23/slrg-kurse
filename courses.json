@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-18T04:01:39+0000",
-  "count": 827,
+  "scraped_at": "2026-07-18T05:43:09+0000",
+  "count": 826,
   "courses": [
     {
       "key": "100592",
@@ -225,20 +225,6 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
-    },
-    {
-      "key": "101902",
-      "category": "Brevet Plus Pool",
-      "city": "Thun",
-      "first_date": "2026-07-18",
-      "last_date": "2026-07-18",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101902",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
     },
     {
       "key": "102388",
@@ -11581,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-18T04:01:39+0000"
+  "geocoded_at": "2026-07-18T05:43:09+0000"
 }
