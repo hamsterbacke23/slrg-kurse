@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19T07:41:47+0000",
+  "scraped_at": "2026-07-19T08:43:21+0000",
   "count": 825,
   "courses": [
     {
@@ -2698,7 +2698,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100855",
       "canton": null,
       "lat": null,
@@ -4854,7 +4854,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Züri",
       "participation_max": 18,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101765",
       "canton": null,
       "lat": null,
@@ -6870,7 +6870,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -7906,7 +7906,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Bülach",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101434",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -11553,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-19T07:41:47+0000"
+  "geocoded_at": "2026-07-19T08:43:21+0000"
 }
