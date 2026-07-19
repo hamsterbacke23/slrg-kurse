@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19T10:28:43+0000",
-  "count": 825,
+  "scraped_at": "2026-07-19T11:22:14+0000",
+  "count": 826,
   "courses": [
     {
       "key": "100592",
@@ -82,6 +82,20 @@
       "participation_max": 4,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102540",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103090",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-06-25",
+      "last_date": "2026-06-26",
+      "company": "SSS Lugano",
+      "participation_max": 5,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103090",
       "canton": null,
       "lat": null,
       "lng": null
@@ -570,7 +584,7 @@
       "last_date": "2026-07-31",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101904",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -1074,7 +1088,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100818",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -11553,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-19T10:28:43+0000"
+  "geocoded_at": "2026-07-19T11:22:14+0000"
 }
