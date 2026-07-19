@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19T13:27:44+0000",
+  "scraped_at": "2026-07-19T14:25:58+0000",
   "count": 826,
   "courses": [
     {
@@ -1326,7 +1326,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -1858,7 +1858,7 @@
       "last_date": "2026-08-16",
       "company": "SSS Ascona",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100929",
       "canton": null,
       "lat": null,
@@ -5554,7 +5554,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Sektion Luzern",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103032",
       "canton": null,
       "lat": null,
@@ -11567,5 +11567,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-19T13:27:44+0000"
+  "geocoded_at": "2026-07-19T14:25:58+0000"
 }
