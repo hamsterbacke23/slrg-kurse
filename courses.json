@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19T21:14:39+0000",
-  "count": 823,
+  "scraped_at": "2026-07-19T22:14:59+0000",
+  "count": 824,
   "courses": [
     {
       "key": "100592",
@@ -3069,6 +3069,20 @@
       "lng": 9.516542434692383
     },
     {
+      "key": "100889",
+      "category": "WK See",
+      "city": "Ebikon",
+      "first_date": "2026-08-27",
+      "last_date": "2026-08-27",
+      "company": "SLRG Sektion Luzern",
+      "participation_max": 14,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
+      "canton": "LU",
+      "lat": 47.079551696777344,
+      "lng": 8.333163261413574
+    },
+    {
       "key": "103021",
       "category": "WK Pool Plus",
       "city": "Murten",
@@ -4406,7 +4420,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102282",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -11525,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-19T21:14:39+0000"
+  "geocoded_at": "2026-07-19T22:14:59+0000"
 }
