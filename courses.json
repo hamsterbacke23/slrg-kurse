@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19T19:23:00+0000",
-  "count": 825,
+  "scraped_at": "2026-07-19T20:14:27+0000",
+  "count": 823,
   "courses": [
     {
       "key": "100592",
@@ -269,34 +269,6 @@
       "lng": null
     },
     {
-      "key": "103187",
-      "category": "WK See",
-      "city": "Pully",
-      "first_date": "2026-07-19",
-      "last_date": "2026-07-19",
-      "company": "Association Romande des Maîtres de Bains ARMB",
-      "participation_max": 14,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103187",
-      "canton": "VD",
-      "lat": 46.47946548461914,
-      "lng": 6.654235363006592
-    },
-    {
-      "key": "103189",
-      "category": "WK Pool Pro",
-      "city": "Pully",
-      "first_date": "2026-07-19",
-      "last_date": "2026-07-19",
-      "company": "Association Romande des Maîtres de Bains ARMB",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103189",
-      "canton": "VD",
-      "lat": 46.47946548461914,
-      "lng": 6.654235363006592
-    },
-    {
       "key": "100941",
       "category": "Brevet Basis Pool",
       "city": "Paradiso",
@@ -444,7 +416,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100315",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -2180,7 +2152,7 @@
       "last_date": "2026-08-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100787",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4378,7 +4350,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101047",
       "canton": null,
       "lat": null,
@@ -11553,5 +11525,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-19T19:23:00+0000"
+  "geocoded_at": "2026-07-19T20:14:27+0000"
 }
