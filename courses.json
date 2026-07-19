@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19T15:18:36+0000",
+  "scraped_at": "2026-07-19T16:16:15+0000",
   "count": 825,
   "courses": [
     {
@@ -360,7 +360,7 @@
       "last_date": "2026-07-21",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103079",
       "canton": "BE",
       "lat": 46.90689468383789,
@@ -1088,7 +1088,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100818",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1172,7 +1172,7 @@
       "last_date": "2026-08-08",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103235",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1830,7 +1830,7 @@
       "last_date": "2026-08-16",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100689",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -11084,7 +11084,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103129",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -11553,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-19T15:18:36+0000"
+  "geocoded_at": "2026-07-19T16:16:16+0000"
 }
