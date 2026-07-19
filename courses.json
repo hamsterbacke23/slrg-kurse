@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-19T14:25:58+0000",
-  "count": 826,
+  "scraped_at": "2026-07-19T15:18:36+0000",
+  "count": 825,
   "courses": [
     {
       "key": "100592",
@@ -94,7 +94,7 @@
       "last_date": "2026-06-26",
       "company": "SSS Lugano",
       "participation_max": 5,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103090",
       "canton": null,
       "lat": null,
@@ -4945,20 +4945,6 @@
       "lng": 7.536828994750977
     },
     {
-      "key": "103230",
-      "category": "Brevet Basis Pool",
-      "city": "Romanel-sur-Lausanne",
-      "first_date": "2026-09-12",
-      "last_date": "2026-09-13",
-      "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
-      "canton": "VD",
-      "lat": 46.55949401855469,
-      "lng": 6.608593940734863
-    },
-    {
       "key": "100562",
       "category": "Brevet Basis Pool",
       "city": "Bassins",
@@ -6268,7 +6254,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101299",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -6548,7 +6534,7 @@
       "last_date": "2026-10-08",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101925",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -8858,7 +8844,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101724",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -9992,7 +9978,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103272",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -11567,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-19T14:25:58+0000"
+  "geocoded_at": "2026-07-19T15:18:36+0000"
 }
