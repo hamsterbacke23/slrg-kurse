@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19T16:16:15+0000",
+  "scraped_at": "2026-07-19T17:19:15+0000",
   "count": 825,
   "courses": [
     {
@@ -290,7 +290,7 @@
       "last_date": "2026-07-19",
       "company": "Association Romande des Maîtres de Bains ARMB",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103189",
       "canton": "VD",
       "lat": 46.47946548461914,
@@ -3622,7 +3622,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103243",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -10216,7 +10216,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102870",
       "canton": null,
       "lat": null,
@@ -11553,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-19T16:16:16+0000"
+  "geocoded_at": "2026-07-19T17:19:15+0000"
 }
