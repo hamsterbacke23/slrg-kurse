@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-20T10:57:55+0000",
+  "scraped_at": "2026-07-20T11:56:27+0000",
   "count": 842,
   "courses": [
     {
@@ -962,7 +962,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103225",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -4070,7 +4070,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Région Romande",
       "participation_max": 30,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98023",
       "canton": "VD",
       "lat": 46.4063606262207,
@@ -4336,7 +4336,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103071",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -10146,7 +10146,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Uri",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102358",
       "canton": "UR",
       "lat": 46.886905670166016,
@@ -11791,5 +11791,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-20T10:57:55+0000"
+  "geocoded_at": "2026-07-20T11:56:27+0000"
 }
