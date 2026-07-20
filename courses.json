@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-20T15:33:35+0000",
+  "scraped_at": "2026-07-20T16:27:56+0000",
   "count": 842,
   "courses": [
     {
@@ -2110,7 +2110,7 @@
       "last_date": "2026-09-07",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99710",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -2306,7 +2306,7 @@
       "last_date": "2026-08-20",
       "company": "SSS Monthey",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102742",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -2642,7 +2642,7 @@
       "last_date": "2026-08-23",
       "company": "SSS Payerne",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102637",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -2684,7 +2684,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100855",
       "canton": null,
       "lat": null,
@@ -2908,7 +2908,7 @@
       "last_date": "2026-09-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99711",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -3944,7 +3944,7 @@
       "last_date": "2026-09-01",
       "company": "SSS Nord-Vaudois",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103296",
       "canton": "FR",
       "lat": 46.84782409667969,
@@ -7472,7 +7472,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -9222,7 +9222,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
       "canton": "SZ",
       "lat": 47.19816589355469,
@@ -11791,5 +11791,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-20T15:33:35+0000"
+  "geocoded_at": "2026-07-20T16:27:56+0000"
 }
