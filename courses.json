@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-20T17:31:23+0000",
-  "count": 842,
+  "scraped_at": "2026-07-20T18:34:46+0000",
+  "count": 841,
   "courses": [
     {
       "key": "100592",
@@ -255,20 +255,6 @@
       "lng": 7.117027282714844
     },
     {
-      "key": "101135",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-07-19",
-      "last_date": "2026-07-19",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 24,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101135",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100941",
       "category": "Brevet Basis Pool",
       "city": "Paradiso",
@@ -416,7 +402,7 @@
       "last_date": "2026-07-25",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100316",
       "canton": null,
       "lat": null,
@@ -1592,7 +1578,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -4364,7 +4350,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103073",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -7220,7 +7206,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11791,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-20T17:31:23+0000"
+  "geocoded_at": "2026-07-20T18:34:46+0000"
 }
