@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-20T06:00:27+0000",
-  "count": 827,
+  "scraped_at": "2026-07-20T07:58:41+0000",
+  "count": 825,
   "courses": [
     {
       "key": "100592",
@@ -150,7 +150,7 @@
       "last_date": "2026-07-04",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101524",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -393,34 +393,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100314",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-07-25",
-      "last_date": "2026-07-25",
-      "company": "SLRG Basel",
-      "participation_max": 4,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100314",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100315",
-      "category": "WK Pool Plus",
-      "city": "Basel",
-      "first_date": "2026-07-25",
-      "last_date": "2026-07-25",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100315",
-      "canton": "BS",
-      "lat": 47.5545539855957,
-      "lng": 7.590269565582275
     },
     {
       "key": "100316",
@@ -3034,7 +3006,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -3067,20 +3039,6 @@
       "canton": "GR",
       "lat": 46.83235549926758,
       "lng": 9.516542434692383
-    },
-    {
-      "key": "100889",
-      "category": "WK See",
-      "city": "Ebikon",
-      "first_date": "2026-08-27",
-      "last_date": "2026-08-27",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 14,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
-      "canton": "LU",
-      "lat": 47.079551696777344,
-      "lng": 8.333163261413574
     },
     {
       "key": "103021",
@@ -3146,7 +3104,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103112",
       "canton": null,
       "lat": null,
@@ -3482,7 +3440,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102609",
       "canton": "ZH",
       "lat": 47.366180419921875,
@@ -3692,7 +3650,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -3977,6 +3935,20 @@
       "canton": "BL",
       "lat": 47.54563903808594,
       "lng": 7.536828994750977
+    },
+    {
+      "key": "100889",
+      "category": "WK See",
+      "city": "Ebikon",
+      "first_date": "2026-09-03",
+      "last_date": "2026-09-03",
+      "company": "SLRG Sektion Luzern",
+      "participation_max": 14,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
+      "canton": "LU",
+      "lat": 47.079551696777344,
+      "lng": 8.333163261413574
     },
     {
       "key": "100646",
@@ -4364,7 +4336,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101047",
       "canton": null,
       "lat": null,
@@ -5400,7 +5372,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Thun-Oberland",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102262",
       "canton": "BE",
       "lat": 46.69535446166992,
@@ -5456,7 +5428,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102475",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -5638,7 +5610,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Oberwil",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102801",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -9530,7 +9502,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101599",
       "canton": null,
       "lat": null,
@@ -11581,5 +11553,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-20T06:00:27+0000"
+  "geocoded_at": "2026-07-20T07:58:41+0000"
 }
