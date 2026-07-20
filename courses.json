@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-20T22:17:28+0000",
+  "scraped_at": "2026-07-20T23:18:43+0000",
   "count": 841,
   "courses": [
     {
@@ -1088,7 +1088,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103068",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -11777,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-20T22:17:28+0000"
+  "geocoded_at": "2026-07-20T23:18:44+0000"
 }
