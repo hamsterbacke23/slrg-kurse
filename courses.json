@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-20T13:31:12+0000",
+  "scraped_at": "2026-07-20T14:41:47+0000",
   "count": 842,
   "courses": [
     {
@@ -1228,7 +1228,7 @@
       "last_date": "2026-08-09",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102005",
       "canton": null,
       "lat": null,
@@ -1354,7 +1354,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Sektion Olten",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102533",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -3160,7 +3160,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99316",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -3174,7 +3174,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99317",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -3706,7 +3706,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102050",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -5036,7 +5036,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5050,7 +5050,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103232",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5064,7 +5064,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103233",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -11791,5 +11791,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-20T13:31:13+0000"
+  "geocoded_at": "2026-07-20T14:41:47+0000"
 }
