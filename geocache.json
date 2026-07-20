@@ -384,6 +384,12 @@
     "lat": 47.40953826904297,
     "lng": 9.531137466430664
   },
+  "Estavayer-le-Lac": {
+    "canton": "FR",
+    "label": "Ort Estavayer-le-Lac (FR) - Estavayer",
+    "lat": 46.84782409667969,
+    "lng": 6.849590301513672
+  },
   "Euthal": {
     "canton": "SZ",
     "label": "Ort Euthal (SZ) - Einsiedeln",
@@ -1171,6 +1177,12 @@
     "label": "Sempach (LU)",
     "lat": 47.140193939208984,
     "lng": 8.191203117370605
+  },
+  "Seuzach": {
+    "canton": "ZH",
+    "label": "Seuzach (ZH)",
+    "lat": 47.53480529785156,
+    "lng": 8.724346160888672
   },
   "Sion": {
     "canton": "VS",
