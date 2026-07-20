@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-20T04:20:48+0000",
-  "count": 824,
+  "scraped_at": "2026-07-20T06:00:27+0000",
+  "count": 827,
   "courses": [
     {
       "key": "100592",
@@ -4929,6 +4929,48 @@
       "canton": "BL",
       "lat": 47.54563903808594,
       "lng": 7.536828994750977
+    },
+    {
+      "key": "103230",
+      "category": "Brevet Basis Pool",
+      "city": "Romanel-sur-Lausanne",
+      "first_date": "2026-09-12",
+      "last_date": "2026-09-13",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
+      "canton": "VD",
+      "lat": 46.55949401855469,
+      "lng": 6.608593940734863
+    },
+    {
+      "key": "103232",
+      "category": "Modul BLS-AED",
+      "city": "Romanel-sur-Lausanne",
+      "first_date": "2026-09-12",
+      "last_date": "2026-09-12",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103232",
+      "canton": "VD",
+      "lat": 46.55949401855469,
+      "lng": 6.608593940734863
+    },
+    {
+      "key": "103233",
+      "category": "Brevet Plus Pool",
+      "city": "Romanel-sur-Lausanne",
+      "first_date": "2026-09-12",
+      "last_date": "2026-09-13",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103233",
+      "canton": "VD",
+      "lat": 46.55949401855469,
+      "lng": 6.608593940734863
     },
     {
       "key": "100562",
@@ -11539,5 +11581,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-20T04:20:48+0000"
+  "geocoded_at": "2026-07-20T06:00:27+0000"
 }
