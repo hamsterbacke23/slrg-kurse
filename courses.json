@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-20T09:10:13+0000",
+  "scraped_at": "2026-07-20T10:57:55+0000",
   "count": 842,
   "courses": [
     {
@@ -332,7 +332,7 @@
       "last_date": "2026-07-21",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103079",
       "canton": "BE",
       "lat": 46.90689468383789,
@@ -444,7 +444,7 @@
       "last_date": "2026-07-25",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100944",
       "canton": "TI",
       "lat": 45.968719482421875,
@@ -3608,7 +3608,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103243",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -4392,7 +4392,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103284",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -5036,7 +5036,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5050,7 +5050,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103232",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5064,7 +5064,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103233",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -11770,7 +11770,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 76,
+      "registered": 77,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11791,5 +11791,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-20T09:10:14+0000"
+  "geocoded_at": "2026-07-20T10:57:55+0000"
 }
