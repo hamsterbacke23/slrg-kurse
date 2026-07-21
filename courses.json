@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T18:24:28+0000",
+  "scraped_at": "2026-07-21T19:28:13+0000",
   "count": 838,
   "courses": [
     {
@@ -1242,7 +1242,7 @@
       "last_date": "2026-08-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100945",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -4434,7 +4434,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101671",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -4546,7 +4546,7 @@
       "last_date": "2026-09-14",
       "company": "SSS Sion",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103244",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -11714,7 +11714,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 77,
+      "registered": 78,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11735,5 +11735,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-21T18:24:28+0000"
+  "geocoded_at": "2026-07-21T19:28:14+0000"
 }
