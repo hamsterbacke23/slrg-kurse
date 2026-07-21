@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-21T09:46:42+0000",
-  "count": 840,
+  "scraped_at": "2026-07-21T10:40:23+0000",
+  "count": 841,
   "courses": [
     {
       "key": "100592",
@@ -351,6 +351,20 @@
       "canton": "VD",
       "lat": 46.47946548461914,
       "lng": 6.654235363006592
+    },
+    {
+      "key": "103240",
+      "category": "Modul BLS-AED",
+      "city": "Sion",
+      "first_date": "2026-07-22",
+      "last_date": "2026-07-22",
+      "company": "SSS Sion",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103240",
+      "canton": "VS",
+      "lat": 46.21693801879883,
+      "lng": 7.342846393585205
     },
     {
       "key": "100943",
@@ -1255,8 +1269,8 @@
       "first_date": "2026-08-10",
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
-      "participation_max": 20,
-      "registered": 17,
+      "participation_max": 18,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11763,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-21T09:46:43+0000"
+  "geocoded_at": "2026-07-21T10:40:23+0000"
 }
