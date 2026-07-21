@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T17:28:00+0000",
+  "scraped_at": "2026-07-21T18:24:28+0000",
   "count": 838,
   "courses": [
     {
@@ -4980,7 +4980,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5624,7 +5624,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Sektion Luzern",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103032",
       "canton": null,
       "lat": null,
@@ -11735,5 +11735,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-21T17:28:00+0000"
+  "geocoded_at": "2026-07-21T18:24:28+0000"
 }
