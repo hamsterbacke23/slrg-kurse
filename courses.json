@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-21T06:53:48+0000",
-  "count": 841,
+  "scraped_at": "2026-07-21T07:45:20+0000",
+  "count": 840,
   "courses": [
     {
       "key": "100592",
@@ -309,20 +309,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103079",
-      "category": "WK Pool Pro",
-      "city": "Grosshöchstetten",
-      "first_date": "2026-07-21",
-      "last_date": "2026-07-21",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103079",
-      "canton": "BE",
-      "lat": 46.90689468383789,
-      "lng": 7.6245927810668945
     },
     {
       "key": "103292",
@@ -2558,7 +2544,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Uri",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102938",
       "canton": null,
       "lat": null,
@@ -5442,7 +5428,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100366",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -6912,7 +6898,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -7458,7 +7444,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -11777,5 +11763,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-21T06:53:48+0000"
+  "geocoded_at": "2026-07-21T07:45:20+0000"
 }
