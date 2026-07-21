@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T16:27:28+0000",
+  "scraped_at": "2026-07-21T17:28:00+0000",
   "count": 838,
   "courses": [
     {
@@ -276,7 +276,7 @@
       "last_date": "2026-07-21",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103292",
       "canton": null,
       "lat": null,
@@ -2628,7 +2628,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100855",
       "canton": null,
       "lat": null,
@@ -5624,7 +5624,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Sektion Luzern",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103032",
       "canton": null,
       "lat": null,
@@ -11735,5 +11735,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-21T16:27:28+0000"
+  "geocoded_at": "2026-07-21T17:28:00+0000"
 }
