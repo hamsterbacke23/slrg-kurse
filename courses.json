@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T16:27:14+0000",
+  "scraped_at": "2026-07-22T17:27:21+0000",
   "count": 872,
   "courses": [
     {
@@ -290,7 +290,7 @@
       "last_date": "2026-07-23",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103322",
       "canton": null,
       "lat": null,
@@ -318,7 +318,7 @@
       "last_date": "2026-07-24",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103323",
       "canton": null,
       "lat": null,
@@ -486,7 +486,7 @@
       "last_date": "2026-07-30",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102893",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1867,16 +1867,16 @@
     {
       "key": "102966",
       "category": "Brevet Basis Pool",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-08-16",
       "last_date": "2026-08-16",
       "company": "SLRG Emmental",
       "participation_max": 12,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102966",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "101291",
@@ -2544,7 +2544,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102508",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -4014,7 +4014,7 @@
       "last_date": "2026-09-01",
       "company": "SSS Nord-Vaudois",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103296",
       "canton": "FR",
       "lat": 46.84782409667969,
@@ -6613,16 +6613,16 @@
     {
       "key": "102968",
       "category": "Brevet Plus Pool",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-10-03",
       "last_date": "2026-10-03",
       "company": "SLRG Emmental",
       "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102968",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "103140",
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T16:27:14+0000"
+  "geocoded_at": "2026-07-22T17:27:21+0000"
 }
