@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-22T07:45:22+0000",
-  "count": 835,
+  "scraped_at": "2026-07-22T08:48:51+0000",
+  "count": 874,
   "courses": [
     {
       "key": "100804",
@@ -297,6 +297,20 @@
       "lng": 8.953682899475098
     },
     {
+      "key": "103322",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-07-23",
+      "last_date": "2026-07-23",
+      "company": "SSS Lugano",
+      "participation_max": 15,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103322",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "101905",
       "category": "WK Pool Plus",
       "city": "",
@@ -306,6 +320,20 @@
       "participation_max": 8,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101905",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103323",
+      "category": "Modul See",
+      "city": "",
+      "first_date": "2026-07-24",
+      "last_date": "2026-07-24",
+      "company": "SSS Lugano",
+      "participation_max": 15,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103323",
       "canton": null,
       "lat": null,
       "lng": null
@@ -787,6 +815,20 @@
       "lng": 9.543599128723145
     },
     {
+      "key": "103319",
+      "category": "Brevet Basis Pool",
+      "city": "Couvet",
+      "first_date": "2026-08-06",
+      "last_date": "2026-08-06",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
+      "canton": "NE",
+      "lat": 46.926021575927734,
+      "lng": 6.633546829223633
+    },
+    {
       "key": "102197",
       "category": "WK See",
       "city": "",
@@ -1079,6 +1121,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103320",
+      "category": "Brevet Plus Pool",
+      "city": "Couvet",
+      "first_date": "2026-08-08",
+      "last_date": "2026-08-08",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103320",
+      "canton": "NE",
+      "lat": 46.926021575927734,
+      "lng": 6.633546829223633
     },
     {
       "key": "100848",
@@ -1578,7 +1634,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101719",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -1907,6 +1963,20 @@
       "lng": null
     },
     {
+      "key": "103334",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-08-17",
+      "last_date": "2026-08-17",
+      "company": "SLRG Bielersee",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103334",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100777",
       "category": "WK BLS-AED",
       "city": "Aarau",
@@ -2003,6 +2073,20 @@
       "canton": "ZH",
       "lat": 47.20124435424805,
       "lng": 8.686915397644043
+    },
+    {
+      "key": "103333",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-08-18",
+      "last_date": "2026-08-18",
+      "company": "SLRG Bielersee",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103333",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99710",
@@ -2215,6 +2299,20 @@
       "lng": 6.954207420349121
     },
     {
+      "key": "103126",
+      "category": "Jugend Erlebnismodul",
+      "city": "Menziken",
+      "first_date": "2026-08-20",
+      "last_date": "2026-08-30",
+      "company": "SLRG Sektion Hallwilersee",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103126",
+      "canton": "AG",
+      "lat": 47.235843658447266,
+      "lng": 8.182795524597168
+    },
+    {
       "key": "103196",
       "category": "Modul BLS-AED",
       "city": "",
@@ -2241,6 +2339,48 @@
       "canton": "LU",
       "lat": 47.05473327636719,
       "lng": 8.300894737243652
+    },
+    {
+      "key": "103180",
+      "category": "WK Pool Basis",
+      "city": "Gossau SG",
+      "first_date": "2026-08-21",
+      "last_date": "2026-08-21",
+      "company": "SLRG Toggenburg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103180",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
+    },
+    {
+      "key": "103181",
+      "category": "WK Pool Plus",
+      "city": "Gossau SG",
+      "first_date": "2026-08-21",
+      "last_date": "2026-08-21",
+      "company": "SLRG Toggenburg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103181",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
+    },
+    {
+      "key": "103182",
+      "category": "WK Pool Pro",
+      "city": "Gossau SG",
+      "first_date": "2026-08-21",
+      "last_date": "2026-08-21",
+      "company": "SLRG Toggenburg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103182",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
     },
     {
       "key": "99840",
@@ -2495,6 +2635,20 @@
       "lng": 7.60764217376709
     },
     {
+      "key": "103183",
+      "category": "Brevet Basis Pool",
+      "city": "Gossau SG",
+      "first_date": "2026-08-22",
+      "last_date": "2026-08-22",
+      "company": "SLRG Toggenburg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103183",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
+    },
+    {
       "key": "103281",
       "category": "WK Pool Plus",
       "city": "Monthey",
@@ -2549,6 +2703,20 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
+    },
+    {
+      "key": "103184",
+      "category": "Brevet Plus Pool",
+      "city": "Gossau SG",
+      "first_date": "2026-08-23",
+      "last_date": "2026-08-23",
+      "company": "SLRG Toggenburg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103184",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
     },
     {
       "key": "103229",
@@ -3230,7 +3398,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101127",
       "canton": "BE",
       "lat": 46.97819519042969,
@@ -3545,6 +3713,34 @@
       "lng": 7.60764217376709
     },
     {
+      "key": "103299",
+      "category": "WK See",
+      "city": "Küssnacht am Rigi",
+      "first_date": "2026-08-29",
+      "last_date": "2026-08-29",
+      "company": "SLRG Küssnacht am Rigi",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103299",
+      "canton": "SZ",
+      "lat": 47.08266830444336,
+      "lng": 8.440006256103516
+    },
+    {
+      "key": "103300",
+      "category": "WK BLS-AED",
+      "city": "Küssnacht am Rigi",
+      "first_date": "2026-08-29",
+      "last_date": "2026-08-29",
+      "company": "SLRG Küssnacht am Rigi",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103300",
+      "canton": "SZ",
+      "lat": 47.08266830444336,
+      "lng": 8.440006256103516
+    },
+    {
       "key": "99715",
       "category": "WK Fluss",
       "city": "",
@@ -3566,7 +3762,7 @@
       "last_date": "2026-08-30",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100690",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -3664,7 +3860,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100318",
       "canton": null,
       "lat": null,
@@ -3944,7 +4140,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Region Nordwest",
       "participation_max": 15,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100646",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -4301,6 +4497,20 @@
       "lng": 6.954207420349121
     },
     {
+      "key": "103301",
+      "category": "Modul BLS-AED",
+      "city": "Porrentruy",
+      "first_date": "2026-09-05",
+      "last_date": "2026-09-05",
+      "company": "SSS Porrentruy",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103301",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
       "key": "100561",
       "category": "Brevet Basis Pool",
       "city": "Bassins",
@@ -4411,6 +4621,20 @@
       "canton": "AI",
       "lat": 47.33292770385742,
       "lng": 9.396230697631836
+    },
+    {
+      "key": "103302",
+      "category": "Brevet Basis Pool",
+      "city": "Porrentruy",
+      "first_date": "2026-09-06",
+      "last_date": "2026-09-06",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
     },
     {
       "key": "100949",
@@ -5057,6 +5281,20 @@
       "lng": 7.562047481536865
     },
     {
+      "key": "103303",
+      "category": "Brevet Plus Pool",
+      "city": "Porrentruy",
+      "first_date": "2026-09-13",
+      "last_date": "2026-09-13",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103303",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
       "key": "100147",
       "category": "Modul Fluss",
       "city": "Heerbrugg",
@@ -5517,6 +5755,20 @@
       "canton": "SG",
       "lat": 47.17293930053711,
       "lng": 9.010757446289062
+    },
+    {
+      "key": "103304",
+      "category": "Brevet Pro Pool",
+      "city": "Porrentruy",
+      "first_date": "2026-09-19",
+      "last_date": "2026-09-20",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103304",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
     },
     {
       "key": "99618",
@@ -6485,6 +6737,20 @@
       "lng": 7.536828994750977
     },
     {
+      "key": "103326",
+      "category": "WK Pool Plus",
+      "city": "Lausanne",
+      "first_date": "2026-10-05",
+      "last_date": "2026-10-05",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103326",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
+    },
+    {
       "key": "100779",
       "category": "WK BLS-AED",
       "city": "Aarau",
@@ -6567,6 +6833,20 @@
       "canton": "VD",
       "lat": 46.768096923828125,
       "lng": 6.632878303527832
+    },
+    {
+      "key": "103327",
+      "category": "WK BLS-AED",
+      "city": "Lausanne",
+      "first_date": "2026-10-07",
+      "last_date": "2026-10-07",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103327",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
     },
     {
       "key": "99550",
@@ -7164,7 +7444,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Franches-Montagnes",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103088",
       "canton": "JU",
       "lat": 47.263877868652344,
@@ -7374,7 +7654,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -7857,6 +8137,20 @@
       "lng": 7.289914131164551
     },
     {
+      "key": "103308",
+      "category": "Brevet Basis Pool",
+      "city": "Oberuzwil",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Wil",
+      "participation_max": 18,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103308",
+      "canton": "SG",
+      "lat": 47.41975021362305,
+      "lng": 9.143709182739258
+    },
+    {
       "key": "101049",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -7899,6 +8193,48 @@
       "lng": 7.711877822875977
     },
     {
+      "key": "103305",
+      "category": "WK BLS-AED",
+      "city": "Porrentruy",
+      "first_date": "2026-10-25",
+      "last_date": "2026-10-25",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103305",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
+      "key": "103306",
+      "category": "WK Pool Plus",
+      "city": "Porrentruy",
+      "first_date": "2026-10-25",
+      "last_date": "2026-10-25",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103306",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
+      "key": "103307",
+      "category": "WK Pool Pro",
+      "city": "Porrentruy",
+      "first_date": "2026-10-25",
+      "last_date": "2026-10-25",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103307",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
       "key": "101640",
       "category": "WK BLS-AED",
       "city": "Delémont",
@@ -7906,7 +8242,7 @@
       "last_date": "2026-10-26",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101640",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -8445,6 +8781,20 @@
       "lng": 8.611495018005371
     },
     {
+      "key": "103313",
+      "category": "Brevet Basis Pool",
+      "city": "Oberuzwil",
+      "first_date": "2026-10-31",
+      "last_date": "2026-10-31",
+      "company": "SLRG Wil",
+      "participation_max": 18,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103313",
+      "canton": "SG",
+      "lat": 47.41975021362305,
+      "lng": 9.143709182739258
+    },
+    {
       "key": "100588",
       "category": "WK Pool Plus",
       "city": "Coppet",
@@ -8667,6 +9017,20 @@
       "canton": "NE",
       "lat": 47.06060028076172,
       "lng": 6.902266502380371
+    },
+    {
+      "key": "103328",
+      "category": "Brevet Basis Pool",
+      "city": "Lausanne",
+      "first_date": "2026-11-02",
+      "last_date": "2026-11-11",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103328",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
     },
     {
       "key": "100780",
@@ -9110,7 +9474,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Region Ost",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102541",
       "canton": null,
       "lat": null,
@@ -9691,6 +10055,20 @@
       "lng": null
     },
     {
+      "key": "103309",
+      "category": "Brevet Plus Pool",
+      "city": "Wil SG",
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-15",
+      "company": "SLRG Wil",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
+      "canton": "SG",
+      "lat": 47.47120666503906,
+      "lng": 9.039849281311035
+    },
+    {
       "key": "101358",
       "category": "WK BLS-AED",
       "city": "Lachen SZ",
@@ -9775,6 +10153,48 @@
       "lng": 7.367916584014893
     },
     {
+      "key": "103310",
+      "category": "Modul BLS-AED",
+      "city": " Wil SG",
+      "first_date": "2026-11-15",
+      "last_date": "2026-11-15",
+      "company": "SLRG Wil",
+      "participation_max": 18,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103310",
+      "canton": "SG",
+      "lat": 47.47120666503906,
+      "lng": 9.039849281311035
+    },
+    {
+      "key": "103311",
+      "category": "WK Pool Plus",
+      "city": "Wil SG",
+      "first_date": "2026-11-15",
+      "last_date": "2026-11-15",
+      "company": "SLRG Wil",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103311",
+      "canton": "SG",
+      "lat": 47.47120666503906,
+      "lng": 9.039849281311035
+    },
+    {
+      "key": "103312",
+      "category": "WK BLS-AED",
+      "city": "Wil SG",
+      "first_date": "2026-11-15",
+      "last_date": "2026-11-15",
+      "company": "SLRG Wil",
+      "participation_max": 18,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103312",
+      "canton": "SG",
+      "lat": 47.47120666503906,
+      "lng": 9.039849281311035
+    },
+    {
       "key": "102582",
       "category": "Brevet Basis Pool",
       "city": "Gossau SG",
@@ -9787,6 +10207,20 @@
       "canton": "SG",
       "lat": 47.42510986328125,
       "lng": 9.262721061706543
+    },
+    {
+      "key": "103329",
+      "category": "Modul BLS-AED",
+      "city": "Lausanne",
+      "first_date": "2026-11-16",
+      "last_date": "2026-11-18",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103329",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
     },
     {
       "key": "99337",
@@ -10125,6 +10559,20 @@
       "lng": 9.317394256591797
     },
     {
+      "key": "103330",
+      "category": "Brevet Plus Pool",
+      "city": "Lausanne",
+      "first_date": "2026-11-23",
+      "last_date": "2026-12-02",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103330",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
+    },
+    {
       "key": "100259",
       "category": "WK BLS-AED",
       "city": "Appenzell",
@@ -10391,6 +10839,20 @@
       "lng": 7.536828994750977
     },
     {
+      "key": "103314",
+      "category": "Brevet Basis Pool",
+      "city": "Oberuzwil",
+      "first_date": "2026-11-28",
+      "last_date": "2026-11-28",
+      "company": "SLRG Wil",
+      "participation_max": 18,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103314",
+      "canton": "SG",
+      "lat": 47.41975021362305,
+      "lng": 9.143709182739258
+    },
+    {
       "key": "100694",
       "category": "Brevet Basis Pool",
       "city": "Spreitenbach",
@@ -10445,6 +10907,48 @@
       "canton": "VD",
       "lat": 46.47169876098633,
       "lng": 6.87440824508667
+    },
+    {
+      "key": "103315",
+      "category": "WK BLS-AED",
+      "city": "Porrentruy",
+      "first_date": "2026-11-29",
+      "last_date": "2026-11-29",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103315",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
+      "key": "103316",
+      "category": "WK Pool Plus",
+      "city": "Porrentruy",
+      "first_date": "2026-11-29",
+      "last_date": "2026-11-29",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103316",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
+      "key": "103318",
+      "category": "WK Pool Pro",
+      "city": "Porrentruy",
+      "first_date": "2026-11-29",
+      "last_date": "2026-11-29",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103318",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
     },
     {
       "key": "102678",
@@ -11063,6 +11567,20 @@
       "lng": 6.87440824508667
     },
     {
+      "key": "103331",
+      "category": "WK Pool Plus",
+      "city": "Lausanne",
+      "first_date": "2026-12-14",
+      "last_date": "2026-12-14",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103331",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
+    },
+    {
       "key": "100257",
       "category": "WK BLS-AED",
       "city": "Chur",
@@ -11103,6 +11621,20 @@
       "canton": "GR",
       "lat": 46.83235549926758,
       "lng": 9.516542434692383
+    },
+    {
+      "key": "103332",
+      "category": "WK BLS-AED",
+      "city": "Lausanne",
+      "first_date": "2026-12-16",
+      "last_date": "2026-12-16",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103332",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
     },
     {
       "key": "99410",
@@ -11187,6 +11719,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103317",
+      "category": "Jugendbrevet",
+      "city": "Oberuzwil",
+      "first_date": "2027-01-09",
+      "last_date": "2027-01-10",
+      "company": "SLRG Wil",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103317",
+      "canton": "SG",
+      "lat": 47.41975021362305,
+      "lng": 9.143709182739258
     },
     {
       "key": "102699",
@@ -11672,7 +12218,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 79,
+      "registered": 81,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11693,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T07:45:22+0000"
+  "geocoded_at": "2026-07-22T08:48:51+0000"
 }
