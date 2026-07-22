@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T08:48:51+0000",
+  "scraped_at": "2026-07-22T09:45:40+0000",
   "count": 874,
   "courses": [
     {
@@ -822,7 +822,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -1130,7 +1130,7 @@
       "last_date": "2026-08-08",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103320",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -4042,7 +4042,7 @@
       "last_date": "2026-09-01",
       "company": "SSS Nord-Vaudois",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103296",
       "canton": "FR",
       "lat": 46.84782409667969,
@@ -5036,7 +5036,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101720",
       "canton": null,
       "lat": null,
@@ -5162,7 +5162,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5176,7 +5176,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103232",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5190,7 +5190,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103233",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5512,7 +5512,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99851",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5540,7 +5540,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99853",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -12239,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T08:48:51+0000"
+  "geocoded_at": "2026-07-22T09:45:40+0000"
 }
