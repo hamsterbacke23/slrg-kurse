@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T10:40:19+0000",
+  "scraped_at": "2026-07-22T11:32:46+0000",
   "count": 873,
   "courses": [
     {
@@ -808,7 +808,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -1116,7 +1116,7 @@
       "last_date": "2026-08-08",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103320",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -2600,7 +2600,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Uri",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102938",
       "canton": null,
       "lat": null,
@@ -5148,7 +5148,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6674,7 +6674,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -11882,7 +11882,7 @@
       "last_date": "2027-04-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102702",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -12225,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T10:40:19+0000"
+  "geocoded_at": "2026-07-22T11:32:46+0000"
 }
