@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T17:27:21+0000",
+  "scraped_at": "2026-07-22T18:21:51+0000",
   "count": 872,
   "courses": [
     {
@@ -6683,16 +6683,16 @@
     {
       "key": "102967",
       "category": "Brevet Pro Pool",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-10-04",
       "last_date": "2026-10-06",
       "company": "SLRG Emmental",
       "participation_max": 10,
       "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102967",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "103019",
@@ -6893,44 +6893,44 @@
     {
       "key": "102980",
       "category": "WK Pool Basis",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-10-08",
       "last_date": "2026-10-08",
       "company": "SLRG Emmental",
       "participation_max": 10,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102980",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "102981",
       "category": "WK Pool Plus",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-10-08",
       "last_date": "2026-10-08",
       "company": "SLRG Emmental",
       "participation_max": 10,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102981",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "102983",
       "category": "WK Pool Pro",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-10-08",
       "last_date": "2026-10-08",
       "company": "SLRG Emmental",
       "participation_max": 10,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102983",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "99905",
@@ -7061,16 +7061,16 @@
     {
       "key": "102977",
       "category": "Brevet Basis Pool",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-10-10",
       "last_date": "2026-10-10",
       "company": "SLRG Emmental",
       "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102977",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "100699",
@@ -8867,16 +8867,16 @@
     {
       "key": "102978",
       "category": "Brevet Plus Pool",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-11-01",
       "last_date": "2026-11-01",
       "company": "SLRG Emmental",
       "participation_max": 12,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102978",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "102990",
@@ -10505,16 +10505,16 @@
     {
       "key": "102979",
       "category": "Brevet Pro Pool",
-      "city": "Brunnen",
+      "city": "Weggis",
       "first_date": "2026-11-22",
       "last_date": "2026-11-26",
       "company": "SLRG Emmental",
       "participation_max": 10,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102979",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
     },
     {
       "key": "103272",
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T17:27:21+0000"
+  "geocoded_at": "2026-07-22T18:21:52+0000"
 }
