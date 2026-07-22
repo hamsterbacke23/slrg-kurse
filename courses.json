@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T05:56:46+0000",
+  "scraped_at": "2026-07-22T06:51:40+0000",
   "count": 837,
   "courses": [
     {
@@ -906,7 +906,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99388",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2502,7 +2502,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Uri",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102938",
       "canton": null,
       "lat": null,
@@ -3342,7 +3342,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102140",
       "canton": "BE",
       "lat": 46.97819519042969,
@@ -11721,5 +11721,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T05:56:46+0000"
+  "geocoded_at": "2026-07-22T06:51:40+0000"
 }
