@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-22T11:32:46+0000",
-  "count": 873,
+  "scraped_at": "2026-07-22T12:28:05+0000",
+  "count": 872,
   "courses": [
     {
       "key": "100804",
@@ -57,20 +57,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103092",
-      "category": "Brevet Basis Pool",
-      "city": "Zürich",
-      "first_date": "2026-06-29",
-      "last_date": "2026-07-06",
-      "company": "SLRG Kloten",
-      "participation_max": 16,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103092",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
     },
     {
       "key": "103093",
@@ -934,7 +920,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99400",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1116,7 +1102,7 @@
       "last_date": "2026-08-08",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103320",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -3440,7 +3426,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102049",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -4574,7 +4560,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101415",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -7500,7 +7486,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -12148,7 +12134,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99112",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12162,7 +12148,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12176,7 +12162,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99114",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12225,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T11:32:46+0000"
+  "geocoded_at": "2026-07-22T12:28:06+0000"
 }
