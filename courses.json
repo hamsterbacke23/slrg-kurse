@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T14:37:49+0000",
+  "scraped_at": "2026-07-22T15:29:42+0000",
   "count": 873,
   "courses": [
     {
@@ -2460,7 +2460,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -4504,7 +4504,7 @@
       "last_date": "2026-09-06",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -5778,7 +5778,7 @@
       "last_date": "2026-09-20",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100563",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -12225,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T14:37:49+0000"
+  "geocoded_at": "2026-07-22T15:29:42+0000"
 }
