@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-22T21:22:03+0000",
-  "count": 871,
+  "scraped_at": "2026-07-22T22:18:44+0000",
+  "count": 870,
   "courses": [
     {
       "key": "100804",
@@ -239,20 +239,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100942",
-      "category": "WK BLS-AED",
-      "city": "Paradiso",
-      "first_date": "2026-07-22",
-      "last_date": "2026-07-22",
-      "company": "SSS Paradiso",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100942",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "100943",
@@ -12197,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T21:22:03+0000"
+  "geocoded_at": "2026-07-22T22:18:44+0000"
 }
