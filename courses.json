@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-22T09:45:40+0000",
-  "count": 874,
+  "scraped_at": "2026-07-22T10:40:19+0000",
+  "count": 873,
   "courses": [
     {
       "key": "100804",
@@ -267,20 +267,6 @@
       "canton": "VD",
       "lat": 46.47946548461914,
       "lng": 6.654235363006592
-    },
-    {
-      "key": "103240",
-      "category": "Modul BLS-AED",
-      "city": "Sion",
-      "first_date": "2026-07-22",
-      "last_date": "2026-07-22",
-      "company": "SSS Sion",
-      "participation_max": 6,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103240",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "100943",
@@ -5162,7 +5148,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5456,7 +5442,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 35,
+      "registered": 36,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99619",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5470,7 +5456,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 27,
+      "registered": 28,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99620",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5484,7 +5470,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 36,
+      "registered": 37,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99621",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5498,7 +5484,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 35,
+      "registered": 36,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99622",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -12239,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T09:45:40+0000"
+  "geocoded_at": "2026-07-22T10:40:19+0000"
 }
