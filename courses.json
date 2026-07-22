@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-22T19:28:14+0000",
-  "count": 872,
+  "scraped_at": "2026-07-22T20:21:23+0000",
+  "count": 871,
   "courses": [
     {
       "key": "100804",
@@ -253,20 +253,6 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
-    },
-    {
-      "key": "103188",
-      "category": "WK BLS-AED",
-      "city": "Pully",
-      "first_date": "2026-07-22",
-      "last_date": "2026-07-22",
-      "company": "Association Romande des Maîtres de Bains ARMB",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103188",
-      "canton": "VD",
-      "lat": 46.47946548461914,
-      "lng": 6.654235363006592
     },
     {
       "key": "100943",
@@ -6016,7 +6002,7 @@
       "last_date": "2026-10-01",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99553",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -12211,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T19:28:14+0000"
+  "geocoded_at": "2026-07-22T20:21:23+0000"
 }
