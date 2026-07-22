@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T04:07:23+0000",
+  "scraped_at": "2026-07-22T05:56:46+0000",
   "count": 837,
   "courses": [
     {
@@ -1899,8 +1899,8 @@
       "first_date": "2026-08-17",
       "last_date": "2026-08-26",
       "company": "SSS Lausanne",
-      "participation_max": 20,
-      "registered": 20,
+      "participation_max": 26,
+      "registered": 26,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102862",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -3328,7 +3328,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102139",
       "canton": "BE",
       "lat": 46.97819519042969,
@@ -3762,7 +3762,7 @@
       "last_date": "2026-09-02",
       "company": "SSS Lausanne",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102863",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -11721,5 +11721,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-22T04:07:23+0000"
+  "geocoded_at": "2026-07-22T05:56:46+0000"
 }
