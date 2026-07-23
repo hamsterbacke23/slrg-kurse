@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T12:27:46+0000",
+  "scraped_at": "2026-07-23T13:30:12+0000",
   "count": 870,
   "courses": [
     {
@@ -724,7 +724,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102836",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -2516,7 +2516,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102508",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -4770,7 +4770,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100951",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T12:27:46+0000"
+  "geocoded_at": "2026-07-23T13:30:13+0000"
 }
