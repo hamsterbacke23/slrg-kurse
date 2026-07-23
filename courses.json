@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T17:28:02+0000",
+  "scraped_at": "2026-07-23T18:22:39+0000",
   "count": 870,
   "courses": [
     {
@@ -2278,7 +2278,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103033",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T17:28:02+0000"
+  "geocoded_at": "2026-07-23T18:22:39+0000"
 }
