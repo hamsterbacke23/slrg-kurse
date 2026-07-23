@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T16:28:39+0000",
+  "scraped_at": "2026-07-23T17:28:02+0000",
   "count": 870,
   "courses": [
     {
@@ -2670,7 +2670,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103229",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -2698,7 +2698,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100855",
       "canton": null,
       "lat": null,
@@ -2894,7 +2894,7 @@
       "last_date": "2026-08-28",
       "company": "SSS Prilly",
       "participation_max": 5,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103226",
       "canton": "VD",
       "lat": 46.53825378417969,
@@ -4882,7 +4882,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Ermatingen",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100115",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T16:28:39+0000"
+  "geocoded_at": "2026-07-23T17:28:02+0000"
 }
