@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-23T21:21:19+0000",
-  "count": 870,
+  "scraped_at": "2026-07-23T22:18:13+0000",
+  "count": 869,
   "courses": [
     {
       "key": "100804",
@@ -183,20 +183,6 @@
       "canton": "FR",
       "lat": 46.96506118774414,
       "lng": 7.117027282714844
-    },
-    {
-      "key": "101125",
-      "category": "Jugendbrevet",
-      "city": "Visp",
-      "first_date": "2026-07-20",
-      "last_date": "2026-07-23",
-      "company": "SLRG Oberwallis",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101125",
-      "canton": "VS",
-      "lat": 46.287025451660156,
-      "lng": 7.86685037612915
     },
     {
       "key": "103016",
@@ -3160,7 +3146,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103112",
       "canton": null,
       "lat": null,
@@ -3762,7 +3748,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -8116,7 +8102,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -12183,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T21:21:19+0000"
+  "geocoded_at": "2026-07-23T22:18:14+0000"
 }
