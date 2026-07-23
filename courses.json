@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T05:58:15+0000",
+  "scraped_at": "2026-07-23T06:56:39+0000",
   "count": 870,
   "courses": [
     {
@@ -2291,7 +2291,7 @@
       "first_date": "2026-08-21",
       "last_date": "2026-08-21",
       "company": "SLRG Toggenburg",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103180",
       "canton": "SG",
@@ -2305,7 +2305,7 @@
       "first_date": "2026-08-21",
       "last_date": "2026-08-21",
       "company": "SLRG Toggenburg",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103181",
       "canton": "SG",
@@ -2319,7 +2319,7 @@
       "first_date": "2026-08-21",
       "last_date": "2026-08-21",
       "company": "SLRG Toggenburg",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103182",
       "canton": "SG",
@@ -2362,7 +2362,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100228",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -2585,7 +2585,7 @@
       "first_date": "2026-08-22",
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103183",
       "canton": "SG",
@@ -2655,7 +2655,7 @@
       "first_date": "2026-08-23",
       "last_date": "2026-08-23",
       "company": "SLRG Toggenburg",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103184",
       "canton": "SG",
@@ -4980,7 +4980,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101720",
       "canton": null,
       "lat": null,
@@ -4994,7 +4994,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101721",
       "canton": null,
       "lat": null,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T05:58:15+0000"
+  "geocoded_at": "2026-07-23T06:56:39+0000"
 }
