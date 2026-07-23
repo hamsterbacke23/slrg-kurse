@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T07:48:34+0000",
+  "scraped_at": "2026-07-23T08:48:31+0000",
   "count": 870,
   "courses": [
     {
@@ -2488,7 +2488,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102111",
       "canton": "BE",
       "lat": 46.691070556640625,
@@ -3398,7 +3398,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102049",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -7234,7 +7234,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100866",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T07:48:34+0000"
+  "geocoded_at": "2026-07-23T08:48:31+0000"
 }
