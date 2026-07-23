@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T13:30:12+0000",
+  "scraped_at": "2026-07-23T14:42:20+0000",
   "count": 870,
   "courses": [
     {
@@ -1914,7 +1914,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103334",
       "canton": null,
       "lat": null,
@@ -3076,7 +3076,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100155",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -5022,7 +5022,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Züri",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101765",
       "canton": null,
       "lat": null,
@@ -5106,7 +5106,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5134,7 +5134,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103233",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5610,7 +5610,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102346",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T13:30:13+0000"
+  "geocoded_at": "2026-07-23T14:42:20+0000"
 }
