@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T19:27:53+0000",
+  "scraped_at": "2026-07-23T20:20:56+0000",
   "count": 870,
   "courses": [
     {
@@ -2600,7 +2600,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103281",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -3664,7 +3664,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103299",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -4826,7 +4826,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Monthey",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103286",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T19:27:53+0000"
+  "geocoded_at": "2026-07-23T20:20:56+0000"
 }
