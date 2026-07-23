@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-23T04:05:50+0000",
+  "scraped_at": "2026-07-23T05:58:15+0000",
   "count": 870,
   "courses": [
     {
@@ -262,7 +262,7 @@
       "last_date": "2026-07-23",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 5,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103322",
       "canton": null,
       "lat": null,
@@ -290,7 +290,7 @@
       "last_date": "2026-07-24",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 5,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103323",
       "canton": null,
       "lat": null,
@@ -2306,7 +2306,7 @@
       "last_date": "2026-08-21",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103181",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -12120,7 +12120,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-23T04:05:50+0000"
+  "geocoded_at": "2026-07-23T05:58:15+0000"
 }
