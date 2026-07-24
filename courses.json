@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T07:45:00+0000",
+  "scraped_at": "2026-07-24T08:47:27+0000",
   "count": 871,
   "courses": [
     {
@@ -444,7 +444,7 @@
       "last_date": "2026-07-30",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102893",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2264,7 +2264,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103033",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -3048,7 +3048,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -3552,7 +3552,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103080",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -6618,7 +6618,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Winterthur",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103140",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -7990,7 +7990,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
       "canton": null,
       "lat": null,
@@ -9152,7 +9152,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99416",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12197,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T07:45:01+0000"
+  "geocoded_at": "2026-07-24T08:47:27+0000"
 }
