@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T17:29:07+0000",
+  "scraped_at": "2026-07-24T18:26:19+0000",
   "count": 868,
   "courses": [
     {
@@ -850,7 +850,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99400",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1970,7 +1970,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103333",
       "canton": null,
       "lat": null,
@@ -3314,7 +3314,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 9,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101734",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -12155,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T17:29:08+0000"
+  "geocoded_at": "2026-07-24T18:26:19+0000"
 }
