@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T18:26:19+0000",
+  "scraped_at": "2026-07-24T19:28:18+0000",
   "count": 868,
   "courses": [
     {
@@ -962,7 +962,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103102",
       "canton": "SG",
       "lat": 47.11335372924805,
@@ -12155,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T18:26:19+0000"
+  "geocoded_at": "2026-07-24T19:28:19+0000"
 }
