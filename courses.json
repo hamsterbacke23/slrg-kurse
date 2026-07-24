@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T14:31:09+0000",
+  "scraped_at": "2026-07-24T15:27:51+0000",
   "count": 868,
   "courses": [
     {
@@ -5680,7 +5680,7 @@
       "last_date": "2026-09-20",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103304",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -9782,7 +9782,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99432",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10580,7 +10580,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99442",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12155,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T14:31:09+0000"
+  "geocoded_at": "2026-07-24T15:27:51+0000"
 }
