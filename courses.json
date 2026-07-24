@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-24T10:38:00+0000",
-  "count": 871,
+  "scraped_at": "2026-07-24T11:30:15+0000",
+  "count": 870,
   "courses": [
     {
       "key": "100804",
@@ -239,20 +239,6 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
-    },
-    {
-      "key": "103322",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-07-23",
-      "last_date": "2026-07-23",
-      "company": "SSS Lugano",
-      "participation_max": 15,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103322",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101905",
@@ -864,7 +850,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99388",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1648,7 +1634,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102869",
       "canton": "SH",
       "lat": 47.70162582397461,
@@ -12197,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T10:38:00+0000"
+  "geocoded_at": "2026-07-24T11:30:15+0000"
 }
