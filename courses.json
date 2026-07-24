@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T04:05:35+0000",
+  "scraped_at": "2026-07-24T05:55:57+0000",
   "count": 869,
   "courses": [
     {
@@ -766,7 +766,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -948,7 +948,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Arbon",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101337",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -1074,7 +1074,7 @@
       "last_date": "2026-08-08",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103320",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -1900,7 +1900,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103334",
       "canton": null,
       "lat": null,
@@ -8816,7 +8816,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101354",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -9110,7 +9110,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99409",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -9124,7 +9124,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99416",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -9138,7 +9138,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99424",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12169,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T04:05:35+0000"
+  "geocoded_at": "2026-07-24T05:55:57+0000"
 }
