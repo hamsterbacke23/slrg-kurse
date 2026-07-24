@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-24T21:21:11+0000",
-  "count": 868,
+  "scraped_at": "2026-07-24T22:20:13+0000",
+  "count": 866,
   "courses": [
     {
       "key": "100804",
@@ -194,34 +194,6 @@
       "participation_max": 6,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103292",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100943",
-      "category": "Brevet Plus Pool",
-      "city": "Paradiso",
-      "first_date": "2026-07-23",
-      "last_date": "2026-07-24",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100943",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
-      "key": "101905",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-07-24",
-      "last_date": "2026-07-24",
-      "company": "SSS Paradiso",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101905",
       "canton": null,
       "lat": null,
       "lng": null
@@ -3818,7 +3790,7 @@
       "last_date": "2026-09-02",
       "company": "SSS Lausanne",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102863",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -4028,7 +4000,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -12155,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T21:21:11+0000"
+  "geocoded_at": "2026-07-24T22:20:13+0000"
 }
