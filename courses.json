@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-24T13:29:29+0000",
-  "count": 869,
+  "scraped_at": "2026-07-24T14:31:09+0000",
+  "count": 868,
   "courses": [
     {
       "key": "100804",
@@ -57,20 +57,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101524",
-      "category": "Modul See",
-      "city": "Lugano",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SSS Lugano",
-      "participation_max": 20,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101524",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
     },
     {
       "key": "102210",
@@ -275,8 +261,8 @@
       "first_date": "2026-07-25",
       "last_date": "2026-07-25",
       "company": "SLRG Emmental",
-      "participation_max": 18,
-      "registered": 18,
+      "participation_max": 20,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100819",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -12169,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T13:29:29+0000"
+  "geocoded_at": "2026-07-24T14:31:09+0000"
 }
