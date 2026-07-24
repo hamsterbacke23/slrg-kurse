@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T06:47:15+0000",
+  "scraped_at": "2026-07-24T07:45:00+0000",
   "count": 871,
   "courses": [
     {
@@ -262,7 +262,7 @@
       "last_date": "2026-07-24",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101905",
       "canton": null,
       "lat": null,
@@ -8802,7 +8802,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
       "canton": null,
       "lat": null,
@@ -12197,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T06:47:15+0000"
+  "geocoded_at": "2026-07-24T07:45:01+0000"
 }
