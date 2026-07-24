@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-24T12:25:31+0000",
+  "scraped_at": "2026-07-24T13:29:29+0000",
   "count": 869,
   "courses": [
     {
@@ -1731,7 +1731,7 @@
       "first_date": "2026-08-16",
       "last_date": "2026-08-16",
       "company": "Swimsports",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101662",
       "canton": "ZH",
@@ -3356,7 +3356,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102049",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -12169,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T12:25:31+0000"
+  "geocoded_at": "2026-07-24T13:29:29+0000"
 }
