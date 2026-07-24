@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-24T05:55:57+0000",
-  "count": 869,
+  "scraped_at": "2026-07-24T06:47:15+0000",
+  "count": 871,
   "courses": [
     {
       "key": "100804",
@@ -1900,7 +1900,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103334",
       "canton": null,
       "lat": null,
@@ -4035,6 +4035,20 @@
       "lng": 6.9480791091918945
     },
     {
+      "key": "103335",
+      "category": "WK Pool Pro",
+      "city": "",
+      "first_date": "2026-09-02",
+      "last_date": "2026-09-02",
+      "company": "SSS Nord-Vaudois",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103335",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100322",
       "category": "Brevet Basis Pool",
       "city": "Allschwil",
@@ -4061,6 +4075,20 @@
       "canton": "LU",
       "lat": 47.079551696777344,
       "lng": 8.333163261413574
+    },
+    {
+      "key": "103336",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-09-03",
+      "last_date": "2026-09-03",
+      "company": "SSS Nord-Vaudois",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103336",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "100646",
@@ -5596,7 +5624,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102346",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -5610,7 +5638,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102347",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -5624,7 +5652,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102348",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -6842,7 +6870,7 @@
       "last_date": "2026-10-08",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101925",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -12169,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-24T05:55:57+0000"
+  "geocoded_at": "2026-07-24T06:47:15+0000"
 }
