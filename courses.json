@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25T21:15:16+0000",
-  "count": 862,
+  "scraped_at": "2026-07-25T22:15:49+0000",
+  "count": 859,
   "courses": [
     {
       "key": "100804",
@@ -213,48 +213,6 @@
       "lng": null
     },
     {
-      "key": "100944",
-      "category": "Modul See",
-      "city": "Caslano",
-      "first_date": "2026-07-25",
-      "last_date": "2026-07-25",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100944",
-      "canton": "TI",
-      "lat": 45.968719482421875,
-      "lng": 8.87798023223877
-    },
-    {
-      "key": "100967",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-07-25",
-      "last_date": "2026-07-25",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100967",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101763",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-07-25",
-      "last_date": "2026-07-25",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 15,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101763",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100846",
       "category": "Brevet Basis Pool",
       "city": "Langnau im Emmental",
@@ -444,7 +402,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -640,7 +598,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -948,7 +906,7 @@
       "last_date": "2026-08-08",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103320",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -12071,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-25T21:15:16+0000"
+  "geocoded_at": "2026-07-25T22:15:49+0000"
 }
