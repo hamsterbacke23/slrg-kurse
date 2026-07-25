@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25T19:24:28+0000",
-  "count": 861,
+  "scraped_at": "2026-07-25T20:16:58+0000",
+  "count": 862,
   "courses": [
     {
       "key": "100804",
@@ -113,6 +113,20 @@
       "canton": "BE",
       "lat": 46.954559326171875,
       "lng": 7.420684814453125
+    },
+    {
+      "key": "103139",
+      "category": "WK BLS-AED",
+      "city": "Zürich",
+      "first_date": "2026-07-06",
+      "last_date": "2026-07-06",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 6,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103139",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
     },
     {
       "key": "103222",
@@ -4378,7 +4392,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101047",
       "canton": null,
       "lat": null,
@@ -4910,7 +4924,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101802",
       "canton": null,
       "lat": null,
@@ -12057,5 +12071,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-25T19:24:28+0000"
+  "geocoded_at": "2026-07-25T20:16:58+0000"
 }
