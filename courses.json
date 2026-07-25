@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25T06:41:42+0000",
-  "count": 866,
+  "scraped_at": "2026-07-25T07:36:23+0000",
+  "count": 865,
   "courses": [
     {
       "key": "100804",
@@ -208,20 +208,6 @@
       "participation_max": 15,
       "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103323",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100316",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-07-25",
-      "last_date": "2026-07-25",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100316",
       "canton": null,
       "lat": null,
       "lng": null
@@ -12127,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-25T06:41:42+0000"
+  "geocoded_at": "2026-07-25T07:36:23+0000"
 }
