@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T09:30:11+0000",
+  "scraped_at": "2026-07-25T10:28:32+0000",
   "count": 865,
   "courses": [
     {
@@ -1270,7 +1270,7 @@
       "last_date": "2026-08-12",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103269",
       "canton": null,
       "lat": null,
@@ -1508,7 +1508,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101994",
       "canton": null,
       "lat": null,
@@ -12113,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-25T09:30:11+0000"
+  "geocoded_at": "2026-07-25T10:28:32+0000"
 }
