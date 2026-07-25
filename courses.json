@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T11:23:36+0000",
+  "scraped_at": "2026-07-25T12:15:00+0000",
   "count": 862,
   "courses": [
     {
@@ -6366,7 +6366,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99402",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12071,5 +12071,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-25T11:23:37+0000"
+  "geocoded_at": "2026-07-25T12:15:01+0000"
 }
