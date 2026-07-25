@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25T15:20:30+0000",
-  "count": 862,
+  "scraped_at": "2026-07-25T16:16:00+0000",
+  "count": 861,
   "courses": [
     {
       "key": "100804",
@@ -197,20 +197,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100819",
-      "category": "Brevet Basis Pool",
-      "city": " Weggis",
-      "first_date": "2026-07-25",
-      "last_date": "2026-07-25",
-      "company": "SLRG Emmental",
-      "participation_max": 20,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100819",
-      "canton": "LU",
-      "lat": 47.03305435180664,
-      "lng": 8.431046485900879
     },
     {
       "key": "100944",
@@ -3510,7 +3496,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103293",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -5148,7 +5134,7 @@
       "last_date": "2026-09-16",
       "company": "SLRG Weinfelden",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101629",
       "canton": null,
       "lat": null,
@@ -12071,5 +12057,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-25T15:20:30+0000"
+  "geocoded_at": "2026-07-25T16:16:00+0000"
 }
