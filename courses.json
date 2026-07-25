@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T13:28:28+0000",
+  "scraped_at": "2026-07-25T14:29:06+0000",
   "count": 862,
   "courses": [
     {
@@ -4056,7 +4056,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100377",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -5694,7 +5694,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98752",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -12071,5 +12071,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-25T13:28:28+0000"
+  "geocoded_at": "2026-07-25T14:29:06+0000"
 }
