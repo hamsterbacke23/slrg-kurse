@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26T11:26:39+0000",
+  "scraped_at": "2026-07-26T12:18:46+0000",
   "count": 858,
   "courses": [
     {
@@ -1732,7 +1732,7 @@
       "last_date": "2026-08-18",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100777",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-26T11:26:39+0000"
+  "geocoded_at": "2026-07-26T12:18:46+0000"
 }
