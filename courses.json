@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26T20:18:11+0000",
+  "scraped_at": "2026-07-26T21:15:52+0000",
   "count": 858,
   "courses": [
     {
@@ -374,7 +374,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sektion Olten",
       "participation_max": 30,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103271",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -4182,7 +4182,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Oberwallis",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103055",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-26T20:18:11+0000"
+  "geocoded_at": "2026-07-26T21:15:52+0000"
 }
