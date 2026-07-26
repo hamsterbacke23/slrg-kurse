@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26T12:18:46+0000",
+  "scraped_at": "2026-07-26T13:28:11+0000",
   "count": 858,
   "courses": [
     {
@@ -374,7 +374,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sektion Olten",
       "participation_max": 30,
-      "registered": 3,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103271",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -1508,7 +1508,7 @@
       "last_date": "2026-08-16",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100689",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -2362,7 +2362,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Uri",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102938",
       "canton": null,
       "lat": null,
@@ -4161,20 +4161,6 @@
       "lng": null
     },
     {
-      "key": "102509",
-      "category": "Modul See",
-      "city": "Genève",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SSS Genève",
-      "participation_max": 10,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102509",
-      "canton": "GE",
-      "lat": 46.204559326171875,
-      "lng": 6.1424560546875
-    },
-    {
       "key": "102937",
       "category": "Modul Fluss",
       "city": "",
@@ -4867,8 +4853,8 @@
       "first_date": "2026-09-12",
       "last_date": "2026-09-12",
       "company": "SLRG Bielersee",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101802",
       "canton": null,
       "lat": null,
@@ -4901,6 +4887,20 @@
       "canton": "BE",
       "lat": 47.25593948364258,
       "lng": 7.807864665985107
+    },
+    {
+      "key": "102509",
+      "category": "Modul See",
+      "city": "Genève",
+      "first_date": "2026-09-12",
+      "last_date": "2026-09-12",
+      "company": "SSS Genève",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102509",
+      "canton": "GE",
+      "lat": 46.204559326171875,
+      "lng": 6.1424560546875
     },
     {
       "key": "102997",
@@ -5008,7 +5008,7 @@
       "last_date": "2026-09-13",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100847",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -6436,7 +6436,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Winterthur",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103140",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-26T12:18:46+0000"
+  "geocoded_at": "2026-07-26T13:28:11+0000"
 }
