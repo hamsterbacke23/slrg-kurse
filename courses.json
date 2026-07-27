@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-27T20:27:11+0000",
-  "count": 871,
+  "scraped_at": "2026-07-27T21:22:50+0000",
+  "count": 870,
   "courses": [
     {
       "key": "100804",
@@ -227,20 +227,6 @@
       "lng": null
     },
     {
-      "key": "100846",
-      "category": "Brevet Basis Pool",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-07-26",
-      "last_date": "2026-07-26",
-      "company": "SLRG Emmental",
-      "participation_max": 13,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100846",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
       "key": "100000",
       "category": "Brevet Basis Pool",
       "city": "Liestal",
@@ -416,7 +402,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sektion Olten",
       "participation_max": 30,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103271",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -12197,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-27T20:27:11+0000"
+  "geocoded_at": "2026-07-27T21:22:50+0000"
 }
