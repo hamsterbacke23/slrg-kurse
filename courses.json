@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-27T18:27:31+0000",
+  "scraped_at": "2026-07-27T19:28:44+0000",
   "count": 871,
   "courses": [
     {
@@ -1073,8 +1073,8 @@
       "first_date": "2026-08-10",
       "last_date": "2026-08-10",
       "company": "SLRG Emmental",
-      "participation_max": 21,
-      "registered": 21,
+      "participation_max": 22,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100982",
       "canton": "ZH",
       "lat": 47.32124328613281,
@@ -3664,7 +3664,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103136",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -5596,7 +5596,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102475",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -12197,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-27T18:27:31+0000"
+  "geocoded_at": "2026-07-27T19:28:45+0000"
 }
