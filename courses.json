@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-27T17:30:39+0000",
-  "count": 872,
+  "scraped_at": "2026-07-27T18:27:31+0000",
+  "count": 871,
   "courses": [
     {
       "key": "100804",
@@ -253,20 +253,6 @@
       "canton": "BL",
       "lat": 47.483455657958984,
       "lng": 7.7250237464904785
-    },
-    {
-      "key": "102673",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-07-27",
-      "last_date": "2026-07-27",
-      "company": "SLRG Männedorf",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102673",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102893",
@@ -5582,7 +5568,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102347",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -5596,7 +5582,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102348",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12211,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-27T17:30:39+0000"
+  "geocoded_at": "2026-07-27T18:27:31+0000"
 }
