@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-27T15:51:07+0000",
+  "scraped_at": "2026-07-27T16:39:48+0000",
   "count": 872,
   "courses": [
     {
@@ -325,6 +325,20 @@
       "lng": null
     },
     {
+      "key": "102230",
+      "category": "Modul See",
+      "city": "",
+      "first_date": "2026-08-02",
+      "last_date": "2026-08-02",
+      "company": "Cevi Schweiz",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102230",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100001",
       "category": "Brevet Basis Pool",
       "city": "Liestal",
@@ -528,7 +542,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102715",
       "canton": "SG",
       "lat": 47.16484832763672,
@@ -1723,20 +1737,6 @@
       "canton": "TI",
       "lat": 46.01959228515625,
       "lng": 8.944768905639648
-    },
-    {
-      "key": "102862",
-      "category": "Brevet Basis Pool",
-      "city": "Lausanne",
-      "first_date": "2026-08-17",
-      "last_date": "2026-08-26",
-      "company": "SSS Lausanne",
-      "participation_max": 26,
-      "registered": 26,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102862",
-      "canton": "VD",
-      "lat": 46.52865219116211,
-      "lng": 6.638521671295166
     },
     {
       "key": "103064",
@@ -5414,7 +5414,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99851",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5428,7 +5428,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99852",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5442,7 +5442,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99853",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-27T15:51:07+0000"
+  "geocoded_at": "2026-07-27T16:39:48+0000"
 }
