@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-27T14:56:11+0000",
+  "scraped_at": "2026-07-27T15:51:07+0000",
   "count": 872,
   "courses": [
     {
@@ -150,7 +150,7 @@
       "last_date": "2026-08-31",
       "company": "SSS Meyrin",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103127",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -164,7 +164,7 @@
       "last_date": "2026-08-31",
       "company": "SSS Meyrin",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103128",
       "canton": null,
       "lat": null,
@@ -864,7 +864,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103102",
       "canton": "SG",
       "lat": 47.11335372924805,
@@ -6842,7 +6842,7 @@
       "last_date": "2026-10-08",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101925",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -9096,7 +9096,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-27T14:56:11+0000"
+  "geocoded_at": "2026-07-27T15:51:07+0000"
 }
