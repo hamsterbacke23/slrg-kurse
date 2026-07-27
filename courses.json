@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-27T13:46:05+0000",
-  "count": 871,
+  "scraped_at": "2026-07-27T14:56:11+0000",
+  "count": 872,
   "courses": [
     {
       "key": "100804",
@@ -598,7 +598,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103193",
       "canton": "SG",
       "lat": 47.363311767578125,
@@ -1723,6 +1723,20 @@
       "canton": "TI",
       "lat": 46.01959228515625,
       "lng": 8.944768905639648
+    },
+    {
+      "key": "102862",
+      "category": "Brevet Basis Pool",
+      "city": "Lausanne",
+      "first_date": "2026-08-17",
+      "last_date": "2026-08-26",
+      "company": "SSS Lausanne",
+      "participation_max": 26,
+      "registered": 26,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102862",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
     },
     {
       "key": "103064",
@@ -5820,7 +5834,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Oberwil",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102801",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11812,7 +11826,7 @@
       "last_date": "2027-03-12",
       "company": "SLRG Bielersee",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103249",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -12197,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-27T13:46:05+0000"
+  "geocoded_at": "2026-07-27T14:56:11+0000"
 }
