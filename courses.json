@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-27T06:06:48+0000",
+  "scraped_at": "2026-07-27T08:06:34+0000",
   "count": 858,
   "courses": [
     {
@@ -1116,7 +1116,7 @@
       "last_date": "2026-08-12",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100946",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -3818,7 +3818,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101907",
       "canton": null,
       "lat": null,
@@ -5218,7 +5218,7 @@
       "last_date": "2026-09-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103254",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -5652,7 +5652,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98760",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -7710,7 +7710,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100249",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-27T06:06:48+0000"
+  "geocoded_at": "2026-07-27T08:06:34+0000"
 }
