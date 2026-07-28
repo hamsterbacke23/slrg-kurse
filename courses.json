@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-28T20:23:17+0000",
-  "count": 871,
+  "scraped_at": "2026-07-28T21:22:24+0000",
+  "count": 872,
   "courses": [
     {
       "key": "100804",
@@ -183,6 +183,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "101350",
+      "category": "Modul Fluss",
+      "city": "Bremgarten AG",
+      "first_date": "2026-07-11",
+      "last_date": "2026-07-11",
+      "company": "SLRG Lachen",
+      "participation_max": 13,
+      "registered": 12,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101350",
+      "canton": "AG",
+      "lat": 47.346309661865234,
+      "lng": 8.333881378173828
     },
     {
       "key": "102528",
@@ -12197,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-28T20:23:17+0000"
+  "geocoded_at": "2026-07-28T21:22:24+0000"
 }
