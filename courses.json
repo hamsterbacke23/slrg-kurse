@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T21:22:24+0000",
+  "scraped_at": "2026-07-28T22:19:14+0000",
   "count": 872,
   "courses": [
     {
@@ -5456,7 +5456,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100116",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-28T21:22:24+0000"
+  "geocoded_at": "2026-07-28T22:19:14+0000"
 }
