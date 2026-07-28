@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-28T08:51:37+0000",
-  "count": 870,
+  "scraped_at": "2026-07-28T09:49:57+0000",
+  "count": 871,
   "courses": [
     {
       "key": "100804",
@@ -57,6 +57,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103023",
+      "category": "WK Pool Pro",
+      "city": "Oberuzwil",
+      "first_date": "2026-06-22",
+      "last_date": "2026-08-31",
+      "company": "SLRG Wil",
+      "participation_max": 8,
+      "registered": 8,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103023",
+      "canton": "SG",
+      "lat": 47.41975021362305,
+      "lng": 9.143709182739258
     },
     {
       "key": "102210",
@@ -1970,7 +1984,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Obwalden",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -8298,7 +8312,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -12183,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-28T08:51:37+0000"
+  "geocoded_at": "2026-07-28T09:49:57+0000"
 }
