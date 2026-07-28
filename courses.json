@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-28T14:46:28+0000",
-  "count": 872,
+  "scraped_at": "2026-07-28T15:45:50+0000",
+  "count": 871,
   "courses": [
     {
       "key": "100804",
@@ -241,20 +241,6 @@
       "lng": null
     },
     {
-      "key": "100000",
-      "category": "Brevet Basis Pool",
-      "city": "Liestal",
-      "first_date": "2026-07-27",
-      "last_date": "2026-07-28",
-      "company": "SLRG Basel",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100000",
-      "canton": "BL",
-      "lat": 47.483455657958984,
-      "lng": 7.7250237464904785
-    },
-    {
       "key": "103241",
       "category": "Modul BLS-AED",
       "city": "Sion",
@@ -304,7 +290,7 @@
       "last_date": "2026-07-30",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 0,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103355",
       "canton": null,
       "lat": null,
@@ -318,7 +304,7 @@
       "last_date": "2026-07-31",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 0,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103356",
       "canton": null,
       "lat": null,
@@ -835,8 +821,8 @@
       "first_date": "2026-08-08",
       "last_date": "2026-08-08",
       "company": "SLRG Thun-Oberland",
-      "participation_max": 24,
-      "registered": 24,
+      "participation_max": 25,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -2236,7 +2222,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100228",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -12211,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-28T14:46:28+0000"
+  "geocoded_at": "2026-07-28T15:45:50+0000"
 }
