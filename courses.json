@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T19:28:17+0000",
+  "scraped_at": "2026-07-28T20:23:17+0000",
   "count": 871,
   "courses": [
     {
@@ -6772,7 +6772,7 @@
       "last_date": "2026-10-08",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99550",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -7528,7 +7528,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100378",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -10230,7 +10230,7 @@
       "last_date": "2026-12-09",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100382",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -11826,7 +11826,7 @@
       "last_date": "2027-02-13",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101669",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12197,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-28T19:28:17+0000"
+  "geocoded_at": "2026-07-28T20:23:17+0000"
 }
