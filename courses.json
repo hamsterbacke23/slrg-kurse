@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T10:47:05+0000",
+  "scraped_at": "2026-07-28T11:38:04+0000",
   "count": 872,
   "courses": [
     {
@@ -3454,7 +3454,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103070",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -5666,7 +5666,7 @@
       "last_date": "2026-09-20",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103304",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -7248,7 +7248,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-28T10:47:05+0000"
+  "geocoded_at": "2026-07-28T11:38:04+0000"
 }
