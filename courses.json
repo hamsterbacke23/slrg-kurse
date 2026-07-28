@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T12:30:41+0000",
+  "scraped_at": "2026-07-28T13:30:47+0000",
   "count": 872,
   "courses": [
     {
@@ -808,7 +808,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100818",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -4518,7 +4518,7 @@
       "last_date": "2026-09-08",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100949",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -4686,7 +4686,7 @@
       "last_date": "2026-09-09",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101515",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -6562,7 +6562,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sarganserland",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102476",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-28T12:30:41+0000"
+  "geocoded_at": "2026-07-28T13:30:47+0000"
 }
