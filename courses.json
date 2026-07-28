@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T01:30:51+0000",
+  "scraped_at": "2026-07-28T02:58:07+0000",
   "count": 870,
   "courses": [
     {
@@ -6520,7 +6520,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102424",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-28T01:30:51+0000"
+  "geocoded_at": "2026-07-28T02:58:07+0000"
 }
