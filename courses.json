@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T22:17:03+0000",
+  "scraped_at": "2026-07-29T23:18:32+0000",
   "count": 874,
   "courses": [
     {
@@ -444,7 +444,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -12239,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-29T22:17:03+0000"
+  "geocoded_at": "2026-07-29T23:18:33+0000"
 }
