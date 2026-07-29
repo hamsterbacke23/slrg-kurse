@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-29T08:58:52+0000",
-  "count": 872,
+  "scraped_at": "2026-07-29T09:56:31+0000",
+  "count": 870,
   "courses": [
     {
       "key": "100804",
@@ -253,20 +253,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103241",
-      "category": "Modul BLS-AED",
-      "city": "Sion",
-      "first_date": "2026-07-29",
-      "last_date": "2026-07-29",
-      "company": "SSS Sion",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103241",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "102893",
@@ -780,7 +766,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99430",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1116,7 +1102,7 @@
       "last_date": "2026-08-11",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99435",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1172,7 +1158,7 @@
       "last_date": "2026-08-12",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100946",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1256,7 +1242,7 @@
       "last_date": "2026-08-14",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100947",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1522,7 +1508,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102869",
       "canton": "SH",
       "lat": 47.70162582397461,
@@ -1550,7 +1536,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102982",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -3923,20 +3909,6 @@
       "lng": null
     },
     {
-      "key": "102296",
-      "category": "Brevet Basis Pool",
-      "city": "Fribourg",
-      "first_date": "2026-09-02",
-      "last_date": "2026-09-16",
-      "company": "SSS Fribourg",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102296",
-      "canton": "FR",
-      "lat": 46.80337142944336,
-      "lng": 7.161778926849365
-    },
-    {
       "key": "102645",
       "category": "WK BLS-AED",
       "city": "Neuchâtel",
@@ -4896,7 +4868,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101304",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -6282,7 +6254,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103177",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -7038,7 +7010,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -9460,7 +9432,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
       "canton": "SZ",
       "lat": 47.19816589355469,
@@ -10202,7 +10174,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99337",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -12211,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-29T08:58:53+0000"
+  "geocoded_at": "2026-07-29T09:56:31+0000"
 }
