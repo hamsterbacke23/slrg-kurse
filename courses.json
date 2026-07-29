@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T21:16:29+0000",
+  "scraped_at": "2026-07-29T22:17:03+0000",
   "count": 874,
   "courses": [
     {
@@ -304,7 +304,7 @@
       "last_date": "2026-07-30",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103355",
       "canton": null,
       "lat": null,
@@ -318,7 +318,7 @@
       "last_date": "2026-07-31",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103356",
       "canton": null,
       "lat": null,
@@ -850,7 +850,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Limpachtal",
       "participation_max": 15,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102495",
       "canton": "SO",
       "lat": 47.13530731201172,
@@ -1171,7 +1171,7 @@
       "first_date": "2026-08-12",
       "last_date": "2026-08-12",
       "company": "SSS Paradiso",
-      "participation_max": 8,
+      "participation_max": 12,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100946",
       "canton": "TI",
@@ -5162,7 +5162,7 @@
       "last_date": "2026-09-13",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100847",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -12239,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-29T21:16:30+0000"
+  "geocoded_at": "2026-07-29T22:17:03+0000"
 }
