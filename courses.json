@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-29T12:34:35+0000",
-  "count": 870,
+  "scraped_at": "2026-07-29T13:31:08+0000",
+  "count": 872,
   "courses": [
     {
       "key": "100804",
@@ -40,6 +40,20 @@
       "participation_max": 4,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102598",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103364",
+      "category": "Modul See",
+      "city": "",
+      "first_date": "2026-05-23",
+      "last_date": "2026-05-23",
+      "company": "SLRG Innerschwyz",
+      "participation_max": 1,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103364",
       "canton": null,
       "lat": null,
       "lng": null
@@ -416,7 +430,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sektion Olten",
       "participation_max": 30,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103271",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -3573,6 +3587,20 @@
       "lng": 8.440006256103516
     },
     {
+      "key": "103325",
+      "category": "Modul See",
+      "city": "",
+      "first_date": "2026-08-29",
+      "last_date": "2026-08-29",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103325",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99715",
       "category": "WK Fluss",
       "city": "",
@@ -4252,7 +4280,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Oberwallis",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103055",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -8116,7 +8144,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102074",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -12183,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-29T12:34:36+0000"
+  "geocoded_at": "2026-07-29T13:31:08+0000"
 }
