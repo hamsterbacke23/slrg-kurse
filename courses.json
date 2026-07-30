@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-30T17:28:25+0000",
+  "scraped_at": "2026-07-30T18:25:59+0000",
   "count": 871,
   "courses": [
     {
@@ -416,7 +416,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103082",
       "canton": null,
       "lat": null,
@@ -752,7 +752,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Mittelrheintal",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100151",
       "canton": "SG",
       "lat": 47.3646125793457,
@@ -822,7 +822,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103068",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -2306,7 +2306,7 @@
       "last_date": "2026-08-29",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101782",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -4350,7 +4350,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Porrentruy",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103301",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -10468,7 +10468,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103255",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -12197,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T17:28:25+0000"
+  "geocoded_at": "2026-07-30T18:25:59+0000"
 }
