@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-30T19:28:26+0000",
-  "count": 871,
+  "scraped_at": "2026-07-30T20:23:34+0000",
+  "count": 870,
   "courses": [
     {
       "key": "100804",
@@ -141,20 +141,6 @@
       "canton": "BE",
       "lat": 46.954559326171875,
       "lng": 7.420684814453125
-    },
-    {
-      "key": "103139",
-      "category": "WK BLS-AED",
-      "city": "Zürich",
-      "first_date": "2026-07-06",
-      "last_date": "2026-07-06",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103139",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
     },
     {
       "key": "103222",
@@ -4350,7 +4336,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Porrentruy",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103301",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -4476,7 +4462,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -5176,7 +5162,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103303",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -5988,7 +5974,7 @@
       "last_date": "2026-09-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103290",
       "canton": null,
       "lat": null,
@@ -12197,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T19:28:26+0000"
+  "geocoded_at": "2026-07-30T20:23:34+0000"
 }
