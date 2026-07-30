@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-30T22:20:14+0000",
+  "scraped_at": "2026-07-30T23:19:23+0000",
   "count": 869,
   "courses": [
     {
@@ -9054,7 +9054,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -12169,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T22:20:14+0000"
+  "geocoded_at": "2026-07-30T23:19:23+0000"
 }
