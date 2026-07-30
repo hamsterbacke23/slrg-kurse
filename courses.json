@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-30T13:30:20+0000",
+  "scraped_at": "2026-07-30T14:43:13+0000",
   "count": 874,
   "courses": [
     {
@@ -52,7 +52,7 @@
       "last_date": "2026-05-23",
       "company": "SLRG Innerschwyz",
       "participation_max": 1,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103364",
       "canton": null,
       "lat": null,
@@ -738,7 +738,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99388",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -752,7 +752,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99394",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -766,7 +766,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99400",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4014,7 +4014,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -4518,7 +4518,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -5078,7 +5078,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5512,7 +5512,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100320",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -7374,7 +7374,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -10496,7 +10496,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102933",
       "canton": "LU",
       "lat": 47.154170989990234,
@@ -12239,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T13:30:20+0000"
+  "geocoded_at": "2026-07-30T14:43:13+0000"
 }
