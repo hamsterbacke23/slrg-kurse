@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-30T16:28:20+0000",
-  "count": 873,
+  "scraped_at": "2026-07-30T17:28:25+0000",
+  "count": 871,
   "courses": [
     {
       "key": "100804",
@@ -253,34 +253,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102893",
-      "category": "WK Pool Pro",
-      "city": "Sion",
-      "first_date": "2026-07-30",
-      "last_date": "2026-07-30",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102893",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
-      "key": "102894",
-      "category": "WK Pool Plus",
-      "city": "Sion",
-      "first_date": "2026-07-30",
-      "last_date": "2026-07-30",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102894",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "103355",
@@ -3020,7 +2992,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102048",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -3706,7 +3678,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103343",
       "canton": null,
       "lat": null,
@@ -9474,7 +9446,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
       "canton": "SZ",
       "lat": 47.19816589355469,
@@ -12225,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T16:28:20+0000"
+  "geocoded_at": "2026-07-30T17:28:25+0000"
 }
