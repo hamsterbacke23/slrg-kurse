@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-30T20:23:34+0000",
-  "count": 870,
+  "scraped_at": "2026-07-30T21:22:16+0000",
+  "count": 869,
   "courses": [
     {
       "key": "100804",
@@ -1093,20 +1093,6 @@
       "canton": "BL",
       "lat": 47.52326583862305,
       "lng": 7.6465020179748535
-    },
-    {
-      "key": "100634",
-      "category": "WK BLS-AED",
-      "city": "Hausmeister Schule EKMO",
-      "first_date": "2026-08-12",
-      "last_date": "2026-08-12",
-      "company": "SLRG Appenzell",
-      "participation_max": 25,
-      "registered": 21,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100634",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100946",
@@ -12183,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T20:23:34+0000"
+  "geocoded_at": "2026-07-30T21:22:16+0000"
 }
