@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-30T06:47:00+0000",
+  "scraped_at": "2026-07-30T07:45:19+0000",
   "count": 874,
   "courses": [
     {
@@ -1466,7 +1466,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101994",
       "canton": null,
       "lat": null,
@@ -3734,7 +3734,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103352",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -7528,7 +7528,7 @@
       "last_date": "2026-10-26",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100153",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -10552,7 +10552,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103272",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -12239,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T06:47:01+0000"
+  "geocoded_at": "2026-07-30T07:45:19+0000"
 }
