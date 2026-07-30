@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-30T12:28:46+0000",
+  "scraped_at": "2026-07-30T13:30:20+0000",
   "count": 874,
   "courses": [
     {
@@ -1452,7 +1452,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101719",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -6618,7 +6618,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Winterthur",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103140",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -12239,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T12:28:47+0000"
+  "geocoded_at": "2026-07-30T13:30:20+0000"
 }
