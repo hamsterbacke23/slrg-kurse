@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-30T14:43:13+0000",
-  "count": 874,
+  "scraped_at": "2026-07-30T15:36:03+0000",
+  "count": 873,
   "courses": [
     {
       "key": "100804",
@@ -225,20 +225,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103022",
-      "category": "Modul See",
-      "city": "Sugiez",
-      "first_date": "2026-07-15",
-      "last_date": "2026-07-15",
-      "company": "Société de sauvetage du Vully ",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103022",
-      "canton": "FR",
-      "lat": 46.96506118774414,
-      "lng": 7.117027282714844
     },
     {
       "key": "103016",
@@ -2348,7 +2334,7 @@
       "last_date": "2026-08-29",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101782",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -3720,7 +3706,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103343",
       "canton": null,
       "lat": null,
@@ -12239,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-30T14:43:13+0000"
+  "geocoded_at": "2026-07-30T15:36:03+0000"
 }
