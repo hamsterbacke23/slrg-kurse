@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-31T11:40:06+0000",
-  "count": 868,
+  "scraped_at": "2026-07-31T12:32:48+0000",
+  "count": 867,
   "courses": [
     {
       "key": "100804",
@@ -141,20 +141,6 @@
       "canton": "BE",
       "lat": 46.954559326171875,
       "lng": 7.420684814453125
-    },
-    {
-      "key": "103222",
-      "category": "Jugendbrevet",
-      "city": "Zuchwil",
-      "first_date": "2026-07-09",
-      "last_date": "2026-07-11",
-      "company": "SLRG Solothurn",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103222",
-      "canton": "SO",
-      "lat": 47.206111907958984,
-      "lng": 7.562047481536865
     },
     {
       "key": "103127",
@@ -514,7 +500,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Arbon",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102836",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -626,7 +612,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102730",
       "canton": null,
       "lat": null,
@@ -12155,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-31T11:40:06+0000"
+  "geocoded_at": "2026-07-31T12:32:48+0000"
 }
