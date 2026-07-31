@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-31T16:30:27+0000",
+  "scraped_at": "2026-07-31T17:29:00+0000",
   "count": 867,
   "courses": [
     {
@@ -2250,7 +2250,7 @@
       "last_date": "2026-08-29",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101782",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -3636,7 +3636,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103352",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-31T16:30:27+0000"
+  "geocoded_at": "2026-07-31T17:29:00+0000"
 }
