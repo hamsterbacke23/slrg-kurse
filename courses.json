@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-31T17:29:00+0000",
-  "count": 867,
+  "scraped_at": "2026-07-31T18:26:51+0000",
+  "count": 866,
   "courses": [
     {
       "key": "100804",
@@ -85,20 +85,6 @@
       "canton": "SG",
       "lat": 47.41975021362305,
       "lng": 9.143709182739258
-    },
-    {
-      "key": "102210",
-      "category": "Modul See",
-      "city": "Hedingen",
-      "first_date": "2026-07-04",
-      "last_date": "2026-07-04",
-      "company": "SLRG Altberg",
-      "participation_max": 14,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102210",
-      "canton": "ZH",
-      "lat": 47.30222702026367,
-      "lng": 8.450304985046387
     },
     {
       "key": "100890",
@@ -360,7 +346,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Sektion Olten",
       "participation_max": 30,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103271",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -640,7 +626,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103225",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -2026,7 +2012,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103126",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -10412,7 +10398,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103255",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -12141,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-31T17:29:00+0000"
+  "geocoded_at": "2026-07-31T18:26:51+0000"
 }
