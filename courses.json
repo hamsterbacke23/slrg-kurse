@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-31T08:57:52+0000",
-  "count": 869,
+  "scraped_at": "2026-07-31T09:56:21+0000",
+  "count": 868,
   "courses": [
     {
       "key": "100804",
@@ -505,20 +505,6 @@
       "canton": "VS",
       "lat": 46.243896484375,
       "lng": 6.954207420349121
-    },
-    {
-      "key": "102765",
-      "category": "WK See",
-      "city": "Yverdon-les-Bains",
-      "first_date": "2026-08-06",
-      "last_date": "2026-08-06",
-      "company": "SSS Nord-Vaudois",
-      "participation_max": 10,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102765",
-      "canton": "VD",
-      "lat": 46.768096923828125,
-      "lng": 6.632878303527832
     },
     {
       "key": "102836",
@@ -2474,7 +2460,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103229",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -3594,7 +3580,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102050",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -3911,16 +3897,16 @@
     {
       "key": "103335",
       "category": "WK Pool Pro",
-      "city": "",
+      "city": "Yverdon-les-Bains",
       "first_date": "2026-09-02",
       "last_date": "2026-09-02",
       "company": "SSS Nord-Vaudois",
       "participation_max": 16,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103335",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "VD",
+      "lat": 46.768096923828125,
+      "lng": 6.632878303527832
     },
     {
       "key": "100322",
@@ -3953,16 +3939,16 @@
     {
       "key": "103336",
       "category": "WK BLS-AED",
-      "city": "",
+      "city": "Yverdon-les-Bains",
       "first_date": "2026-09-03",
       "last_date": "2026-09-03",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103336",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "VD",
+      "lat": 46.768096923828125,
+      "lng": 6.632878303527832
     },
     {
       "key": "100646",
@@ -5316,7 +5302,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 35,
+      "registered": 36,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99619",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5330,7 +5316,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 28,
+      "registered": 29,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99620",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5344,7 +5330,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 36,
+      "registered": 37,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99621",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5358,7 +5344,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 36,
+      "registered": 37,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99622",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -5638,7 +5624,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99618",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -7122,7 +7108,7 @@
       "last_date": "2026-10-21",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103024",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -7892,7 +7878,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100822",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -8676,7 +8662,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102970",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -8690,7 +8676,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wehntal",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102971",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -12169,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-31T08:57:52+0000"
+  "geocoded_at": "2026-07-31T09:56:21+0000"
 }
