@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-31T09:56:21+0000",
+  "scraped_at": "2026-07-31T10:53:08+0000",
   "count": 868,
   "courses": [
     {
@@ -346,7 +346,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Sarganserland",
       "participation_max": 17,
-      "registered": 14,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102798",
       "canton": null,
       "lat": null,
@@ -388,7 +388,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -3580,7 +3580,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102050",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -4994,7 +4994,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -12155,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-31T09:56:21+0000"
+  "geocoded_at": "2026-07-31T10:53:08+0000"
 }
