@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-31T12:32:48+0000",
+  "scraped_at": "2026-07-31T13:30:47+0000",
   "count": 867,
   "courses": [
     {
@@ -262,7 +262,7 @@
       "last_date": "2026-08-02",
       "company": "Cevi Schweiz",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102230",
       "canton": null,
       "lat": null,
@@ -1172,7 +1172,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101993",
       "canton": null,
       "lat": null,
@@ -1788,7 +1788,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103223",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -2208,7 +2208,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100559",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -5694,7 +5694,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -10048,7 +10048,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Büren a. A.",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102935",
       "canton": "BE",
       "lat": 47.184417724609375,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-31T12:32:48+0000"
+  "geocoded_at": "2026-07-31T13:30:47+0000"
 }
