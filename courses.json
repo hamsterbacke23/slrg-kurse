@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-31T21:21:46+0000",
-  "count": 866,
+  "scraped_at": "2026-07-31T22:18:07+0000",
+  "count": 864,
   "courses": [
     {
       "key": "100804",
@@ -208,20 +208,6 @@
       "participation_max": 16,
       "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103017",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103355",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-07-30",
-      "last_date": "2026-07-30",
-      "company": "SSS Lugano",
-      "participation_max": 15,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103355",
       "canton": null,
       "lat": null,
       "lng": null
@@ -3949,20 +3935,6 @@
       "canton": "VS",
       "lat": 46.243896484375,
       "lng": 6.954207420349121
-    },
-    {
-      "key": "98023",
-      "category": "WK Expert See",
-      "city": "Villeneuve ",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SSS Région Romande",
-      "participation_max": 30,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98023",
-      "canton": "VD",
-      "lat": 46.4063606262207,
-      "lng": 6.953111171722412
     },
     {
       "key": "100237",
@@ -12127,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-31T21:21:46+0000"
+  "geocoded_at": "2026-07-31T22:18:07+0000"
 }
