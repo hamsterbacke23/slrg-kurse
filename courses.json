@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-31T15:39:25+0000",
+  "scraped_at": "2026-07-31T16:30:27+0000",
   "count": 867,
   "courses": [
     {
@@ -164,7 +164,7 @@
       "last_date": "2026-08-31",
       "company": "SSS Meyrin",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103128",
       "canton": null,
       "lat": null,
@@ -1046,7 +1046,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Sektion Olten",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102533",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -3566,7 +3566,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102050",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -4308,7 +4308,7 @@
       "last_date": "2026-09-06",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -8144,7 +8144,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102579",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-07-31T15:39:25+0000"
+  "geocoded_at": "2026-07-31T16:30:27+0000"
 }
