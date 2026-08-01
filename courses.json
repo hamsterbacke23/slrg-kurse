@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-01T21:15:24+0000",
-  "count": 861,
+  "scraped_at": "2026-08-01T22:17:09+0000",
+  "count": 860,
   "courses": [
     {
       "key": "100804",
@@ -180,20 +180,6 @@
       "participation_max": 16,
       "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103017",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103356",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-07-31",
-      "last_date": "2026-07-31",
-      "company": "SSS Lugano",
-      "participation_max": 15,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103356",
       "canton": null,
       "lat": null,
       "lng": null
@@ -1018,7 +1004,7 @@
       "last_date": "2026-08-12",
       "company": "SSS Paradiso",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100946",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1606,7 +1592,7 @@
       "last_date": "2026-08-19",
       "company": "SSS Neuchâtel",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103195",
       "canton": null,
       "lat": null,
@@ -1984,7 +1970,7 @@
       "last_date": "2026-08-20",
       "company": "SSS Neuchâtel",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103196",
       "canton": null,
       "lat": null,
@@ -12057,5 +12043,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-01T21:15:25+0000"
+  "geocoded_at": "2026-08-01T22:17:09+0000"
 }
