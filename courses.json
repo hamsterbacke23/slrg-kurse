@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-01T06:54:43+0000",
+  "scraped_at": "2026-08-01T07:42:42+0000",
   "count": 864,
   "courses": [
     {
@@ -1760,7 +1760,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103333",
       "canton": null,
       "lat": null,
@@ -3594,7 +3594,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103352",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -5876,7 +5876,7 @@
       "last_date": "2026-09-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103290",
       "canton": null,
       "lat": null,
@@ -12099,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-01T06:54:43+0000"
+  "geocoded_at": "2026-08-01T07:42:42+0000"
 }
