@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-01T17:19:06+0000",
+  "scraped_at": "2026-08-01T18:16:10+0000",
   "count": 864,
   "courses": [
     {
@@ -948,7 +948,7 @@
       "last_date": "2026-08-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100945",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1550,7 +1550,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -5638,7 +5638,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -6100,7 +6100,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102086",
       "canton": null,
       "lat": null,
@@ -6422,7 +6422,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102424",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -12099,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-01T17:19:06+0000"
+  "geocoded_at": "2026-08-01T18:16:10+0000"
 }
