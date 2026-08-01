@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-01T19:23:44+0000",
-  "count": 864,
+  "scraped_at": "2026-08-01T20:16:57+0000",
+  "count": 861,
   "courses": [
     {
       "key": "100804",
@@ -26,20 +26,6 @@
       "participation_max": 30,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100808",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102598",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-05-23",
-      "last_date": "2026-10-17",
-      "company": "SLRG Rafzerfeld",
-      "participation_max": 4,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102598",
       "canton": null,
       "lat": null,
       "lng": null
@@ -11637,20 +11623,6 @@
       "lng": 7.206460952758789
     },
     {
-      "key": "102768",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2027-01-18",
-      "last_date": "2027-05-01",
-      "company": "SLRG Rafzerfeld",
-      "participation_max": 4,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102768",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103178",
       "category": "Brevet Basis Pool",
       "city": "Allschwil",
@@ -11959,20 +11931,6 @@
       "lng": 6.9480791091918945
     },
     {
-      "key": "102769",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2027-06-06",
-      "last_date": "2027-08-01",
-      "company": "SLRG Rafzerfeld",
-      "participation_max": 4,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102769",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102362",
       "category": "Brevet Basis Pool",
       "city": "Magglingen",
@@ -12099,5 +12057,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-01T19:23:44+0000"
+  "geocoded_at": "2026-08-01T20:16:57+0000"
 }
