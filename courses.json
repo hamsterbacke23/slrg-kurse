@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-01T05:58:06+0000",
+  "scraped_at": "2026-08-01T06:54:43+0000",
   "count": 864,
   "courses": [
     {
@@ -8060,7 +8060,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103307",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -10412,7 +10412,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103272",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -12099,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-01T05:58:06+0000"
+  "geocoded_at": "2026-08-01T06:54:43+0000"
 }
