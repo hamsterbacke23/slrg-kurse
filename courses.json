@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-01T08:41:59+0000",
+  "scraped_at": "2026-08-01T09:36:02+0000",
   "count": 864,
   "courses": [
     {
@@ -178,7 +178,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103016",
       "canton": null,
       "lat": null,
@@ -4406,7 +4406,7 @@
       "last_date": "2026-09-08",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101514",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4560,7 +4560,7 @@
       "last_date": "2026-09-09",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101515",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4602,7 +4602,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101516",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4994,7 +4994,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -12099,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-01T08:41:59+0000"
+  "geocoded_at": "2026-08-01T09:36:02+0000"
 }
