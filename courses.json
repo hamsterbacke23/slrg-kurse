@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-02T10:29:44+0000",
+  "scraped_at": "2026-08-02T11:25:21+0000",
   "count": 859,
   "courses": [
     {
@@ -724,7 +724,7 @@
       "last_date": "2026-08-08",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103235",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1662,7 +1662,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102423",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -4322,7 +4322,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -9012,7 +9012,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99416",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12029,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-02T10:29:44+0000"
+  "geocoded_at": "2026-08-02T11:25:22+0000"
 }
