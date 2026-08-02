@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-02T11:25:21+0000",
+  "scraped_at": "2026-08-02T12:17:57+0000",
   "count": 859,
   "courses": [
     {
@@ -640,7 +640,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100818",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -2376,7 +2376,7 @@
       "last_date": "2026-08-26",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99897",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -4336,7 +4336,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103353",
       "canton": "TI",
       "lat": 46.362525939941406,
@@ -7962,7 +7962,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -12008,7 +12008,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 83,
+      "registered": 84,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -12029,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-02T11:25:22+0000"
+  "geocoded_at": "2026-08-02T12:17:57+0000"
 }
