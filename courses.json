@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-02T20:17:45+0000",
+  "scraped_at": "2026-08-02T21:15:27+0000",
   "count": 858,
   "courses": [
     {
@@ -234,7 +234,7 @@
       "last_date": "2026-08-12",
       "company": "SLRG Sarganserland",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102604",
       "canton": "SG",
       "lat": 47.12102508544922,
@@ -3916,7 +3916,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100377",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-02T20:17:45+0000"
+  "geocoded_at": "2026-08-02T21:15:27+0000"
 }
