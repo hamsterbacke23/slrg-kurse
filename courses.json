@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-03T14:57:22+0000",
-  "count": 864,
+  "scraped_at": "2026-08-03T15:53:31+0000",
+  "count": 865,
   "courses": [
     {
       "key": "100804",
@@ -276,7 +276,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103368",
       "canton": "BE",
       "lat": 46.469642639160156,
@@ -421,6 +421,20 @@
       "canton": "NE",
       "lat": 46.926021575927734,
       "lng": 6.633546829223633
+    },
+    {
+      "key": "103369",
+      "category": "Brevet Basis Pool",
+      "city": "Adelboden",
+      "first_date": "2026-08-06",
+      "last_date": "2026-08-18",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103369",
+      "canton": "BE",
+      "lat": 46.469642639160156,
+      "lng": 7.551373481750488
     },
     {
       "key": "102197",
@@ -2474,7 +2488,7 @@
       "last_date": "2026-08-27",
       "company": "SSS Paradiso",
       "participation_max": 15,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103354",
       "canton": "TI",
       "lat": 45.98134994506836,
@@ -7388,7 +7402,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100378",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -7934,7 +7948,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103256",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -12099,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T14:57:22+0000"
+  "geocoded_at": "2026-08-03T15:53:31+0000"
 }
