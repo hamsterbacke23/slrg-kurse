@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T18:30:57+0000",
+  "scraped_at": "2026-08-03T19:28:48+0000",
   "count": 863,
   "courses": [
     {
@@ -12008,7 +12008,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99112",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12022,7 +12022,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12036,7 +12036,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99114",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12050,7 +12050,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99115",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T18:30:57+0000"
+  "geocoded_at": "2026-08-03T19:28:48+0000"
 }
