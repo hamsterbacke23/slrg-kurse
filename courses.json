@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T06:01:46+0000",
+  "scraped_at": "2026-08-03T08:05:13+0000",
   "count": 858,
   "courses": [
     {
@@ -612,7 +612,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 24,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -3328,7 +3328,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103293",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -10356,7 +10356,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103272",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -11462,7 +11462,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99417",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11994,7 +11994,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 84,
+      "registered": 85,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T06:01:46+0000"
+  "geocoded_at": "2026-08-03T08:05:13+0000"
 }
