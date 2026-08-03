@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T20:28:12+0000",
+  "scraped_at": "2026-08-03T21:21:52+0000",
   "count": 863,
   "courses": [
     {
@@ -220,7 +220,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -402,7 +402,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -850,7 +850,7 @@
       "last_date": "2026-08-24",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103382",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -4840,7 +4840,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T20:28:12+0000"
+  "geocoded_at": "2026-08-03T21:21:52+0000"
 }
