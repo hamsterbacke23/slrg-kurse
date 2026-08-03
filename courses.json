@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-03T15:53:31+0000",
-  "count": 865,
+  "scraped_at": "2026-08-03T16:45:21+0000",
+  "count": 864,
   "courses": [
     {
       "key": "100804",
@@ -269,20 +269,6 @@
       "lng": 7.60764217376709
     },
     {
-      "key": "103368",
-      "category": "Jugendbrevet",
-      "city": "Adelboden",
-      "first_date": "2026-08-05",
-      "last_date": "2026-08-28",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103368",
-      "canton": "BE",
-      "lat": 46.469642639160156,
-      "lng": 7.551373481750488
-    },
-    {
       "key": "100003",
       "category": "Brevet Plus Pool",
       "city": "Liestal",
@@ -430,7 +416,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103369",
       "canton": "BE",
       "lat": 46.469642639160156,
@@ -3468,7 +3454,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -11126,7 +11112,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102583",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -12113,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T15:53:31+0000"
+  "geocoded_at": "2026-08-03T16:45:21+0000"
 }
