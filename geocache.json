@@ -12,6 +12,12 @@
     "lat": 47.39103698730469,
     "lng": 8.046090126037598
   },
+  "Adelboden": {
+    "canton": "BE",
+    "label": "Adelboden (BE)",
+    "lat": 46.469642639160156,
+    "lng": 7.551373481750488
+  },
   "Adliswil": {
     "canton": "ZH",
     "label": "Adliswil (ZH)",
