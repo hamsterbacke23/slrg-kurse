@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-03T10:13:35+0000",
-  "count": 857,
+  "scraped_at": "2026-08-03T12:02:56+0000",
+  "count": 864,
   "courses": [
     {
       "key": "100804",
@@ -199,20 +199,6 @@
       "lng": null
     },
     {
-      "key": "102604",
-      "category": "Modul See",
-      "city": "Walenstadt",
-      "first_date": "2026-08-03",
-      "last_date": "2026-08-12",
-      "company": "SLRG Sarganserland",
-      "participation_max": 20,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102604",
-      "canton": "SG",
-      "lat": 47.12102508544922,
-      "lng": 9.347698211669922
-    },
-    {
       "key": "102798",
       "category": "Jugendbrevet",
       "city": "",
@@ -388,7 +374,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103059",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -430,7 +416,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -869,6 +855,20 @@
       "canton": "VS",
       "lat": 46.385929107666016,
       "lng": 7.9576735496521
+    },
+    {
+      "key": "103382",
+      "category": "Brevet Pro Pool",
+      "city": "Gossau SG",
+      "first_date": "2026-08-10",
+      "last_date": "2026-08-24",
+      "company": "Pädagogische Hochschule St. Gallen",
+      "participation_max": 10,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103382",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
     },
     {
       "key": "99435",
@@ -1438,7 +1438,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -1655,6 +1655,20 @@
       "lng": null
     },
     {
+      "key": "103383",
+      "category": "Brevet Basis Pool",
+      "city": "Gossau SG",
+      "first_date": "2026-08-18",
+      "last_date": "2026-08-27",
+      "company": "Pädagogische Hochschule St. Gallen",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103383",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
+    },
+    {
       "key": "99710",
       "category": "Brevet Plus Pool",
       "city": "Oberwil BL",
@@ -1718,7 +1732,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Sektion Olten",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102537",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -2558,7 +2572,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103251",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3314,7 +3328,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103293",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -4840,7 +4854,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 11,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5475,6 +5489,20 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
+    },
+    {
+      "key": "99486",
+      "category": "Modul See",
+      "city": "Arbon",
+      "first_date": "2026-09-20",
+      "last_date": "2026-09-20",
+      "company": "Pädagogische Hochschule St. Gallen",
+      "participation_max": 10,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99486",
+      "canton": "TG",
+      "lat": 47.51548385620117,
+      "lng": 9.425399780273438
     },
     {
       "key": "99618",
@@ -6226,7 +6254,7 @@
       "last_date": "2026-09-30",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103018",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -6870,7 +6898,7 @@
       "last_date": "2026-10-11",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102988",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -7150,7 +7178,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -7281,6 +7309,20 @@
       "canton": "ZH",
       "lat": 47.42268371582031,
       "lng": 8.613987922668457
+    },
+    {
+      "key": "103384",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "company": "SLRG Sektion Sempachersee",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103384",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "98223",
@@ -7911,6 +7953,62 @@
       "canton": "SG",
       "lat": 47.41975021362305,
       "lng": 9.143709182739258
+    },
+    {
+      "key": "103386",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103386",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103387",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103387",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103388",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103388",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103389",
+      "category": "WK Pool Pro",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103389",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "101049",
@@ -12001,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T10:13:35+0000"
+  "geocoded_at": "2026-08-03T12:02:56+0000"
 }
