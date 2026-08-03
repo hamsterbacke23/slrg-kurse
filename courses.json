@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-03T12:02:56+0000",
-  "count": 864,
+  "scraped_at": "2026-08-03T13:49:18+0000",
+  "count": 863,
   "courses": [
     {
       "key": "100804",
@@ -171,20 +171,6 @@
       "lng": 7.7250237464904785
     },
     {
-      "key": "101908",
-      "category": "Jugendbrevet",
-      "city": "Thun",
-      "first_date": "2026-08-03",
-      "last_date": "2026-08-07",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 24,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101908",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
-    },
-    {
       "key": "102097",
       "category": "Jugendbrevet",
       "city": "",
@@ -234,7 +220,7 @@
       "last_date": "2026-08-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103077",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -1662,7 +1648,7 @@
       "last_date": "2026-08-27",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103383",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -2558,7 +2544,7 @@
       "last_date": "2026-08-28",
       "company": "SSS Prilly",
       "participation_max": 5,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103226",
       "canton": "VD",
       "lat": 46.53825378417969,
@@ -3468,7 +3454,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103136",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -4784,7 +4770,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101802",
       "canton": null,
       "lat": null,
@@ -6184,7 +6170,7 @@
       "last_date": "2026-10-08",
       "company": "SSS Sion",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103246",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6870,7 +6856,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -6954,7 +6940,7 @@
       "last_date": "2026-10-14",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99998",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -7808,7 +7794,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101668",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7948,7 +7934,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103308",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -12099,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T12:02:56+0000"
+  "geocoded_at": "2026-08-03T13:49:18+0000"
 }
