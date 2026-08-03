@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T19:28:48+0000",
+  "scraped_at": "2026-08-03T20:28:12+0000",
   "count": 863,
   "courses": [
     {
@@ -2446,7 +2446,7 @@
       "last_date": "2026-08-24",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103239",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -4686,7 +4686,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101304",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -6884,7 +6884,7 @@
       "last_date": "2026-10-11",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102988",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T19:28:48+0000"
+  "geocoded_at": "2026-08-03T20:28:12+0000"
 }
