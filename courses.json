@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-03T17:31:41+0000",
+  "scraped_at": "2026-08-03T18:30:57+0000",
   "count": 863,
   "courses": [
     {
@@ -1648,7 +1648,7 @@
       "last_date": "2026-08-27",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103383",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -7276,7 +7276,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -11098,7 +11098,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102583",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-03T17:31:42+0000"
+  "geocoded_at": "2026-08-03T18:30:57+0000"
 }
