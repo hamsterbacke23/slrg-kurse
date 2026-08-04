@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T09:51:18+0000",
+  "scraped_at": "2026-08-04T10:50:30+0000",
   "count": 863,
   "courses": [
     {
@@ -402,7 +402,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -640,7 +640,7 @@
       "last_date": "2026-08-08",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103236",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3160,7 +3160,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102609",
       "canton": "ZH",
       "lat": 47.366180419921875,
@@ -3342,7 +3342,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103300",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -11602,7 +11602,7 @@
       "last_date": "2027-01-10",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103317",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-04T09:51:18+0000"
+  "geocoded_at": "2026-08-04T10:50:31+0000"
 }
