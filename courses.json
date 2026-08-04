@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T05:55:58+0000",
+  "scraped_at": "2026-08-04T06:48:30+0000",
   "count": 863,
   "courses": [
     {
@@ -1564,7 +1564,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102369",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -2068,7 +2068,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -4714,7 +4714,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101720",
       "canton": null,
       "lat": null,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-04T05:55:58+0000"
+  "geocoded_at": "2026-08-04T06:48:30+0000"
 }
