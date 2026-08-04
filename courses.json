@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T13:31:06+0000",
+  "scraped_at": "2026-08-04T14:46:49+0000",
   "count": 863,
   "courses": [
     {
@@ -878,7 +878,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Sektion Olten",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102533",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -3314,7 +3314,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103293",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -3356,7 +3356,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Baden-Brugg",
       "participation_max": 14,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103325",
       "canton": null,
       "lat": null,
@@ -3580,7 +3580,7 @@
       "last_date": "2026-09-02",
       "company": "SSS Lausanne",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102863",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -4224,7 +4224,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101415",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -9880,7 +9880,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101599",
       "canton": null,
       "lat": null,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-04T13:31:06+0000"
+  "geocoded_at": "2026-08-04T14:46:49+0000"
 }
