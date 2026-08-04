@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T07:49:22+0000",
+  "scraped_at": "2026-08-04T08:52:37+0000",
   "count": 863,
   "courses": [
     {
@@ -388,7 +388,7 @@
       "last_date": "2026-08-06",
       "company": "SLRG Mittelrheintal",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103194",
       "canton": "SG",
       "lat": 47.363311767578125,
@@ -1256,7 +1256,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102869",
       "canton": "SH",
       "lat": 47.70162582397461,
@@ -2110,7 +2110,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Bülach",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101424",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -5708,7 +5708,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -6982,7 +6982,7 @@
       "last_date": "2026-10-21",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103024",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -10384,7 +10384,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103255",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-04T07:49:22+0000"
+  "geocoded_at": "2026-08-04T08:52:37+0000"
 }
