@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-04T12:32:15+0000",
+  "scraped_at": "2026-08-04T13:31:06+0000",
   "count": 863,
   "courses": [
     {
@@ -1130,7 +1130,7 @@
       "last_date": "2026-08-15",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100968",
       "canton": null,
       "lat": null,
@@ -1704,7 +1704,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Sektion Olten",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102350",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -1717,7 +1717,7 @@
       "first_date": "2026-08-19",
       "last_date": "2026-08-19",
       "company": "SLRG Sektion Olten",
-      "participation_max": 16,
+      "participation_max": 12,
       "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102537",
       "canton": "SO",
@@ -2082,7 +2082,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100559",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -6408,7 +6408,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Winterthur",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103140",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -8312,7 +8312,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Baldeggersee",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102196",
       "canton": "LU",
       "lat": 47.18844985961914,
@@ -12085,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-04T12:32:15+0000"
+  "geocoded_at": "2026-08-04T13:31:06+0000"
 }
