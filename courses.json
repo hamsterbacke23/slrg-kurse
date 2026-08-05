@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-05T19:07:25+0000",
-  "count": 859,
+  "scraped_at": "2026-08-05T20:52:34+0000",
+  "count": 862,
   "courses": [
     {
       "key": "100804",
@@ -40,6 +40,20 @@
       "participation_max": 1,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103364",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "100505",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-06-05",
+      "last_date": "2026-07-08",
+      "company": "SLRG Rafzerfeld",
+      "participation_max": 3,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100505",
       "canton": null,
       "lat": null,
       "lng": null
@@ -124,6 +138,34 @@
       "participation_max": 6,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103128",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102528",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-07-15",
+      "last_date": "2026-09-29",
+      "company": "SLRG Rafzerfeld",
+      "participation_max": 5,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102528",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102875",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-07-15",
+      "last_date": "2026-08-30",
+      "company": "SLRG Rafzerfeld",
+      "participation_max": 4,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102875",
       "canton": null,
       "lat": null,
       "lng": null
@@ -1144,7 +1186,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101994",
       "canton": null,
       "lat": null,
@@ -3440,7 +3482,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103352",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -3762,7 +3804,7 @@
       "last_date": "2026-09-04",
       "company": "SSS Monthey",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103283",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -11952,7 +11994,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99112",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11966,7 +12008,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11980,7 +12022,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99114",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11994,7 +12036,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99115",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12029,5 +12071,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-05T19:07:25+0000"
+  "geocoded_at": "2026-08-05T20:52:34+0000"
 }
