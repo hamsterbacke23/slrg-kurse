@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-05T22:01:40+0000",
+  "scraped_at": "2026-08-05T23:44:02+0000",
   "count": 861,
   "courses": [
     {
@@ -2263,8 +2263,8 @@
       "first_date": "2026-08-23",
       "last_date": "2026-08-23",
       "company": "SSS Payerne",
-      "participation_max": 13,
-      "registered": 13,
+      "participation_max": 14,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102637",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -3328,7 +3328,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Baden-Brugg",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103325",
       "canton": null,
       "lat": null,
@@ -4098,7 +4098,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103284",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -4868,7 +4868,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103288",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -8424,7 +8424,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101244",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -12057,5 +12057,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-05T22:01:40+0000"
+  "geocoded_at": "2026-08-05T23:44:02+0000"
 }
