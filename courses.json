@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-06T01:11:37+0000",
-  "count": 861,
+  "scraped_at": "2026-08-06T04:50:50+0000",
+  "count": 863,
   "courses": [
     {
       "key": "100804",
@@ -255,6 +255,20 @@
       "lng": null
     },
     {
+      "key": "103368",
+      "category": "Jugendbrevet",
+      "city": "Adelboden",
+      "first_date": "2026-08-05",
+      "last_date": "2026-08-28",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 12,
+      "registered": 5,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103368",
+      "canton": "BE",
+      "lat": 46.469642639160156,
+      "lng": 7.551373481750488
+    },
+    {
       "key": "100003",
       "category": "Brevet Plus Pool",
       "city": "Liestal",
@@ -309,6 +323,20 @@
       "canton": "SG",
       "lat": 47.16484832763672,
       "lng": 9.390880584716797
+    },
+    {
+      "key": "102746",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-08-06",
+      "last_date": "2026-08-06",
+      "company": "Fachhochschule Nordwestschweiz FHNW",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102746",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "102836",
@@ -430,7 +458,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103225",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -1396,7 +1424,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -12057,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-06T01:11:37+0000"
+  "geocoded_at": "2026-08-06T04:50:50+0000"
 }
