@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-07T14:02:29+0000",
-  "count": 877,
+  "scraped_at": "2026-08-07T15:40:17+0000",
+  "count": 878,
   "courses": [
     {
       "key": "100804",
@@ -108,7 +108,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 30,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103419",
       "canton": null,
       "lat": null,
@@ -388,7 +388,7 @@
       "last_date": "2026-08-07",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102747",
       "canton": null,
       "lat": null,
@@ -2026,7 +2026,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -4210,7 +4210,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Grenchen",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100680",
       "canton": null,
       "lat": null,
@@ -5531,6 +5531,20 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
+    },
+    {
+      "key": "103430",
+      "category": "Modul Fluss",
+      "city": "Bellinzona",
+      "first_date": "2026-09-19",
+      "last_date": "2026-09-19",
+      "company": "SSS Gambarogno",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103430",
+      "canton": "TI",
+      "lat": 46.21047592163086,
+      "lng": 8.988633155822754
     },
     {
       "key": "99486",
@@ -8018,7 +8032,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -12281,5 +12295,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-07T14:02:29+0000"
+  "geocoded_at": "2026-08-07T15:40:17+0000"
 }
