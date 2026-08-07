@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-07T15:40:17+0000",
-  "count": 878,
+  "scraped_at": "2026-08-07T16:37:37+0000",
+  "count": 879,
   "courses": [
     {
       "key": "100804",
@@ -129,6 +129,20 @@
       "lng": 9.143709182739258
     },
     {
+      "key": "103090",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-06-25",
+      "last_date": "2026-06-26",
+      "company": "SSS Lugano",
+      "participation_max": 5,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103090",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102964",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -141,6 +155,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "101524",
+      "category": "Modul See",
+      "city": "Lugano",
+      "first_date": "2026-07-04",
+      "last_date": "2026-07-04",
+      "company": "SSS Lugano",
+      "participation_max": 20,
+      "registered": 16,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101524",
+      "canton": "TI",
+      "lat": 46.0294303894043,
+      "lng": 8.988879203796387
     },
     {
       "key": "100890",
@@ -264,20 +292,6 @@
       "participation_max": 16,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102097",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102798",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-08-03",
-      "last_date": "2026-08-07",
-      "company": "SLRG Sarganserland",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102798",
       "canton": null,
       "lat": null,
       "lng": null
@@ -1536,7 +1550,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102369",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -4308,7 +4322,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -8942,7 +8956,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103116",
       "canton": null,
       "lat": null,
@@ -12295,5 +12309,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-07T15:40:17+0000"
+  "geocoded_at": "2026-08-07T16:37:37+0000"
 }
