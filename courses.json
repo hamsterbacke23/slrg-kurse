@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T09:45:43+0000",
+  "scraped_at": "2026-08-07T10:39:11+0000",
   "count": 877,
   "courses": [
     {
@@ -346,7 +346,7 @@
       "last_date": "2026-08-06",
       "company": "SSS Val-de-Travers",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -388,7 +388,7 @@
       "last_date": "2026-08-07",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102747",
       "canton": null,
       "lat": null,
@@ -1172,7 +1172,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101994",
       "canton": null,
       "lat": null,
@@ -1592,7 +1592,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103223",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -1872,7 +1872,7 @@
       "last_date": "2026-08-20",
       "company": "SSS Neuchâtel",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103196",
       "canton": null,
       "lat": null,
@@ -2040,7 +2040,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100559",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -4546,7 +4546,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Sektion Olten",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103393",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -5414,7 +5414,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Thun-Oberland",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102262",
       "canton": "BE",
       "lat": 46.69535446166992,
@@ -9446,7 +9446,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Altberg",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102211",
       "canton": null,
       "lat": null,
@@ -12281,5 +12281,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-07T09:45:43+0000"
+  "geocoded_at": "2026-08-07T10:39:11+0000"
 }
