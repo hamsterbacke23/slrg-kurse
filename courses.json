@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T12:33:33+0000",
+  "scraped_at": "2026-08-07T14:02:29+0000",
   "count": 877,
   "courses": [
     {
@@ -108,7 +108,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 30,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103419",
       "canton": null,
       "lat": null,
@@ -5540,7 +5540,7 @@
       "last_date": "2026-09-20",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99486",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -9502,7 +9502,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Region Ost",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102541",
       "canton": null,
       "lat": null,
@@ -10062,7 +10062,7 @@
       "last_date": "2026-11-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101784",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -12281,5 +12281,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-07T12:33:33+0000"
+  "geocoded_at": "2026-08-07T14:02:29+0000"
 }
