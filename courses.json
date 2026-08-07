@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-07T17:37:25+0000",
+  "scraped_at": "2026-08-07T18:34:36+0000",
   "count": 878,
   "courses": [
     {
@@ -2026,7 +2026,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -3328,7 +3328,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103282",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -4196,7 +4196,7 @@
       "last_date": "2026-09-06",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -5540,7 +5540,7 @@
       "last_date": "2026-09-19",
       "company": "SSS Gambarogno",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103430",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -8942,7 +8942,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103116",
       "canton": null,
       "lat": null,
@@ -12295,5 +12295,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-07T17:37:25+0000"
+  "geocoded_at": "2026-08-07T18:34:36+0000"
 }
