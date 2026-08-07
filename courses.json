@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-07T01:39:06+0000",
-  "count": 865,
+  "scraped_at": "2026-08-07T04:16:01+0000",
+  "count": 867,
   "courses": [
     {
       "key": "100804",
@@ -334,6 +334,34 @@
       "participation_max": 12,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102198",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102747",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-08-07",
+      "last_date": "2026-08-07",
+      "company": "Fachhochschule Nordwestschweiz FHNW",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102747",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102748",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-08-07",
+      "last_date": "2026-08-07",
+      "company": "Fachhochschule Nordwestschweiz FHNW",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102748",
       "canton": null,
       "lat": null,
       "lng": null
@@ -878,7 +906,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101993",
       "canton": null,
       "lat": null,
@@ -12113,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-07T01:39:06+0000"
+  "geocoded_at": "2026-08-07T04:16:01+0000"
 }
