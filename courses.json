@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T09:24:16+0000",
-  "count": 872,
+  "scraped_at": "2026-08-08T10:17:49+0000",
+  "count": 871,
   "courses": [
     {
       "key": "100804",
@@ -491,20 +491,6 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
-    },
-    {
-      "key": "101897",
-      "category": "Brevet Basis Pool",
-      "city": "Thun",
-      "first_date": "2026-08-08",
-      "last_date": "2026-08-08",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 24,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
     },
     {
       "key": "102495",
@@ -1549,8 +1535,8 @@
       "first_date": "2026-08-18",
       "last_date": "2026-08-27",
       "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 12,
-      "registered": 8,
+      "participation_max": 9,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103383",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -1592,7 +1578,7 @@
       "last_date": "2026-08-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100787",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2684,7 +2670,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -12211,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-08T09:24:16+0000"
+  "geocoded_at": "2026-08-08T10:17:49+0000"
 }
