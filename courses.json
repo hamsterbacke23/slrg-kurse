@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T13:35:58+0000",
-  "count": 871,
+  "scraped_at": "2026-08-08T14:20:25+0000",
+  "count": 870,
   "courses": [
     {
       "key": "100804",
@@ -519,20 +519,6 @@
       "canton": "SG",
       "lat": 47.411685943603516,
       "lng": 9.626534461975098
-    },
-    {
-      "key": "103102",
-      "category": "Modul See",
-      "city": "Unterterzen",
-      "first_date": "2026-08-08",
-      "last_date": "2026-08-08",
-      "company": "SLRG Sarganserland",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103102",
-      "canton": "SG",
-      "lat": 47.11335372924805,
-      "lng": 9.252167701721191
     },
     {
       "key": "103235",
@@ -1535,8 +1521,8 @@
       "first_date": "2026-08-18",
       "last_date": "2026-08-27",
       "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 9,
-      "registered": 9,
+      "participation_max": 10,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103383",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -8074,7 +8060,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -12197,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-08T13:35:58+0000"
+  "geocoded_at": "2026-08-08T14:20:25+0000"
 }
