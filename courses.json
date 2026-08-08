@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-08T21:16:49+0000",
-  "count": 861,
+  "scraped_at": "2026-08-08T22:14:15+0000",
+  "count": 859,
   "courses": [
     {
       "key": "100804",
@@ -393,34 +393,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100151",
-      "category": "Modul See",
-      "city": "Kriessern",
-      "first_date": "2026-08-08",
-      "last_date": "2026-08-08",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100151",
-      "canton": "SG",
-      "lat": 47.3646125793457,
-      "lng": 9.609383583068848
-    },
-    {
-      "key": "103068",
-      "category": "WK Fluss",
-      "city": "Heerbrugg",
-      "first_date": "2026-08-08",
-      "last_date": "2026-08-08",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103068",
-      "canton": "SG",
-      "lat": 47.411685943603516,
-      "lng": 9.626534461975098
     },
     {
       "key": "103235",
@@ -1382,7 +1354,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103333",
       "canton": null,
       "lat": null,
@@ -6926,7 +6898,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100866",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -12057,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-08T21:16:49+0000"
+  "geocoded_at": "2026-08-08T22:14:15+0000"
 }
