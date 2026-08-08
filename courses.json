@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T04:56:15+0000",
+  "scraped_at": "2026-08-08T05:34:42+0000",
   "count": 872,
   "courses": [
     {
@@ -1144,7 +1144,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Altberg",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102199",
       "canton": null,
       "lat": null,
@@ -8858,7 +8858,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103116",
       "canton": null,
       "lat": null,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-08T04:56:15+0000"
+  "geocoded_at": "2026-08-08T05:34:42+0000"
 }
