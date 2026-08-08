@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-08T08:24:01+0000",
+  "scraped_at": "2026-08-08T09:24:16+0000",
   "count": 872,
   "courses": [
     {
@@ -500,7 +500,7 @@
       "last_date": "2026-08-08",
       "company": "SLRG Thun-Oberland",
       "participation_max": 24,
-      "registered": 25,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101897",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -1550,7 +1550,7 @@
       "last_date": "2026-08-27",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103383",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -3818,7 +3818,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100239",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -5470,7 +5470,7 @@
       "last_date": "2026-09-20",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99486",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -5540,7 +5540,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Sektion Luzern",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103032",
       "canton": null,
       "lat": null,
@@ -6926,7 +6926,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG Oberwil",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102945",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -7304,7 +7304,7 @@
       "last_date": "2026-10-18",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100693",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -7864,7 +7864,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
       "canton": null,
       "lat": null,
@@ -9460,7 +9460,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103280",
       "canton": "ZH",
       "lat": 47.62740707397461,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-08T08:24:01+0000"
+  "geocoded_at": "2026-08-08T09:24:16+0000"
 }
