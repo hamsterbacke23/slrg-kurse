@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09T13:38:46+0000",
-  "count": 854,
+  "scraped_at": "2026-08-09T14:21:39+0000",
+  "count": 853,
   "courses": [
     {
       "key": "100804",
@@ -1214,7 +1214,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102369",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -6646,7 +6646,7 @@
       "last_date": "2026-10-11",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102988",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -8398,20 +8398,6 @@
       "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102832",
-      "canton": "ZH",
-      "lat": 47.259639739990234,
-      "lng": 8.697005271911621
-    },
-    {
-      "key": "102833",
-      "category": "WK BLS-AED",
-      "city": "Männedorf",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Männedorf",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102833",
       "canton": "ZH",
       "lat": 47.259639739990234,
       "lng": 8.697005271911621
@@ -11959,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-09T13:38:46+0000"
+  "geocoded_at": "2026-08-09T14:21:39+0000"
 }
