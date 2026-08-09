@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09T21:18:45+0000",
-  "count": 850,
+  "scraped_at": "2026-08-09T22:15:47+0000",
+  "count": 848,
   "courses": [
     {
       "key": "100804",
@@ -283,20 +283,6 @@
       "lng": null
     },
     {
-      "key": "103319",
-      "category": "Brevet Basis Pool",
-      "city": "Couvet",
-      "first_date": "2026-08-06",
-      "last_date": "2026-08-06",
-      "company": "SSS Val-de-Travers",
-      "participation_max": 16,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103319",
-      "canton": "NE",
-      "lat": 46.926021575927734,
-      "lng": 6.633546829223633
-    },
-    {
       "key": "102197",
       "category": "WK See",
       "city": "",
@@ -365,20 +351,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103320",
-      "category": "Brevet Plus Pool",
-      "city": "Couvet",
-      "first_date": "2026-08-08",
-      "last_date": "2026-08-08",
-      "company": "SSS Val-de-Travers",
-      "participation_max": 16,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103320",
-      "canton": "NE",
-      "lat": 46.926021575927734,
-      "lng": 6.633546829223633
     },
     {
       "key": "102402",
@@ -1018,7 +990,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 22,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -1116,7 +1088,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Meyrin",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103351",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -3720,7 +3692,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Oberwallis",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103055",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -11903,5 +11875,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-09T21:18:45+0000"
+  "geocoded_at": "2026-08-09T22:15:47+0000"
 }
