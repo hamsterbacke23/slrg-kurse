@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-09T08:26:13+0000",
-  "count": 857,
+  "scraped_at": "2026-08-09T09:25:41+0000",
+  "count": 855,
   "courses": [
     {
       "key": "100804",
@@ -379,34 +379,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103235",
-      "category": "WK BLS-AED",
-      "city": "Sion",
-      "first_date": "2026-08-08",
-      "last_date": "2026-08-08",
-      "company": "SSS Sion",
-      "participation_max": 4,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103235",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
-      "key": "103236",
-      "category": "Modul BLS-AED",
-      "city": "Sion",
-      "first_date": "2026-08-08",
-      "last_date": "2026-08-08",
-      "company": "SSS Sion",
-      "participation_max": 4,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103236",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "103270",
@@ -12001,5 +11973,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-09T08:26:13+0000"
+  "geocoded_at": "2026-08-09T09:25:41+0000"
 }
