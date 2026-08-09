@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-09T15:18:05+0000",
+  "scraped_at": "2026-08-09T16:17:54+0000",
   "count": 852,
   "courses": [
     {
@@ -1074,7 +1074,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Sektion Olten",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101291",
       "canton": "BE",
       "lat": 47.212921142578125,
@@ -2950,7 +2950,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103242",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3454,7 +3454,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -3649,7 +3649,7 @@
       "first_date": "2026-09-05",
       "last_date": "2026-09-05",
       "company": "SLRG Büren a. A.",
-      "participation_max": 14,
+      "participation_max": 12,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101413",
       "canton": "BE",
@@ -11931,5 +11931,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-09T15:18:05+0000"
+  "geocoded_at": "2026-08-09T16:17:54+0000"
 }
