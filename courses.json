@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-09T07:42:05+0000",
+  "scraped_at": "2026-08-09T08:26:13+0000",
   "count": 857,
   "courses": [
     {
@@ -948,7 +948,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102869",
       "canton": "SH",
       "lat": 47.70162582397461,
@@ -2236,7 +2236,7 @@
       "last_date": "2026-08-25",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 15,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102918",
       "canton": null,
       "lat": null,
@@ -6212,7 +6212,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Winterthur",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103140",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -12001,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-09T07:42:06+0000"
+  "geocoded_at": "2026-08-09T08:26:13+0000"
 }
