@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-09T20:16:29+0000",
+  "scraped_at": "2026-08-09T21:18:45+0000",
   "count": 850,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101993",
       "canton": null,
       "lat": null,
@@ -822,7 +822,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101994",
       "canton": null,
       "lat": null,
@@ -3762,7 +3762,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103073",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11903,5 +11903,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-09T20:16:30+0000"
+  "geocoded_at": "2026-08-09T21:18:45+0000"
 }
