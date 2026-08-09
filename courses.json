@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-09T12:20:16+0000",
+  "scraped_at": "2026-08-09T13:38:46+0000",
   "count": 854,
   "courses": [
     {
@@ -4560,7 +4560,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5344,7 +5344,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98760",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -6170,7 +6170,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Winterthur",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103140",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -6954,7 +6954,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -8886,7 +8886,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99409",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-09T12:20:16+0000"
+  "geocoded_at": "2026-08-09T13:38:46+0000"
 }
