@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-10T17:40:45+0000",
+  "scraped_at": "2026-08-10T18:37:50+0000",
   "count": 859,
   "courses": [
     {
@@ -738,7 +738,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Bielersee",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101539",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -1284,7 +1284,7 @@
       "last_date": "2026-08-19",
       "company": "SSS St. Imier",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103367",
       "canton": null,
       "lat": null,
@@ -1648,7 +1648,7 @@
       "last_date": "2026-08-29",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101782",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -2152,7 +2152,7 @@
       "last_date": "2026-09-22",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103392",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -3804,7 +3804,7 @@
       "last_date": "2026-09-06",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -4840,7 +4840,7 @@
       "last_date": "2026-09-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103254",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -7766,7 +7766,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103308",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -8648,7 +8648,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103116",
       "canton": null,
       "lat": null,
@@ -11574,7 +11574,7 @@
       "last_date": "2027-01-19",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102700",
       "canton": null,
       "lat": null,
@@ -12029,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-10T17:40:45+0000"
+  "geocoded_at": "2026-08-10T18:37:51+0000"
 }
