@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10T09:02:58+0000",
-  "count": 855,
+  "scraped_at": "2026-08-10T10:53:24+0000",
+  "count": 856,
   "courses": [
     {
       "key": "100804",
@@ -416,7 +416,7 @@
       "last_date": "2026-08-10",
       "company": "SLRG Emmental",
       "participation_max": 22,
-      "registered": 22,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100982",
       "canton": "ZH",
       "lat": 47.32124328613281,
@@ -556,7 +556,7 @@
       "last_date": "2026-08-12",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103269",
       "canton": null,
       "lat": null,
@@ -626,7 +626,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103276",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -696,7 +696,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -1333,20 +1333,6 @@
       "lng": null
     },
     {
-      "key": "103412",
-      "category": "WK Pool Pro",
-      "city": "Gossau SG",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103412",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
-    },
-    {
       "key": "99559",
       "category": "Brevet Basis Pool",
       "city": "Zürich",
@@ -1718,7 +1704,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102508",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -2726,7 +2712,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Hinwil",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102140",
       "canton": "BE",
       "lat": 46.97819519042969,
@@ -4014,7 +4000,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102864",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -4201,6 +4187,34 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
+    },
+    {
+      "key": "103285",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-09-10",
+      "last_date": "2026-09-24",
+      "company": "SLRG Baldeggersee",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103285",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103287",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-09-10",
+      "last_date": "2026-09-24",
+      "company": "SLRG Baldeggersee",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103287",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "101517",
@@ -5246,7 +5260,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Sektion Luzern",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103032",
       "canton": null,
       "lat": null,
@@ -11973,5 +11987,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-10T09:02:58+0000"
+  "geocoded_at": "2026-08-10T10:53:25+0000"
 }
