@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10T21:28:37+0000",
-  "count": 858,
+  "scraped_at": "2026-08-10T22:23:08+0000",
+  "count": 857,
   "courses": [
     {
       "key": "100804",
@@ -365,20 +365,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "99709",
-      "category": "Brevet Basis Pool",
-      "city": "Oberwil BL",
-      "first_date": "2026-08-10",
-      "last_date": "2026-08-17",
-      "company": "SLRG Oberwil",
-      "participation_max": 19,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
     },
     {
       "key": "100945",
@@ -12015,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-10T21:28:37+0000"
+  "geocoded_at": "2026-08-10T22:23:08+0000"
 }
