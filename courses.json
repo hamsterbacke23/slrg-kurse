@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-10T10:53:24+0000",
+  "scraped_at": "2026-08-10T11:38:32+0000",
   "count": 856,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103276",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -822,7 +822,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Bauma",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102130",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -1031,8 +1031,8 @@
       "first_date": "2026-08-17",
       "last_date": "2026-08-21",
       "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 15,
+      "participation_max": 18,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102105",
       "canton": "TI",
       "lat": 46.01959228515625,
@@ -1326,7 +1326,7 @@
       "last_date": "2026-08-19",
       "company": "SSS St. Imier",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103367",
       "canton": null,
       "lat": null,
@@ -1606,7 +1606,7 @@
       "last_date": "2026-08-22",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
       "canton": "VD",
       "lat": 46.45172882080078,
@@ -3230,7 +3230,7 @@
       "last_date": "2026-09-01",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103066",
       "canton": null,
       "lat": null,
@@ -4910,7 +4910,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99851",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5232,7 +5232,7 @@
       "last_date": "2026-09-20",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100692",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -11987,5 +11987,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-10T10:53:25+0000"
+  "geocoded_at": "2026-08-10T11:38:32+0000"
 }
