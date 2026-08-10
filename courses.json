@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-10T18:37:50+0000",
+  "scraped_at": "2026-08-10T19:45:04+0000",
   "count": 859,
   "courses": [
     {
@@ -598,7 +598,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103276",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -612,7 +612,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103277",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1396,7 +1396,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103126",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -2026,7 +2026,7 @@
       "last_date": "2026-08-27",
       "company": "SSS Paradiso",
       "participation_max": 15,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103354",
       "canton": "TI",
       "lat": 45.98134994506836,
@@ -3090,7 +3090,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103136",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -8872,7 +8872,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -12029,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-10T18:37:51+0000"
+  "geocoded_at": "2026-08-10T19:45:04+0000"
 }
