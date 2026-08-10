@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-10T15:45:53+0000",
+  "scraped_at": "2026-08-10T16:38:58+0000",
   "count": 859,
   "courses": [
     {
@@ -192,7 +192,7 @@
       "last_date": "2026-09-29",
       "company": "SLRG Rafzerfeld",
       "participation_max": 5,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102528",
       "canton": null,
       "lat": null,
@@ -374,7 +374,7 @@
       "last_date": "2026-08-17",
       "company": "SLRG Oberwil",
       "participation_max": 19,
-      "registered": 21,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99709",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -780,7 +780,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102116",
       "canton": null,
       "lat": null,
@@ -1186,7 +1186,7 @@
       "last_date": "2026-09-07",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99710",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -2180,7 +2180,7 @@
       "last_date": "2026-09-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99711",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -3916,7 +3916,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103353",
       "canton": "TI",
       "lat": 46.362525939941406,
@@ -5540,7 +5540,7 @@
       "last_date": "2026-09-24",
       "company": "SLRG Toggenburg",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100760",
       "canton": "SG",
       "lat": 47.22780990600586,
@@ -12029,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-10T15:45:53+0000"
+  "geocoded_at": "2026-08-10T16:38:58+0000"
 }
