@@ -1094,6 +1094,12 @@
     "lat": 45.9117317199707,
     "lng": 8.964438438415527
   },
+  "Roggwil BE": {
+    "canton": "BE",
+    "label": "Roggwil (BE)",
+    "lat": 47.23465347290039,
+    "lng": 7.8160319328308105
+  },
   "Rolle": {
     "canton": "VD",
     "label": "Rolle (VD)",
@@ -1465,6 +1471,12 @@
     "label": "Wädenswil (ZH)",
     "lat": 47.205753326416016,
     "lng": 8.649434089660645
+  },
+  "YPS Schwimmschule": {
+    "canton": "JU",
+    "label": "Ort La Gypsière (JU) - Cornol",
+    "lat": 47.39387130737305,
+    "lng": 7.177615165710449
   },
   "Yverdon-les-Bains": {
     "canton": "VD",
