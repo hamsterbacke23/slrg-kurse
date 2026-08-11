@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-11T18:41:14+0000",
+  "scraped_at": "2026-08-11T19:51:14+0000",
   "count": 858,
   "courses": [
     {
@@ -4070,7 +4070,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 5,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102031",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -5133,7 +5133,7 @@
       "first_date": "2026-09-20",
       "last_date": "2026-09-20",
       "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
+      "participation_max": 9,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99486",
       "canton": "TG",
@@ -6184,7 +6184,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103372",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -8858,7 +8858,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -9334,7 +9334,7 @@
       "last_date": "2026-11-08",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102193",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-11T18:41:14+0000"
+  "geocoded_at": "2026-08-11T19:51:14+0000"
 }
