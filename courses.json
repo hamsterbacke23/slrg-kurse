@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-11T08:52:03+0000",
-  "count": 857,
+  "scraped_at": "2026-08-11T09:46:22+0000",
+  "count": 859,
   "courses": [
     {
       "key": "100804",
@@ -66,7 +66,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 30,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103417",
       "canton": null,
       "lat": null,
@@ -1844,7 +1844,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 32,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103415",
       "canton": null,
       "lat": null,
@@ -2054,7 +2054,7 @@
       "last_date": "2026-08-25",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 15,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102918",
       "canton": null,
       "lat": null,
@@ -4462,7 +4462,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102056",
       "canton": "BE",
       "lat": 47.25593948364258,
@@ -4644,7 +4644,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103303",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -5841,6 +5841,20 @@
       "lng": 8.724346160888672
     },
     {
+      "key": "103379",
+      "category": "Brevet Basis Pool",
+      "city": "Kloten",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "Kantonspolizei Zürich",
+      "participation_max": 22,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103379",
+      "canton": "ZH",
+      "lat": 47.4587516784668,
+      "lng": 8.582091331481934
+    },
+    {
       "key": "103438",
       "category": "WK BLS-AED",
       "city": "Nidau",
@@ -5895,6 +5909,20 @@
       "canton": "VD",
       "lat": 46.47169876098633,
       "lng": 6.87440824508667
+    },
+    {
+      "key": "103380",
+      "category": "Brevet Plus Pool",
+      "city": "Kloten",
+      "first_date": "2026-09-27",
+      "last_date": "2026-09-27",
+      "company": "Kantonspolizei Zürich",
+      "participation_max": 30,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103380",
+      "canton": "ZH",
+      "lat": 47.4587516784668,
+      "lng": 8.582091331481934
     },
     {
       "key": "103246",
@@ -7248,7 +7276,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -12001,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-11T08:52:03+0000"
+  "geocoded_at": "2026-08-11T09:46:22+0000"
 }
