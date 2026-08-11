@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-11T21:31:48+0000",
+  "scraped_at": "2026-08-11T22:28:17+0000",
   "count": 858,
   "courses": [
     {
@@ -337,20 +337,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100945",
-      "category": "Brevet Basis Pool",
-      "city": "Paradiso",
-      "first_date": "2026-08-10",
-      "last_date": "2026-08-11",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100945",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "101554",
@@ -1219,6 +1205,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103401",
+      "category": "WK See",
+      "city": "Kreuzlingen",
+      "first_date": "2026-08-19",
+      "last_date": "2026-08-19",
+      "company": "SLRG Kreuzlingen",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
+      "canton": "TG",
+      "lat": 47.640594482421875,
+      "lng": 9.175581932067871
     },
     {
       "key": "103446",
@@ -3398,7 +3398,7 @@
       "last_date": "2026-09-04",
       "company": "SSS Monthey",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103283",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-11T21:31:48+0000"
+  "geocoded_at": "2026-08-11T22:28:17+0000"
 }
