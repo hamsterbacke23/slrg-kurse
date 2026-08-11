@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-11T06:41:18+0000",
+  "scraped_at": "2026-08-11T07:59:34+0000",
   "count": 857,
   "courses": [
     {
@@ -80,7 +80,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 30,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103419",
       "canton": null,
       "lat": null,
@@ -374,7 +374,7 @@
       "last_date": "2026-08-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100945",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -458,7 +458,7 @@
       "last_date": "2026-08-14",
       "company": "SLRG Winterthur",
       "participation_max": 24,
-      "registered": 26,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102149",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -1844,7 +1844,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 32,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103415",
       "canton": null,
       "lat": null,
@@ -1998,7 +1998,7 @@
       "last_date": "2026-08-27",
       "company": "SSS Paradiso",
       "participation_max": 15,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103354",
       "canton": "TI",
       "lat": 45.98134994506836,
@@ -2124,7 +2124,7 @@
       "last_date": "2026-09-22",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103392",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -2320,7 +2320,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100155",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -3678,7 +3678,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Oberwallis",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103055",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -3790,7 +3790,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Grenchen",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100680",
       "canton": null,
       "lat": null,
@@ -5162,7 +5162,7 @@
       "last_date": "2026-09-20",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99486",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12001,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-11T06:41:18+0000"
+  "geocoded_at": "2026-08-11T07:59:34+0000"
 }
