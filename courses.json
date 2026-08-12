@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12T10:46:58+0000",
-  "count": 857,
+  "scraped_at": "2026-08-12T11:36:20+0000",
+  "count": 861,
   "courses": [
     {
       "key": "100804",
@@ -514,7 +514,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103276",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -528,7 +528,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103277",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1235,6 +1235,20 @@
       "lng": 9.608860969543457
     },
     {
+      "key": "103450",
+      "category": "WK Pool Pro",
+      "city": "Gossau SG",
+      "first_date": "2026-08-19",
+      "last_date": "2026-08-19",
+      "company": "Pädagogische Hochschule St. Gallen",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103450",
+      "canton": "SG",
+      "lat": 47.42510986328125,
+      "lng": 9.262721061706543
+    },
+    {
       "key": "99559",
       "category": "Brevet Basis Pool",
       "city": "Zürich",
@@ -1368,7 +1382,7 @@
       "last_date": "2026-08-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103435",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -1737,6 +1751,20 @@
       "canton": "FR",
       "lat": 46.94218063354492,
       "lng": 7.174732685089111
+    },
+    {
+      "key": "103443",
+      "category": "WK Pool Plus",
+      "city": "Onex",
+      "first_date": "2026-08-22",
+      "last_date": "2026-08-22",
+      "company": "Swimsports",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103443",
+      "canton": "GE",
+      "lat": 46.18544387817383,
+      "lng": 6.099493026733398
     },
     {
       "key": "100677",
@@ -5127,6 +5155,20 @@
       "lng": 8.988633155822754
     },
     {
+      "key": "103442",
+      "category": "WK Pool Plus",
+      "city": "Rothenthurm",
+      "first_date": "2026-09-19",
+      "last_date": "2026-09-19",
+      "company": "SLRG Sihlsee-Einsiedeln",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103442",
+      "canton": "SZ",
+      "lat": 47.096214294433594,
+      "lng": 8.679923057556152
+    },
+    {
       "key": "99486",
       "category": "Modul See",
       "city": "Arbon",
@@ -5400,7 +5442,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -7493,6 +7535,20 @@
       "lng": 7.289914131164551
     },
     {
+      "key": "103451",
+      "category": "WK Pool Pro",
+      "city": "",
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "company": "SSS St. Maurice",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103451",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99546",
       "category": "Brevet Pro Pool",
       "city": "Aarau",
@@ -7920,7 +7976,7 @@
       "last_date": "2026-10-26",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101640",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -8060,7 +8116,7 @@
       "last_date": "2026-11-03",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103036",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -9446,7 +9502,7 @@
       "last_date": "2026-12-01",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103037",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -9782,7 +9838,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -12001,5 +12057,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-12T10:46:58+0000"
+  "geocoded_at": "2026-08-12T11:36:21+0000"
 }

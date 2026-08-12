@@ -979,6 +979,12 @@
     "lat": 47.339988708496094,
     "lng": 7.893518447875977
   },
+  "Onex": {
+    "canton": "GE",
+    "label": "Onex (GE)",
+    "lat": 46.18544387817383,
+    "lng": 6.099493026733398
+  },
   "Opfikon": {
     "canton": "ZH",
     "label": "Opfikon (ZH)",
@@ -1123,6 +1129,12 @@
     "label": "Romont (FR)",
     "lat": 46.69870376586914,
     "lng": 6.923159599304199
+  },
+  "Rothenthurm": {
+    "canton": "SZ",
+    "label": "Rothenthurm (SZ)",
+    "lat": 47.096214294433594,
+    "lng": 8.679923057556152
   },
   "Rüti ZH": {
     "canton": "ZH",
