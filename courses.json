@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T11:36:20+0000",
+  "scraped_at": "2026-08-12T12:36:58+0000",
   "count": 861,
   "courses": [
     {
@@ -1214,7 +1214,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -2166,7 +2166,7 @@
       "last_date": "2026-08-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99904",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -2446,7 +2446,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99317",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -3384,7 +3384,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -4364,7 +4364,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 13,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101645",
       "canton": "BE",
       "lat": 47.25593948364258,
@@ -4462,7 +4462,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102056",
       "canton": "BE",
       "lat": 47.25593948364258,
@@ -12050,12 +12050,12 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98493",
       "canton": null,
       "lat": null,
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-12T11:36:21+0000"
+  "geocoded_at": "2026-08-12T12:36:58+0000"
 }
