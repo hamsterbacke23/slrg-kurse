@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12T15:45:23+0000",
-  "count": 861,
+  "scraped_at": "2026-08-12T16:42:26+0000",
+  "count": 860,
   "courses": [
     {
       "key": "100804",
@@ -423,20 +423,6 @@
       "lng": 7.60764217376709
     },
     {
-      "key": "102831",
-      "category": "WK See",
-      "city": "Arbon",
-      "first_date": "2026-08-12",
-      "last_date": "2026-08-12",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102831",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
       "key": "100158",
       "category": "WK Fluss",
       "city": "Heerbrugg",
@@ -472,7 +458,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Lyss",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101993",
       "canton": null,
       "lat": null,
@@ -514,7 +500,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103277",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -2012,7 +1998,7 @@
       "last_date": "2026-08-30",
       "company": "SSS Nord-Vaudois",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102767",
       "canton": "BE",
       "lat": 46.979942321777344,
@@ -2950,7 +2936,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Oberwil",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99715",
       "canton": null,
       "lat": null,
@@ -12057,5 +12043,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-12T15:45:23+0000"
+  "geocoded_at": "2026-08-12T16:42:26+0000"
 }
