@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T16:42:26+0000",
+  "scraped_at": "2026-08-12T17:46:48+0000",
   "count": 860,
   "courses": [
     {
@@ -6898,7 +6898,7 @@
       "last_date": "2027-06-24",
       "company": "SLRG Lyss",
       "participation_max": 15,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103411",
       "canton": "BE",
       "lat": 47.08230209350586,
@@ -7220,7 +7220,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100856",
       "canton": null,
       "lat": null,
@@ -12043,5 +12043,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-12T16:42:26+0000"
+  "geocoded_at": "2026-08-12T17:46:48+0000"
 }
