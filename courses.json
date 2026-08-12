@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12T19:54:16+0000",
-  "count": 859,
+  "scraped_at": "2026-08-12T20:28:16+0000",
+  "count": 858,
   "courses": [
     {
       "key": "100804",
@@ -855,20 +855,6 @@
       "canton": "LU",
       "lat": 47.03305435180664,
       "lng": 8.431046485900879
-    },
-    {
-      "key": "101291",
-      "category": "Modul See",
-      "city": "Langenthal",
-      "first_date": "2026-08-17",
-      "last_date": "2026-08-22",
-      "company": "SLRG Sektion Olten",
-      "participation_max": 14,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101291",
-      "canton": "BE",
-      "lat": 47.212921142578125,
-      "lng": 7.807295799255371
     },
     {
       "key": "102105",
@@ -2180,7 +2166,7 @@
       "last_date": "2026-09-16",
       "company": "SLRG Sektion Olten",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102534",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -2824,7 +2810,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103242",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -4000,7 +3986,7 @@
       "last_date": "2026-09-08",
       "company": "SSS Neuchâtel",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103034",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12029,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-12T19:54:16+0000"
+  "geocoded_at": "2026-08-12T20:28:17+0000"
 }
