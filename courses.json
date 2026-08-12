@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12T12:36:58+0000",
-  "count": 861,
+  "scraped_at": "2026-08-12T14:09:46+0000",
+  "count": 859,
   "courses": [
     {
       "key": "100804",
@@ -437,20 +437,6 @@
       "lng": 9.425399780273438
     },
     {
-      "key": "103269",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-08-12",
-      "last_date": "2026-08-12",
-      "company": "SLRG Thalwil-Langnau",
-      "participation_max": 16,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103269",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100158",
       "category": "WK Fluss",
       "city": "Heerbrugg",
@@ -584,7 +570,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -1354,7 +1340,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103126",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -1751,20 +1737,6 @@
       "canton": "FR",
       "lat": 46.94218063354492,
       "lng": 7.174732685089111
-    },
-    {
-      "key": "103443",
-      "category": "WK Pool Plus",
-      "city": "Onex",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "Swimsports",
-      "participation_max": 10,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103443",
-      "canton": "GE",
-      "lat": 46.18544387817383,
-      "lng": 6.099493026733398
     },
     {
       "key": "100677",
@@ -3048,7 +3020,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -3062,7 +3034,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103136",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -3664,7 +3636,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Uri",
       "participation_max": 15,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102937",
       "canton": null,
       "lat": null,
@@ -4028,7 +4000,7 @@
       "last_date": "2026-09-08",
       "company": "SLRG Sektion Olten",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102536",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -5274,7 +5246,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -12057,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-12T12:36:58+0000"
+  "geocoded_at": "2026-08-12T14:09:46+0000"
 }
