@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-12T17:46:48+0000",
+  "scraped_at": "2026-08-12T18:42:33+0000",
   "count": 860,
   "courses": [
     {
@@ -1326,7 +1326,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103126",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -2543,8 +2543,8 @@
       "first_date": "2026-08-29",
       "last_date": "2026-08-29",
       "company": "SLRG Oberwallis",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 16,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100815",
       "canton": "VS",
       "lat": 46.28894805908203,
@@ -3048,7 +3048,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103343",
       "canton": null,
       "lat": null,
@@ -6435,7 +6435,7 @@
       "first_date": "2026-10-08",
       "last_date": "2026-10-08",
       "company": "SLRG Oberwallis",
-      "participation_max": 4,
+      "participation_max": 2,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101557",
       "canton": null,
@@ -12043,5 +12043,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-12T17:46:48+0000"
+  "geocoded_at": "2026-08-12T18:42:33+0000"
 }
