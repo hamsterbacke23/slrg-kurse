@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T21:31:36+0000",
-  "count": 847,
+  "scraped_at": "2026-08-13T22:27:18+0000",
+  "count": 844,
   "courses": [
     {
       "key": "100804",
@@ -325,20 +325,6 @@
       "lng": 8.046090126037598
     },
     {
-      "key": "101554",
-      "category": "Jugendbrevet",
-      "city": "Naters",
-      "first_date": "2026-08-10",
-      "last_date": "2026-08-13",
-      "company": "SLRG Oberwallis",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101554",
-      "canton": "VS",
-      "lat": 46.385929107666016,
-      "lng": 7.9576735496521
-    },
-    {
       "key": "102533",
       "category": "Brevet Basis Pool",
       "city": "Olten",
@@ -353,20 +339,6 @@
       "lng": 7.893518447875977
     },
     {
-      "key": "100946",
-      "category": "WK BLS-AED",
-      "city": "Paradiso",
-      "first_date": "2026-08-12",
-      "last_date": "2026-08-12",
-      "company": "SSS Paradiso",
-      "participation_max": 17,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100946",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
       "key": "102149",
       "category": "Jugendbrevet",
       "city": "Winterthur",
@@ -379,20 +351,6 @@
       "canton": "ZH",
       "lat": 47.49905014038086,
       "lng": 8.720227241516113
-    },
-    {
-      "key": "100158",
-      "category": "WK Fluss",
-      "city": "Heerbrugg",
-      "first_date": "2026-08-13",
-      "last_date": "2026-08-13",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100158",
-      "canton": "SG",
-      "lat": 47.411685943603516,
-      "lng": 9.626534461975098
     },
     {
       "key": "100947",
@@ -11861,5 +11819,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-13T21:31:36+0000"
+  "geocoded_at": "2026-08-13T22:27:18+0000"
 }
