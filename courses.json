@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T09:58:28+0000",
-  "count": 853,
+  "scraped_at": "2026-08-13T10:57:30+0000",
+  "count": 851,
   "courses": [
     {
       "key": "100804",
@@ -444,7 +444,7 @@
       "last_date": "2026-08-20",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103237",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -743,34 +743,6 @@
       "canton": "BE",
       "lat": 47.12384033203125,
       "lng": 7.239261627197266
-    },
-    {
-      "key": "101664",
-      "category": "WK Pool Plus",
-      "city": "Opfikon",
-      "first_date": "2026-08-16",
-      "last_date": "2026-08-16",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101664",
-      "canton": "ZH",
-      "lat": 47.42878341674805,
-      "lng": 8.573216438293457
-    },
-    {
-      "key": "101665",
-      "category": "WK Pool Safety",
-      "city": "Opfikon",
-      "first_date": "2026-08-16",
-      "last_date": "2026-08-16",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101665",
-      "canton": "ZH",
-      "lat": 47.42878341674805,
-      "lng": 8.573216438293457
     },
     {
       "key": "102129",
@@ -1634,7 +1606,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103426",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -2740,7 +2712,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103242",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6351,8 +6323,8 @@
       "first_date": "2026-10-08",
       "last_date": "2026-10-08",
       "company": "SLRG Oberwallis",
-      "participation_max": 8,
-      "registered": 8,
+      "participation_max": 9,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101559",
       "canton": null,
       "lat": null,
@@ -6562,7 +6534,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -6786,7 +6758,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -11945,5 +11917,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-13T09:58:28+0000"
+  "geocoded_at": "2026-08-13T10:57:30+0000"
 }
