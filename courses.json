@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T22:27:18+0000",
-  "count": 844,
+  "scraped_at": "2026-08-13T23:27:46+0000",
+  "count": 842,
   "courses": [
     {
       "key": "100804",
@@ -278,34 +278,6 @@
       "participation_max": 16,
       "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103083",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103428",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-08-07",
-      "last_date": "2026-08-07",
-      "company": "SLRG Weggis",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103428",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103429",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-08-07",
-      "last_date": "2026-08-07",
-      "company": "SLRG Weggis",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103429",
       "canton": null,
       "lat": null,
       "lng": null
@@ -11819,5 +11791,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-13T22:27:18+0000"
+  "geocoded_at": "2026-08-13T23:27:46+0000"
 }
