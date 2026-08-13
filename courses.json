@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-13T15:44:55+0000",
+  "scraped_at": "2026-08-13T16:41:05+0000",
   "count": 849,
   "courses": [
     {
@@ -1578,7 +1578,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103426",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -2320,7 +2320,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100650",
       "canton": null,
       "lat": null,
@@ -2334,7 +2334,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100656",
       "canton": null,
       "lat": null,
@@ -2348,7 +2348,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100658",
       "canton": null,
       "lat": null,
@@ -2362,7 +2362,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100659",
       "canton": null,
       "lat": null,
@@ -6590,7 +6590,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103396",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -11889,5 +11889,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-13T15:44:55+0000"
+  "geocoded_at": "2026-08-13T16:41:05+0000"
 }
