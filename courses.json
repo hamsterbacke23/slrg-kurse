@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-13T08:58:33+0000",
-  "count": 855,
+  "scraped_at": "2026-08-13T09:58:28+0000",
+  "count": 853,
   "courses": [
     {
       "key": "100804",
@@ -743,34 +743,6 @@
       "canton": "BE",
       "lat": 47.12384033203125,
       "lng": 7.239261627197266
-    },
-    {
-      "key": "101662",
-      "category": "Brevet Basis Pool",
-      "city": "Opfikon",
-      "first_date": "2026-08-16",
-      "last_date": "2026-08-16",
-      "company": "Swimsports",
-      "participation_max": 0,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101662",
-      "canton": "ZH",
-      "lat": 47.42878341674805,
-      "lng": 8.573216438293457
-    },
-    {
-      "key": "101663",
-      "category": "WK Pool Basis",
-      "city": "Opfikon",
-      "first_date": "2026-08-16",
-      "last_date": "2026-08-16",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101663",
-      "canton": "ZH",
-      "lat": 47.42878341674805,
-      "lng": 8.573216438293457
     },
     {
       "key": "101664",
@@ -2824,7 +2796,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103299",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -3776,7 +3748,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -11896,7 +11868,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99112",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11910,7 +11882,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11924,7 +11896,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99114",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11973,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-13T08:58:33+0000"
+  "geocoded_at": "2026-08-13T09:58:28+0000"
 }
