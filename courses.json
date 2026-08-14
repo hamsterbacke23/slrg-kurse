@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T10:44:24+0000",
+  "scraped_at": "2026-08-14T11:34:14+0000",
   "count": 841,
   "courses": [
     {
@@ -934,7 +934,7 @@
       "last_date": "2026-08-19",
       "company": "SSS St. Imier",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103366",
       "canton": null,
       "lat": null,
@@ -1592,7 +1592,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100855",
       "canton": null,
       "lat": null,
@@ -2754,7 +2754,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -4462,7 +4462,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103012",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5652,7 +5652,7 @@
       "last_date": "2026-09-27",
       "company": "Kantonspolizei Zürich",
       "participation_max": 30,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103380",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -6954,7 +6954,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100856",
       "canton": null,
       "lat": null,
@@ -8354,7 +8354,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101354",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -11777,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-14T10:44:24+0000"
+  "geocoded_at": "2026-08-14T11:34:14+0000"
 }
