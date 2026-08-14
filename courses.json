@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T14:05:14+0000",
+  "scraped_at": "2026-08-14T15:38:43+0000",
   "count": 841,
   "courses": [
     {
@@ -80,7 +80,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 30,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103419",
       "canton": null,
       "lat": null,
@@ -402,7 +402,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99571",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -416,7 +416,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -892,7 +892,7 @@
       "last_date": "2026-09-09",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102654",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -1550,7 +1550,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 32,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103415",
       "canton": null,
       "lat": null,
@@ -3300,7 +3300,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101667",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -4280,7 +4280,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103288",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -5834,7 +5834,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101297",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -6296,7 +6296,7 @@
       "last_date": "2026-10-10",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100700",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -10118,7 +10118,7 @@
       "last_date": "2026-12-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102698",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11777,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-14T14:05:14+0000"
+  "geocoded_at": "2026-08-14T15:38:43+0000"
 }
