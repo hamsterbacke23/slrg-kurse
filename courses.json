@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T15:38:43+0000",
+  "scraped_at": "2026-08-14T16:37:06+0000",
   "count": 841,
   "courses": [
     {
@@ -7612,7 +7612,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101049",
       "canton": null,
       "lat": null,
@@ -11196,7 +11196,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103332",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -11777,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-14T15:38:43+0000"
+  "geocoded_at": "2026-08-14T16:37:06+0000"
 }
