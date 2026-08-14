@@ -1,7 +1,21 @@
 {
-  "scraped_at": "2026-08-14T03:16:50+0000",
-  "count": 842,
+  "scraped_at": "2026-08-14T05:21:18+0000",
+  "count": 841,
   "courses": [
+    {
+      "key": "99217",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2025-09-06",
+      "last_date": "2025-09-06",
+      "company": "SLRG Lyss",
+      "participation_max": 10,
+      "registered": 9,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99217",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
     {
       "key": "100804",
       "category": "WK BLS-AED",
@@ -351,34 +365,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "103276",
-      "category": "WK Pool Pro",
-      "city": "Sarnen",
-      "first_date": "2026-08-13",
-      "last_date": "2026-08-13",
-      "company": "SLRG Obwalden",
-      "participation_max": 14,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103276",
-      "canton": "OW",
-      "lat": 46.89374923706055,
-      "lng": 8.186779022216797
-    },
-    {
-      "key": "103277",
-      "category": "WK BLS-AED",
-      "city": "Sarnen",
-      "first_date": "2026-08-13",
-      "last_date": "2026-08-13",
-      "company": "SLRG Obwalden",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103277",
-      "canton": "OW",
-      "lat": 46.89374923706055,
-      "lng": 8.186779022216797
     },
     {
       "key": "101906",
@@ -11791,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-14T03:16:50+0000"
+  "geocoded_at": "2026-08-14T05:21:18+0000"
 }
