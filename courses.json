@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-14T16:37:06+0000",
+  "scraped_at": "2026-08-14T17:41:45+0000",
   "count": 841,
   "courses": [
     {
@@ -2110,7 +2110,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103112",
       "canton": null,
       "lat": null,
@@ -6562,7 +6562,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -8312,7 +8312,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
       "canton": null,
       "lat": null,
@@ -8326,7 +8326,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 18,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101322",
       "canton": null,
       "lat": null,
@@ -11777,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-14T16:37:06+0000"
+  "geocoded_at": "2026-08-14T17:41:45+0000"
 }
