@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-15T16:08:23+0000",
-  "count": 832,
+  "scraped_at": "2026-08-15T17:09:43+0000",
+  "count": 831,
   "courses": [
     {
       "key": "99217",
@@ -407,20 +407,6 @@
       "canton": "SG",
       "lat": 47.42510986328125,
       "lng": 9.262721061706543
-    },
-    {
-      "key": "102116",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-15",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 24,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102116",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102199",
@@ -3356,7 +3342,7 @@
       "last_date": "2026-09-06",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -6744,7 +6730,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103384",
       "canton": null,
       "lat": null,
@@ -11651,5 +11637,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T16:08:24+0000"
+  "geocoded_at": "2026-08-15T17:09:43+0000"
 }
