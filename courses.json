@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-15T17:09:43+0000",
-  "count": 831,
+  "scraped_at": "2026-08-15T18:09:07+0000",
+  "count": 830,
   "courses": [
     {
       "key": "99217",
@@ -365,20 +365,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101331",
-      "category": "Brevet Basis Pool",
-      "city": "Arbon",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-15",
-      "company": "SLRG Arbon",
-      "participation_max": 22,
-      "registered": 21,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101331",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
     },
     {
       "key": "101539",
@@ -1298,7 +1284,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103183",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -4168,7 +4154,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -11637,5 +11623,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T17:09:43+0000"
+  "geocoded_at": "2026-08-15T18:09:07+0000"
 }
