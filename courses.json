@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-15T15:07:50+0000",
-  "count": 833,
+  "scraped_at": "2026-08-15T16:08:23+0000",
+  "count": 832,
   "courses": [
     {
       "key": "99217",
@@ -374,25 +374,11 @@
       "last_date": "2026-08-15",
       "company": "SLRG Arbon",
       "participation_max": 22,
-      "registered": 22,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101331",
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
-    },
-    {
-      "key": "101488",
-      "category": "Modul See",
-      "city": "Beinwil am See",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-15",
-      "company": "SLRG Sektion Hallwilersee",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101488",
-      "canton": "AG",
-      "lat": 47.26459884643555,
-      "lng": 8.208498001098633
     },
     {
       "key": "101539",
@@ -7500,7 +7486,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101049",
       "canton": null,
       "lat": null,
@@ -11665,5 +11651,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T15:07:50+0000"
+  "geocoded_at": "2026-08-15T16:08:24+0000"
 }
