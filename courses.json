@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-15T10:09:34+0000",
-  "count": 838,
+  "scraped_at": "2026-08-15T11:07:29+0000",
+  "count": 837,
   "courses": [
     {
       "key": "99217",
@@ -584,7 +584,7 @@
       "last_date": "2026-08-16",
       "company": "SLRG Bauma",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102129",
       "canton": "ZH",
       "lat": 47.37466812133789,
@@ -2224,20 +2224,6 @@
       "participation_max": 12,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100660",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100662",
-      "category": "WK Expert Fluss",
-      "city": "",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-30",
-      "company": "SLRG Region Nordwest",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100662",
       "canton": null,
       "lat": null,
       "lng": null
@@ -8354,7 +8340,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103116",
       "canton": null,
       "lat": null,
@@ -11735,5 +11721,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T10:09:34+0000"
+  "geocoded_at": "2026-08-15T11:07:29+0000"
 }
