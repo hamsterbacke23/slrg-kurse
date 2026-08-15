@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T09:13:31+0000",
+  "scraped_at": "2026-08-15T10:09:34+0000",
   "count": 838,
   "courses": [
     {
@@ -1508,7 +1508,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 32,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103415",
       "canton": null,
       "lat": null,
@@ -3804,7 +3804,7 @@
       "last_date": "2026-09-09",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103445",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -8214,7 +8214,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103313",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -9614,7 +9614,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103310",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -11735,5 +11735,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T09:13:31+0000"
+  "geocoded_at": "2026-08-15T10:09:34+0000"
 }
