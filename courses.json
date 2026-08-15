@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T13:20:34+0000",
+  "scraped_at": "2026-08-15T14:09:30+0000",
   "count": 834,
   "courses": [
     {
@@ -892,7 +892,7 @@
       "last_date": "2026-09-17",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99559",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -3202,7 +3202,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101667",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -3272,7 +3272,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Uri",
       "participation_max": 15,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102937",
       "canton": null,
       "lat": null,
@@ -3608,7 +3608,7 @@
       "last_date": "2026-09-07",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103416",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -11679,5 +11679,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T13:20:34+0000"
+  "geocoded_at": "2026-08-15T14:09:30+0000"
 }
