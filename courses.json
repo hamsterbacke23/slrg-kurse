@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T22:07:05+0000",
+  "scraped_at": "2026-08-15T23:08:14+0000",
   "count": 823,
   "courses": [
     {
@@ -3454,7 +3454,7 @@
       "last_date": "2026-09-07",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103416",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3594,7 +3594,7 @@
       "last_date": "2026-09-09",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103445",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -11525,5 +11525,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T22:07:05+0000"
+  "geocoded_at": "2026-08-15T23:08:14+0000"
 }
