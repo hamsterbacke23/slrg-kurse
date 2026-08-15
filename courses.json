@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-15T19:12:05+0000",
-  "count": 830,
+  "scraped_at": "2026-08-15T20:07:37+0000",
+  "count": 828,
   "courses": [
     {
       "key": "99217",
@@ -304,39 +304,11 @@
       "last_date": "2026-08-13",
       "company": "SLRG Obwalden",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103277",
       "canton": "OW",
       "lat": 46.89374923706055,
       "lng": 8.186779022216797
-    },
-    {
-      "key": "99571",
-      "category": "Modul See",
-      "city": "Zürich",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-15",
-      "company": "SLRG Höngg",
-      "participation_max": 16,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99571",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
-    },
-    {
-      "key": "99573",
-      "category": "WK See",
-      "city": "Zürich",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-15",
-      "company": "SLRG Höngg",
-      "participation_max": 16,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
     },
     {
       "key": "100948",
@@ -1270,7 +1242,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Büren a. A.",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103115",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -9208,7 +9180,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99432",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11623,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T19:12:05+0000"
+  "geocoded_at": "2026-08-15T20:07:37+0000"
 }
