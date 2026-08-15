@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-15T18:09:07+0000",
+  "scraped_at": "2026-08-15T19:12:05+0000",
   "count": 830,
   "courses": [
     {
@@ -332,7 +332,7 @@
       "last_date": "2026-08-15",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99573",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -738,7 +738,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Obwalden",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1312,7 +1312,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103426",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -11623,5 +11623,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-15T18:09:07+0000"
+  "geocoded_at": "2026-08-15T19:12:05+0000"
 }
