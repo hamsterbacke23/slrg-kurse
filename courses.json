@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-16T15:08:32+0000",
-  "count": 820,
+  "scraped_at": "2026-08-16T16:09:14+0000",
+  "count": 819,
   "courses": [
     {
       "key": "99217",
@@ -311,20 +311,6 @@
       "lng": 8.186779022216797
     },
     {
-      "key": "101539",
-      "category": "Modul See",
-      "city": "Nidau",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-15",
-      "company": "SLRG Bielersee",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101539",
-      "canton": "BE",
-      "lat": 47.12384033203125,
-      "lng": 7.239261627197266
-    },
-    {
       "key": "101719",
       "category": "Brevet Basis Pool",
       "city": "Gossau SG",
@@ -542,7 +528,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Bielersee",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103333",
       "canton": null,
       "lat": null,
@@ -990,7 +976,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Bülach",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101424",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -2208,7 +2194,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103070",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -3006,7 +2992,7 @@
       "last_date": "2026-09-12",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101783",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -3888,7 +3874,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102056",
       "canton": "BE",
       "lat": 47.25593948364258,
@@ -4000,7 +3986,7 @@
       "last_date": "2026-09-12",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103444",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -4546,7 +4532,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102526",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -4560,7 +4546,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 36,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102527",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -7080,7 +7066,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101668",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7738,7 +7724,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Reiden",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100902",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -11483,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-16T15:08:32+0000"
+  "geocoded_at": "2026-08-16T16:09:14+0000"
 }
