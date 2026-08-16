@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T18:09:22+0000",
+  "scraped_at": "2026-08-16T19:11:04+0000",
   "count": 819,
   "courses": [
     {
@@ -472,7 +472,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102369",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -640,7 +640,7 @@
       "last_date": "2026-08-19",
       "company": "SSS St. Imier",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103366",
       "canton": null,
       "lat": null,
@@ -3342,7 +3342,7 @@
       "last_date": "2026-09-07",
       "company": "SLRG Thun-Oberland",
       "participation_max": 13,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102368",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -6254,7 +6254,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -7080,7 +7080,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101682",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -8298,7 +8298,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Nord-Vaudois",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102019",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -11042,7 +11042,7 @@
       "last_date": "2027-01-27",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103178",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11280,7 +11280,7 @@
       "last_date": "2027-06-14",
       "company": "SSS La Côte",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103186",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -11469,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-16T18:09:22+0000"
+  "geocoded_at": "2026-08-16T19:11:04+0000"
 }
