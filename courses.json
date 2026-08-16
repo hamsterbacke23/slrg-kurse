@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T12:11:56+0000",
+  "scraped_at": "2026-08-16T13:21:53+0000",
   "count": 821,
   "courses": [
     {
@@ -569,8 +569,8 @@
       "first_date": "2026-08-18",
       "last_date": "2026-08-27",
       "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 12,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103383",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -640,7 +640,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Obwalden",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -2389,8 +2389,8 @@
       "first_date": "2026-08-30",
       "last_date": "2026-08-30",
       "company": "SLRG Oberwil",
-      "participation_max": 8,
-      "registered": 8,
+      "participation_max": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99715",
       "canton": null,
       "lat": null,
@@ -2516,7 +2516,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103352",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -3958,7 +3958,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4000,7 +4000,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103288",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -5666,7 +5666,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103372",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -10412,7 +10412,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101685",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11497,5 +11497,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-16T12:11:56+0000"
+  "geocoded_at": "2026-08-16T13:21:53+0000"
 }
