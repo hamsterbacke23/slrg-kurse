@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T17:08:51+0000",
+  "scraped_at": "2026-08-16T18:09:22+0000",
   "count": 819,
   "courses": [
     {
@@ -6562,7 +6562,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103384",
       "canton": null,
       "lat": null,
@@ -11469,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-16T17:08:51+0000"
+  "geocoded_at": "2026-08-16T18:09:22+0000"
 }
