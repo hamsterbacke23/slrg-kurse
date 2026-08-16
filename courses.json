@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-16T07:20:45+0000",
-  "count": 824,
+  "scraped_at": "2026-08-16T08:13:01+0000",
+  "count": 821,
   "courses": [
     {
       "key": "99217",
@@ -953,48 +953,6 @@
       "canton": "VD",
       "lat": 46.65501022338867,
       "lng": 6.508055686950684
-    },
-    {
-      "key": "100228",
-      "category": "WK Pool Plus",
-      "city": "Appenzell",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100228",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
-      "key": "100231",
-      "category": "WK Pool Pro",
-      "city": "Appenzell",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Appenzell",
-      "participation_max": 6,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100231",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
-      "key": "100236",
-      "category": "WK BLS-AED",
-      "city": "Appenzell",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100236",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
     },
     {
       "key": "100265",
@@ -6394,7 +6352,7 @@
       "last_date": "2027-06-24",
       "company": "SLRG Lyss",
       "participation_max": 15,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103411",
       "canton": "BE",
       "lat": 47.08230209350586,
@@ -11539,5 +11497,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-16T07:20:45+0000"
+  "geocoded_at": "2026-08-16T08:13:01+0000"
 }
