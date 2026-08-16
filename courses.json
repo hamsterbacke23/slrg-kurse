@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T14:10:22+0000",
+  "scraped_at": "2026-08-16T15:08:32+0000",
   "count": 820,
   "courses": [
     {
@@ -2684,7 +2684,7 @@
       "last_date": "2027-06-22",
       "company": "SSS La Côte",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103185",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -7192,7 +7192,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -9880,7 +9880,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99551",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11483,5 +11483,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-16T14:10:22+0000"
+  "geocoded_at": "2026-08-16T15:08:32+0000"
 }
