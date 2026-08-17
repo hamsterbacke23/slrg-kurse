@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17T21:13:10+0000",
-  "count": 810,
+  "scraped_at": "2026-08-17T22:09:58+0000",
+  "count": 809,
   "courses": [
     {
       "key": "99217",
@@ -323,20 +323,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102869",
-      "category": "Brevet Basis Pool",
-      "city": "Hallau",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-15",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 24,
-      "registered": 23,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102869",
-      "canton": "SH",
-      "lat": 47.70162582397461,
-      "lng": 8.43972110748291
     },
     {
       "key": "102105",
@@ -808,7 +794,7 @@
       "last_date": "2026-08-21",
       "company": "SLRG Toggenburg",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103180",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -822,7 +808,7 @@
       "last_date": "2026-08-21",
       "company": "SLRG Toggenburg",
       "participation_max": 7,
-      "registered": 4,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103181",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -11343,5 +11329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T21:13:10+0000"
+  "geocoded_at": "2026-08-17T22:09:59+0000"
 }
