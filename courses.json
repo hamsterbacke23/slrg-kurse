@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-16T23:07:29+0000",
+  "scraped_at": "2026-08-17T00:26:08+0000",
   "count": 816,
   "courses": [
     {
@@ -7514,7 +7514,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Monthey",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102740",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -11427,5 +11427,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-16T23:07:29+0000"
+  "geocoded_at": "2026-08-17T00:26:08+0000"
 }
