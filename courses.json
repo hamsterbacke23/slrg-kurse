@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17T09:26:40+0000",
-  "count": 817,
+  "scraped_at": "2026-08-17T10:18:00+0000",
+  "count": 816,
   "courses": [
     {
       "key": "99217",
@@ -1093,20 +1093,6 @@
       "canton": "SG",
       "lat": 47.42510986328125,
       "lng": 9.262721061706543
-    },
-    {
-      "key": "103281",
-      "category": "WK Pool Plus",
-      "city": "Monthey",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SSS Monthey",
-      "participation_max": 10,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103281",
-      "canton": "VS",
-      "lat": 46.243896484375,
-      "lng": 6.954207420349121
     },
     {
       "key": "103426",
@@ -4392,7 +4378,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101183",
       "canton": null,
       "lat": null,
@@ -5624,7 +5610,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -8466,7 +8452,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101692",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11441,5 +11427,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T09:26:40+0000"
+  "geocoded_at": "2026-08-17T10:18:00+0000"
 }
