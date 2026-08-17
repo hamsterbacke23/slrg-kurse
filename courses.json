@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T20:11:21+0000",
+  "scraped_at": "2026-08-17T21:13:10+0000",
   "count": 810,
   "courses": [
     {
@@ -514,7 +514,7 @@
       "last_date": "2026-09-07",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99710",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -626,7 +626,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -1452,7 +1452,7 @@
       "last_date": "2026-09-22",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103392",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -5148,7 +5148,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Bielersee",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103438",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -11343,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T20:11:21+0000"
+  "geocoded_at": "2026-08-17T21:13:10+0000"
 }
