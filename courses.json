@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17T12:15:09+0000",
-  "count": 814,
+  "scraped_at": "2026-08-17T13:29:46+0000",
+  "count": 811,
   "courses": [
     {
       "key": "99217",
@@ -337,20 +337,6 @@
       "canton": "SH",
       "lat": 47.70162582397461,
       "lng": 8.43972110748291
-    },
-    {
-      "key": "101541",
-      "category": "WK See",
-      "city": "Nidau",
-      "first_date": "2026-08-16",
-      "last_date": "2026-08-16",
-      "company": "SLRG Bielersee",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101541",
-      "canton": "BE",
-      "lat": 47.12384033203125,
-      "lng": 7.239261627197266
     },
     {
       "key": "102105",
@@ -1795,34 +1781,6 @@
       "lng": 6.87440824508667
     },
     {
-      "key": "99914",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99914",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "99936",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99936",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100650",
       "category": "WK Expert Pool",
       "city": "",
@@ -2432,7 +2390,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100318",
       "canton": null,
       "lat": null,
@@ -2796,7 +2754,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100377",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -3440,7 +3398,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Sektion Olten",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103393",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -3916,7 +3874,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -4336,7 +4294,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Weinfelden",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100370",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -5190,7 +5148,7 @@
       "last_date": "2026-09-26",
       "company": "Kantonspolizei Zürich",
       "participation_max": 22,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103379",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -5260,7 +5218,7 @@
       "last_date": "2026-09-27",
       "company": "Kantonspolizei Zürich",
       "participation_max": 30,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103380",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -6604,7 +6562,7 @@
       "last_date": "2026-10-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100548",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -11399,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T12:15:10+0000"
+  "geocoded_at": "2026-08-17T13:29:46+0000"
 }
