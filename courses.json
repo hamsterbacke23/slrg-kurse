@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T10:18:00+0000",
+  "scraped_at": "2026-08-17T11:13:19+0000",
   "count": 816,
   "courses": [
     {
@@ -66,7 +66,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 30,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103417",
       "canton": null,
       "lat": null,
@@ -486,7 +486,7 @@
       "last_date": "2026-08-18",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103223",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -1200,7 +1200,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 32,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103415",
       "canton": null,
       "lat": null,
@@ -1228,7 +1228,7 @@
       "last_date": "2026-08-26",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99897",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -3398,7 +3398,7 @@
       "last_date": "2026-09-08",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103346",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -11427,5 +11427,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T10:18:00+0000"
+  "geocoded_at": "2026-08-17T11:13:19+0000"
 }
