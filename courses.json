@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-17T17:14:30+0000",
-  "count": 811,
+  "scraped_at": "2026-08-17T18:18:07+0000",
+  "count": 810,
   "courses": [
     {
       "key": "99217",
@@ -766,7 +766,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103126",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -883,20 +883,6 @@
       "canton": "VD",
       "lat": 46.65501022338867,
       "lng": 6.508055686950684
-    },
-    {
-      "key": "100265",
-      "category": "WK See",
-      "city": "Walenstadt",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Chur",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100265",
-      "canton": "SG",
-      "lat": 47.12102508544922,
-      "lng": 9.347698211669922
     },
     {
       "key": "100558",
@@ -1424,7 +1410,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103152",
       "canton": "SG",
       "lat": 47.423583984375,
@@ -6422,7 +6408,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103349",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -6828,7 +6814,7 @@
       "last_date": "2026-10-23",
       "company": "SSS St. Maurice",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103451",
       "canton": null,
       "lat": null,
@@ -7191,8 +7177,8 @@
       "first_date": "2026-10-25",
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
-      "participation_max": 17,
-      "registered": 16,
+      "participation_max": 18,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -8704,7 +8690,7 @@
       "last_date": "2026-11-10",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101518",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -11357,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T17:14:30+0000"
+  "geocoded_at": "2026-08-17T18:18:07+0000"
 }
