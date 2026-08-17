@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T14:14:38+0000",
+  "scraped_at": "2026-08-17T15:12:40+0000",
   "count": 811,
   "courses": [
     {
@@ -66,7 +66,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 30,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103417",
       "canton": null,
       "lat": null,
@@ -654,7 +654,7 @@
       "last_date": "2026-08-19",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103450",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -1186,7 +1186,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 32,
-      "registered": 14,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103415",
       "canton": null,
       "lat": null,
@@ -2236,7 +2236,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103414",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4406,7 +4406,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102526",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -4420,7 +4420,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 36,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102527",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -6786,7 +6786,7 @@
       "last_date": "2026-10-23",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103260",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -6982,7 +6982,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102051",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -8060,7 +8060,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102786",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11357,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T14:14:38+0000"
+  "geocoded_at": "2026-08-17T15:12:40+0000"
 }
