@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T15:12:40+0000",
+  "scraped_at": "2026-08-17T16:11:23+0000",
   "count": 811,
   "courses": [
     {
@@ -444,7 +444,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102423",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -822,7 +822,7 @@
       "last_date": "2026-08-21",
       "company": "SLRG Toggenburg",
       "participation_max": 7,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103181",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -1172,7 +1172,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Emmental",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103229",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1900,7 +1900,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 9,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101734",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -3790,7 +3790,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -9684,7 +9684,7 @@
       "last_date": "2026-12-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102698",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11357,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T15:12:40+0000"
+  "geocoded_at": "2026-08-17T16:11:23+0000"
 }
