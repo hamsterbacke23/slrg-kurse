@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-17T07:40:27+0000",
+  "scraped_at": "2026-08-17T08:27:15+0000",
   "count": 817,
   "courses": [
     {
@@ -66,7 +66,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 30,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103417",
       "canton": null,
       "lat": null,
@@ -1214,7 +1214,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 32,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103415",
       "canton": null,
       "lat": null,
@@ -3594,7 +3594,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Monthey",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103286",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -4546,7 +4546,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sihlsee-Einsiedeln",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103442",
       "canton": "SZ",
       "lat": 47.096214294433594,
@@ -6394,7 +6394,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103075",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -8802,7 +8802,7 @@
       "last_date": "2026-11-16",
       "company": "SSS Delémont",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101642",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -11441,5 +11441,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-17T07:40:27+0000"
+  "geocoded_at": "2026-08-17T08:27:15+0000"
 }
