@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T18:17:03+0000",
+  "scraped_at": "2026-08-18T19:18:36+0000",
   "count": 836,
   "courses": [
     {
@@ -290,7 +290,7 @@
       "last_date": "2026-08-16",
       "company": "SRV Linth",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103462",
       "canton": null,
       "lat": null,
@@ -542,7 +542,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Obwalden",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -570,7 +570,7 @@
       "last_date": "2026-08-19",
       "company": "SSS St. Imier",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103366",
       "canton": null,
       "lat": null,
@@ -6464,7 +6464,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103075",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -7122,7 +7122,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101682",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10496,7 +10496,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99569",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11707,5 +11707,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T18:17:03+0000"
+  "geocoded_at": "2026-08-18T19:18:36+0000"
 }
