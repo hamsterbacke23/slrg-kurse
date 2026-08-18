@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18T10:14:39+0000",
-  "count": 798,
+  "scraped_at": "2026-08-18T11:12:50+0000",
+  "count": 797,
   "courses": [
     {
       "key": "100804",
@@ -395,20 +395,6 @@
       "lng": 8.208498001098633
     },
     {
-      "key": "102986",
-      "category": "Modul See",
-      "city": "Neuchâtel",
-      "first_date": "2026-08-18",
-      "last_date": "2026-09-01",
-      "company": "SSS Neuchâtel",
-      "participation_max": 14,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102986",
-      "canton": "NE",
-      "lat": 47.020973205566406,
-      "lng": 6.9480791091918945
-    },
-    {
       "key": "103223",
       "category": "WK See",
       "city": "Richterswil",
@@ -724,7 +710,7 @@
       "last_date": "2026-08-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103435",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -892,7 +878,7 @@
       "last_date": "2026-08-29",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102896",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2390,7 +2376,7 @@
       "last_date": "2026-09-01",
       "company": "SSS Nord-Vaudois",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103296",
       "canton": "FR",
       "lat": 46.84782409667969,
@@ -2754,7 +2740,7 @@
       "last_date": "2026-09-05",
       "company": "SLRG Uri",
       "participation_max": 15,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102937",
       "canton": null,
       "lat": null,
@@ -3832,7 +3818,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102655",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -4406,7 +4392,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -4588,7 +4574,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 17,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102146",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -5190,7 +5176,7 @@
       "last_date": "2026-10-03",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99915",
       "canton": null,
       "lat": null,
@@ -6240,7 +6226,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -6268,7 +6254,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103384",
       "canton": null,
       "lat": null,
@@ -11175,5 +11161,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T10:14:39+0000"
+  "geocoded_at": "2026-08-18T11:12:50+0000"
 }
