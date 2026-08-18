@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18T06:19:05+0000",
-  "count": 806,
+  "scraped_at": "2026-08-18T07:26:22+0000",
+  "count": 804,
   "courses": [
     {
       "key": "99217",
@@ -612,7 +612,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -752,7 +752,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103126",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -1032,7 +1032,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 32,
-      "registered": 29,
+      "registered": 30,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -1697,20 +1697,6 @@
       "lng": 8.988633155822754
     },
     {
-      "key": "99823",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99823",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
-    },
-    {
       "key": "100650",
       "category": "WK Expert Pool",
       "city": "",
@@ -2047,20 +2033,6 @@
       "lng": 8.186779022216797
     },
     {
-      "key": "103208",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103208",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
-    },
-    {
       "key": "103242",
       "category": "Modul BLS-AED",
       "city": "Sion",
@@ -2110,7 +2082,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103293",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -7318,7 +7290,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11287,5 +11259,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T06:19:05+0000"
+  "geocoded_at": "2026-08-18T07:26:22+0000"
 }
