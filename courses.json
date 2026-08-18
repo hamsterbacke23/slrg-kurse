@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18T07:26:22+0000",
-  "count": 804,
+  "scraped_at": "2026-08-18T08:19:19+0000",
+  "count": 802,
   "courses": [
     {
       "key": "99217",
@@ -395,20 +395,6 @@
       "lng": 6.076141357421875
     },
     {
-      "key": "100777",
-      "category": "WK BLS-AED",
-      "city": "Aarau",
-      "first_date": "2026-08-18",
-      "last_date": "2026-08-18",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100777",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
-    },
-    {
       "key": "101490",
       "category": "WK See",
       "city": "Beinwil am See",
@@ -444,7 +430,7 @@
       "last_date": "2026-09-01",
       "company": "SSS Neuchâtel",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102986",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -556,7 +542,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Obwalden",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -813,20 +799,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "99885",
-      "category": "WK Pool Plus",
-      "city": "La Sarraz",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "Swimsports",
-      "participation_max": 10,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99885",
-      "canton": "VD",
-      "lat": 46.65501022338867,
-      "lng": 6.508055686950684
     },
     {
       "key": "100558",
@@ -1172,7 +1144,7 @@
       "last_date": "2026-08-24",
       "company": "SLRG St. Gallen",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102575",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -1774,7 +1746,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Oberwallis",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100815",
       "canton": "VS",
       "lat": 46.28894805908203,
@@ -11259,5 +11231,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T07:26:22+0000"
+  "geocoded_at": "2026-08-18T08:19:19+0000"
 }
