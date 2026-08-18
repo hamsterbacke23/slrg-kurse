@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T09:18:52+0000",
+  "scraped_at": "2026-08-18T10:14:39+0000",
   "count": 798,
   "courses": [
     {
@@ -934,7 +934,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103183",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -2698,7 +2698,7 @@
       "last_date": "2026-09-12",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101783",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -3076,7 +3076,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102864",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -4980,7 +4980,7 @@
       "last_date": "2026-09-26",
       "company": "Kantonspolizei Zürich",
       "participation_max": 22,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103379",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -5134,7 +5134,7 @@
       "last_date": "2026-09-30",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103018",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -6268,7 +6268,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103384",
       "canton": null,
       "lat": null,
@@ -6380,7 +6380,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102657",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11175,5 +11175,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T09:18:53+0000"
+  "geocoded_at": "2026-08-18T10:14:39+0000"
 }
