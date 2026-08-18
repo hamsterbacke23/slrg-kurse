@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T03:32:49+0000",
+  "scraped_at": "2026-08-18T04:21:41+0000",
   "count": 809,
   "courses": [
     {
@@ -6296,7 +6296,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Franches-Montagnes",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103087",
       "canton": "JU",
       "lat": 47.263877868652344,
@@ -6324,7 +6324,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Franches-Montagnes",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103089",
       "canton": "JU",
       "lat": 47.263877868652344,
@@ -11329,5 +11329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T03:32:49+0000"
+  "geocoded_at": "2026-08-18T04:21:41+0000"
 }
