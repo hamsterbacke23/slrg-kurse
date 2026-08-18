@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T04:21:41+0000",
+  "scraped_at": "2026-08-18T05:17:25+0000",
   "count": 809,
   "courses": [
     {
@@ -612,7 +612,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -765,7 +765,7 @@
       "first_date": "2026-08-20",
       "last_date": "2026-08-25",
       "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 12,
+      "participation_max": 10,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103435",
       "canton": "SG",
@@ -2152,7 +2152,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103293",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -2614,7 +2614,7 @@
       "last_date": "2026-09-03",
       "company": "SLRG Sektion Luzern",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
       "canton": "LU",
       "lat": 47.079551696777344,
@@ -5400,7 +5400,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102424",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -6408,7 +6408,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103384",
       "canton": null,
       "lat": null,
@@ -9838,7 +9838,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Toggenburg",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101727",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -11329,5 +11329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T04:21:41+0000"
+  "geocoded_at": "2026-08-18T05:17:25+0000"
 }
