@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T19:18:36+0000",
+  "scraped_at": "2026-08-18T20:08:57+0000",
   "count": 836,
   "courses": [
     {
@@ -1144,7 +1144,7 @@
       "last_date": "2026-08-23",
       "company": "SLRG Emmental",
       "participation_max": 20,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103229",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -3160,7 +3160,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102282",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -7752,7 +7752,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100109",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -7766,7 +7766,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Ermatingen",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100117",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -9138,7 +9138,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99432",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10020,7 +10020,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99442",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11280,7 +11280,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Zug",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101277",
       "canton": "ZG",
       "lat": 47.127777099609375,
@@ -11707,5 +11707,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T19:18:36+0000"
+  "geocoded_at": "2026-08-18T20:08:57+0000"
 }
