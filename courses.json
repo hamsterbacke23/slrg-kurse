@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-18T20:08:57+0000",
+  "scraped_at": "2026-08-18T21:10:56+0000",
   "count": 836,
   "courses": [
     {
@@ -598,7 +598,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -1438,7 +1438,7 @@
       "last_date": "2026-09-22",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103392",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -2348,7 +2348,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103136",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -6576,7 +6576,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -11707,5 +11707,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T20:08:57+0000"
+  "geocoded_at": "2026-08-18T21:10:56+0000"
 }
