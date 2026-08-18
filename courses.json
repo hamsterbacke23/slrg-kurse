@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-18T21:10:56+0000",
-  "count": 836,
+  "scraped_at": "2026-08-18T22:08:38+0000",
+  "count": 835,
   "courses": [
     {
       "key": "100804",
@@ -603,20 +603,6 @@
       "canton": "TG",
       "lat": 47.640594482421875,
       "lng": 9.175581932067871
-    },
-    {
-      "key": "103446",
-      "category": "WK Pool Basis",
-      "city": "Balgach",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 1,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103446",
-      "canton": "SG",
-      "lat": 47.396480560302734,
-      "lng": 9.608860969543457
     },
     {
       "key": "103450",
@@ -6576,7 +6562,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -11707,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-18T21:10:56+0000"
+  "geocoded_at": "2026-08-18T22:08:38+0000"
 }
