@@ -973,6 +973,12 @@
     "lat": 47.51921463012695,
     "lng": 7.545316219329834
   },
+  "Oberägeri": {
+    "canton": "ZG",
+    "label": "Oberägeri (ZG)",
+    "lat": 47.127777099609375,
+    "lng": 8.643309593200684
+  },
   "Olten": {
     "canton": "SO",
     "label": "Olten (SO)",
