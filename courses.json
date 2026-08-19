@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19T18:14:06+0000",
-  "count": 832,
+  "scraped_at": "2026-08-19T19:15:32+0000",
+  "count": 831,
   "courses": [
     {
       "key": "100804",
@@ -507,20 +507,6 @@
       "lng": 6.902266502380371
     },
     {
-      "key": "103122",
-      "category": "WK See",
-      "city": "Sarnen",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "SLRG Obwalden",
-      "participation_max": 18,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103122",
-      "canton": "OW",
-      "lat": 46.89374923706055,
-      "lng": 8.186779022216797
-    },
-    {
       "key": "103176",
       "category": "Jugendbrevet",
       "city": "",
@@ -962,7 +948,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103183",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -1004,7 +990,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 32,
-      "registered": 31,
+      "registered": 30,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -3594,7 +3580,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100952",
       "canton": null,
       "lat": null,
@@ -4014,7 +4000,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103012",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -4028,7 +4014,7 @@
       "last_date": "2026-09-16",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103488",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -4280,7 +4266,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100366",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -4658,7 +4644,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Oberwil",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102801",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11651,5 +11637,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T18:14:06+0000"
+  "geocoded_at": "2026-08-19T19:15:32+0000"
 }
