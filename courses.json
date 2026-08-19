@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T04:23:09+0000",
+  "scraped_at": "2026-08-19T05:18:07+0000",
   "count": 835,
   "courses": [
     {
@@ -598,7 +598,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -1032,7 +1032,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103426",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -2180,7 +2180,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103293",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -3832,7 +3832,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11693,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T04:23:09+0000"
+  "geocoded_at": "2026-08-19T05:18:07+0000"
 }
