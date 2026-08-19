@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T07:27:20+0000",
+  "scraped_at": "2026-08-19T08:19:52+0000",
   "count": 835,
   "courses": [
     {
@@ -38,7 +38,7 @@
       "last_date": "2026-04-25",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102338",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -505,20 +505,6 @@
       "canton": "SG",
       "lat": 47.396480560302734,
       "lng": 9.608860969543457
-    },
-    {
-      "key": "100787",
-      "category": "Modul BLS-AED",
-      "city": "Aarau",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100787",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
     },
     {
       "key": "102654",
@@ -1032,7 +1018,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103426",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -1606,7 +1592,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Wetzikon",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103483",
       "canton": null,
       "lat": null,
@@ -1718,7 +1704,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102048",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -3426,7 +3412,7 @@
       "last_date": "2026-09-09",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103445",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -4770,7 +4756,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103526",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -5330,7 +5316,7 @@
       "last_date": "2026-09-27",
       "company": "Kantonspolizei Zürich",
       "participation_max": 30,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103380",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -5433,6 +5419,20 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
+    },
+    {
+      "key": "103551",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-09",
+      "company": "SLRG Sektion Bern",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103551",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99390",
@@ -9334,7 +9334,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103456",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -9754,7 +9754,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Uri",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102358",
       "canton": "UR",
       "lat": 46.886905670166016,
@@ -11693,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T07:27:20+0000"
+  "geocoded_at": "2026-08-19T08:19:52+0000"
 }
