@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19T16:15:14+0000",
-  "count": 835,
+  "scraped_at": "2026-08-19T17:14:30+0000",
+  "count": 833,
   "courses": [
     {
       "key": "100804",
@@ -465,20 +465,6 @@
       "lng": null
     },
     {
-      "key": "103383",
-      "category": "Brevet Basis Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-08-18",
-      "last_date": "2026-08-27",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103383",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
-    },
-    {
       "key": "99710",
       "category": "Brevet Plus Pool",
       "city": "Oberwil BL",
@@ -556,7 +542,7 @@
       "last_date": "2026-08-19",
       "company": "SSS St. Imier",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103366",
       "canton": null,
       "lat": null,
@@ -612,22 +598,8 @@
       "last_date": "2026-08-19",
       "company": "SLRG Region Zentral",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103553",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103554",
-      "category": "WK Modul Methodik",
-      "city": "",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "SLRG Region Zentral",
-      "participation_max": 20,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103554",
       "canton": null,
       "lat": null,
       "lng": null
@@ -640,7 +612,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Region Zentral",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103556",
       "canton": null,
       "lat": null,
@@ -682,7 +654,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Region Zentral",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103559",
       "canton": null,
       "lat": null,
@@ -2068,7 +2040,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103070",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11693,5 +11665,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T16:15:14+0000"
+  "geocoded_at": "2026-08-19T17:14:30+0000"
 }
