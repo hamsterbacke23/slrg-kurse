@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19T21:13:28+0000",
-  "count": 823,
+  "scraped_at": "2026-08-19T22:11:15+0000",
+  "count": 820,
   "courses": [
     {
       "key": "100804",
@@ -465,34 +465,6 @@
       "lng": null
     },
     {
-      "key": "99710",
-      "category": "Brevet Plus Pool",
-      "city": "Oberwil BL",
-      "first_date": "2026-08-19",
-      "last_date": "2026-09-07",
-      "company": "SLRG Oberwil",
-      "participation_max": 16,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99710",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
-    },
-    {
-      "key": "100169",
-      "category": "WK Pool Pro",
-      "city": "Balgach",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100169",
-      "canton": "SG",
-      "lat": 47.396480560302734,
-      "lng": 9.608860969543457
-    },
-    {
       "key": "103176",
       "category": "Jugendbrevet",
       "city": "",
@@ -505,48 +477,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103366",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "SSS St. Imier",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103366",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103367",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "SSS St. Imier",
-      "participation_max": 8,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103367",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103401",
-      "category": "WK See",
-      "city": "Kreuzlingen",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "SLRG Kreuzlingen",
-      "participation_max": 16,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
-      "canton": "TG",
-      "lat": 47.640594482421875,
-      "lng": 9.175581932067871
     },
     {
       "key": "103450",
@@ -600,20 +530,6 @@
       "participation_max": 16,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99841",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100859",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-08-20",
-      "last_date": "2026-08-20",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 2,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100859",
       "canton": null,
       "lat": null,
       "lng": null
@@ -906,7 +822,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 32,
-      "registered": 31,
+      "registered": 32,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -2493,6 +2409,20 @@
       "canton": "VD",
       "lat": 46.768096923828125,
       "lng": 6.632878303527832
+    },
+    {
+      "key": "103563",
+      "category": "Brevet Plus Pool",
+      "city": "Brunnen",
+      "first_date": "2026-09-03",
+      "last_date": "2026-10-09",
+      "company": "Bildungszentrale Innerschweiz",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103563",
+      "canton": "VS",
+      "lat": 46.288421630859375,
+      "lng": 7.718348503112793
     },
     {
       "key": "100646",
@@ -5475,6 +5405,34 @@
       "canton": "VD",
       "lat": 46.55949401855469,
       "lng": 6.608593940734863
+    },
+    {
+      "key": "103561",
+      "category": "Brevet Basis Pool",
+      "city": "Brunnen",
+      "first_date": "2026-10-03",
+      "last_date": "2026-10-09",
+      "company": "Bildungszentrale Innerschweiz",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103561",
+      "canton": "VS",
+      "lat": 46.288421630859375,
+      "lng": 7.718348503112793
+    },
+    {
+      "key": "103562",
+      "category": "Modul BLS-AED",
+      "city": "Brunnen",
+      "first_date": "2026-10-03",
+      "last_date": "2026-10-09",
+      "company": "Bildungszentrale Innerschweiz",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103562",
+      "canton": "VS",
+      "lat": 46.288421630859375,
+      "lng": 7.718348503112793
     },
     {
       "key": "100566",
@@ -11525,5 +11483,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T21:13:29+0000"
+  "geocoded_at": "2026-08-19T22:11:15+0000"
 }
