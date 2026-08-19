@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T08:19:52+0000",
+  "scraped_at": "2026-08-19T09:19:41+0000",
   "count": 835,
   "courses": [
     {
@@ -584,7 +584,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103401",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -1032,7 +1032,7 @@
       "last_date": "2026-08-22",
       "company": "SSS Genève",
       "participation_max": 5,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103484",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -2166,7 +2166,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103299",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -3874,7 +3874,7 @@
       "last_date": "2026-09-12",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103444",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -6534,7 +6534,7 @@
       "last_date": "2026-10-17",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103485",
       "canton": null,
       "lat": null,
@@ -11693,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T08:19:52+0000"
+  "geocoded_at": "2026-08-19T09:19:41+0000"
 }
