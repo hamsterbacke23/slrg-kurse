@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T00:26:33+0000",
+  "scraped_at": "2026-08-19T02:09:22+0000",
   "count": 835,
   "courses": [
     {
@@ -7360,7 +7360,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101049",
       "canton": null,
       "lat": null,
@@ -9404,7 +9404,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101732",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -11693,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T00:26:33+0000"
+  "geocoded_at": "2026-08-19T02:09:22+0000"
 }
