@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19T19:15:32+0000",
-  "count": 831,
+  "scraped_at": "2026-08-19T20:11:18+0000",
+  "count": 829,
   "courses": [
     {
       "key": "100804",
@@ -493,20 +493,6 @@
       "lng": 9.608860969543457
     },
     {
-      "key": "102654",
-      "category": "Brevet Basis Pool",
-      "city": "Cernier",
-      "first_date": "2026-08-19",
-      "last_date": "2026-09-09",
-      "company": "SSS Val-de-Ruz",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102654",
-      "canton": "NE",
-      "lat": 47.06060028076172,
-      "lng": 6.902266502380371
-    },
-    {
       "key": "103176",
       "category": "Jugendbrevet",
       "city": "",
@@ -584,7 +570,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Region Zentral",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103553",
       "canton": null,
       "lat": null,
@@ -612,7 +598,7 @@
       "last_date": "2026-08-19",
       "company": "SLRG Region Zentral",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103557",
       "canton": null,
       "lat": null,
@@ -766,7 +752,7 @@
       "last_date": "2026-08-21",
       "company": "SLRG Appenzell",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103440",
       "canton": "JU",
       "lat": 47.39387130737305,
@@ -1536,7 +1522,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Wetzikon",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103483",
       "canton": null,
       "lat": null,
@@ -3307,20 +3293,6 @@
       "lng": 8.988879203796387
     },
     {
-      "key": "102031",
-      "category": "Modul Fluss",
-      "city": "Bremgarten AG",
-      "first_date": "2026-09-09",
-      "last_date": "2026-09-12",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 5,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102031",
-      "canton": "AG",
-      "lat": 47.346309661865234,
-      "lng": 8.333881378173828
-    },
-    {
       "key": "102812",
       "category": "WK Pool Plus",
       "city": "Eschen",
@@ -4000,7 +3972,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103012",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -4700,7 +4672,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103526",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -8284,7 +8256,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11637,5 +11609,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T19:15:32+0000"
+  "geocoded_at": "2026-08-19T20:11:19+0000"
 }
