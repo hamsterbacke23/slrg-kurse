@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T12:17:09+0000",
+  "scraped_at": "2026-08-19T13:34:26+0000",
   "count": 835,
   "courses": [
     {
@@ -1018,7 +1018,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Deutschfreiburg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103426",
       "canton": "FR",
       "lat": 46.94218063354492,
@@ -1046,7 +1046,7 @@
       "last_date": "2026-08-23",
       "company": "SSS La Côte",
       "participation_max": 32,
-      "registered": 30,
+      "registered": 31,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -2194,7 +2194,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Baden-Brugg",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103325",
       "canton": null,
       "lat": null,
@@ -3132,7 +3132,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -3874,7 +3874,7 @@
       "last_date": "2026-09-12",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103444",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -4854,7 +4854,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103489",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -5414,7 +5414,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103490",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -7066,7 +7066,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100822",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -8354,7 +8354,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103491",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -11693,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-19T12:17:09+0000"
+  "geocoded_at": "2026-08-19T13:34:26+0000"
 }
