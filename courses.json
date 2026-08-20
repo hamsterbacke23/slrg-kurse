@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T04:23:17+0000",
-  "count": 820,
+  "scraped_at": "2026-08-20T05:19:06+0000",
+  "count": 819,
   "courses": [
     {
       "key": "100804",
@@ -278,20 +278,6 @@
       "participation_max": 16,
       "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103083",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103462",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-08-11",
-      "last_date": "2026-08-16",
-      "company": "SRV Linth",
-      "participation_max": 6,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103462",
       "canton": null,
       "lat": null,
       "lng": null
@@ -1648,7 +1634,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 9,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101734",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -11483,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T04:23:17+0000"
+  "geocoded_at": "2026-08-20T05:19:07+0000"
 }
