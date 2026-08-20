@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T05:19:06+0000",
-  "count": 819,
+  "scraped_at": "2026-08-20T06:21:09+0000",
+  "count": 818,
   "courses": [
     {
       "key": "100804",
@@ -29,20 +29,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102338",
-      "category": "Brevet Plus Pool",
-      "city": "Basel",
-      "first_date": "2026-04-25",
-      "last_date": "2026-04-25",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102338",
-      "canton": "BS",
-      "lat": 47.5545539855957,
-      "lng": 7.590269565582275
     },
     {
       "key": "103480",
@@ -3552,7 +3538,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5148,7 +5134,7 @@
       "last_date": "2026-09-30",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103018",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5162,7 +5148,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103490",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -6212,7 +6198,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -6324,7 +6310,7 @@
       "last_date": "2026-10-18",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100693",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -8130,7 +8116,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103491",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -9502,7 +9488,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101675",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10118,7 +10104,7 @@
       "last_date": "2026-11-29",
       "company": "SSS Vallée de Joux",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103492",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -10132,7 +10118,7 @@
       "last_date": "2026-12-06",
       "company": "SSS Vallée de Joux",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103493",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -11469,5 +11455,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T05:19:07+0000"
+  "geocoded_at": "2026-08-20T06:21:09+0000"
 }
