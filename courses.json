@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-20T16:18:17+0000",
+  "scraped_at": "2026-08-20T17:16:45+0000",
   "count": 811,
   "courses": [
     {
@@ -682,7 +682,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103183",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -864,7 +864,7 @@
       "last_date": "2026-08-24",
       "company": "SLRG St. Gallen",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102578",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -2697,7 +2697,7 @@
       "first_date": "2026-09-06",
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
-      "participation_max": 20,
+      "participation_max": 24,
       "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101414",
       "canton": "BE",
@@ -2711,8 +2711,8 @@
       "first_date": "2026-09-06",
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
-      "participation_max": 14,
-      "registered": 9,
+      "participation_max": 8,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101415",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -5974,7 +5974,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Sektion Luzern",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100866",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -8732,7 +8732,7 @@
       "last_date": "2026-11-14",
       "company": "SSS Région Romande",
       "participation_max": 40,
-      "registered": 39,
+      "registered": 40,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98019",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11357,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T16:18:18+0000"
+  "geocoded_at": "2026-08-20T17:16:45+0000"
 }
