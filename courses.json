@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T18:18:38+0000",
-  "count": 811,
+  "scraped_at": "2026-08-20T19:21:17+0000",
+  "count": 810,
   "courses": [
     {
       "key": "100804",
@@ -379,20 +379,6 @@
       "canton": "AG",
       "lat": 47.45991897583008,
       "lng": 8.248859405517578
-    },
-    {
-      "key": "103450",
-      "category": "WK Pool Pro",
-      "city": "Gossau SG",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103450",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
     },
     {
       "key": "99559",
@@ -1256,7 +1242,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98751",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -3496,7 +3482,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103288",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -4266,7 +4252,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -6240,7 +6226,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103349",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -9306,7 +9292,7 @@
       "last_date": "2026-11-20",
       "company": "SLRG Uri",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100960",
       "canton": "UR",
       "lat": 46.91195297241211,
@@ -11357,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T18:18:46+0000"
+  "geocoded_at": "2026-08-20T19:21:17+0000"
 }
