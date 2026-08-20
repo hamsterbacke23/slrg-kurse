@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-20T19:21:17+0000",
+  "scraped_at": "2026-08-20T20:14:02+0000",
   "count": 810,
   "courses": [
     {
@@ -668,7 +668,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103183",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -1326,7 +1326,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103409",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -2600,7 +2600,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103284",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -5974,7 +5974,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -11343,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T19:21:17+0000"
+  "geocoded_at": "2026-08-20T20:14:02+0000"
 }
