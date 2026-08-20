@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T08:21:09+0000",
-  "count": 815,
+  "scraped_at": "2026-08-20T09:20:47+0000",
+  "count": 812,
   "courses": [
     {
       "key": "100804",
@@ -68,34 +68,6 @@
       "participation_max": 4,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102540",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103417",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-08-23",
-      "company": "SLRG Deutschfreiburg",
-      "participation_max": 30,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103417",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103419",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-06-20",
-      "last_date": "2026-08-23",
-      "company": "SLRG Deutschfreiburg",
-      "participation_max": 30,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103419",
       "canton": null,
       "lat": null,
       "lng": null
@@ -829,20 +801,6 @@
       "lng": 8.431046485900879
     },
     {
-      "key": "103415",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-08-23",
-      "last_date": "2026-08-23",
-      "company": "SLRG Deutschfreiburg",
-      "participation_max": 32,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103415",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103427",
       "category": "Brevet Plus Pool",
       "city": "Murten",
@@ -1088,7 +1046,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103345",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -1723,34 +1681,6 @@
       "canton": "SO",
       "lat": 47.193782806396484,
       "lng": 7.59089994430542
-    },
-    {
-      "key": "102946",
-      "category": "Modul See",
-      "city": "Minusio",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "Salvataggio Sub Minusio",
-      "participation_max": 8,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102946",
-      "canton": "TI",
-      "lat": 46.18009948730469,
-      "lng": 8.825486183166504
-    },
-    {
-      "key": "102947",
-      "category": "WK See",
-      "city": "Minusio",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "Salvataggio Sub Minusio",
-      "participation_max": 6,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102947",
-      "canton": "TI",
-      "lat": 46.18009948730469,
-      "lng": 8.825486183166504
     },
     {
       "key": "103070",
@@ -2866,7 +2796,7 @@
       "last_date": "2026-09-08",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100949",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -3118,7 +3048,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100951",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -3473,6 +3403,34 @@
       "canton": "GE",
       "lat": 46.204559326171875,
       "lng": 6.1424560546875
+    },
+    {
+      "key": "102946",
+      "category": "Modul See",
+      "city": "",
+      "first_date": "2026-09-12",
+      "last_date": "2026-09-12",
+      "company": "Salvataggio Sub Minusio",
+      "participation_max": 8,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102946",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102947",
+      "category": "WK See",
+      "city": "",
+      "first_date": "2026-09-12",
+      "last_date": "2026-09-12",
+      "company": "Salvataggio Sub Minusio",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102947",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "102997",
@@ -11413,5 +11371,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T08:21:09+0000"
+  "geocoded_at": "2026-08-20T09:20:47+0000"
 }
