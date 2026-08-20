@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T07:30:03+0000",
-  "count": 816,
+  "scraped_at": "2026-08-20T08:21:09+0000",
+  "count": 815,
   "courses": [
     {
       "key": "100804",
@@ -407,20 +407,6 @@
       "canton": "AG",
       "lat": 47.45991897583008,
       "lng": 8.248859405517578
-    },
-    {
-      "key": "103176",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-08-19",
-      "last_date": "2026-08-19",
-      "company": "SLRG Zug",
-      "participation_max": 15,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103176",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103450",
@@ -976,7 +962,7 @@
       "last_date": "2026-08-24",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103238",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1102,7 +1088,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103345",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2851,7 +2837,7 @@
       "first_date": "2026-09-06",
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
-      "participation_max": 16,
+      "participation_max": 20,
       "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
@@ -8662,7 +8648,7 @@
       "last_date": "2026-11-09",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102787",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11427,5 +11413,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T07:30:03+0000"
+  "geocoded_at": "2026-08-20T08:21:09+0000"
 }
