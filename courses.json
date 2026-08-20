@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T21:15:21+0000",
-  "count": 810,
+  "scraped_at": "2026-08-20T22:12:58+0000",
+  "count": 811,
   "courses": [
     {
       "key": "100804",
@@ -423,20 +423,6 @@
       "lng": null
     },
     {
-      "key": "100864",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-08-20",
-      "last_date": "2026-08-20",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100864",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100896",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -502,6 +488,62 @@
       "participation_max": 20,
       "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99840",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "100344",
+      "category": "Modul BLS-AED",
+      "city": "Basel",
+      "first_date": "2026-08-22",
+      "last_date": "2026-08-22",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100344",
+      "canton": "BS",
+      "lat": 47.5545539855957,
+      "lng": 7.590269565582275
+    },
+    {
+      "key": "100345",
+      "category": "WK BLS-AED",
+      "city": "Basel",
+      "first_date": "2026-08-22",
+      "last_date": "2026-08-22",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100345",
+      "canton": "BS",
+      "lat": 47.5545539855957,
+      "lng": 7.590269565582275
+    },
+    {
+      "key": "100346",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-08-22",
+      "last_date": "2026-08-22",
+      "company": "SLRG Basel",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100346",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "100347",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-08-22",
+      "last_date": "2026-08-22",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100347",
       "canton": null,
       "lat": null,
       "lng": null
@@ -603,20 +645,6 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
-    },
-    {
-      "key": "102758",
-      "category": "Modul BLS-AED",
-      "city": "Appenzell",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102758",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
     },
     {
       "key": "102896",
@@ -8571,20 +8599,6 @@
       "lng": 7.331088542938232
     },
     {
-      "key": "102787",
-      "category": "WK BLS-AED",
-      "city": "Cernier",
-      "first_date": "2026-11-09",
-      "last_date": "2026-11-09",
-      "company": "SSS Val-de-Ruz",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102787",
-      "canton": "NE",
-      "lat": 47.06060028076172,
-      "lng": 6.902266502380371
-    },
-    {
       "key": "99345",
       "category": "WK BLS-AED",
       "city": "Winterthur",
@@ -11343,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T21:15:21+0000"
+  "geocoded_at": "2026-08-20T22:12:58+0000"
 }
