@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-20T10:16:11+0000",
+  "scraped_at": "2026-08-20T11:14:09+0000",
   "count": 812,
   "courses": [
     {
@@ -1046,7 +1046,7 @@
       "last_date": "2026-08-25",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103345",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -1242,7 +1242,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Wetzikon",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103483",
       "canton": null,
       "lat": null,
@@ -1914,7 +1914,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -3678,7 +3678,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102655",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -3958,7 +3958,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100320",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -4504,7 +4504,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103489",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -5064,7 +5064,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103490",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -5078,7 +5078,7 @@
       "last_date": "2026-10-09",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103551",
       "canton": null,
       "lat": null,
@@ -7962,7 +7962,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103397",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -8032,7 +8032,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103491",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -11371,5 +11371,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T10:16:11+0000"
+  "geocoded_at": "2026-08-20T11:14:09+0000"
 }
