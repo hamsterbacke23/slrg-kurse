@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T15:21:15+0000",
-  "count": 812,
+  "scraped_at": "2026-08-20T16:18:17+0000",
+  "count": 811,
   "courses": [
     {
       "key": "100804",
@@ -472,7 +472,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Sektion Hallwilersee",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103126",
       "canton": "AG",
       "lat": 47.235843658447266,
@@ -1704,7 +1704,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 16,
-      "registered": 17,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103080",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -1821,20 +1821,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103414",
-      "category": "Brevet Basis Pool",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SSS Genève",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103414",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
     },
     {
       "key": "99715",
@@ -2894,7 +2880,7 @@
       "last_date": "2026-09-07",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103416",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4014,7 +4000,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101183",
       "canton": null,
       "lat": null,
@@ -4308,7 +4294,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98760",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -4462,7 +4448,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103035",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -5694,7 +5680,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101971",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -5722,7 +5708,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101973",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -6002,7 +5988,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -11371,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-20T15:21:15+0000"
+  "geocoded_at": "2026-08-20T16:18:18+0000"
 }
