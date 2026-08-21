@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21T16:16:45+0000",
-  "count": 818,
+  "scraped_at": "2026-08-21T17:16:42+0000",
+  "count": 817,
   "courses": [
     {
       "key": "100804",
@@ -365,20 +365,6 @@
       "canton": "AG",
       "lat": 47.235843658447266,
       "lng": 8.182795524597168
-    },
-    {
-      "key": "103435",
-      "category": "Brevet Basis Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-08-20",
-      "last_date": "2026-08-25",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103435",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
     },
     {
       "key": "103440",
@@ -1676,7 +1662,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103414",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3384,7 +3370,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -5904,7 +5890,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -10300,7 +10286,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101670",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11455,5 +11441,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-21T16:16:45+0000"
+  "geocoded_at": "2026-08-21T17:16:42+0000"
 }
