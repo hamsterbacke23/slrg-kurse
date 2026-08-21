@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T14:21:27+0000",
+  "scraped_at": "2026-08-21T15:20:01+0000",
   "count": 820,
   "courses": [
     {
@@ -1648,7 +1648,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103299",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -2334,7 +2334,7 @@
       "last_date": "2026-09-12",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101783",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -11483,5 +11483,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-21T14:21:27+0000"
+  "geocoded_at": "2026-08-21T15:20:01+0000"
 }
