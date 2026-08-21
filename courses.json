@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-21T18:17:49+0000",
+  "scraped_at": "2026-08-21T19:17:19+0000",
   "count": 817,
   "courses": [
     {
@@ -1620,7 +1620,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103299",
       "canton": "SZ",
       "lat": 47.08266830444336,
@@ -4126,7 +4126,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -11441,5 +11441,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-21T18:17:49+0000"
+  "geocoded_at": "2026-08-21T19:17:19+0000"
 }
