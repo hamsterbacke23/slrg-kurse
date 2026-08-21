@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21T08:22:43+0000",
-  "count": 807,
+  "scraped_at": "2026-08-21T09:22:50+0000",
+  "count": 806,
   "courses": [
     {
       "key": "100804",
@@ -225,20 +225,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103237",
-      "category": "Brevet Plus Pool",
-      "city": "Sion",
-      "first_date": "2026-08-13",
-      "last_date": "2026-08-20",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103237",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "103276",
@@ -612,7 +598,7 @@
       "last_date": "2026-08-29",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102896",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1914,7 +1900,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103352",
       "canton": "ZH",
       "lat": 47.20124435424805,
@@ -3412,7 +3398,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103230",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3440,7 +3426,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103233",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5232,7 +5218,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103372",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6058,7 +6044,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -7766,7 +7752,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98761",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -9418,7 +9404,7 @@
       "last_date": "2026-11-22",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101138",
       "canton": null,
       "lat": null,
@@ -10398,7 +10384,7 @@
       "last_date": "2026-12-11",
       "company": "SLRG Zug",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99858",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11301,5 +11287,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-21T08:22:43+0000"
+  "geocoded_at": "2026-08-21T09:22:50+0000"
 }
