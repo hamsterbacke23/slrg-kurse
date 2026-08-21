@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21T05:20:15+0000",
-  "count": 811,
+  "scraped_at": "2026-08-21T06:21:05+0000",
+  "count": 809,
   "courses": [
     {
       "key": "100804",
@@ -549,20 +549,6 @@
       "lng": null
     },
     {
-      "key": "100558",
-      "category": "Modul BLS-AED",
-      "city": "St-Cergue",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SSS La Côte",
-      "participation_max": 24,
-      "registered": 22,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100558",
-      "canton": "VD",
-      "lat": 46.45172882080078,
-      "lng": 6.129065990447998
-    },
-    {
       "key": "101424",
       "category": "Brevet Plus Pool",
       "city": "Bülach",
@@ -729,20 +715,6 @@
       "canton": "GE",
       "lat": 46.204559326171875,
       "lng": 6.1424560546875
-    },
-    {
-      "key": "100560",
-      "category": "Brevet Basis Pool",
-      "city": "Grand-Lancy",
-      "first_date": "2026-08-23",
-      "last_date": "2026-08-23",
-      "company": "SSS La Côte",
-      "participation_max": 32,
-      "registered": 32,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100560",
-      "canton": "GE",
-      "lat": 46.18354034423828,
-      "lng": 6.120214939117432
     },
     {
       "key": "100677",
@@ -3818,7 +3790,7 @@
       "last_date": "2026-09-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103254",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -4280,7 +4252,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -8816,7 +8788,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100165",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -11357,5 +11329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-21T05:20:15+0000"
+  "geocoded_at": "2026-08-21T06:21:05+0000"
 }
