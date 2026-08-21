@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21T06:21:05+0000",
-  "count": 809,
+  "scraped_at": "2026-08-21T07:32:33+0000",
+  "count": 808,
   "courses": [
     {
       "key": "100804",
@@ -180,20 +180,6 @@
       "participation_max": 16,
       "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103082",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103394",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-08-04",
-      "last_date": "2026-08-21",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 1,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103394",
       "canton": null,
       "lat": null,
       "lng": null
@@ -2166,7 +2152,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101907",
       "canton": null,
       "lat": null,
@@ -5974,7 +5960,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -6170,7 +6156,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103248",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -7724,7 +7710,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101354",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -7794,7 +7780,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98761",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -11329,5 +11315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-21T06:21:05+0000"
+  "geocoded_at": "2026-08-21T07:32:33+0000"
 }
