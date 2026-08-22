@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T06:16:28+0000",
+  "scraped_at": "2026-08-22T07:21:02+0000",
   "count": 812,
   "courses": [
     {
@@ -472,7 +472,7 @@
       "last_date": "2026-08-29",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102896",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1942,7 +1942,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Büren a. A.",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101907",
       "canton": null,
       "lat": null,
@@ -7892,7 +7892,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -9768,7 +9768,7 @@
       "last_date": "2026-11-28",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102788",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -9782,7 +9782,7 @@
       "last_date": "2026-11-28",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102789",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11371,5 +11371,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T06:16:28+0000"
+  "geocoded_at": "2026-08-22T07:21:02+0000"
 }
