@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T13:21:59+0000",
-  "count": 806,
+  "scraped_at": "2026-08-22T14:08:30+0000",
+  "count": 805,
   "courses": [
     {
       "key": "100804",
@@ -94,7 +94,7 @@
       "last_date": "2026-06-30",
       "company": "SSS Lugano",
       "participation_max": 5,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103091",
       "canton": null,
       "lat": null,
@@ -477,20 +477,6 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
-    },
-    {
-      "key": "102938",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Uri",
-      "participation_max": 16,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102938",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103115",
@@ -2362,7 +2348,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Büren a. A.",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101414",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -8214,7 +8200,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103280",
       "canton": "ZH",
       "lat": 47.62740707397461,
@@ -11287,5 +11273,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T13:21:59+0000"
+  "geocoded_at": "2026-08-22T14:08:30+0000"
 }
