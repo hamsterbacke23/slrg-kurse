@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T07:21:02+0000",
-  "count": 812,
+  "scraped_at": "2026-08-22T08:13:47+0000",
+  "count": 810,
   "courses": [
     {
       "key": "100804",
@@ -1151,20 +1151,6 @@
       "lng": null
     },
     {
-      "key": "103391",
-      "category": "Brevet Plus Pool",
-      "city": "Cologny",
-      "first_date": "2026-08-28",
-      "last_date": "2026-08-28",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103391",
-      "canton": "GE",
-      "lat": 46.22124099731445,
-      "lng": 6.176814556121826
-    },
-    {
       "key": "99316",
       "category": "WK Pool Plus",
       "city": "Bellinzona",
@@ -1709,20 +1695,6 @@
       "canton": "SO",
       "lat": 47.193782806396484,
       "lng": 7.59089994430542
-    },
-    {
-      "key": "103201",
-      "category": "Brevet Plus Pool",
-      "city": "St-Légier",
-      "first_date": "2026-08-30",
-      "last_date": "2026-08-30",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103201",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
     },
     {
       "key": "103343",
@@ -3286,7 +3258,7 @@
       "last_date": "2026-09-12",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103444",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -5162,7 +5134,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -11371,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T07:21:02+0000"
+  "geocoded_at": "2026-08-22T08:13:48+0000"
 }
