@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T18:09:55+0000",
-  "count": 800,
+  "scraped_at": "2026-08-22T19:12:40+0000",
+  "count": 799,
   "courses": [
     {
       "key": "100804",
@@ -225,20 +225,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101719",
-      "category": "Brevet Basis Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-08-15",
-      "last_date": "2026-08-22",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101719",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
     },
     {
       "key": "102199",
@@ -7136,7 +7122,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Ermatingen",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100117",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -11203,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T18:09:55+0000"
+  "geocoded_at": "2026-08-22T19:12:40+0000"
 }
