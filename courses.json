@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T12:12:13+0000",
-  "count": 807,
+  "scraped_at": "2026-08-22T13:21:59+0000",
+  "count": 806,
   "courses": [
     {
       "key": "100804",
@@ -1101,7 +1101,7 @@
       "first_date": "2026-08-28",
       "last_date": "2026-08-28",
       "company": "SLRG Muri-Gümligen",
-      "participation_max": 6,
+      "participation_max": 12,
       "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103112",
       "canton": null,
@@ -1415,20 +1415,6 @@
       "canton": "BE",
       "lat": 46.954750061035156,
       "lng": 7.804457187652588
-    },
-    {
-      "key": "103080",
-      "category": "Brevet Basis Pool",
-      "city": "Worb",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Muri-Gümligen",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103080",
-      "canton": "BE",
-      "lat": 46.93036651611328,
-      "lng": 7.569691181182861
     },
     {
       "key": "103123",
@@ -4266,7 +4252,7 @@
       "last_date": "2026-09-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103289",
       "canton": null,
       "lat": null,
@@ -7976,7 +7962,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100256",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -11301,5 +11287,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T12:12:13+0000"
+  "geocoded_at": "2026-08-22T13:21:59+0000"
 }
