@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T15:07:44+0000",
+  "scraped_at": "2026-08-22T16:08:10+0000",
   "count": 802,
   "courses": [
     {
@@ -416,7 +416,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100347",
       "canton": null,
       "lat": null,
@@ -1508,7 +1508,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Baden-Brugg",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103325",
       "canton": null,
       "lat": null,
@@ -11231,5 +11231,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T15:07:44+0000"
+  "geocoded_at": "2026-08-22T16:08:10+0000"
 }
