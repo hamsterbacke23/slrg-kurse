@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T09:14:30+0000",
-  "count": 809,
+  "scraped_at": "2026-08-22T10:09:28+0000",
+  "count": 807,
   "courses": [
     {
       "key": "100804",
@@ -262,7 +262,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG Wil",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103064",
       "canton": null,
       "lat": null,
@@ -360,7 +360,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100344",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -521,20 +521,6 @@
       "lng": 9.262721061706543
     },
     {
-      "key": "103426",
-      "category": "Brevet Basis Pool",
-      "city": "Murten",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Deutschfreiburg",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103426",
-      "canton": "FR",
-      "lat": 46.94218063354492,
-      "lng": 7.174732685089111
-    },
-    {
       "key": "103484",
       "category": "WK See",
       "city": "Genève",
@@ -603,20 +589,6 @@
       "canton": "LU",
       "lat": 47.03305435180664,
       "lng": 8.431046485900879
-    },
-    {
-      "key": "103427",
-      "category": "Brevet Plus Pool",
-      "city": "Murten",
-      "first_date": "2026-08-23",
-      "last_date": "2026-08-23",
-      "company": "SLRG Deutschfreiburg",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103427",
-      "canton": "FR",
-      "lat": 46.94218063354492,
-      "lng": 7.174732685089111
     },
     {
       "key": "99897",
@@ -2334,7 +2306,7 @@
       "last_date": "2026-09-05",
       "company": "SSS Porrentruy",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103301",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -2460,7 +2432,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -3216,7 +3188,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103233",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3328,7 +3300,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103303",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -11329,5 +11301,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T09:14:31+0000"
+  "geocoded_at": "2026-08-22T10:09:28+0000"
 }
