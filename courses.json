@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T10:09:28+0000",
-  "count": 807,
+  "scraped_at": "2026-08-22T11:08:42+0000",
+  "count": 808,
   "courses": [
     {
       "key": "100804",
@@ -85,6 +85,20 @@
       "canton": "SG",
       "lat": 47.41975021362305,
       "lng": 9.143709182739258
+    },
+    {
+      "key": "103091",
+      "category": "WK See",
+      "city": "",
+      "first_date": "2026-06-30",
+      "last_date": "2026-06-30",
+      "company": "SSS Lugano",
+      "participation_max": 5,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103091",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "100890",
@@ -1074,7 +1088,7 @@
       "last_date": "2026-08-27",
       "company": "SLRG Kreuzlingen",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103409",
       "canton": "TG",
       "lat": 47.640594482421875,
@@ -10846,7 +10860,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103129",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -11301,5 +11315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T10:09:28+0000"
+  "geocoded_at": "2026-08-22T11:08:42+0000"
 }
