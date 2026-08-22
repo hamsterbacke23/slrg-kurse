@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-22T16:08:10+0000",
-  "count": 802,
+  "scraped_at": "2026-08-22T17:09:21+0000",
+  "count": 800,
   "courses": [
     {
       "key": "100804",
@@ -423,20 +423,6 @@
       "lng": null
     },
     {
-      "key": "101782",
-      "category": "Brevet Basis Pool",
-      "city": "Baden",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-29",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101782",
-      "canton": "AG",
-      "lat": 47.47016525268555,
-      "lng": 8.292152404785156
-    },
-    {
       "key": "102111",
       "category": "Modul See",
       "city": "Spiez",
@@ -449,20 +435,6 @@
       "canton": "BE",
       "lat": 46.691070556640625,
       "lng": 7.6608123779296875
-    },
-    {
-      "key": "102636",
-      "category": "Brevet Basis Pool",
-      "city": "Payerne",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SSS Payerne",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102636",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
     },
     {
       "key": "102896",
@@ -3160,7 +3132,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -9628,7 +9600,7 @@
       "last_date": "2026-11-28",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102788",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -9642,7 +9614,7 @@
       "last_date": "2026-11-28",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102789",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11231,5 +11203,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-22T16:08:10+0000"
+  "geocoded_at": "2026-08-22T17:09:21+0000"
 }
