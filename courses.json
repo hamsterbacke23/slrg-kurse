@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-23T20:07:35+0000",
-  "count": 791,
+  "scraped_at": "2026-08-23T21:09:19+0000",
+  "count": 789,
   "courses": [
     {
       "key": "100804",
@@ -269,20 +269,6 @@
       "lng": null
     },
     {
-      "key": "101291",
-      "category": "Modul See",
-      "city": "Langenthal",
-      "first_date": "2026-08-17",
-      "last_date": "2026-08-22",
-      "company": "SLRG Sektion Olten",
-      "participation_max": 14,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101291",
-      "canton": "BE",
-      "lat": 47.212921142578125,
-      "lng": 7.807295799255371
-    },
-    {
       "key": "103064",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -435,20 +421,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102111",
-      "category": "Modul See",
-      "city": "Spiez",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Emmental",
-      "participation_max": 16,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102111",
-      "canton": "BE",
-      "lat": 46.691070556640625,
-      "lng": 7.6608123779296875
     },
     {
       "key": "99897",
@@ -836,7 +808,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Wetzikon",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103483",
       "canton": null,
       "lat": null,
@@ -11077,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T20:07:35+0000"
+  "geocoded_at": "2026-08-23T21:09:19+0000"
 }
