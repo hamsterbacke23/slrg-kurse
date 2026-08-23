@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T10:09:57+0000",
+  "scraped_at": "2026-08-23T11:09:20+0000",
   "count": 793,
   "courses": [
     {
@@ -2460,7 +2460,7 @@
       "last_date": "2026-09-08",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103346",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -5680,7 +5680,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -8228,7 +8228,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Bülach",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101432",
       "canton": "ZH",
       "lat": 47.5283088684082,
@@ -11105,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T10:09:57+0000"
+  "geocoded_at": "2026-08-23T11:09:20+0000"
 }
