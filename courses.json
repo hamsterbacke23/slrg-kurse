@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-23T12:12:18+0000",
-  "count": 793,
+  "scraped_at": "2026-08-23T13:22:48+0000",
+  "count": 791,
   "courses": [
     {
       "key": "100804",
@@ -262,7 +262,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG Wil",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103064",
       "canton": null,
       "lat": null,
@@ -435,34 +435,6 @@
       "canton": "GE",
       "lat": 46.204559326171875,
       "lng": 6.1424560546875
-    },
-    {
-      "key": "100677",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-08-23",
-      "last_date": "2026-08-23",
-      "company": "SLRG Grenchen",
-      "participation_max": 20,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100677",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100678",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-08-23",
-      "last_date": "2026-08-23",
-      "company": "SLRG Grenchen",
-      "participation_max": 20,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100678",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102637",
@@ -2264,7 +2236,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101671",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -3006,7 +2978,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103288",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -3034,7 +3006,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -3300,7 +3272,7 @@
       "last_date": "2026-09-24",
       "company": "SSS Sion",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103245",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3398,7 +3370,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99851",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -3412,7 +3384,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99852",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -3426,7 +3398,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99853",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11105,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T12:12:18+0000"
+  "geocoded_at": "2026-08-23T13:22:48+0000"
 }
