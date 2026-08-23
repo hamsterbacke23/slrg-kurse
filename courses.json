@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T08:14:18+0000",
+  "scraped_at": "2026-08-23T09:14:34+0000",
   "count": 793,
   "courses": [
     {
@@ -3020,7 +3020,7 @@
       "last_date": "2026-09-12",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103444",
       "canton": "AG",
       "lat": 47.26459884643555,
@@ -3790,7 +3790,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -5064,7 +5064,7 @@
       "last_date": "2026-10-08",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99550",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11105,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T08:14:18+0000"
+  "geocoded_at": "2026-08-23T09:14:34+0000"
 }
