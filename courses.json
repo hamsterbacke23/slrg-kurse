@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-23T16:09:34+0000",
-  "count": 792,
+  "scraped_at": "2026-08-23T17:09:38+0000",
+  "count": 791,
   "courses": [
     {
       "key": "100804",
@@ -449,20 +449,6 @@
       "canton": "BE",
       "lat": 46.691070556640625,
       "lng": 7.6608123779296875
-    },
-    {
-      "key": "102637",
-      "category": "Brevet Plus Pool",
-      "city": "Payerne",
-      "first_date": "2026-08-23",
-      "last_date": "2026-08-23",
-      "company": "SSS Payerne",
-      "participation_max": 15,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102637",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
     },
     {
       "key": "99897",
@@ -6380,7 +6366,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101682",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7486,7 +7472,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102786",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11091,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T16:09:34+0000"
+  "geocoded_at": "2026-08-23T17:09:38+0000"
 }
