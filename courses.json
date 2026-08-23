@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-23T07:22:37+0000",
-  "count": 794,
+  "scraped_at": "2026-08-23T08:14:18+0000",
+  "count": 793,
   "courses": [
     {
       "key": "100804",
@@ -477,20 +477,6 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
-    },
-    {
-      "key": "103229",
-      "category": "Modul See",
-      "city": "Weggis",
-      "first_date": "2026-08-23",
-      "last_date": "2026-08-23",
-      "company": "SLRG Emmental",
-      "participation_max": 20,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103229",
-      "canton": "LU",
-      "lat": 47.03305435180664,
-      "lng": 8.431046485900879
     },
     {
       "key": "99897",
@@ -11119,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T07:22:37+0000"
+  "geocoded_at": "2026-08-23T08:14:18+0000"
 }
