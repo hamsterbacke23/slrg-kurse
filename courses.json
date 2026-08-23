@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T13:22:48+0000",
+  "scraped_at": "2026-08-23T14:10:51+0000",
   "count": 791,
   "courses": [
     {
@@ -962,7 +962,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103112",
       "canton": null,
       "lat": null,
@@ -1466,7 +1466,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -5792,7 +5792,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103349",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -7458,7 +7458,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101641",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -8158,7 +8158,7 @@
       "last_date": "2026-11-16",
       "company": "SSS Delémont",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101642",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -11077,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T13:22:48+0000"
+  "geocoded_at": "2026-08-23T14:10:51+0000"
 }
