@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T11:09:20+0000",
+  "scraped_at": "2026-08-23T12:12:18+0000",
   "count": 793,
   "courses": [
     {
@@ -262,7 +262,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG Wil",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103064",
       "canton": null,
       "lat": null,
@@ -9278,7 +9278,7 @@
       "last_date": "2026-12-08",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103404",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -11105,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T11:09:20+0000"
+  "geocoded_at": "2026-08-23T12:12:18+0000"
 }
