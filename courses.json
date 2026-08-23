@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T05:17:30+0000",
+  "scraped_at": "2026-08-23T06:18:07+0000",
   "count": 794,
   "courses": [
     {
@@ -891,7 +891,7 @@
       "first_date": "2026-08-27",
       "last_date": "2026-08-27",
       "company": "SLRG Thalwil-Langnau",
-      "participation_max": 12,
+      "participation_max": 6,
       "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98751",
       "canton": "ZH",
@@ -11119,5 +11119,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T05:17:30+0000"
+  "geocoded_at": "2026-08-23T06:18:07+0000"
 }
