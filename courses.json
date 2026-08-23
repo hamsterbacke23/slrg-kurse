@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T09:14:34+0000",
+  "scraped_at": "2026-08-23T10:09:57+0000",
   "count": 793,
   "courses": [
     {
@@ -2460,7 +2460,7 @@
       "last_date": "2026-09-08",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103346",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -6394,7 +6394,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101682",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7892,7 +7892,7 @@
       "last_date": "2026-11-28",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101979",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -7906,7 +7906,7 @@
       "last_date": "2026-11-28",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101980",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -7920,7 +7920,7 @@
       "last_date": "2026-11-28",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101981",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -11105,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-23T09:14:34+0000"
+  "geocoded_at": "2026-08-23T10:09:57+0000"
 }
