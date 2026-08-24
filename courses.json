@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T03:41:20+0000",
-  "count": 788,
+  "scraped_at": "2026-08-24T04:32:16+0000",
+  "count": 789,
   "courses": [
     {
       "key": "100804",
@@ -7731,6 +7731,20 @@
       "lng": 9.396230697631836
     },
     {
+      "key": "101395",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "company": "SLRG Sarganserland",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101395",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "101462",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -8620,7 +8634,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Büren a. A.",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102935",
       "canton": "BE",
       "lat": 47.184417724609375,
@@ -11035,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-24T03:41:20+0000"
+  "geocoded_at": "2026-08-24T04:32:17+0000"
 }
