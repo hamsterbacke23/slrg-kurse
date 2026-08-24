@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T20:14:38+0000",
+  "scraped_at": "2026-08-24T21:16:07+0000",
   "count": 792,
   "courses": [
     {
@@ -1466,7 +1466,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100319",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -2781,8 +2781,8 @@
       "first_date": "2026-09-12",
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Züri",
-      "participation_max": 20,
-      "registered": 20,
+      "participation_max": 24,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101765",
       "canton": null,
       "lat": null,
@@ -5344,7 +5344,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103396",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -8018,7 +8018,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101355",
       "canton": null,
       "lat": null,
@@ -11091,5 +11091,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-24T20:14:38+0000"
+  "geocoded_at": "2026-08-24T21:16:07+0000"
 }
