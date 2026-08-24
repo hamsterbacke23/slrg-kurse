@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T22:11:50+0000",
-  "count": 792,
+  "scraped_at": "2026-08-24T23:11:29+0000",
+  "count": 791,
   "courses": [
     {
       "key": "100804",
@@ -477,20 +477,6 @@
       "canton": "LU",
       "lat": 46.82255935668945,
       "lng": 8.033738136291504
-    },
-    {
-      "key": "103239",
-      "category": "WK Pool Pro",
-      "city": "Sion",
-      "first_date": "2026-08-24",
-      "last_date": "2026-08-24",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103239",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "103354",
@@ -11091,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-24T22:11:50+0000"
+  "geocoded_at": "2026-08-24T23:11:29+0000"
 }
