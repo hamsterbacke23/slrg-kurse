@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T15:25:46+0000",
-  "count": 791,
+  "scraped_at": "2026-08-24T16:20:15+0000",
+  "count": 793,
   "courses": [
     {
       "key": "100804",
@@ -682,7 +682,7 @@
       "last_date": "2026-08-25",
       "company": "SSS Brissago",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103458",
       "canton": null,
       "lat": null,
@@ -1200,7 +1200,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102874",
       "canton": "SO",
       "lat": 47.193782806396484,
@@ -1480,7 +1480,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100319",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -2586,7 +2586,7 @@
       "last_date": "2026-09-11",
       "company": "SLRG Sarganserland",
       "participation_max": 9,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103584",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -2950,7 +2950,7 @@
       "last_date": "2026-09-13",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100562",
       "canton": "VD",
       "lat": 46.48714828491211,
@@ -3132,7 +3132,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103012",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -4385,6 +4385,20 @@
       "lng": 7.239261627197266
     },
     {
+      "key": "103521",
+      "category": "Brevet Basis Pool",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "SSS Genève",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103521",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
+    },
+    {
       "key": "100437",
       "category": "WK Expert Fluss",
       "city": "",
@@ -4439,6 +4453,20 @@
       "canton": "ZH",
       "lat": 47.4587516784668,
       "lng": 8.582091331481934
+    },
+    {
+      "key": "103522",
+      "category": "Brevet Plus Pool",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-09-27",
+      "last_date": "2026-09-27",
+      "company": "SSS Genève",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
     },
     {
       "key": "103246",
@@ -5582,7 +5610,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102065",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -5820,7 +5848,7 @@
       "last_date": "2026-11-16",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100321",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -8158,7 +8186,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99345",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -11077,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-24T15:25:46+0000"
+  "geocoded_at": "2026-08-24T16:20:15+0000"
 }
