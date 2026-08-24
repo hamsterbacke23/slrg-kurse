@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T05:26:40+0000",
+  "scraped_at": "2026-08-24T06:29:23+0000",
   "count": 789,
   "courses": [
     {
@@ -682,7 +682,7 @@
       "last_date": "2026-08-25",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103436",
       "canton": null,
       "lat": null,
@@ -780,7 +780,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103121",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -2544,7 +2544,7 @@
       "last_date": "2026-09-10",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 2,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103473",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -4826,7 +4826,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -11049,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-24T05:26:40+0000"
+  "geocoded_at": "2026-08-24T06:29:23+0000"
 }
