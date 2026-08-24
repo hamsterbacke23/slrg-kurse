@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-24T11:15:49+0000",
+  "scraped_at": "2026-08-24T12:19:11+0000",
   "count": 788,
   "courses": [
     {
@@ -96,20 +96,6 @@
       "participation_max": 5,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103090",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103091",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-06-30",
-      "last_date": "2026-06-30",
-      "company": "SSS Lugano",
-      "participation_max": 5,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103091",
       "canton": null,
       "lat": null,
       "lng": null
@@ -696,7 +682,7 @@
       "last_date": "2026-08-25",
       "company": "SSS Brissago",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103458",
       "canton": null,
       "lat": null,
@@ -1088,7 +1074,7 @@
       "last_date": "2026-08-29",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101900",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -1429,6 +1415,20 @@
       "canton": "SO",
       "lat": 47.193782806396484,
       "lng": 7.59089994430542
+    },
+    {
+      "key": "103341",
+      "category": "Modul See",
+      "city": "",
+      "first_date": "2026-08-30",
+      "last_date": "2026-08-30",
+      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103341",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103343",
@@ -2348,7 +2348,7 @@
       "last_date": "2026-09-08",
       "company": "SLRG Sektion Olten",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102536",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -2712,7 +2712,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100952",
       "canton": null,
       "lat": null,
@@ -4378,7 +4378,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Bielersee",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103438",
       "canton": "BE",
       "lat": 47.12384033203125,
@@ -10440,7 +10440,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99410",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10468,7 +10468,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99425",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11035,5 +11035,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-24T11:15:49+0000"
+  "geocoded_at": "2026-08-24T12:19:11+0000"
 }
