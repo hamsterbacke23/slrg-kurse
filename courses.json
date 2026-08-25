@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T10:17:57+0000",
+  "scraped_at": "2026-08-25T11:14:47+0000",
   "count": 788,
   "courses": [
     {
@@ -710,7 +710,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103121",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1549,8 +1549,8 @@
       "first_date": "2026-09-01",
       "last_date": "2026-09-15",
       "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 4,
+      "participation_max": 10,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103439",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -1844,7 +1844,7 @@
       "last_date": "2026-09-12",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101783",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -2348,7 +2348,7 @@
       "last_date": "2026-09-09",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101515",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4588,7 +4588,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Chur",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100219",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -5806,7 +5806,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100856",
       "canton": null,
       "lat": null,
@@ -7290,7 +7290,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103116",
       "canton": null,
       "lat": null,
@@ -11035,5 +11035,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T10:17:58+0000"
+  "geocoded_at": "2026-08-25T11:14:47+0000"
 }
