@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T04:25:42+0000",
+  "scraped_at": "2026-08-25T05:21:05+0000",
   "count": 791,
   "courses": [
     {
@@ -7290,7 +7290,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101354",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -11077,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T04:25:42+0000"
+  "geocoded_at": "2026-08-25T05:21:05+0000"
 }
