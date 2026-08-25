@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T05:21:05+0000",
-  "count": 791,
+  "scraped_at": "2026-08-25T06:21:14+0000",
+  "count": 792,
   "courses": [
     {
       "key": "100804",
@@ -1389,6 +1389,20 @@
       "lng": 7.59089994430542
     },
     {
+      "key": "103201",
+      "category": "Brevet Plus Pool",
+      "city": "St-Légier",
+      "first_date": "2026-08-30",
+      "last_date": "2026-08-30",
+      "company": "Swimsports",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103201",
+      "canton": "VD",
+      "lat": 46.47169876098633,
+      "lng": 6.87440824508667
+    },
+    {
       "key": "103341",
       "category": "Modul See",
       "city": "",
@@ -1452,7 +1466,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100319",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -2320,7 +2334,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Appenzell",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102757",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -7556,7 +7570,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11077,5 +11091,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T05:21:05+0000"
+  "geocoded_at": "2026-08-25T06:21:14+0000"
 }
