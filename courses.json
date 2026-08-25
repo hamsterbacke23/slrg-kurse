@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T20:13:12+0000",
-  "count": 787,
+  "scraped_at": "2026-08-25T21:14:33+0000",
+  "count": 780,
   "courses": [
     {
       "key": "100804",
@@ -423,48 +423,6 @@
       "lng": null
     },
     {
-      "key": "102605",
-      "category": "WK Pool Plus",
-      "city": "Sörenberg",
-      "first_date": "2026-08-24",
-      "last_date": "2026-08-24",
-      "company": "SLRG Emmental",
-      "participation_max": 8,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102605",
-      "canton": "LU",
-      "lat": 46.82255935668945,
-      "lng": 8.033738136291504
-    },
-    {
-      "key": "102606",
-      "category": "WK Pool Pro",
-      "city": "Sörenberg",
-      "first_date": "2026-08-24",
-      "last_date": "2026-08-24",
-      "company": "SLRG Emmental",
-      "participation_max": 4,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102606",
-      "canton": "LU",
-      "lat": 46.82255935668945,
-      "lng": 8.033738136291504
-    },
-    {
-      "key": "102607",
-      "category": "WK BLS-AED",
-      "city": "Sörenberg",
-      "first_date": "2026-08-24",
-      "last_date": "2026-08-24",
-      "company": "SLRG Emmental",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102607",
-      "canton": "LU",
-      "lat": 46.82255935668945,
-      "lng": 8.033738136291504
-    },
-    {
       "key": "103354",
       "category": "Jugend Erlebnismodul",
       "city": "Magliaso",
@@ -577,20 +535,6 @@
       "lng": null
     },
     {
-      "key": "103458",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-08-25",
-      "last_date": "2026-08-25",
-      "company": "SSS Brissago",
-      "participation_max": 10,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103458",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "99711",
       "category": "Modul BLS-AED",
       "city": "Oberwil BL",
@@ -682,7 +626,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103121",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1723,48 +1667,6 @@
       "canton": "AI",
       "lat": 47.33292770385742,
       "lng": 9.396230697631836
-    },
-    {
-      "key": "100406",
-      "category": "WK BLS-AED",
-      "city": "Schule AI/AR",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100406",
-      "canton": "VS",
-      "lat": 46.246036529541016,
-      "lng": 7.533789157867432
-    },
-    {
-      "key": "100408",
-      "category": "WK Pool Basis",
-      "city": "Schule AI/AR",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100408",
-      "canton": "VS",
-      "lat": 46.246036529541016,
-      "lng": 7.533789157867432
-    },
-    {
-      "key": "100410",
-      "category": "WK Pool Plus",
-      "city": "Schule AI/AR",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100410",
-      "canton": "VS",
-      "lat": 46.246036529541016,
-      "lng": 7.533789157867432
     },
     {
       "key": "100679",
@@ -2838,7 +2740,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Monthey",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103288",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -6282,7 +6184,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102051",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -6310,7 +6212,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102053",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -11021,5 +10923,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T20:13:12+0000"
+  "geocoded_at": "2026-08-25T21:14:33+0000"
 }
