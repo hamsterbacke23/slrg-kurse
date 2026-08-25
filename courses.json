@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T17:20:10+0000",
+  "scraped_at": "2026-08-25T18:19:20+0000",
   "count": 786,
   "courses": [
     {
@@ -1382,7 +1382,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100318",
       "canton": null,
       "lat": null,
@@ -3034,7 +3034,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103012",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5274,7 +5274,7 @@
       "last_date": "2026-10-14",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99998",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5442,7 +5442,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -7486,7 +7486,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -10580,7 +10580,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Zug",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101277",
       "canton": "ZG",
       "lat": 47.127777099609375,
@@ -11007,5 +11007,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T17:20:10+0000"
+  "geocoded_at": "2026-08-25T18:19:20+0000"
 }
