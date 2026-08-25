@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T22:12:13+0000",
+  "scraped_at": "2026-08-25T23:14:01+0000",
   "count": 778,
   "courses": [
     {
@@ -1172,7 +1172,7 @@
       "last_date": "2026-08-30",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100690",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -4238,7 +4238,7 @@
       "last_date": "2026-09-27",
       "company": "Kantonspolizei Zürich",
       "participation_max": 30,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103380",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -10895,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T22:12:13+0000"
+  "geocoded_at": "2026-08-25T23:14:01+0000"
 }
