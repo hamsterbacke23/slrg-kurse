@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T19:20:20+0000",
+  "scraped_at": "2026-08-25T20:13:12+0000",
   "count": 787,
   "courses": [
     {
@@ -822,7 +822,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99316",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -836,7 +836,7 @@
       "last_date": "2026-08-29",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99317",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -2362,7 +2362,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Sektion Olten",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103393",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -3692,7 +3692,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Oberwil",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102801",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -8886,7 +8886,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100371",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -10538,7 +10538,7 @@
       "last_date": "2027-02-02",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102699",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -10692,7 +10692,7 @@
       "last_date": "2027-04-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102702",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11021,5 +11021,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T19:20:20+0000"
+  "geocoded_at": "2026-08-25T20:13:12+0000"
 }
