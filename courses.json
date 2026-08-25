@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T18:19:20+0000",
-  "count": 786,
+  "scraped_at": "2026-08-25T19:20:20+0000",
+  "count": 787,
   "courses": [
     {
       "key": "100804",
@@ -612,7 +612,7 @@
       "last_date": "2026-08-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99904",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -682,7 +682,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103121",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1163,6 +1163,20 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
+    },
+    {
+      "key": "103282",
+      "category": "WK Pool Pro",
+      "city": "Monthey",
+      "first_date": "2026-08-29",
+      "last_date": "2026-08-29",
+      "company": "SSS Monthey",
+      "participation_max": 10,
+      "registered": 3,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103282",
+      "canton": "VS",
+      "lat": 46.243896484375,
+      "lng": 6.954207420349121
     },
     {
       "key": "103293",
@@ -2250,7 +2264,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Appenzell",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102757",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -7360,7 +7374,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102786",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -11007,5 +11021,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T18:19:20+0000"
+  "geocoded_at": "2026-08-25T19:20:20+0000"
 }
