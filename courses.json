@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T13:38:13+0000",
+  "scraped_at": "2026-08-25T14:31:47+0000",
   "count": 788,
   "courses": [
     {
@@ -710,7 +710,7 @@
       "last_date": "2026-08-26",
       "company": "SLRG Obwalden",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103121",
       "canton": "OW",
       "lat": 46.89374923706055,
@@ -1550,7 +1550,7 @@
       "last_date": "2026-09-15",
       "company": "SLRG Appenzell",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103439",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -4518,7 +4518,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99390",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4532,7 +4532,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99396",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4546,7 +4546,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99402",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7528,7 +7528,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103491",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -11035,5 +11035,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T13:38:14+0000"
+  "geocoded_at": "2026-08-25T14:31:47+0000"
 }
