@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T16:21:07+0000",
+  "scraped_at": "2026-08-25T17:20:10+0000",
   "count": 786,
   "courses": [
     {
@@ -248,7 +248,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG Wil",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103064",
       "canton": null,
       "lat": null,
@@ -493,20 +493,6 @@
       "lng": null
     },
     {
-      "key": "102767",
-      "category": "WK Fluss",
-      "city": "Worblaufen",
-      "first_date": "2026-08-25",
-      "last_date": "2026-08-30",
-      "company": "SSS Nord-Vaudois",
-      "participation_max": 4,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102767",
-      "canton": "BE",
-      "lat": 46.979942321777344,
-      "lng": 7.462385177612305
-    },
-    {
       "key": "102918",
       "category": "WK Pool Plus",
       "city": "",
@@ -738,7 +724,7 @@
       "last_date": "2026-09-10",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99293",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -787,6 +773,20 @@
       "lng": 9.175581932067871
     },
     {
+      "key": "103594",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-08-27",
+      "last_date": "2026-08-27",
+      "company": "SSS Fribourg",
+      "participation_max": 24,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103594",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102048",
       "category": "Modul BLS-AED",
       "city": "Muri AG",
@@ -808,7 +808,7 @@
       "last_date": "2026-08-28",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103112",
       "canton": null,
       "lat": null,
@@ -1298,7 +1298,7 @@
       "last_date": "2026-08-30",
       "company": "SLRG Muri-Gümligen",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103081",
       "canton": "BE",
       "lat": 46.93036651611328,
@@ -1466,7 +1466,7 @@
       "last_date": "2026-08-31",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103076",
       "canton": "GE",
       "lat": 46.22064971923828,
@@ -2180,7 +2180,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102864",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -2376,7 +2376,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100951",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -2754,7 +2754,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102509",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -3734,7 +3734,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103526",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -10440,7 +10440,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99425",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11007,5 +11007,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T16:21:08+0000"
+  "geocoded_at": "2026-08-25T17:20:10+0000"
 }
