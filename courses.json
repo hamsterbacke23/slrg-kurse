@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T11:14:47+0000",
+  "scraped_at": "2026-08-25T12:19:42+0000",
   "count": 788,
   "courses": [
     {
@@ -1550,7 +1550,7 @@
       "last_date": "2026-09-15",
       "company": "SLRG Appenzell",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103439",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -5148,7 +5148,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101973",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -7206,7 +7206,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
       "canton": null,
       "lat": null,
@@ -7220,7 +7220,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 18,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101322",
       "canton": null,
       "lat": null,
@@ -11035,5 +11035,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-25T11:14:47+0000"
+  "geocoded_at": "2026-08-25T12:19:42+0000"
 }
