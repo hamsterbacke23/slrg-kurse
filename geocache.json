@@ -252,6 +252,12 @@
     "lat": 46.62118148803711,
     "lng": 7.161526203155518
   },
+  "Chiasso": {
+    "canton": "TI",
+    "label": "Chiasso (TI)",
+    "lat": 45.82905578613281,
+    "lng": 9.014520645141602
+  },
   "Chur": {
     "canton": "GR",
     "label": "Chur (GR)",
