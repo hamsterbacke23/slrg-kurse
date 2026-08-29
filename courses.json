@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-29T20:09:52+0000",
-  "count": 813,
+  "scraped_at": "2026-08-29T22:50:59+0000",
+  "count": 806,
   "courses": [
     {
       "key": "100804",
@@ -437,20 +437,6 @@
       "lng": 8.720227241516113
     },
     {
-      "key": "102048",
-      "category": "Modul BLS-AED",
-      "city": "Muri AG",
-      "first_date": "2026-08-28",
-      "last_date": "2026-08-28",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 13,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102048",
-      "canton": "AG",
-      "lat": 47.271732330322266,
-      "lng": 8.338957786560059
-    },
-    {
       "key": "99316",
       "category": "WK Pool Plus",
       "city": "Bellinzona",
@@ -549,48 +535,6 @@
       "lng": null
     },
     {
-      "key": "100815",
-      "category": "Brevet Basis Pool",
-      "city": "Brig",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Oberwallis",
-      "participation_max": 16,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100815",
-      "canton": "VS",
-      "lat": 46.28894805908203,
-      "lng": 7.975067138671875
-    },
-    {
-      "key": "101733",
-      "category": "WK BLS-AED",
-      "city": "Hombrechtikon",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Sektion Stäfa",
-      "participation_max": 9,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101733",
-      "canton": "ZH",
-      "lat": 47.25200271606445,
-      "lng": 8.768488883972168
-    },
-    {
-      "key": "101734",
-      "category": "Modul BLS-AED",
-      "city": "Hombrechtikon",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Sektion Stäfa",
-      "participation_max": 9,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101734",
-      "canton": "ZH",
-      "lat": 47.25200271606445,
-      "lng": 8.768488883972168
-    },
-    {
       "key": "102214",
       "category": "WK Pool Pro",
       "city": "",
@@ -633,20 +577,6 @@
       "lng": null
     },
     {
-      "key": "102246",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102246",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103070",
       "category": "Brevet Basis Pool",
       "city": "Langnau im Emmental",
@@ -673,34 +603,6 @@
       "canton": "OW",
       "lat": 46.89374923706055,
       "lng": 8.186779022216797
-    },
-    {
-      "key": "103299",
-      "category": "WK See",
-      "city": "Küssnacht am Rigi",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Küssnacht am Rigi",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103299",
-      "canton": "SZ",
-      "lat": 47.08266830444336,
-      "lng": 8.440006256103516
-    },
-    {
-      "key": "103300",
-      "category": "WK BLS-AED",
-      "city": "Küssnacht am Rigi",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Küssnacht am Rigi",
-      "participation_max": 6,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103300",
-      "canton": "SZ",
-      "lat": 47.08266830444336,
-      "lng": 8.440006256103516
     },
     {
       "key": "99715",
@@ -3790,7 +3692,7 @@
       "last_date": "2026-09-27",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -8704,7 +8606,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Uri",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102358",
       "canton": "UR",
       "lat": 46.886905670166016,
@@ -11385,5 +11287,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-29T20:09:52+0000"
+  "geocoded_at": "2026-08-29T22:50:59+0000"
 }
