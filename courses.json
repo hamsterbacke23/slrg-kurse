@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-30T18:51:18+0000",
-  "count": 800,
+  "scraped_at": "2026-08-30T21:40:51+0000",
+  "count": 792,
   "courses": [
     {
       "key": "100804",
@@ -339,20 +339,6 @@
       "lng": 8.971078872680664
     },
     {
-      "key": "102534",
-      "category": "Brevet Plus Pool",
-      "city": "Olten",
-      "first_date": "2026-08-26",
-      "last_date": "2026-09-16",
-      "company": "SLRG Sektion Olten",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102534",
-      "canton": "SO",
-      "lat": 47.339988708496094,
-      "lng": 7.893518447875977
-    },
-    {
       "key": "103632",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -521,34 +507,6 @@
       "lng": null
     },
     {
-      "key": "103070",
-      "category": "Brevet Basis Pool",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Emmental",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103070",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
-      "key": "103123",
-      "category": "WK See",
-      "city": "Sarnen",
-      "first_date": "2026-08-29",
-      "last_date": "2026-08-29",
-      "company": "SLRG Obwalden",
-      "participation_max": 16,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103123",
-      "canton": "OW",
-      "lat": 46.89374923706055,
-      "lng": 8.186779022216797
-    },
-    {
       "key": "99715",
       "category": "WK Fluss",
       "city": "",
@@ -558,62 +516,6 @@
       "participation_max": 10,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99715",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100914",
-      "category": "Modul Fluss",
-      "city": "",
-      "first_date": "2026-08-30",
-      "last_date": "2026-08-30",
-      "company": "SLRG Uri",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100914",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100958",
-      "category": "WK Fluss",
-      "city": "",
-      "first_date": "2026-08-30",
-      "last_date": "2026-08-30",
-      "company": "SLRG Uri",
-      "participation_max": 9,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100958",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102050",
-      "category": "Brevet Plus Pool",
-      "city": "Muri AG",
-      "first_date": "2026-08-30",
-      "last_date": "2026-08-30",
-      "company": "SLRG Freiamt-Reusstal",
-      "participation_max": 24,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102050",
-      "canton": "AG",
-      "lat": 47.271732330322266,
-      "lng": 8.338957786560059
-    },
-    {
-      "key": "103343",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-08-30",
-      "last_date": "2026-08-30",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 13,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103343",
       "canton": null,
       "lat": null,
       "lng": null
@@ -729,20 +631,6 @@
       "canton": "VD",
       "lat": 46.3162727355957,
       "lng": 6.202526569366455
-    },
-    {
-      "key": "103439",
-      "category": "Brevet Basis Pool",
-      "city": "Appenzell",
-      "first_date": "2026-09-01",
-      "last_date": "2026-09-15",
-      "company": "SLRG Appenzell",
-      "participation_max": 9,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103439",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
     },
     {
       "key": "101907",
@@ -1648,7 +1536,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101517",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -1871,8 +1759,8 @@
       "first_date": "2026-09-12",
       "last_date": "2026-09-12",
       "company": "SLRG Sektion Züri",
-      "participation_max": 24,
-      "registered": 24,
+      "participation_max": 25,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101765",
       "canton": null,
       "lat": null,
@@ -4980,7 +4868,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103589",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -5344,7 +5232,7 @@
       "last_date": "2026-10-23",
       "company": "SLRG Zug",
       "participation_max": 5,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99860",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5610,7 +5498,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102053",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -7934,7 +7822,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101599",
       "canton": null,
       "lat": null,
@@ -11203,5 +11091,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-08-30T18:51:18+0000"
+  "geocoded_at": "2026-08-30T21:40:51+0000"
 }
