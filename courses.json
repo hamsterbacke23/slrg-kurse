@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-01T00:49:58+0000",
-  "count": 790,
+  "scraped_at": "2026-09-01T05:46:59+0000",
+  "count": 788,
   "courses": [
     {
       "key": "100804",
@@ -395,20 +395,6 @@
       "lng": null
     },
     {
-      "key": "103066",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-08-31",
-      "last_date": "2026-09-01",
-      "company": "SLRG Zug",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103066",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103076",
       "category": "WK BLS-AED",
       "city": "Les Avanchets",
@@ -435,20 +421,6 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
-    },
-    {
-      "key": "103067",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-09-01",
-      "last_date": "2026-09-01",
-      "company": "SLRG Zug",
-      "participation_max": 5,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103067",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103185",
@@ -4280,7 +4252,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103396",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -5092,7 +5064,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103579",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -7304,7 +7276,7 @@
       "last_date": "2026-11-08",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102991",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -11042,7 +11014,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 99,
+      "registered": 100,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11063,5 +11035,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-01T00:49:58+0000"
+  "geocoded_at": "2026-09-01T05:46:59+0000"
 }
