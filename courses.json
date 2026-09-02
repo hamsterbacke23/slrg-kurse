@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-02T21:36:21+0000",
-  "count": 806,
+  "scraped_at": "2026-09-02T23:37:37+0000",
+  "count": 803,
   "courses": [
     {
       "key": "100804",
@@ -185,20 +185,6 @@
       "lng": null
     },
     {
-      "key": "100855",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-08-24",
-      "last_date": "2026-09-03",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100855",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103631",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -376,20 +362,6 @@
       "participation_max": 6,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103482",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101907",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-09-02",
-      "last_date": "2026-09-09",
-      "company": "SLRG Büren a. A.",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101907",
       "canton": null,
       "lat": null,
       "lng": null
@@ -925,20 +897,6 @@
       "canton": "SO",
       "lat": 47.339988708496094,
       "lng": 7.893518447875977
-    },
-    {
-      "key": "102757",
-      "category": "Brevet Plus Pool",
-      "city": "Appenzell",
-      "first_date": "2026-09-08",
-      "last_date": "2026-09-09",
-      "company": "SLRG Appenzell",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102757",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
     },
     {
       "key": "103346",
@@ -2236,7 +2194,7 @@
       "last_date": "2026-09-19",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103635",
       "canton": "GE",
       "lat": 46.178306579589844,
@@ -11287,5 +11245,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-02T21:36:21+0000"
+  "geocoded_at": "2026-09-02T23:37:37+0000"
 }
