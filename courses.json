@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-03T21:27:05+0000",
-  "count": 802,
+  "scraped_at": "2026-09-03T23:35:08+0000",
+  "count": 800,
   "courses": [
     {
       "key": "100804",
@@ -367,20 +367,6 @@
       "lng": null
     },
     {
-      "key": "100889",
-      "category": "WK See",
-      "city": "Ebikon",
-      "first_date": "2026-09-03",
-      "last_date": "2026-09-03",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 14,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100889",
-      "canton": "LU",
-      "lat": 47.079551696777344,
-      "lng": 8.333163261413574
-    },
-    {
       "key": "103563",
       "category": "Brevet Plus Pool",
       "city": "Brunnen",
@@ -421,20 +407,6 @@
       "canton": "BL",
       "lat": 47.483455657958984,
       "lng": 7.7250237464904785
-    },
-    {
-      "key": "98023",
-      "category": "WK Expert See",
-      "city": "Villeneuve ",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SSS Région Romande",
-      "participation_max": 30,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98023",
-      "canton": "VD",
-      "lat": 46.4063606262207,
-      "lng": 6.953111171722412
     },
     {
       "key": "100237",
@@ -11231,5 +11203,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-03T21:27:05+0000"
+  "geocoded_at": "2026-09-03T23:35:09+0000"
 }
