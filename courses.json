@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-04T18:35:52+0000",
+  "scraped_at": "2026-09-04T21:05:15+0000",
   "count": 798,
   "courses": [
     {
@@ -878,7 +878,7 @@
       "last_date": "2026-09-09",
       "company": "Società Svizzera di Salvataggio Chiasso",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103460",
       "canton": "TI",
       "lat": 45.82905578613281,
@@ -1564,7 +1564,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100147",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -3258,7 +3258,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3342,7 +3342,7 @@
       "last_date": "2026-10-04",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 30,
+      "registered": 31,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100566",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -11175,5 +11175,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-04T18:35:52+0000"
+  "geocoded_at": "2026-09-04T21:05:15+0000"
 }
