@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-04T21:05:15+0000",
-  "count": 798,
+  "scraped_at": "2026-09-04T23:27:57+0000",
+  "count": 793,
   "courses": [
     {
       "key": "100804",
@@ -267,20 +267,6 @@
       "canton": "ZH",
       "lat": 47.49905014038086,
       "lng": 8.720227241516113
-    },
-    {
-      "key": "103594",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-08-27",
-      "last_date": "2026-08-27",
-      "company": "SSS Fribourg",
-      "participation_max": 24,
-      "registered": 23,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103594",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102214",
@@ -1165,20 +1151,6 @@
       "lng": 8.964438438415527
     },
     {
-      "key": "100115",
-      "category": "Modul BLS-AED",
-      "city": "Ermatingen",
-      "first_date": "2026-09-12",
-      "last_date": "2026-09-12",
-      "company": "SLRG Ermatingen",
-      "participation_max": 14,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100115",
-      "canton": "TG",
-      "lat": 47.655548095703125,
-      "lng": 9.095743179321289
-    },
-    {
       "key": "100827",
       "category": "WK Pool Plus",
       "city": "Reiden",
@@ -1877,48 +1849,6 @@
       "canton": "BS",
       "lat": 47.5545539855957,
       "lng": 7.590269565582275
-    },
-    {
-      "key": "100366",
-      "category": "WK BLS-AED",
-      "city": "Weinfelden",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Weinfelden",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100366",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
-    },
-    {
-      "key": "100368",
-      "category": "WK Pool Basis",
-      "city": "Weinfelden",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Weinfelden",
-      "participation_max": 2,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100368",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
-    },
-    {
-      "key": "100370",
-      "category": "WK Pool Plus",
-      "city": "Weinfelden",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Weinfelden",
-      "participation_max": 10,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100370",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
     },
     {
       "key": "101183",
@@ -6058,7 +5988,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103313",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -11175,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-04T21:05:15+0000"
+  "geocoded_at": "2026-09-04T23:27:57+0000"
 }
