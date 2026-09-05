@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-05T16:18:51+0000",
-  "count": 789,
+  "scraped_at": "2026-09-05T18:37:30+0000",
+  "count": 788,
   "courses": [
     {
       "key": "100804",
@@ -465,20 +465,6 @@
       "lng": 6.92204475402832
     },
     {
-      "key": "101783",
-      "category": "Brevet Basis Pool",
-      "city": "Baden",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-12",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 10,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101783",
-      "canton": "AG",
-      "lat": 47.47016525268555,
-      "lng": 8.292152404785156
-    },
-    {
       "key": "102081",
       "category": "Brevet Basis Pool",
       "city": "Wald ZH",
@@ -612,7 +598,7 @@
       "last_date": "2026-09-06",
       "company": "SLRG Sektion Züri",
       "participation_max": 26,
-      "registered": 25,
+      "registered": 26,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101047",
       "canton": null,
       "lat": null,
@@ -738,7 +724,7 @@
       "last_date": "2026-09-07",
       "company": "Società Svizzera di Salvataggio Chiasso",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103459",
       "canton": "TI",
       "lat": 45.82905578613281,
@@ -3132,7 +3118,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3216,7 +3202,7 @@
       "last_date": "2026-10-04",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 32,
+      "registered": 33,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100566",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -4252,7 +4238,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Franches-Montagnes",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103677",
       "canton": "JU",
       "lat": 47.263877868652344,
@@ -5218,7 +5204,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101049",
       "canton": null,
       "lat": null,
@@ -5932,7 +5918,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103313",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -7332,7 +7318,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100163",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -7346,7 +7332,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100165",
       "canton": "SG",
       "lat": 47.411685943603516,
@@ -8200,7 +8186,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103330",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -11049,5 +11035,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-05T16:18:51+0000"
+  "geocoded_at": "2026-09-05T18:37:30+0000"
 }
