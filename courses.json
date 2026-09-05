@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-05T20:45:47+0000",
-  "count": 788,
+  "scraped_at": "2026-09-05T22:23:21+0000",
+  "count": 785,
   "courses": [
     {
       "key": "100804",
@@ -409,48 +409,6 @@
       "lng": 8.333881378173828
     },
     {
-      "key": "100237",
-      "category": "WK Pool Basis",
-      "city": "Appenzell",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100237",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
-      "key": "100239",
-      "category": "WK Pool Plus",
-      "city": "Appenzell",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100239",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
-      "key": "100242",
-      "category": "WK BLS-AED",
-      "city": "Appenzell",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100242",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
       "key": "101667",
       "category": "Brevet Basis Pool",
       "city": "Engollon",
@@ -626,7 +584,7 @@
       "last_date": "2026-09-06",
       "company": "SSS Porrentruy",
       "participation_max": 25,
-      "registered": 24,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -1886,7 +1844,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102526",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -1900,7 +1858,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 36,
-      "registered": 30,
+      "registered": 31,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102527",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -11035,5 +10993,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-05T20:45:47+0000"
+  "geocoded_at": "2026-09-05T22:23:21+0000"
 }
