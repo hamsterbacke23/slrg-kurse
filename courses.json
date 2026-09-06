@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-06T00:17:22+0000",
+  "scraped_at": "2026-09-06T05:11:46+0000",
   "count": 785,
   "courses": [
     {
@@ -12,20 +12,6 @@
       "participation_max": 50,
       "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100804",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103480",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-06-08",
-      "last_date": "2026-06-08",
-      "company": "SLRG Lyss",
-      "participation_max": 6,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103480",
       "canton": null,
       "lat": null,
       "lng": null
@@ -519,6 +505,20 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
+    },
+    {
+      "key": "100561",
+      "category": "Brevet Basis Pool",
+      "city": "Bassins",
+      "first_date": "2026-09-06",
+      "last_date": "2026-09-06",
+      "company": "SSS La Côte",
+      "participation_max": 24,
+      "registered": 21,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100561",
+      "canton": "VD",
+      "lat": 46.48714828491211,
+      "lng": 6.191864967346191
     },
     {
       "key": "100680",
@@ -10993,5 +10993,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-06T00:17:22+0000"
+  "geocoded_at": "2026-09-06T05:11:46+0000"
 }
