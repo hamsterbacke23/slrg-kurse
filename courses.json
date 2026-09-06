@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-06T16:30:02+0000",
-  "count": 776,
+  "scraped_at": "2026-09-06T18:41:02+0000",
+  "count": 778,
   "courses": [
     {
       "key": "100804",
@@ -449,20 +449,6 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
-    },
-    {
-      "key": "101047",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-09-06",
-      "last_date": "2026-09-06",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 26,
-      "registered": 26,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101047",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103302",
@@ -1157,8 +1143,8 @@
       "first_date": "2026-09-12",
       "last_date": "2026-09-12",
       "company": "SSS Monthey",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103288",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -2950,7 +2936,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103370",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -2978,7 +2964,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103372",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3048,7 +3034,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -4196,7 +4182,7 @@
       "last_date": "2026-11-16",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100321",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -4257,6 +4243,20 @@
       "canton": "NE",
       "lat": 47.06060028076172,
       "lng": 6.902266502380371
+    },
+    {
+      "key": "103653",
+      "category": "WK BLS-AED",
+      "city": "Rorschach",
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-19",
+      "company": "SLRG Rorschach",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103653",
+      "canton": "SG",
+      "lat": 47.475521087646484,
+      "lng": 9.493878364562988
     },
     {
       "key": "103665",
@@ -5323,6 +5323,20 @@
       "lng": 8.613987922668457
     },
     {
+      "key": "103654",
+      "category": "Modul BLS-AED",
+      "city": "Rorschach",
+      "first_date": "2026-10-27",
+      "last_date": "2026-10-29",
+      "company": "SLRG Rorschach",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103654",
+      "canton": "SG",
+      "lat": 47.475521087646484,
+      "lng": 9.493878364562988
+    },
+    {
       "key": "102740",
       "category": "Brevet Basis Pool",
       "city": "Monthey",
@@ -5428,7 +5442,7 @@
       "last_date": "2026-10-29",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103663",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -6203,6 +6217,20 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
+    },
+    {
+      "key": "103652",
+      "category": "WK BLS-AED",
+      "city": "Rorschach",
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "company": "SLRG Rorschach",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103652",
+      "canton": "SG",
+      "lat": 47.475521087646484,
+      "lng": 9.493878364562988
     },
     {
       "key": "101926",
@@ -7976,7 +8004,7 @@
       "last_date": "2026-11-22",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101138",
       "canton": null,
       "lat": null,
@@ -10846,7 +10874,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 109,
+      "registered": 110,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -10867,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-06T16:30:02+0000"
+  "geocoded_at": "2026-09-06T18:41:03+0000"
 }
