@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-06T20:53:03+0000",
-  "count": 778,
+  "scraped_at": "2026-09-06T22:28:52+0000",
+  "count": 774,
   "courses": [
     {
       "key": "100804",
@@ -379,62 +379,6 @@
       "canton": "VS",
       "lat": 46.30108642578125,
       "lng": 7.926656246185303
-    },
-    {
-      "key": "103071",
-      "category": "WK BLS-AED",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Emmental",
-      "participation_max": 7,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103071",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
-      "key": "103072",
-      "category": "WK Pool Basis",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Emmental",
-      "participation_max": 2,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103072",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
-      "key": "103073",
-      "category": "WK Pool Plus",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Emmental",
-      "participation_max": 7,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103073",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
-      "key": "103074",
-      "category": "WK Pool Pro",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SLRG Emmental",
-      "participation_max": 4,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103074",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
     },
     {
       "key": "103301",
@@ -10895,5 +10839,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-06T20:53:03+0000"
+  "geocoded_at": "2026-09-06T22:28:52+0000"
 }
