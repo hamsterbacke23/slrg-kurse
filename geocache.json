@@ -781,6 +781,12 @@
     "lat": 47.08230209350586,
     "lng": 7.31827449798584
   },
+  "Lützelflüh-Goldbach": {
+    "canton": "BE",
+    "label": "Ort Lützelflüh-Goldbach (BE) - Lützelflüh",
+    "lat": 47.005455017089844,
+    "lng": 7.6857829093933105
+  },
   "Magglingen": {
     "canton": "BE",
     "label": "Ort Magglingen/Macolin (BE) - Evilard",
