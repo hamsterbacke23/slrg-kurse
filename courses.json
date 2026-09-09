@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-09T00:45:07+0000",
-  "count": 813,
+  "scraped_at": "2026-09-09T05:25:22+0000",
+  "count": 814,
   "courses": [
     {
       "key": "100804",
@@ -640,7 +640,7 @@
       "last_date": "2026-09-09",
       "company": "SLRG Sektion Olten",
       "participation_max": 6,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103393",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -731,6 +731,20 @@
       "lng": 9.014520645141602
     },
     {
+      "key": "103473",
+      "category": "Modul BLS-AED",
+      "city": "Lausanne",
+      "first_date": "2026-09-10",
+      "last_date": "2026-09-10",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 11,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103473",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
+    },
+    {
       "key": "101517",
       "category": "WK Pool Plus",
       "city": "Lugano",
@@ -743,20 +757,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "103253",
-      "category": "Modul BLS-AED",
-      "city": "Gstaad",
-      "first_date": "2026-09-11",
-      "last_date": "2026-09-11",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 6,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103253",
-      "canton": "BE",
-      "lat": 46.474002838134766,
-      "lng": 7.289914131164551
     },
     {
       "key": "103584",
@@ -2656,7 +2656,7 @@
       "last_date": "2026-09-27",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4308,7 +4308,7 @@
       "last_date": "2026-10-19",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103653",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -6940,7 +6940,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103598",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -7869,6 +7869,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103253",
+      "category": "Modul BLS-AED",
+      "city": "Gstaad",
+      "first_date": "2026-11-20",
+      "last_date": "2026-11-20",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103253",
+      "canton": "BE",
+      "lat": 46.474002838134766,
+      "lng": 7.289914131164551
     },
     {
       "key": "103612",
@@ -11385,5 +11399,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-09T00:45:08+0000"
+  "geocoded_at": "2026-09-09T05:25:22+0000"
 }
