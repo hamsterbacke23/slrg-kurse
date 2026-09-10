@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-10T18:43:32+0000",
+  "scraped_at": "2026-09-10T21:15:00+0000",
   "count": 819,
   "courses": [
     {
@@ -570,7 +570,7 @@
       "last_date": "2026-09-11",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100951",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -1662,7 +1662,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103803",
       "canton": null,
       "lat": null,
@@ -4476,7 +4476,7 @@
       "last_date": "2026-10-22",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103025",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -4630,7 +4630,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10104,7 +10104,7 @@
       "last_date": "2027-02-13",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101669",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11469,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-10T18:43:32+0000"
+  "geocoded_at": "2026-09-10T21:15:00+0000"
 }
