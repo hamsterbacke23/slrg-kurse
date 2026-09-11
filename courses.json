@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-11T21:22:36+0000",
-  "count": 816,
+  "scraped_at": "2026-09-11T23:35:32+0000",
+  "count": 811,
   "courses": [
     {
       "key": "100804",
@@ -465,20 +465,6 @@
       "lng": 7.117027282714844
     },
     {
-      "key": "100951",
-      "category": "Brevet Plus Pool",
-      "city": "Paradiso",
-      "first_date": "2026-09-10",
-      "last_date": "2026-09-11",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100951",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
       "key": "101516",
       "category": "Brevet Plus Pool",
       "city": "Lugano",
@@ -491,20 +477,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "103285",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-09-10",
-      "last_date": "2026-09-24",
-      "company": "SLRG Baldeggersee",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103285",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103287",
@@ -542,39 +514,11 @@
       "last_date": "2026-09-11",
       "company": "SLRG Sarganserland",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103584",
       "canton": "SG",
       "lat": 47.00428009033203,
       "lng": 9.317394256591797
-    },
-    {
-      "key": "103585",
-      "category": "WK Pool Basis",
-      "city": "Mels",
-      "first_date": "2026-09-11",
-      "last_date": "2026-09-11",
-      "company": "SLRG Sarganserland",
-      "participation_max": 4,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103585",
-      "canton": "SG",
-      "lat": 47.00428009033203,
-      "lng": 9.317394256591797
-    },
-    {
-      "key": "103711",
-      "category": "WK Pool Plus",
-      "city": "Paradiso",
-      "first_date": "2026-09-11",
-      "last_date": "2026-09-11",
-      "company": "SSS Paradiso",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103711",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
     },
     {
       "key": "99440",
@@ -1289,20 +1233,6 @@
       "canton": "ZG",
       "lat": 47.151554107666016,
       "lng": 8.521272659301758
-    },
-    {
-      "key": "100116",
-      "category": "Brevet Plus Pool",
-      "city": "Ermatingen",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Ermatingen",
-      "participation_max": 17,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100116",
-      "canton": "TG",
-      "lat": 47.655548095703125,
-      "lng": 9.095743179321289
     },
     {
       "key": "100159",
@@ -2544,7 +2474,7 @@
       "last_date": "2026-10-01",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103678",
       "canton": null,
       "lat": null,
@@ -4658,7 +4588,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
       "canton": null,
       "lat": null,
@@ -11427,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-11T21:22:36+0000"
+  "geocoded_at": "2026-09-11T23:35:32+0000"
 }
