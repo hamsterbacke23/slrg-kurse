@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-11T18:47:12+0000",
-  "count": 817,
+  "scraped_at": "2026-09-11T21:22:36+0000",
+  "count": 816,
   "courses": [
     {
       "key": "100804",
@@ -85,20 +85,6 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
-    },
-    {
-      "key": "100896",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-08-20",
-      "last_date": "2026-09-10",
-      "company": "SLRG Sektion Bern",
-      "participation_max": 16,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100896",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100344",
@@ -752,7 +738,7 @@
       "last_date": "2026-09-12",
       "company": "Salvataggio Sub Minusio",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102946",
       "canton": null,
       "lat": null,
@@ -5946,7 +5932,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Oberwil",
       "participation_max": 2,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102802",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -6268,7 +6254,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99409",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -6296,7 +6282,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99424",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -6702,7 +6688,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101465",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -6716,7 +6702,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101466",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -7514,7 +7500,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103674",
       "canton": null,
       "lat": null,
@@ -9992,7 +9978,7 @@
       "last_date": "2027-01-30",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103639",
       "canton": null,
       "lat": null,
@@ -11441,5 +11427,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-11T18:47:12+0000"
+  "geocoded_at": "2026-09-11T21:22:36+0000"
 }
