@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-12T11:18:30+0000",
-  "count": 810,
+  "scraped_at": "2026-09-12T14:26:32+0000",
+  "count": 805,
   "courses": [
     {
       "key": "100804",
@@ -451,34 +451,6 @@
       "lng": 6.231893062591553
     },
     {
-      "key": "103820",
-      "category": "Modul BLS-AED",
-      "city": "Sugiez",
-      "first_date": "2026-09-08",
-      "last_date": "2026-09-08",
-      "company": "Société de sauvetage du Vully ",
-      "participation_max": 6,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103820",
-      "canton": "FR",
-      "lat": 46.96506118774414,
-      "lng": 7.117027282714844
-    },
-    {
-      "key": "101516",
-      "category": "Brevet Plus Pool",
-      "city": "Lugano",
-      "first_date": "2026-09-10",
-      "last_date": "2026-09-11",
-      "company": "SSS Lugano",
-      "participation_max": 15,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101516",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
-    },
-    {
       "key": "103287",
       "category": "WK Pool Basis",
       "city": "",
@@ -491,20 +463,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101517",
-      "category": "WK Pool Plus",
-      "city": "Lugano",
-      "first_date": "2026-09-11",
-      "last_date": "2026-09-11",
-      "company": "SSS Lugano",
-      "participation_max": 15,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101517",
-      "canton": "TI",
-      "lat": 46.0294303894043,
-      "lng": 8.988879203796387
     },
     {
       "key": "103584",
@@ -547,20 +505,6 @@
       "canton": "LU",
       "lat": 47.229347229003906,
       "lng": 7.9496259689331055
-    },
-    {
-      "key": "100952",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-09-12",
-      "last_date": "2026-09-12",
-      "company": "SSS Paradiso",
-      "participation_max": 16,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100952",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101304",
@@ -654,7 +598,7 @@
       "last_date": "2026-09-12",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101802",
       "canton": null,
       "lat": null,
@@ -710,25 +654,11 @@
       "last_date": "2026-09-12",
       "company": "Fachhochschule Nordwestschweiz FHNW",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103444",
       "canton": "AG",
       "lat": 47.26459884643555,
       "lng": 8.208498001098633
-    },
-    {
-      "key": "103718",
-      "category": "WK See",
-      "city": "Caslano",
-      "first_date": "2026-09-12",
-      "last_date": "2026-09-12",
-      "company": "SSS Paradiso",
-      "participation_max": 10,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103718",
-      "canton": "TI",
-      "lat": 45.968719482421875,
-      "lng": 8.87798023223877
     },
     {
       "key": "100847",
@@ -794,7 +724,7 @@
       "last_date": "2026-09-13",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103303",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -2502,7 +2432,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99402",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3118,7 +3048,7 @@
       "last_date": "2026-10-10",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100700",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -6338,7 +6268,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101724",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -9810,7 +9740,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Zug",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101277",
       "canton": "ZG",
       "lat": 47.127777099609375,
@@ -11343,5 +11273,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-12T11:18:30+0000"
+  "geocoded_at": "2026-09-12T14:26:32+0000"
 }
