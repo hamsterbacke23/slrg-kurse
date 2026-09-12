@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-12T19:43:00+0000",
-  "count": 794,
+  "scraped_at": "2026-09-12T21:43:42+0000",
+  "count": 793,
   "courses": [
     {
       "key": "100804",
@@ -365,20 +365,6 @@
       "canton": "VS",
       "lat": 46.30108642578125,
       "lng": 7.926656246185303
-    },
-    {
-      "key": "103301",
-      "category": "Modul BLS-AED",
-      "city": "Porrentruy",
-      "first_date": "2026-09-05",
-      "last_date": "2026-09-05",
-      "company": "SSS Porrentruy",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103301",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
     },
     {
       "key": "103302",
@@ -5330,7 +5316,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103279",
       "canton": "ZH",
       "lat": 47.62740707397461,
@@ -11119,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-12T19:43:00+0000"
+  "geocoded_at": "2026-09-12T21:43:42+0000"
 }
