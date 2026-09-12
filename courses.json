@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-12T06:34:23+0000",
-  "count": 811,
+  "scraped_at": "2026-09-12T11:18:30+0000",
+  "count": 810,
   "courses": [
     {
       "key": "100804",
@@ -556,7 +556,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Paradiso",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100952",
       "canton": null,
       "lat": null,
@@ -703,20 +703,6 @@
       "lng": null
     },
     {
-      "key": "103011",
-      "category": "Brevet Basis Pool",
-      "city": "Allschwil",
-      "first_date": "2026-09-12",
-      "last_date": "2026-09-12",
-      "company": "SLRG Basel",
-      "participation_max": 17,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103011",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
-    },
-    {
       "key": "103444",
       "category": "Modul See",
       "city": "Beinwil am See",
@@ -738,7 +724,7 @@
       "last_date": "2026-09-12",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103718",
       "canton": "TI",
       "lat": 45.968719482421875,
@@ -2474,7 +2460,7 @@
       "last_date": "2026-10-01",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103678",
       "canton": null,
       "lat": null,
@@ -2810,7 +2796,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103019",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -2838,7 +2824,7 @@
       "last_date": "2026-10-05",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103420",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3482,7 +3468,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Höngg",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -5582,7 +5568,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 7,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103313",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -6184,7 +6170,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99409",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -6212,7 +6198,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99424",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11357,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-12T06:34:23+0000"
+  "geocoded_at": "2026-09-12T11:18:30+0000"
 }
