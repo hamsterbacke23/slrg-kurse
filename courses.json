@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-12T17:28:11+0000",
-  "count": 797,
+  "scraped_at": "2026-09-12T19:43:00+0000",
+  "count": 794,
   "courses": [
     {
       "key": "100804",
@@ -491,48 +491,6 @@
       "canton": "BE",
       "lat": 47.25593948364258,
       "lng": 7.807864665985107
-    },
-    {
-      "key": "101720",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-09-12",
-      "last_date": "2026-09-12",
-      "company": "SLRG Toggenburg",
-      "participation_max": 6,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101720",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101721",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-09-12",
-      "last_date": "2026-09-12",
-      "company": "SLRG Toggenburg",
-      "participation_max": 9,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101721",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101722",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-09-12",
-      "last_date": "2026-09-12",
-      "company": "SLRG Toggenburg",
-      "participation_max": 6,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101722",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101765",
@@ -3384,7 +3342,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -4084,7 +4042,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100550",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -5064,7 +5022,7 @@
       "last_date": "2026-10-29",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103663",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -7864,7 +7822,7 @@
       "last_date": "2026-11-23",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103666",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -11161,5 +11119,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-12T17:28:11+0000"
+  "geocoded_at": "2026-09-12T19:43:00+0000"
 }
