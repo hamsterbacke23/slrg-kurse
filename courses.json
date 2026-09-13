@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-13T20:01:11+0000",
-  "count": 780,
+  "scraped_at": "2026-09-13T21:00:52+0000",
+  "count": 779,
   "courses": [
     {
       "key": "100804",
@@ -309,20 +309,6 @@
       "canton": "VS",
       "lat": 46.30108642578125,
       "lng": 7.926656246185303
-    },
-    {
-      "key": "103302",
-      "category": "Brevet Basis Pool",
-      "city": "Porrentruy",
-      "first_date": "2026-09-06",
-      "last_date": "2026-09-06",
-      "company": "SSS Porrentruy",
-      "participation_max": 25,
-      "registered": 23,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103302",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
     },
     {
       "key": "103646",
@@ -1844,7 +1830,7 @@
       "last_date": "2026-09-26",
       "company": "Kantonspolizei Zürich",
       "participation_max": 22,
-      "registered": 19,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103379",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -2950,7 +2936,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103396",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -3468,7 +3454,7 @@
       "last_date": "2026-10-18",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103837",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -10923,5 +10909,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-13T20:01:11+0000"
+  "geocoded_at": "2026-09-13T21:00:52+0000"
 }
