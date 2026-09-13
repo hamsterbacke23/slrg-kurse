@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-13T17:00:44+0000",
+  "scraped_at": "2026-09-13T18:00:45+0000",
   "count": 784,
   "courses": [
     {
@@ -976,7 +976,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100320",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -1900,7 +1900,7 @@
       "last_date": "2026-09-26",
       "company": "Kantonspolizei Zürich",
       "participation_max": 22,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103379",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -3062,7 +3062,7 @@
       "last_date": "2026-10-21",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103024",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -3216,7 +3216,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -3888,7 +3888,7 @@
       "last_date": "2026-11-19",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100324",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -10958,7 +10958,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 120,
+      "registered": 121,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -10979,5 +10979,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-13T17:00:44+0000"
+  "geocoded_at": "2026-09-13T18:00:45+0000"
 }
