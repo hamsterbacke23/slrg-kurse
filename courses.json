@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-13T19:00:52+0000",
-  "count": 783,
+  "scraped_at": "2026-09-13T20:01:11+0000",
+  "count": 780,
   "courses": [
     {
       "key": "100804",
@@ -45,20 +45,6 @@
       "lng": null
     },
     {
-      "key": "103351",
-      "category": "Brevet Pro Pool",
-      "city": "Meyrin",
-      "first_date": "2026-08-17",
-      "last_date": "2026-09-13",
-      "company": "SSS Meyrin",
-      "participation_max": 6,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103351",
-      "canton": "GE",
-      "lat": 46.232147216796875,
-      "lng": 6.076141357421875
-    },
-    {
       "key": "99559",
       "category": "Brevet Basis Pool",
       "city": "Zürich",
@@ -82,20 +68,6 @@
       "participation_max": 12,
       "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100344",
-      "canton": "BS",
-      "lat": 47.5545539855957,
-      "lng": 7.590269565582275
-    },
-    {
-      "key": "100345",
-      "category": "WK BLS-AED",
-      "city": "Basel",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100345",
       "canton": "BS",
       "lat": 47.5545539855957,
       "lng": 7.590269565582275
@@ -421,20 +393,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103584",
-      "category": "WK Pool Plus",
-      "city": "Mels",
-      "first_date": "2026-09-11",
-      "last_date": "2026-09-11",
-      "company": "SLRG Sarganserland",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103584",
-      "canton": "SG",
-      "lat": 47.00428009033203,
-      "lng": 9.317394256591797
     },
     {
       "key": "101802",
@@ -822,7 +780,7 @@
       "last_date": "2026-09-17",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103841",
       "canton": null,
       "lat": null,
@@ -2992,7 +2950,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103396",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -4462,7 +4420,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
       "participation_max": 17,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -6897,8 +6855,8 @@
       "first_date": "2026-11-15",
       "last_date": "2026-11-15",
       "company": "SLRG Lachen",
-      "participation_max": 8,
-      "registered": 8,
+      "participation_max": 9,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101358",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -10965,5 +10923,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-13T19:00:52+0000"
+  "geocoded_at": "2026-09-13T20:01:11+0000"
 }
