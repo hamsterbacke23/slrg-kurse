@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-13T16:41:23+0000",
-  "count": 785,
+  "scraped_at": "2026-09-13T17:00:44+0000",
+  "count": 784,
   "courses": [
     {
       "key": "100804",
@@ -309,20 +309,6 @@
       "canton": "VD",
       "lat": 46.3162727355957,
       "lng": 6.202526569366455
-    },
-    {
-      "key": "103482",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-09-01",
-      "last_date": "2026-09-01",
-      "company": "SLRG Lyss",
-      "participation_max": 6,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103482",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103563",
@@ -10993,5 +10979,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-13T16:41:23+0000"
+  "geocoded_at": "2026-09-13T17:00:44+0000"
 }
