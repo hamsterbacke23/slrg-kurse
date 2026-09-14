@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-14T13:01:07+0000",
-  "count": 794,
+  "scraped_at": "2026-09-14T14:00:48+0000",
+  "count": 795,
   "courses": [
     {
       "key": "100804",
@@ -1179,6 +1179,20 @@
       "lng": 8.362970352172852
     },
     {
+      "key": "103032",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-09-20",
+      "last_date": "2026-09-20",
+      "company": "SLRG Sektion Luzern",
+      "participation_max": 16,
+      "registered": 9,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103032",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103298",
       "category": "Modul BLS-AED",
       "city": "Thun",
@@ -1340,7 +1354,7 @@
       "last_date": "2026-09-21",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103418",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2852,7 +2866,7 @@
       "last_date": "2026-10-19",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100898",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -4770,7 +4784,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103142",
       "canton": "GR",
       "lat": 46.437503814697266,
@@ -5470,7 +5484,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101641",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -8284,7 +8298,7 @@
       "last_date": "2026-11-29",
       "company": "SSS Vallée de Joux",
       "participation_max": 1,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103586",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -11119,5 +11133,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-14T13:01:07+0000"
+  "geocoded_at": "2026-09-14T14:00:48+0000"
 }
