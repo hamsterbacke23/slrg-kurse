@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-14T14:00:48+0000",
-  "count": 795,
+  "scraped_at": "2026-09-14T15:01:08+0000",
+  "count": 796,
   "courses": [
     {
       "key": "100804",
@@ -367,6 +367,20 @@
       "lng": 6.231893062591553
     },
     {
+      "key": "103820",
+      "category": "Modul BLS-AED",
+      "city": "Sugiez",
+      "first_date": "2026-09-08",
+      "last_date": "2026-09-08",
+      "company": "Société de sauvetage du Vully ",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103820",
+      "canton": "FR",
+      "lat": 46.96506118774414,
+      "lng": 7.117027282714844
+    },
+    {
       "key": "103287",
       "category": "WK Pool Basis",
       "city": "",
@@ -640,7 +654,7 @@
       "last_date": "2026-09-23",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 17,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103012",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -2236,7 +2250,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103370",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -11133,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-14T14:00:48+0000"
+  "geocoded_at": "2026-09-14T15:01:08+0000"
 }
