@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T06:01:40+0000",
+  "scraped_at": "2026-09-14T07:10:35+0000",
   "count": 779,
   "courses": [
     {
@@ -430,7 +430,7 @@
       "last_date": "2026-09-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102762",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -472,7 +472,7 @@
       "last_date": "2026-09-14",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103474",
       "canton": null,
       "lat": null,
@@ -673,20 +673,6 @@
       "canton": "NE",
       "lat": 46.926021575927734,
       "lng": 6.633546829223633
-    },
-    {
-      "key": "100245",
-      "category": "WK BLS-AED",
-      "city": "Chur",
-      "first_date": "2026-09-17",
-      "last_date": "2026-09-17",
-      "company": "SLRG Chur",
-      "participation_max": 10,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100245",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
     },
     {
       "key": "100860",
@@ -1345,6 +1331,20 @@
       "canton": "BL",
       "lat": 47.52326583862305,
       "lng": 7.6465020179748535
+    },
+    {
+      "key": "103418",
+      "category": "Modul BLS-AED",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-09-21",
+      "last_date": "2026-09-21",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 6,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103418",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
     },
     {
       "key": "103526",
@@ -2642,7 +2642,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -3398,7 +3398,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103349",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -3650,7 +3650,7 @@
       "last_date": "2026-11-03",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103768",
       "canton": null,
       "lat": null,
@@ -5232,7 +5232,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 18,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101322",
       "canton": null,
       "lat": null,
@@ -9376,7 +9376,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Zug",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101277",
       "canton": "ZG",
       "lat": 47.127777099609375,
@@ -10342,7 +10342,7 @@
       "last_date": "2027-06-05",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103655",
       "canton": null,
       "lat": null,
@@ -10909,5 +10909,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-14T06:01:41+0000"
+  "geocoded_at": "2026-09-14T07:10:35+0000"
 }
