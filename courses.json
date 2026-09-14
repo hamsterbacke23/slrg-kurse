@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T04:00:50+0000",
+  "scraped_at": "2026-09-14T05:00:50+0000",
   "count": 778,
   "courses": [
     {
@@ -4728,7 +4728,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103142",
       "canton": "GR",
       "lat": 46.437503814697266,
@@ -10895,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-14T04:00:50+0000"
+  "geocoded_at": "2026-09-14T05:00:50+0000"
 }
