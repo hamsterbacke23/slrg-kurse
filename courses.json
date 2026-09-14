@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T12:01:12+0000",
+  "scraped_at": "2026-09-14T13:01:07+0000",
   "count": 794,
   "courses": [
     {
@@ -4770,7 +4770,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103142",
       "canton": "GR",
       "lat": 46.437503814697266,
@@ -6520,7 +6520,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Meyrin",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103452",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -8256,7 +8256,7 @@
       "last_date": "2026-11-29",
       "company": "SSS Vallée de Joux",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103492",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -8592,7 +8592,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101670",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10286,7 +10286,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11119,5 +11119,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-14T12:01:12+0000"
+  "geocoded_at": "2026-09-14T13:01:07+0000"
 }
