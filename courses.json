@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-14T03:01:18+0000",
+  "scraped_at": "2026-09-14T04:00:50+0000",
   "count": 778,
   "courses": [
     {
@@ -9306,7 +9306,7 @@
       "last_date": "2027-01-26",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103712",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -9474,7 +9474,7 @@
       "last_date": "2027-02-02",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103714",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -9586,7 +9586,7 @@
       "last_date": "2027-03-09",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103713",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -10895,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-14T03:01:19+0000"
+  "geocoded_at": "2026-09-14T04:00:50+0000"
 }
