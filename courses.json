@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-14T19:01:14+0000",
-  "count": 796,
+  "scraped_at": "2026-09-14T20:01:18+0000",
+  "count": 795,
   "courses": [
     {
       "key": "100804",
@@ -323,20 +323,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103792",
-      "category": "WK BLS-AED",
-      "city": "Genève",
-      "first_date": "2026-09-07",
-      "last_date": "2026-09-07",
-      "company": "SSS Genève",
-      "participation_max": 6,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103792",
-      "canton": "GE",
-      "lat": 46.204559326171875,
-      "lng": 6.1424560546875
     },
     {
       "key": "103806",
@@ -2264,7 +2250,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -2278,7 +2264,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103372",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3566,7 +3552,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100856",
       "canton": null,
       "lat": null,
@@ -3720,7 +3706,7 @@
       "last_date": "2026-10-21",
       "company": "SLRG Hinwil",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101503",
       "canton": "ZH",
       "lat": 47.302894592285156,
@@ -4406,7 +4392,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103836",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -4714,7 +4700,7 @@
       "last_date": "2026-11-03",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103036",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -6226,7 +6212,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -9698,7 +9684,7 @@
       "last_date": "2027-01-30",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103639",
       "canton": null,
       "lat": null,
@@ -11126,7 +11112,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 121,
+      "registered": 122,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -11147,5 +11133,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-14T19:01:14+0000"
+  "geocoded_at": "2026-09-14T20:01:18+0000"
 }
