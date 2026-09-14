@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-14T20:01:18+0000",
-  "count": 795,
+  "scraped_at": "2026-09-14T21:00:43+0000",
+  "count": 794,
   "courses": [
     {
       "key": "100804",
@@ -379,20 +379,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100847",
-      "category": "Brevet Basis Pool",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-13",
-      "last_date": "2026-09-13",
-      "company": "SLRG Emmental",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100847",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
     },
     {
       "key": "101859",
@@ -1032,7 +1018,7 @@
       "last_date": "2026-09-20",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103304",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -3370,7 +3356,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103626",
       "canton": null,
       "lat": null,
@@ -6366,7 +6352,7 @@
       "last_date": "2026-11-08",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102991",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -6856,7 +6842,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101599",
       "canton": null,
       "lat": null,
@@ -11133,5 +11119,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-14T20:01:18+0000"
+  "geocoded_at": "2026-09-14T21:00:43+0000"
 }
