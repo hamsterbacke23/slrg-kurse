@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-15T04:01:11+0000",
+  "scraped_at": "2026-09-15T05:01:08+0000",
   "count": 794,
   "courses": [
     {
@@ -1634,7 +1634,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99431",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3832,7 +3832,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100550",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -6352,7 +6352,7 @@
       "last_date": "2026-11-08",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102991",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -7906,7 +7906,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99442",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11119,5 +11119,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T04:01:11+0000"
+  "geocoded_at": "2026-09-15T05:01:08+0000"
 }
