@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-15T13:01:02+0000",
+  "scraped_at": "2026-09-15T14:00:48+0000",
   "count": 785,
   "courses": [
     {
@@ -3538,7 +3538,7 @@
       "last_date": "2026-10-20",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103767",
       "canton": null,
       "lat": null,
@@ -3580,7 +3580,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -3650,7 +3650,7 @@
       "last_date": "2026-10-21",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103722",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -6688,7 +6688,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101186",
       "canton": null,
       "lat": null,
@@ -6744,7 +6744,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101615",
       "canton": null,
       "lat": null,
@@ -7010,7 +7010,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102582",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -8354,7 +8354,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100144",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -10993,5 +10993,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T13:01:02+0000"
+  "geocoded_at": "2026-09-15T14:00:48+0000"
 }
