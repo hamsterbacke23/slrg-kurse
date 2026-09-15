@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-15T20:01:10+0000",
+  "scraped_at": "2026-09-15T21:01:01+0000",
   "count": 779,
   "courses": [
     {
@@ -4616,7 +4616,7 @@
       "last_date": "2026-10-28",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103650",
       "canton": "GL",
       "lat": 47.10641860961914,
@@ -9316,8 +9316,8 @@
       "key": "103712",
       "category": "Brevet Basis Pool",
       "city": "Fribourg",
-      "first_date": "2027-01-12",
-      "last_date": "2027-01-26",
+      "first_date": "2027-01-13",
+      "last_date": "2027-01-27",
       "company": "SSS Fribourg",
       "participation_max": 12,
       "registered": 2,
@@ -9484,8 +9484,8 @@
       "key": "103714",
       "category": "Modul BLS-AED",
       "city": "Fribourg",
-      "first_date": "2027-02-02",
-      "last_date": "2027-02-02",
+      "first_date": "2027-02-03",
+      "last_date": "2027-02-03",
       "company": "SSS Fribourg",
       "participation_max": 8,
       "registered": 2,
@@ -9593,20 +9593,6 @@
       "lng": null
     },
     {
-      "key": "103713",
-      "category": "Brevet Plus Pool",
-      "city": "Fribourg",
-      "first_date": "2027-02-16",
-      "last_date": "2027-03-09",
-      "company": "SSS Fribourg",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103713",
-      "canton": "FR",
-      "lat": 46.80337142944336,
-      "lng": 7.161778926849365
-    },
-    {
       "key": "103501",
       "category": "Brevet Plus Pool",
       "city": "Zug",
@@ -9619,6 +9605,20 @@
       "canton": "ZG",
       "lat": 47.151554107666016,
       "lng": 8.521272659301758
+    },
+    {
+      "key": "103713",
+      "category": "Brevet Plus Pool",
+      "city": "Fribourg",
+      "first_date": "2027-02-17",
+      "last_date": "2027-03-10",
+      "company": "SSS Fribourg",
+      "participation_max": 12,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103713",
+      "canton": "FR",
+      "lat": 46.80337142944336,
+      "lng": 7.161778926849365
     },
     {
       "key": "103502",
@@ -10909,5 +10909,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T20:01:10+0000"
+  "geocoded_at": "2026-09-15T21:01:01+0000"
 }
