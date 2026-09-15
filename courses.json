@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T15:01:04+0000",
-  "count": 785,
+  "scraped_at": "2026-09-15T16:01:06+0000",
+  "count": 781,
   "courses": [
     {
       "key": "100804",
@@ -388,7 +388,7 @@
       "last_date": "2026-09-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102762",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -491,48 +491,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103789",
-      "category": "WK BLS-AED",
-      "city": "Les Acacias",
-      "first_date": "2026-09-15",
-      "last_date": "2026-09-15",
-      "company": "SSS Genève",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103789",
-      "canton": "NE",
-      "lat": 47.0006217956543,
-      "lng": 6.92034387588501
-    },
-    {
-      "key": "103790",
-      "category": "WK Pool Plus",
-      "city": "Les Acacias",
-      "first_date": "2026-09-15",
-      "last_date": "2026-09-15",
-      "company": "SSS Genève",
-      "participation_max": 10,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103790",
-      "canton": "NE",
-      "lat": 47.0006217956543,
-      "lng": 6.92034387588501
-    },
-    {
-      "key": "103791",
-      "category": "WK Pool Pro",
-      "city": "Les Acacias",
-      "first_date": "2026-09-15",
-      "last_date": "2026-09-15",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103791",
-      "canton": "NE",
-      "lat": 47.0006217956543,
-      "lng": 6.92034387588501
     },
     {
       "key": "103812",
@@ -997,20 +955,6 @@
       "lng": 7.06839656829834
     },
     {
-      "key": "103430",
-      "category": "Modul Fluss",
-      "city": "Bellinzona",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SSS Gambarogno",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103430",
-      "canton": "TI",
-      "lat": 46.21047592163086,
-      "lng": 8.988633155822754
-    },
-    {
       "key": "103442",
       "category": "WK Pool Plus",
       "city": "Rothenthurm",
@@ -1158,7 +1102,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103298",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -1312,7 +1256,7 @@
       "last_date": "2026-09-21",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103418",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2194,7 +2138,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103372",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4140,7 +4084,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -4406,7 +4350,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103627",
       "canton": null,
       "lat": null,
@@ -6996,7 +6940,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103674",
       "canton": null,
       "lat": null,
@@ -10993,5 +10937,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T15:01:04+0000"
+  "geocoded_at": "2026-09-15T16:01:06+0000"
 }
