@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T19:00:57+0000",
-  "count": 778,
+  "scraped_at": "2026-09-15T20:01:10+0000",
+  "count": 779,
   "courses": [
     {
       "key": "100804",
@@ -2068,7 +2068,7 @@
       "last_date": "2026-10-04",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103370",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3391,6 +3391,20 @@
       "lng": 6.84379243850708
     },
     {
+      "key": "103823",
+      "category": "Modul BLS-AED",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-10-19",
+      "last_date": "2026-10-19",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103823",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
+    },
+    {
       "key": "103824",
       "category": "Brevet Basis Pool",
       "city": "Plan-les-Ouates",
@@ -3440,7 +3454,7 @@
       "last_date": "2026-10-20",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103767",
       "canton": null,
       "lat": null,
@@ -4196,7 +4210,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103836",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -6016,7 +6030,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103629",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6030,7 +6044,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103630",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -7206,7 +7220,7 @@
       "last_date": "2026-11-20",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103634",
       "canton": null,
       "lat": null,
@@ -7556,7 +7570,7 @@
       "last_date": "2026-12-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102698",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -10895,5 +10909,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T19:00:57+0000"
+  "geocoded_at": "2026-09-15T20:01:10+0000"
 }
