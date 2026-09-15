@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T11:01:06+0000",
-  "count": 790,
+  "scraped_at": "2026-09-15T12:01:02+0000",
+  "count": 786,
   "courses": [
     {
       "key": "100804",
@@ -1606,7 +1606,7 @@
       "last_date": "2026-09-25",
       "company": "SLRG Emmental",
       "participation_max": 7,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103593",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -2166,7 +2166,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102968",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -3062,7 +3062,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -3221,48 +3221,6 @@
       "canton": "BE",
       "lat": 46.954750061035156,
       "lng": 7.804457187652588
-    },
-    {
-      "key": "103087",
-      "category": "WK BLS-AED",
-      "city": "Saignelégier",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SSS Franches-Montagnes",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103087",
-      "canton": "JU",
-      "lat": 47.263877868652344,
-      "lng": 6.976081371307373
-    },
-    {
-      "key": "103088",
-      "category": "WK Pool Plus",
-      "city": "Saignelégier",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SSS Franches-Montagnes",
-      "participation_max": 6,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103088",
-      "canton": "JU",
-      "lat": 47.263877868652344,
-      "lng": 6.976081371307373
-    },
-    {
-      "key": "103089",
-      "category": "WK Pool Pro",
-      "city": "Saignelégier",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SSS Franches-Montagnes",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103089",
-      "canton": "JU",
-      "lat": 47.263877868652344,
-      "lng": 6.976081371307373
     },
     {
       "key": "103247",
@@ -5316,7 +5274,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102978",
       "canton": null,
       "lat": null,
@@ -6338,7 +6296,7 @@
       "last_date": "2026-11-10",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101518",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -6646,7 +6604,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99432",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -6842,7 +6800,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -7586,20 +7544,6 @@
       "participation_max": 24,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101138",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102979",
-      "category": "Brevet Pro Pool",
-      "city": "",
-      "first_date": "2026-11-22",
-      "last_date": "2026-11-26",
-      "company": "SLRG Emmental",
-      "participation_max": 0,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102979",
       "canton": null,
       "lat": null,
       "lng": null
@@ -11063,5 +11007,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T11:01:06+0000"
+  "geocoded_at": "2026-09-15T12:01:02+0000"
 }
