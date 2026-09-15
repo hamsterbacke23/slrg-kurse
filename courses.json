@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T21:01:01+0000",
-  "count": 779,
+  "scraped_at": "2026-09-15T22:01:12+0000",
+  "count": 778,
   "courses": [
     {
       "key": "100804",
@@ -1037,20 +1037,6 @@
       "canton": "AG",
       "lat": 47.41796112060547,
       "lng": 8.362970352172852
-    },
-    {
-      "key": "103032",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-09-20",
-      "last_date": "2026-09-20",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 16,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103032",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103298",
@@ -2222,7 +2208,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103019",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -10909,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T21:01:01+0000"
+  "geocoded_at": "2026-09-15T22:01:12+0000"
 }
