@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T17:00:45+0000",
-  "count": 780,
+  "scraped_at": "2026-09-15T18:00:52+0000",
+  "count": 779,
   "courses": [
     {
       "key": "100804",
@@ -295,20 +295,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103808",
-      "category": "WK Pool Pro",
-      "city": "Le Sentier",
-      "first_date": "2026-09-07",
-      "last_date": "2026-09-15",
-      "company": "SSS Vallée de Joux",
-      "participation_max": 2,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103808",
-      "canton": "VD",
-      "lat": 46.60649871826172,
-      "lng": 6.231893062591553
     },
     {
       "key": "103820",
@@ -668,7 +654,7 @@
       "last_date": "2026-09-18",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103254",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -934,7 +920,7 @@
       "last_date": "2026-09-20",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103304",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -1102,7 +1088,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103350",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -1242,7 +1228,7 @@
       "last_date": "2026-09-21",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103418",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3468,7 +3454,7 @@
       "last_date": "2026-10-20",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103767",
       "canton": null,
       "lat": null,
@@ -4560,7 +4546,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Monthey",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102740",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -10923,5 +10909,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T17:00:45+0000"
+  "geocoded_at": "2026-09-15T18:00:53+0000"
 }
