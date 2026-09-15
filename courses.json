@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-15T18:00:52+0000",
-  "count": 779,
+  "scraped_at": "2026-09-15T19:00:57+0000",
+  "count": 778,
   "courses": [
     {
       "key": "100804",
@@ -449,20 +449,6 @@
       "canton": "SG",
       "lat": 47.411685943603516,
       "lng": 9.626534461975098
-    },
-    {
-      "key": "103582",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-09-15",
-      "last_date": "2026-09-15",
-      "company": "SSS Estavayer-le-Lac",
-      "participation_max": 5,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103582",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103812",
@@ -1802,7 +1788,7 @@
       "last_date": "2026-10-08",
       "company": "SSS Sion",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103246",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2964,7 +2950,7 @@
       "last_date": "2027-06-24",
       "company": "SLRG Lyss",
       "participation_max": 15,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103411",
       "canton": "BE",
       "lat": 47.08230209350586,
@@ -4000,7 +3986,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102052",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -4014,7 +4000,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102053",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -4602,7 +4588,7 @@
       "last_date": "2026-10-28",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103648",
       "canton": "GL",
       "lat": 47.10641860961914,
@@ -4616,7 +4602,7 @@
       "last_date": "2026-10-28",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103650",
       "canton": "GL",
       "lat": 47.10641860961914,
@@ -7920,7 +7906,7 @@
       "last_date": "2026-11-28",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103487",
       "canton": null,
       "lat": null,
@@ -10909,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-15T18:00:53+0000"
+  "geocoded_at": "2026-09-15T19:00:57+0000"
 }
