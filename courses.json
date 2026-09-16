@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T20:00:58+0000",
+  "scraped_at": "2026-09-16T21:00:43+0000",
   "count": 783,
   "courses": [
     {
@@ -1326,7 +1326,7 @@
       "last_date": "2026-09-25",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103258",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -1578,7 +1578,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103291",
       "canton": "ZH",
       "lat": 47.53480529785156,
@@ -2880,7 +2880,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -2992,7 +2992,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103075",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -4336,7 +4336,7 @@
       "last_date": "2026-11-09",
       "company": "SSS Romont",
       "participation_max": 14,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103859",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -10965,5 +10965,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-16T20:00:58+0000"
+  "geocoded_at": "2026-09-16T21:00:43+0000"
 }
