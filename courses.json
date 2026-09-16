@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T17:01:03+0000",
+  "scraped_at": "2026-09-16T18:00:53+0000",
   "count": 784,
   "courses": [
     {
@@ -1675,7 +1675,7 @@
       "first_date": "2026-09-27",
       "last_date": "2026-09-27",
       "company": "SSS Genève",
-      "participation_max": 16,
+      "participation_max": 24,
       "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
       "canton": "GE",
@@ -2754,7 +2754,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Bellinzona",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103734",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -7107,7 +7107,7 @@
       "first_date": "2026-11-20",
       "last_date": "2026-11-20",
       "company": "SLRG Zug",
-      "participation_max": 4,
+      "participation_max": 3,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99855",
       "canton": "ZG",
@@ -7121,8 +7121,8 @@
       "first_date": "2026-11-20",
       "last_date": "2026-11-20",
       "company": "SLRG Zug",
-      "participation_max": 8,
-      "registered": 6,
+      "participation_max": 9,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99856",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -9404,7 +9404,7 @@
       "last_date": "2027-02-24",
       "company": "SSS Bellinzona",
       "participation_max": 18,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103740",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -10062,7 +10062,7 @@
       "last_date": "2027-04-11",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103744",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -10958,7 +10958,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 123,
+      "registered": 124,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -10979,5 +10979,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-16T17:01:03+0000"
+  "geocoded_at": "2026-09-16T18:00:53+0000"
 }
