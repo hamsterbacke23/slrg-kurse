@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-16T13:00:59+0000",
-  "count": 787,
+  "scraped_at": "2026-09-16T14:00:55+0000",
+  "count": 784,
   "courses": [
     {
       "key": "100804",
@@ -479,20 +479,6 @@
       "lng": 9.531137466430664
     },
     {
-      "key": "103012",
-      "category": "Brevet Basis Pool",
-      "city": "Allschwil",
-      "first_date": "2026-09-16",
-      "last_date": "2026-09-23",
-      "company": "SLRG Basel",
-      "participation_max": 17,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103012",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
-    },
-    {
       "key": "103488",
       "category": "Modul BLS-AED",
       "city": "Schaffhausen",
@@ -598,7 +584,7 @@
       "last_date": "2026-09-17",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103841",
       "canton": null,
       "lat": null,
@@ -913,20 +899,6 @@
       "lng": 6.16977071762085
     },
     {
-      "key": "103802",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 8,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103802",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103803",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -934,22 +906,8 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103803",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103804",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 14,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103804",
       "canton": null,
       "lat": null,
       "lng": null
@@ -1228,7 +1186,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 25,
-      "registered": 24,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102696",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -3636,7 +3594,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100550",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -5008,7 +4966,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103313",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -6198,7 +6156,7 @@
       "last_date": "2026-11-08",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102991",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -8270,7 +8228,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103893",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -8340,7 +8298,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100144",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -11021,5 +10979,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-16T13:00:59+0000"
+  "geocoded_at": "2026-09-16T14:00:55+0000"
 }
