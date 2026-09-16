@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T16:01:28+0000",
+  "scraped_at": "2026-09-16T17:01:03+0000",
   "count": 784,
   "courses": [
     {
@@ -752,7 +752,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101183",
       "canton": null,
       "lat": null,
@@ -3076,7 +3076,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Franches-Montagnes",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103884",
       "canton": "JU",
       "lat": 47.263877868652344,
@@ -3118,7 +3118,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103349",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -4182,7 +4182,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
       "participation_max": 17,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -10979,5 +10979,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-16T16:01:28+0000"
+  "geocoded_at": "2026-09-16T17:01:03+0000"
 }
