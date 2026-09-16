@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-16T11:01:14+0000",
-  "count": 789,
+  "scraped_at": "2026-09-16T12:01:22+0000",
+  "count": 788,
   "courses": [
     {
       "key": "100804",
@@ -1312,7 +1312,7 @@
       "last_date": "2026-10-01",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99553",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -2852,7 +2852,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Höngg",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -3216,7 +3216,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103795",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -3627,20 +3627,6 @@
       "canton": "ZH",
       "lat": 47.49905014038086,
       "lng": 8.720227241516113
-    },
-    {
-      "key": "99561",
-      "category": "Brevet Plus Pool",
-      "city": "Zürich",
-      "first_date": "2026-10-22",
-      "last_date": "2026-11-19",
-      "company": "SLRG Höngg",
-      "participation_max": 16,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99561",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
     },
     {
       "key": "100324",
@@ -4322,7 +4308,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103627",
       "canton": null,
       "lat": null,
@@ -6968,7 +6954,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103674",
       "canton": null,
       "lat": null,
@@ -9488,7 +9474,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103129",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -10216,7 +10202,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -10482,7 +10468,7 @@
       "last_date": "2027-06-05",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103655",
       "canton": null,
       "lat": null,
@@ -11049,5 +11035,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-16T11:01:14+0000"
+  "geocoded_at": "2026-09-16T12:01:22+0000"
 }
