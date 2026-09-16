@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-16T04:00:51+0000",
-  "count": 778,
+  "scraped_at": "2026-09-16T05:01:19+0000",
+  "count": 779,
   "courses": [
     {
       "key": "100804",
@@ -603,6 +603,20 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
+    },
+    {
+      "key": "103475",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-09-17",
+      "last_date": "2026-09-17",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 15,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103475",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103656",
@@ -9334,7 +9348,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103129",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -10895,5 +10909,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-16T04:00:52+0000"
+  "geocoded_at": "2026-09-16T05:01:19+0000"
 }
