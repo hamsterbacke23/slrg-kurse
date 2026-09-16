@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-16T21:00:43+0000",
-  "count": 783,
+  "scraped_at": "2026-09-16T22:00:59+0000",
+  "count": 778,
   "courses": [
     {
       "key": "100804",
@@ -493,20 +493,6 @@
       "lng": 6.633546829223633
     },
     {
-      "key": "100860",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-09-17",
-      "last_date": "2026-09-17",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 1,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100860",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100865",
       "category": "WK Pool Plus",
       "city": "",
@@ -717,20 +703,6 @@
       "lng": 7.590269565582275
     },
     {
-      "key": "100366",
-      "category": "WK BLS-AED",
-      "city": "Weinfelden",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Weinfelden",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100366",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
-    },
-    {
       "key": "101183",
       "category": "Modul BLS-AED",
       "city": "",
@@ -813,48 +785,6 @@
       "canton": "SG",
       "lat": 47.00428009033203,
       "lng": 9.317394256591797
-    },
-    {
-      "key": "102525",
-      "category": "WK Pool Basis",
-      "city": "Schulschwimmen Linthebene",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Appenzell",
-      "participation_max": 25,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102525",
-      "canton": "SG",
-      "lat": 47.17293930053711,
-      "lng": 9.010757446289062
-    },
-    {
-      "key": "102526",
-      "category": "WK Pool Plus",
-      "city": "Schulschwimmen Linthebene",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Appenzell",
-      "participation_max": 25,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102526",
-      "canton": "SG",
-      "lat": 47.17293930053711,
-      "lng": 9.010757446289062
-    },
-    {
-      "key": "102527",
-      "category": "WK BLS-AED",
-      "city": "Schulschwimmen Linthebene",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Appenzell",
-      "participation_max": 50,
-      "registered": 35,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102527",
-      "canton": "SG",
-      "lat": 47.17293930053711,
-      "lng": 9.010757446289062
     },
     {
       "key": "103304",
@@ -1718,7 +1648,7 @@
       "last_date": "2026-09-29",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103347",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -10965,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-16T21:00:43+0000"
+  "geocoded_at": "2026-09-16T22:00:59+0000"
 }
