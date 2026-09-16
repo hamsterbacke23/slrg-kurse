@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T07:02:48+0000",
+  "scraped_at": "2026-09-16T08:01:21+0000",
   "count": 777,
   "courses": [
     {
@@ -472,7 +472,7 @@
       "last_date": "2026-09-16",
       "company": "SSS Val-de-Ruz",
       "participation_max": 11,
-      "registered": 11,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102655",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -850,7 +850,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 25,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102525",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -2208,7 +2208,7 @@
       "last_date": "2026-10-05",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103326",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -5316,7 +5316,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Oberwil",
       "participation_max": 2,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102805",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -8410,7 +8410,7 @@
       "last_date": "2026-12-06",
       "company": "SLRG Region Nordwest",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102723",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10881,5 +10881,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-16T07:02:49+0000"
+  "geocoded_at": "2026-09-16T08:01:21+0000"
 }
