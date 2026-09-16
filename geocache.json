@@ -276,6 +276,12 @@
     "lat": 46.22124099731445,
     "lng": 6.176814556121826
   },
+  "Colombier NE": {
+    "canton": "NE",
+    "label": "Ort Colombier NE (NE) - Milvignes",
+    "lat": 46.96678161621094,
+    "lng": 6.859889030456543
+  },
   "Coppet": {
     "canton": "VD",
     "label": "Coppet (VD)",
@@ -1303,6 +1309,12 @@
     "label": "St. Gallen (SG)",
     "lat": 47.423583984375,
     "lng": 9.388508796691895
+  },
+  "St. Margrethen SG": {
+    "canton": "SG",
+    "label": "St. Margrethen (SG)",
+    "lat": 47.45515823364258,
+    "lng": 9.625519752502441
   },
   "Stans": {
     "canton": "NW",
