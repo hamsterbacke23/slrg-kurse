@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17T06:01:09+0000",
-  "count": 778,
+  "scraped_at": "2026-09-17T07:03:37+0000",
+  "count": 777,
   "courses": [
     {
       "key": "100804",
@@ -556,7 +556,7 @@
       "last_date": "2026-09-17",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103841",
       "canton": null,
       "lat": null,
@@ -687,20 +687,6 @@
       "canton": "SG",
       "lat": 47.3646125793457,
       "lng": 9.609383583068848
-    },
-    {
-      "key": "100320",
-      "category": "Modul BLS-AED",
-      "city": "Basel",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100320",
-      "canton": "BS",
-      "lat": 47.5545539855957,
-      "lng": 7.590269565582275
     },
     {
       "key": "101183",
@@ -1004,7 +990,7 @@
       "last_date": "2026-09-21",
       "company": "SLRG Oberwil",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102801",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -1872,7 +1858,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102968",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -8620,7 +8606,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99391",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8634,7 +8620,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99397",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8648,7 +8634,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99403",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8956,7 +8942,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103332",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -9180,7 +9166,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Pfäffikon",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103583",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -10895,5 +10881,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T06:01:09+0000"
+  "geocoded_at": "2026-09-17T07:03:37+0000"
 }
