@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17T20:00:45+0000",
+  "scraped_at": "2026-09-17T21:01:35+0000",
   "count": 771,
   "courses": [
     {
@@ -598,7 +598,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99853",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -3706,7 +3706,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101682",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10797,5 +10797,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T20:00:46+0000"
+  "geocoded_at": "2026-09-17T21:01:35+0000"
 }
