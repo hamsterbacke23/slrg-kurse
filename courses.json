@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17T16:01:16+0000",
-  "count": 773,
+  "scraped_at": "2026-09-17T17:00:41+0000",
+  "count": 772,
   "courses": [
     {
       "key": "100804",
@@ -421,20 +421,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102813",
-      "category": "WK Pool Plus",
-      "city": "Eschen",
-      "first_date": "2026-09-16",
-      "last_date": "2026-09-16",
-      "company": "SLRG Sarganserland",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102813",
-      "canton": "AR",
-      "lat": 47.40953826904297,
-      "lng": 9.531137466430664
     },
     {
       "key": "103488",
@@ -5862,7 +5848,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103629",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5876,7 +5862,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103630",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -10825,5 +10811,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T16:01:16+0000"
+  "geocoded_at": "2026-09-17T17:00:41+0000"
 }
