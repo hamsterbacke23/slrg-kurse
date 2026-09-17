@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17T12:01:09+0000",
+  "scraped_at": "2026-09-17T13:01:01+0000",
   "count": 774,
   "courses": [
     {
@@ -668,7 +668,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101183",
       "canton": null,
       "lat": null,
@@ -1424,7 +1424,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103177",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -1998,7 +1998,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103019",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -2558,7 +2558,7 @@
       "last_date": "2026-10-14",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99998",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -7514,7 +7514,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103839",
       "canton": null,
       "lat": null,
@@ -7738,7 +7738,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102870",
       "canton": null,
       "lat": null,
@@ -10839,5 +10839,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T12:01:09+0000"
+  "geocoded_at": "2026-09-17T13:01:01+0000"
 }
