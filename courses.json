@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17T17:00:41+0000",
-  "count": 772,
+  "scraped_at": "2026-09-17T18:01:26+0000",
+  "count": 771,
   "courses": [
     {
       "key": "100804",
@@ -477,20 +477,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "103656",
-      "category": "Modul BLS-AED",
-      "city": "Neuchâtel",
-      "first_date": "2026-09-17",
-      "last_date": "2026-09-17",
-      "company": "Société Suisse de Sauvetage",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103656",
-      "canton": "NE",
-      "lat": 47.020973205566406,
-      "lng": 6.9480791091918945
     },
     {
       "key": "103841",
@@ -3734,7 +3720,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
       "canton": null,
       "lat": null,
@@ -5498,7 +5484,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99424",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -5568,7 +5554,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Sarganserland",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101395",
       "canton": null,
       "lat": null,
@@ -10811,5 +10797,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T17:00:41+0000"
+  "geocoded_at": "2026-09-17T18:01:26+0000"
 }
