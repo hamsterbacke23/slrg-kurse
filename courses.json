@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17T21:01:35+0000",
-  "count": 771,
+  "scraped_at": "2026-09-17T22:01:10+0000",
+  "count": 769,
   "courses": [
     {
       "key": "100804",
@@ -451,20 +451,6 @@
       "lng": 6.633546829223633
     },
     {
-      "key": "100865",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-09-17",
-      "last_date": "2026-09-17",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100865",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103245",
       "category": "Brevet Plus Pool",
       "city": "Sion",
@@ -477,20 +463,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "103841",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-09-17",
-      "last_date": "2026-09-17",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103841",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103254",
@@ -794,7 +766,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103298",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -10797,5 +10769,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T21:01:35+0000"
+  "geocoded_at": "2026-09-17T22:01:10+0000"
 }
