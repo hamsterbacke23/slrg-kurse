@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17T09:01:19+0000",
-  "count": 774,
+  "scraped_at": "2026-09-17T10:00:54+0000",
+  "count": 773,
   "courses": [
     {
       "key": "100804",
@@ -757,20 +757,6 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
-    },
-    {
-      "key": "103442",
-      "category": "WK Pool Plus",
-      "city": "Rothenthurm",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Sihlsee-Einsiedeln",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103442",
-      "canton": "SZ",
-      "lat": 47.096214294433594,
-      "lng": 8.679923057556152
     },
     {
       "key": "103635",
@@ -2040,7 +2026,7 @@
       "last_date": "2026-10-06",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100779",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2530,7 +2516,7 @@
       "last_date": "2026-10-13",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103348",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -3454,7 +3440,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100550",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -4042,7 +4028,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Lachen",
       "participation_max": 17,
-      "registered": 13,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -5260,7 +5246,7 @@
       "last_date": "2026-11-03",
       "company": "SLRG Bülach",
       "participation_max": 24,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101428",
       "canton": "ZH",
       "lat": 47.53010559082031,
@@ -5400,7 +5386,7 @@
       "last_date": "2026-11-16",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103467",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6450,7 +6436,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101186",
       "canton": null,
       "lat": null,
@@ -6506,7 +6492,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101615",
       "canton": null,
       "lat": null,
@@ -10839,5 +10825,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T09:01:19+0000"
+  "geocoded_at": "2026-09-17T10:00:54+0000"
 }
