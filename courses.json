@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-17T07:03:37+0000",
-  "count": 777,
+  "scraped_at": "2026-09-17T08:01:02+0000",
+  "count": 774,
   "courses": [
     {
       "key": "100804",
@@ -323,34 +323,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101859",
-      "category": "Brevet Plus Pool",
-      "city": "Opfikon",
-      "first_date": "2026-09-13",
-      "last_date": "2026-09-13",
-      "company": "Swimsports",
-      "participation_max": 17,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101859",
-      "canton": "ZH",
-      "lat": 47.42878341674805,
-      "lng": 8.573216438293457
-    },
-    {
-      "key": "101860",
-      "category": "Brevet Pool-Safety",
-      "city": "Opfikon",
-      "first_date": "2026-09-13",
-      "last_date": "2026-09-13",
-      "company": "Swimsports",
-      "participation_max": 17,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101860",
-      "canton": "ZH",
-      "lat": 47.42878341674805,
-      "lng": 8.573216438293457
     },
     {
       "key": "103303",
@@ -927,20 +899,6 @@
       "lng": null
     },
     {
-      "key": "98752",
-      "category": "Modul BLS-AED",
-      "city": "Adliswil",
-      "first_date": "2026-09-21",
-      "last_date": "2026-09-21",
-      "company": "SLRG Thalwil-Langnau",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98752",
-      "canton": "ZH",
-      "lat": 47.308265686035156,
-      "lng": 8.525269508361816
-    },
-    {
       "key": "98760",
       "category": "WK BLS-AED",
       "city": "Adliswil",
@@ -1494,7 +1452,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103291",
       "canton": "ZH",
       "lat": 47.53480529785156,
@@ -2670,7 +2628,7 @@
       "last_date": "2026-12-16",
       "company": "SLRG Emmental",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103805",
       "canton": "BE",
       "lat": 47.005455017089844,
@@ -6240,7 +6198,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Romont",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103861",
       "canton": null,
       "lat": null,
@@ -7612,7 +7570,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99442",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -9558,7 +9516,7 @@
       "last_date": "2027-02-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103676",
       "canton": null,
       "lat": null,
@@ -10881,5 +10839,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T07:03:37+0000"
+  "geocoded_at": "2026-09-17T08:01:02+0000"
 }
