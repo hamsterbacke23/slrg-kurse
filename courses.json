@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-17T22:01:10+0000",
+  "scraped_at": "2026-09-17T23:00:59+0000",
   "count": 769,
   "courses": [
     {
@@ -1251,16 +1251,16 @@
     {
       "key": "101013",
       "category": "Brevet Basis Pool",
-      "city": "",
+      "city": "Magglingen/Macolin",
       "first_date": "2026-09-26",
       "last_date": "2026-09-27",
       "company": "Swiss Aquatics",
       "participation_max": 24,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101013",
-      "canton": null,
-      "lat": null,
-      "lng": null
+      "canton": "BE",
+      "lat": 47.140377044677734,
+      "lng": 7.206460952758789
     },
     {
       "key": "101014",
@@ -8830,7 +8830,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103332",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -10769,5 +10769,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-17T22:01:10+0000"
+  "geocoded_at": "2026-09-17T23:00:59+0000"
 }
