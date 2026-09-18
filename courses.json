@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T05:00:51+0000",
+  "scraped_at": "2026-09-18T06:00:46+0000",
   "count": 769,
   "courses": [
     {
@@ -365,20 +365,6 @@
       "canton": "LU",
       "lat": 47.03305435180664,
       "lng": 8.431046485900879
-    },
-    {
-      "key": "103715",
-      "category": "Brevet Basis Pool",
-      "city": "Tenero",
-      "first_date": "2026-09-14",
-      "last_date": "2026-09-18",
-      "company": "SLRG Sektion Olten",
-      "participation_max": 20,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103715",
-      "canton": "TI",
-      "lat": 46.17926788330078,
-      "lng": 8.851685523986816
     },
     {
       "key": "100147",
@@ -3951,6 +3937,20 @@
       "lng": null
     },
     {
+      "key": "103879",
+      "category": "Brevet Basis Pool",
+      "city": "Romanel-sur-Lausanne",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103879",
+      "canton": "VD",
+      "lat": 46.55949401855469,
+      "lng": 6.608593940734863
+    },
+    {
       "key": "101049",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -4112,7 +4112,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103465",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -4308,7 +4308,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103026",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -10769,5 +10769,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T05:00:51+0000"
+  "geocoded_at": "2026-09-18T06:00:46+0000"
 }
