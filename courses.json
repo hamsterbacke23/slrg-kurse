@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-18T18:01:03+0000",
-  "count": 762,
+  "scraped_at": "2026-09-18T19:00:44+0000",
+  "count": 764,
   "courses": [
     {
       "key": "100804",
@@ -15,6 +15,34 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "101526",
+      "category": "Brevet Pro Pool",
+      "city": "Lugano",
+      "first_date": "2026-05-08",
+      "last_date": "2026-05-09",
+      "company": "SSS Lugano",
+      "participation_max": 20,
+      "registered": 5,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101526",
+      "canton": "TI",
+      "lat": 46.0294303894043,
+      "lng": 8.988879203796387
+    },
+    {
+      "key": "101530",
+      "category": "WK Pool Pro",
+      "city": "Lugano",
+      "first_date": "2026-05-09",
+      "last_date": "2026-05-09",
+      "company": "SSS Lugano",
+      "participation_max": 20,
+      "registered": 7,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101530",
+      "canton": "TI",
+      "lat": 46.0294303894043,
+      "lng": 8.988879203796387
     },
     {
       "key": "102540",
@@ -1312,7 +1340,7 @@
       "last_date": "2026-09-26",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 22,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103521",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -5694,7 +5722,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103609",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -10671,5 +10699,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T18:01:03+0000"
+  "geocoded_at": "2026-09-18T19:00:44+0000"
 }
