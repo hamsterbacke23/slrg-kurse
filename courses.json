@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T08:01:04+0000",
+  "scraped_at": "2026-09-18T09:00:43+0000",
   "count": 766,
   "courses": [
     {
@@ -514,7 +514,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99851",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -528,7 +528,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99852",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -542,7 +542,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99853",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -2950,7 +2950,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100317",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -3202,7 +3202,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102656",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -3328,7 +3328,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100550",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -3510,7 +3510,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8634,7 +8634,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103860",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -9894,7 +9894,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -10727,5 +10727,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T08:01:04+0000"
+  "geocoded_at": "2026-09-18T09:00:43+0000"
 }
