@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T07:01:50+0000",
+  "scraped_at": "2026-09-18T08:01:04+0000",
   "count": 766,
   "courses": [
     {
@@ -2894,7 +2894,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103795",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -5092,7 +5092,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103328",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -5918,7 +5918,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103598",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -7220,7 +7220,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103330",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -10727,5 +10727,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T07:01:50+0000"
+  "geocoded_at": "2026-09-18T08:01:04+0000"
 }
