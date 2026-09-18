@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T12:01:00+0000",
+  "scraped_at": "2026-09-18T13:00:54+0000",
   "count": 763,
   "courses": [
     {
@@ -388,7 +388,7 @@
       "last_date": "2026-09-15",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103813",
       "canton": null,
       "lat": null,
@@ -5344,7 +5344,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103872",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -7052,7 +7052,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102933",
       "canton": "LU",
       "lat": 47.154170989990234,
@@ -7430,7 +7430,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Aarau",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99442",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8102,7 +8102,7 @@
       "last_date": "2026-12-04",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103765",
       "canton": "VS",
       "lat": 46.27641296386719,
@@ -8130,7 +8130,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101670",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10685,5 +10685,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T12:01:00+0000"
+  "geocoded_at": "2026-09-18T13:00:55+0000"
 }
