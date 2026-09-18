@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-18T06:00:46+0000",
-  "count": 769,
+  "scraped_at": "2026-09-18T07:01:50+0000",
+  "count": 766,
   "courses": [
     {
       "key": "100804",
@@ -451,20 +451,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "103254",
-      "category": "Modul BLS-AED",
-      "city": "Gstaad",
-      "first_date": "2026-09-18",
-      "last_date": "2026-09-18",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103254",
-      "canton": "BE",
-      "lat": 46.474002838134766,
-      "lng": 7.289914131164551
-    },
-    {
       "key": "99619",
       "category": "WK Expert Pool",
       "city": "Filzbach",
@@ -911,34 +897,6 @@
       "canton": "LU",
       "lat": 47.07655334472656,
       "lng": 8.273947715759277
-    },
-    {
-      "key": "100278",
-      "category": "WK Pool Basis",
-      "city": "Chur",
-      "first_date": "2026-09-22",
-      "last_date": "2026-09-22",
-      "company": "SLRG Chur",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100278",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
-      "key": "100286",
-      "category": "WK Pool Plus",
-      "city": "Chur",
-      "first_date": "2026-09-22",
-      "last_date": "2026-09-22",
-      "company": "SLRG Chur",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100286",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
     },
     {
       "key": "100839",
@@ -3034,7 +2992,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100856",
       "canton": null,
       "lat": null,
@@ -6114,7 +6072,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103838",
       "canton": null,
       "lat": null,
@@ -10769,5 +10727,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T06:00:46+0000"
+  "geocoded_at": "2026-09-18T07:01:50+0000"
 }
