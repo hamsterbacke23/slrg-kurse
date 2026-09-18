@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-18T09:00:43+0000",
-  "count": 766,
+  "scraped_at": "2026-09-18T10:00:46+0000",
+  "count": 763,
   "courses": [
     {
       "key": "100804",
@@ -339,20 +339,6 @@
       "lng": 7.06839656829834
     },
     {
-      "key": "103617",
-      "category": "Modul See",
-      "city": "Arbon",
-      "first_date": "2026-09-13",
-      "last_date": "2026-09-13",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103617",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
       "key": "103858",
       "category": "Brevet Basis Pool",
       "city": "Weggis",
@@ -659,20 +645,6 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
-    },
-    {
-      "key": "103635",
-      "category": "Modul Fluss",
-      "city": "Vessy",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103635",
-      "canton": "GE",
-      "lat": 46.178306579589844,
-      "lng": 6.16977071762085
     },
     {
       "key": "103803",
@@ -2306,7 +2278,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -2628,7 +2600,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5414,7 +5386,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99424",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -9901,20 +9873,6 @@
       "lng": 9.425399780273438
     },
     {
-      "key": "103707",
-      "category": "Modul See",
-      "city": "Arbon",
-      "first_date": "2027-05-06",
-      "last_date": "2027-05-06",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 10,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103707",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
       "key": "103705",
       "category": "Modul See",
       "city": "Arbon",
@@ -10727,5 +10685,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T09:00:43+0000"
+  "geocoded_at": "2026-09-18T10:00:46+0000"
 }
