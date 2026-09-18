@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T16:00:46+0000",
+  "scraped_at": "2026-09-18T17:01:19+0000",
   "count": 762,
   "courses": [
     {
@@ -3463,7 +3463,7 @@
     {
       "key": "99546",
       "category": "Brevet Pro Pool",
-      "city": "Aarau",
+      "city": "Spreitenbach",
       "first_date": "2026-10-24",
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
@@ -3471,8 +3471,8 @@
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
+      "lat": 47.41796112060547,
+      "lng": 8.362970352172852
     },
     {
       "key": "100229",
@@ -5708,7 +5708,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -10671,5 +10671,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T16:00:46+0000"
+  "geocoded_at": "2026-09-18T17:01:19+0000"
 }
