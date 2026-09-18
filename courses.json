@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T17:01:19+0000",
+  "scraped_at": "2026-09-18T18:01:03+0000",
   "count": 762,
   "courses": [
     {
@@ -1410,7 +1410,7 @@
       "last_date": "2026-09-29",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99436",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1438,7 +1438,7 @@
       "last_date": "2026-09-30",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102588",
       "canton": null,
       "lat": null,
@@ -10671,5 +10671,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T17:01:19+0000"
+  "geocoded_at": "2026-09-18T18:01:03+0000"
 }
