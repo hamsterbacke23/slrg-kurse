@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-18T13:00:54+0000",
+  "scraped_at": "2026-09-18T14:00:50+0000",
   "count": 763,
   "courses": [
     {
@@ -5456,7 +5456,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Sarganserland",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101395",
       "canton": null,
       "lat": null,
@@ -10664,7 +10664,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 124,
+      "registered": 125,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -10685,5 +10685,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-18T13:00:55+0000"
+  "geocoded_at": "2026-09-18T14:00:50+0000"
 }
