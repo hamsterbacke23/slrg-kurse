@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T06:01:06+0000",
+  "scraped_at": "2026-09-19T07:00:55+0000",
   "count": 767,
   "courses": [
     {
@@ -605,20 +605,6 @@
       "lng": null
     },
     {
-      "key": "102262",
-      "category": "Modul See",
-      "city": "Goldswil b. Interlaken",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102262",
-      "canton": "BE",
-      "lat": 46.69535446166992,
-      "lng": 7.8780694007873535
-    },
-    {
       "key": "102346",
       "category": "Brevet Basis Pool",
       "city": "Arbon",
@@ -673,6 +659,20 @@
       "canton": "SG",
       "lat": 47.00428009033203,
       "lng": 9.317394256591797
+    },
+    {
+      "key": "102526",
+      "category": "WK Pool Plus",
+      "city": "Schulschwimmen Linthebene",
+      "first_date": "2026-09-19",
+      "last_date": "2026-09-19",
+      "company": "SLRG Appenzell",
+      "participation_max": 25,
+      "registered": 12,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102526",
+      "canton": "SG",
+      "lat": 47.17293930053711,
+      "lng": 9.010757446289062
     },
     {
       "key": "103304",
@@ -3328,7 +3328,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99298",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -5960,7 +5960,7 @@
       "last_date": "2026-11-10",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101518",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -6142,7 +6142,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101520",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -8662,7 +8662,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103860",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -10741,5 +10741,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-19T06:01:06+0000"
+  "geocoded_at": "2026-09-19T07:00:55+0000"
 }
