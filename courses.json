@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-19T15:00:44+0000",
-  "count": 765,
+  "scraped_at": "2026-09-19T16:00:41+0000",
+  "count": 764,
   "courses": [
     {
       "key": "100804",
@@ -640,25 +640,11 @@
       "last_date": "2026-09-20",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103304",
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
-    },
-    {
-      "key": "103430",
-      "category": "Modul Fluss",
-      "city": "Bellinzona",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SSS Gambarogno",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103430",
-      "canton": "TI",
-      "lat": 46.21047592163086,
-      "lng": 8.988633155822754
     },
     {
       "key": "103803",
@@ -5092,7 +5078,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103328",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -7416,7 +7402,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103894",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -10713,5 +10699,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-19T15:00:44+0000"
+  "geocoded_at": "2026-09-19T16:00:41+0000"
 }
