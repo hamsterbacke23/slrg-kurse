@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T16:00:41+0000",
+  "scraped_at": "2026-09-19T17:01:08+0000",
   "count": 764,
   "courses": [
     {
@@ -9054,7 +9054,7 @@
       "last_date": "2027-01-09",
       "company": "SSS Romont",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103644",
       "canton": null,
       "lat": null,
@@ -10699,5 +10699,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-19T16:00:41+0000"
+  "geocoded_at": "2026-09-19T17:01:08+0000"
 }
