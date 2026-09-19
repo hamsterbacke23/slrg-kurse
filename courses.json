@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-19T05:01:32+0000",
-  "count": 764,
+  "scraped_at": "2026-09-19T06:01:06+0000",
+  "count": 767,
   "courses": [
     {
       "key": "100804",
@@ -507,6 +507,34 @@
       "lng": 9.130014419555664
     },
     {
+      "key": "99626",
+      "category": "WK Pool Pro",
+      "city": "",
+      "first_date": "2026-09-19",
+      "last_date": "2026-09-19",
+      "company": "SLRG Region Zürich",
+      "participation_max": 45,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99626",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "99627",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-09-19",
+      "last_date": "2026-09-19",
+      "company": "SLRG Region Zürich",
+      "participation_max": 45,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99627",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99851",
       "category": "Modul BLS-AED",
       "city": "Zug",
@@ -698,6 +726,20 @@
       "participation_max": 45,
       "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99618",
+      "canton": "SZ",
+      "lat": 47.19688415527344,
+      "lng": 8.854327201843262
+    },
+    {
+      "key": "99628",
+      "category": "WK See",
+      "city": "Lachen SZ",
+      "first_date": "2026-09-20",
+      "last_date": "2026-09-20",
+      "company": "SLRG Region Zürich",
+      "participation_max": 45,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99628",
       "canton": "SZ",
       "lat": 47.19688415527344,
       "lng": 8.854327201843262
@@ -10699,5 +10741,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-19T05:01:32+0000"
+  "geocoded_at": "2026-09-19T06:01:06+0000"
 }
