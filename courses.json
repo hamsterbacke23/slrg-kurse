@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-19T10:01:06+0000",
-  "count": 768,
+  "scraped_at": "2026-09-19T11:00:58+0000",
+  "count": 767,
   "courses": [
     {
       "key": "100804",
@@ -178,7 +178,7 @@
       "last_date": "2026-11-30",
       "company": "SSS Regione Sud",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103624",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -435,20 +435,6 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
-    },
-    {
-      "key": "103794",
-      "category": "Jugendbrevet",
-      "city": "Couvet",
-      "first_date": "2026-09-16",
-      "last_date": "2027-01-30",
-      "company": "SSS Val-de-Travers",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103794",
-      "canton": "NE",
-      "lat": 46.926021575927734,
-      "lng": 6.633546829223633
     },
     {
       "key": "99619",
@@ -4140,7 +4126,7 @@
       "last_date": "2026-11-09",
       "company": "SSS Romont",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103859",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -5120,7 +5106,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Oberwil",
       "participation_max": 2,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102805",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -10755,5 +10741,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-19T10:01:06+0000"
+  "geocoded_at": "2026-09-19T11:00:58+0000"
 }
