@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-19T07:00:55+0000",
-  "count": 767,
+  "scraped_at": "2026-09-19T08:00:47+0000",
+  "count": 768,
   "courses": [
     {
       "key": "100804",
@@ -514,7 +514,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 0,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99626",
       "canton": null,
       "lat": null,
@@ -528,7 +528,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 0,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99627",
       "canton": null,
       "lat": null,
@@ -668,7 +668,7 @@
       "last_date": "2026-09-19",
       "company": "SLRG Appenzell",
       "participation_max": 25,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102526",
       "canton": "SG",
       "lat": 47.17293930053711,
@@ -687,6 +687,20 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
+    },
+    {
+      "key": "103430",
+      "category": "Modul Fluss",
+      "city": "Bellinzona",
+      "first_date": "2026-09-19",
+      "last_date": "2026-09-19",
+      "company": "SSS Gambarogno",
+      "participation_max": 8,
+      "registered": 7,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103430",
+      "canton": "TI",
+      "lat": 46.21047592163086,
+      "lng": 8.988633155822754
     },
     {
       "key": "103803",
@@ -738,7 +752,7 @@
       "last_date": "2026-09-20",
       "company": "SLRG Region Zürich",
       "participation_max": 45,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99628",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -2726,7 +2740,7 @@
       "last_date": "2026-10-24",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101975",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -6114,7 +6128,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Romont",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103861",
       "canton": null,
       "lat": null,
@@ -6267,7 +6281,7 @@
       "first_date": "2026-11-14",
       "last_date": "2026-11-21",
       "company": "SLRG Aarau",
-      "participation_max": 16,
+      "participation_max": 14,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99432",
       "canton": "AG",
@@ -7485,8 +7499,8 @@
       "first_date": "2026-11-28",
       "last_date": "2026-12-12",
       "company": "SLRG Aarau",
-      "participation_max": 16,
-      "registered": 13,
+      "participation_max": 14,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99442",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10741,5 +10755,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-19T07:00:55+0000"
+  "geocoded_at": "2026-09-19T08:00:47+0000"
 }
