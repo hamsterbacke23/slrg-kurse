@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-19T20:01:02+0000",
+  "scraped_at": "2026-09-19T21:01:01+0000",
   "count": 761,
   "courses": [
     {
@@ -906,7 +906,7 @@
       "last_date": "2026-10-01",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99296",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -1270,7 +1270,7 @@
       "last_date": "2026-09-26",
       "company": "Kantonspolizei Zürich",
       "participation_max": 22,
-      "registered": 20,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103379",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -5694,7 +5694,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5722,7 +5722,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103630",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -10657,5 +10657,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-19T20:01:02+0000"
+  "geocoded_at": "2026-09-19T21:01:01+0000"
 }
