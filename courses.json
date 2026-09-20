@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T08:00:58+0000",
-  "count": 755,
+  "scraped_at": "2026-09-20T09:01:12+0000",
+  "count": 756,
   "courses": [
     {
       "key": "100804",
@@ -409,6 +409,20 @@
       "lng": 8.640215873718262
     },
     {
+      "key": "103794",
+      "category": "Jugendbrevet",
+      "city": "Couvet",
+      "first_date": "2026-09-16",
+      "last_date": "2027-01-30",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103794",
+      "canton": "NE",
+      "lat": 46.926021575927734,
+      "lng": 6.633546829223633
+    },
+    {
       "key": "99619",
       "category": "WK Expert Pool",
       "city": "Filzbach",
@@ -808,7 +822,7 @@
       "last_date": "2026-09-22",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103814",
       "canton": "ZH",
       "lat": 47.53480529785156,
@@ -2908,7 +2922,7 @@
       "last_date": "2026-10-19",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103665",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -10573,5 +10587,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T08:00:58+0000"
+  "geocoded_at": "2026-09-20T09:01:12+0000"
 }
