@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T15:00:50+0000",
-  "count": 753,
+  "scraped_at": "2026-09-20T16:00:49+0000",
+  "count": 751,
   "courses": [
     {
       "key": "100804",
@@ -24,7 +24,7 @@
       "last_date": "2026-05-09",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101526",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -544,20 +544,6 @@
       "participation_max": 12,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102347",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
-      "key": "102348",
-      "category": "Modul BLS-AED",
-      "city": "Arbon",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Arbon",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102348",
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
@@ -1191,20 +1177,6 @@
       "canton": "BE",
       "lat": 47.12384033203125,
       "lng": 7.239261627197266
-    },
-    {
-      "key": "103521",
-      "category": "Brevet Basis Pool",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SSS Genève",
-      "participation_max": 24,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103521",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
     },
     {
       "key": "100437",
@@ -2138,7 +2110,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -3342,7 +3314,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99546",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -4042,7 +4014,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 30,
-      "registered": 27,
+      "registered": 28,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -7290,7 +7262,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Aarau",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99442",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7794,7 +7766,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103807",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -10545,5 +10517,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T15:00:50+0000"
+  "geocoded_at": "2026-09-20T16:00:49+0000"
 }
