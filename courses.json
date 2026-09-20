@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-20T11:01:13+0000",
+  "scraped_at": "2026-09-20T12:00:50+0000",
   "count": 756,
   "courses": [
     {
@@ -934,7 +934,7 @@
       "last_date": "2026-10-09",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99898",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -1774,7 +1774,7 @@
       "last_date": "2026-10-05",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103420",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3552,7 +3552,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102053",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -9334,7 +9334,7 @@
       "last_date": "2027-02-20",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101672",
       "canton": null,
       "lat": null,
@@ -10587,5 +10587,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T11:01:13+0000"
+  "geocoded_at": "2026-09-20T12:00:50+0000"
 }
