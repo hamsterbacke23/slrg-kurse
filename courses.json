@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T18:01:06+0000",
-  "count": 745,
+  "scraped_at": "2026-09-20T19:00:58+0000",
+  "count": 743,
   "courses": [
     {
       "key": "100804",
@@ -463,34 +463,6 @@
       "canton": "ZG",
       "lat": 47.151554107666016,
       "lng": 8.521272659301758
-    },
-    {
-      "key": "101183",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-19",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101183",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102347",
-      "category": "Brevet Plus Pool",
-      "city": "Arbon",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-20",
-      "company": "SLRG Arbon",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102347",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
     },
     {
       "key": "102475",
@@ -1200,7 +1172,7 @@
       "last_date": "2026-09-29",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103347",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -4658,7 +4630,7 @@
       "last_date": "2026-11-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103887",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -5610,7 +5582,7 @@
       "last_date": "2026-11-08",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102193",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -7010,7 +6982,7 @@
       "last_date": "2026-11-23",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103666",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -10433,5 +10405,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T18:01:07+0000"
+  "geocoded_at": "2026-09-20T19:00:58+0000"
 }
