@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T14:00:35+0000",
-  "count": 754,
+  "scraped_at": "2026-09-20T15:00:50+0000",
+  "count": 753,
   "courses": [
     {
       "key": "100804",
@@ -631,20 +631,6 @@
       "canton": "SZ",
       "lat": 47.19688415527344,
       "lng": 8.854327201843262
-    },
-    {
-      "key": "100692",
-      "category": "Brevet Basis Pool",
-      "city": "Spreitenbach",
-      "first_date": "2026-09-20",
-      "last_date": "2026-09-20",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100692",
-      "canton": "AG",
-      "lat": 47.41796112060547,
-      "lng": 8.362970352172852
     },
     {
       "key": "103350",
@@ -2152,7 +2138,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -10559,5 +10545,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T14:00:35+0000"
+  "geocoded_at": "2026-09-20T15:00:50+0000"
 }
