@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T06:00:57+0000",
-  "count": 756,
+  "scraped_at": "2026-09-20T07:01:07+0000",
+  "count": 755,
   "courses": [
     {
       "key": "100804",
@@ -631,20 +631,6 @@
       "canton": "AG",
       "lat": 47.41796112060547,
       "lng": 8.362970352172852
-    },
-    {
-      "key": "103298",
-      "category": "Modul BLS-AED",
-      "city": "Thun",
-      "first_date": "2026-09-20",
-      "last_date": "2026-09-20",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103298",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
     },
     {
       "key": "103350",
@@ -10587,5 +10573,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T06:00:57+0000"
+  "geocoded_at": "2026-09-20T07:01:07+0000"
 }
