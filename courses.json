@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T20:01:02+0000",
-  "count": 743,
+  "scraped_at": "2026-09-20T21:01:02+0000",
+  "count": 742,
   "courses": [
     {
       "key": "100804",
@@ -337,20 +337,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103303",
-      "category": "Brevet Plus Pool",
-      "city": "Porrentruy",
-      "first_date": "2026-09-13",
-      "last_date": "2026-09-13",
-      "company": "SSS Porrentruy",
-      "participation_max": 16,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103303",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
     },
     {
       "key": "103858",
@@ -10405,5 +10391,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T20:01:02+0000"
+  "geocoded_at": "2026-09-20T21:01:02+0000"
 }
