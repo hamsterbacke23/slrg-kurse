@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T13:01:03+0000",
-  "count": 756,
+  "scraped_at": "2026-09-20T14:00:35+0000",
+  "count": 754,
   "courses": [
     {
       "key": "100804",
@@ -659,34 +659,6 @@
       "canton": "ZH",
       "lat": 47.42268371582031,
       "lng": 8.613987922668457
-    },
-    {
-      "key": "103667",
-      "category": "Modul See",
-      "city": "",
-      "first_date": "2026-09-20",
-      "last_date": "2026-09-20",
-      "company": "SLRG Uri",
-      "participation_max": 3,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103667",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103668",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2026-09-20",
-      "last_date": "2026-09-20",
-      "company": "SLRG Uri",
-      "participation_max": 3,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103668",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "98760",
@@ -3020,7 +2992,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -10587,5 +10559,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T13:01:03+0000"
+  "geocoded_at": "2026-09-20T14:00:35+0000"
 }
