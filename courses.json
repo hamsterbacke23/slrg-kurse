@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-20T12:00:50+0000",
+  "scraped_at": "2026-09-20T13:01:03+0000",
   "count": 756,
   "courses": [
     {
@@ -1788,7 +1788,7 @@
       "last_date": "2026-10-06",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100779",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -5806,7 +5806,7 @@
       "last_date": "2026-11-10",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101518",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -10587,5 +10587,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-20T12:00:50+0000"
+  "geocoded_at": "2026-09-20T13:01:03+0000"
 }
