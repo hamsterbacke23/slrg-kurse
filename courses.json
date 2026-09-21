@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T07:12:26+0000",
+  "scraped_at": "2026-09-21T08:00:41+0000",
   "count": 738,
   "courses": [
     {
@@ -197,6 +197,20 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
+    },
+    {
+      "key": "102537",
+      "category": "WK Pool Plus",
+      "city": "Olten",
+      "first_date": "2026-08-26",
+      "last_date": "2026-08-26",
+      "company": "SLRG Sektion Olten",
+      "participation_max": 16,
+      "registered": 16,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102537",
+      "canton": "SO",
+      "lat": 47.339988708496094,
+      "lng": 7.893518447875977
     },
     {
       "key": "103632",
@@ -493,20 +507,6 @@
       "lng": 9.425399780273438
     },
     {
-      "key": "98760",
-      "category": "WK BLS-AED",
-      "city": "Adliswil",
-      "first_date": "2026-09-21",
-      "last_date": "2026-09-21",
-      "company": "SLRG Thalwil-Langnau",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98760",
-      "canton": "ZH",
-      "lat": 47.308265686035156,
-      "lng": 8.525269508361816
-    },
-    {
       "key": "100838",
       "category": "Modul BLS-AED",
       "city": "Hochdorf",
@@ -519,20 +519,6 @@
       "canton": "LU",
       "lat": 47.16489791870117,
       "lng": 8.294404029846191
-    },
-    {
-      "key": "102801",
-      "category": "WK Pool Plus",
-      "city": "Oberwil BL",
-      "first_date": "2026-09-21",
-      "last_date": "2026-09-21",
-      "company": "SLRG Oberwil",
-      "participation_max": 14,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102801",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
     },
     {
       "key": "103402",
@@ -1088,7 +1074,7 @@
       "last_date": "2026-09-29",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99436",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -5736,7 +5722,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101520",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -9523,6 +9509,20 @@
       "lng": 9.425399780273438
     },
     {
+      "key": "103707",
+      "category": "Modul See",
+      "city": "Arbon",
+      "first_date": "2027-05-06",
+      "last_date": "2027-05-06",
+      "company": "Pädagogische Hochschule St. Gallen",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103707",
+      "canton": "TG",
+      "lat": 47.51548385620117,
+      "lng": 9.425399780273438
+    },
+    {
       "key": "103705",
       "category": "Modul See",
       "city": "Arbon",
@@ -10335,5 +10335,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T07:12:26+0000"
+  "geocoded_at": "2026-09-21T08:00:41+0000"
 }
