@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T19:00:58+0000",
+  "scraped_at": "2026-09-21T20:00:55+0000",
   "count": 765,
   "courses": [
     {
@@ -4000,7 +4000,7 @@
       "last_date": "2026-10-28",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103648",
       "canton": "GL",
       "lat": 47.10641860961914,
@@ -10713,5 +10713,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T19:00:58+0000"
+  "geocoded_at": "2026-09-21T20:00:55+0000"
 }
