@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-21T09:01:04+0000",
-  "count": 737,
+  "scraped_at": "2026-09-21T10:00:55+0000",
+  "count": 768,
   "courses": [
     {
       "key": "100804",
@@ -437,20 +437,6 @@
       "lng": 8.521272659301758
     },
     {
-      "key": "99853",
-      "category": "Brevet Plus Pool",
-      "city": "Zug",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-20",
-      "company": "SLRG Zug",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99853",
-      "canton": "ZG",
-      "lat": 47.151554107666016,
-      "lng": 8.521272659301758
-    },
-    {
       "key": "102475",
       "category": "Brevet Basis Pool",
       "city": "Mels",
@@ -617,6 +603,20 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
+    },
+    {
+      "key": "103964",
+      "category": "Jugendbrevet",
+      "city": "2108",
+      "first_date": "2026-09-23",
+      "last_date": "2026-11-25",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103964",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99296",
@@ -1074,7 +1074,7 @@
       "last_date": "2026-09-29",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103347",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2236,7 +2236,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -2509,6 +2509,20 @@
       "lng": 6.231893062591553
     },
     {
+      "key": "103967",
+      "category": "WK Pool Plus",
+      "city": "Dietlikon",
+      "first_date": "2026-10-18",
+      "last_date": "2026-10-18",
+      "company": "SLRG Kloten",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103967",
+      "canton": "ZH",
+      "lat": 47.42268371582031,
+      "lng": 8.613987922668457
+    },
+    {
       "key": "98223",
       "category": "Jugendbrevet",
       "city": "Coppet",
@@ -2747,6 +2761,34 @@
       "lng": 6.119792938232422
     },
     {
+      "key": "103958",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-20",
+      "last_date": "2026-12-15",
+      "company": "PMS Kreuzlingen",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103958",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103959",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-20",
+      "last_date": "2026-12-15",
+      "company": "PMS Kreuzlingen",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103959",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100549",
       "category": "Brevet Pro Pool",
       "city": "Kloten",
@@ -2885,6 +2927,48 @@
       "canton": "NE",
       "lat": 46.96678161621094,
       "lng": 6.859889030456543
+    },
+    {
+      "key": "103956",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-21",
+      "last_date": "2026-12-16",
+      "company": "PMS Kreuzlingen",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103956",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103961",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-21",
+      "last_date": "2026-12-16",
+      "company": "PMS Kreuzlingen",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103961",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103962",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-21",
+      "last_date": "2026-12-16",
+      "company": "PMS Kreuzlingen",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103962",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99298",
@@ -3092,6 +3176,48 @@
       "participation_max": 10,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103451",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103955",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-23",
+      "last_date": "2026-12-18",
+      "company": "PMS Kreuzlingen",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103955",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103957",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-23",
+      "last_date": "2026-12-18",
+      "company": "PMS Kreuzlingen",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103957",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103960",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-23",
+      "last_date": "2026-12-18",
+      "company": "PMS Kreuzlingen",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
       "canton": null,
       "lat": null,
       "lng": null
@@ -3501,6 +3627,20 @@
       "canton": "VD",
       "lat": 46.55949401855469,
       "lng": 6.608593940734863
+    },
+    {
+      "key": "103965",
+      "category": "Brevet Basis Pool",
+      "city": "Dielsdorf",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Wehntal",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103965",
+      "canton": "ZH",
+      "lat": 47.47540283203125,
+      "lng": 8.455204963684082
     },
     {
       "key": "101049",
@@ -3965,6 +4105,20 @@
       "lng": 6.632878303527832
     },
     {
+      "key": "103900",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-28",
+      "last_date": "2026-12-02",
+      "company": "SSS Estavayer-le-Lac",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103900",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102196",
       "category": "WK BLS-AED",
       "city": "Hohenrain",
@@ -4350,7 +4504,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Hinwil",
       "participation_max": 7,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103866",
       "canton": "ZH",
       "lat": 47.302894592285156,
@@ -5393,6 +5547,20 @@
       "lng": 7.84113883972168
     },
     {
+      "key": "103966",
+      "category": "Brevet Plus Pool",
+      "city": "Dielsdorf",
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "company": "SLRG Wehntal",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103966",
+      "canton": "ZH",
+      "lat": 47.47540283203125,
+      "lng": 8.455204963684082
+    },
+    {
       "key": "101050",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -5615,6 +5783,34 @@
       "canton": "GE",
       "lat": 46.16372299194336,
       "lng": 6.119792938232422
+    },
+    {
+      "key": "103882",
+      "category": "WK Pool Basis",
+      "city": "Primarschule Lüchingen",
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-10",
+      "company": "SLRG Appenzell",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103882",
+      "canton": "SG",
+      "lat": 47.38753128051758,
+      "lng": 9.553507804870605
+    },
+    {
+      "key": "103883",
+      "category": "WK Pool Plus",
+      "city": "Schule Lüchingen",
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-10",
+      "company": "SLRG Appenzell",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103883",
+      "canton": "SG",
+      "lat": 47.38753128051758,
+      "lng": 9.553507804870605
     },
     {
       "key": "101519",
@@ -6156,7 +6352,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101732",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -6889,6 +7085,20 @@
       "canton": "NE",
       "lat": 47.11421203613281,
       "lng": 6.84379243850708
+    },
+    {
+      "key": "103899",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-11-23",
+      "last_date": "2026-11-24",
+      "company": "SLRG Zug",
+      "participation_max": 25,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103899",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "100259",
@@ -8935,6 +9145,34 @@
       "lng": 7.751997470855713
     },
     {
+      "key": "103901",
+      "category": "Modul BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-02-11",
+      "last_date": "2027-02-11",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103901",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103909",
+      "category": "WK BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-02-11",
+      "last_date": "2027-02-11",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103909",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
       "key": "103249",
       "category": "Jugendbrevet",
       "city": "Magglingen/Macolin",
@@ -9283,6 +9521,34 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103903",
+      "category": "Modul BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-04-08",
+      "last_date": "2027-04-08",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103903",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103910",
+      "category": "WK BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-04-08",
+      "last_date": "2027-04-08",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103910",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
     },
     {
       "key": "102365",
@@ -9677,6 +9943,34 @@
       "lng": 9.425399780273438
     },
     {
+      "key": "103904",
+      "category": "Modul BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-05-27",
+      "last_date": "2027-05-27",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103904",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103911",
+      "category": "WK BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-05-27",
+      "last_date": "2027-05-27",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103911",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
       "key": "103514",
       "category": "Modul Fluss",
       "city": "Zug",
@@ -9957,6 +10251,62 @@
       "lng": 8.300894737243652
     },
     {
+      "key": "103905",
+      "category": "Modul BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-07-08",
+      "last_date": "2027-07-08",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103905",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103912",
+      "category": "WK BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-07-08",
+      "last_date": "2027-07-08",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103912",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103906",
+      "category": "Modul BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-08-26",
+      "last_date": "2027-08-26",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103906",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103913",
+      "category": "WK BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-08-26",
+      "last_date": "2027-08-26",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103913",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
       "key": "103745",
       "category": "WK BLS-AED",
       "city": "Bellinzona",
@@ -9997,6 +10347,34 @@
       "canton": "ZH",
       "lat": 47.37028121948242,
       "lng": 8.781831741333008
+    },
+    {
+      "key": "103907",
+      "category": "Modul BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-09-16",
+      "last_date": "2027-09-16",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103907",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103914",
+      "category": "WK BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-09-16",
+      "last_date": "2027-09-16",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103914",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
     },
     {
       "key": "103527",
@@ -10109,6 +10487,34 @@
       "canton": "ZG",
       "lat": 47.151554107666016,
       "lng": 8.521272659301758
+    },
+    {
+      "key": "103908",
+      "category": "Modul BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-11-05",
+      "last_date": "2027-11-05",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103908",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103915",
+      "category": "WK BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-11-05",
+      "last_date": "2027-11-05",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103915",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
     },
     {
       "key": "99112",
@@ -10237,6 +10643,34 @@
       "lng": 8.521272659301758
     },
     {
+      "key": "103902",
+      "category": "Modul BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-12-02",
+      "last_date": "2027-12-02",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103902",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
+      "key": "103916",
+      "category": "WK BLS-AED",
+      "city": "Adliswil",
+      "first_date": "2027-12-02",
+      "last_date": "2027-12-02",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103916",
+      "canton": "ZH",
+      "lat": 47.308265686035156,
+      "lng": 8.525269508361816
+    },
+    {
       "key": "103532",
       "category": "WK Pool Basis",
       "city": "Zug",
@@ -10321,5 +10755,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T09:01:04+0000"
+  "geocoded_at": "2026-09-21T10:00:56+0000"
 }

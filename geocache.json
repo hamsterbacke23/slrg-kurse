@@ -1064,6 +1064,12 @@
     "lat": 46.53825378417969,
     "lng": 6.604588985443115
   },
+  "Primarschule Lüchingen": {
+    "canton": "SG",
+    "label": "Schul- und Hochschulareal Primarschule Lüchingen (SG) - Altstätten",
+    "lat": 47.38753128051758,
+    "lng": 9.553507804870605
+  },
   "Pully": {
     "canton": "VD",
     "label": "Pully (VD)",
@@ -1207,6 +1213,12 @@
     "label": "Chalais (VS)",
     "lat": 46.246036529541016,
     "lng": 7.533789157867432
+  },
+  "Schule Lüchingen": {
+    "canton": "SG",
+    "label": "Schul- und Hochschulareal Primarschule Lüchingen (SG) - Altstätten",
+    "lat": 47.38753128051758,
+    "lng": 9.553507804870605
   },
   "Schule Schönengrund": {
     "canton": "ZH",
