@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T17:00:51+0000",
+  "scraped_at": "2026-09-21T18:01:23+0000",
   "count": 765,
   "courses": [
     {
@@ -500,7 +500,7 @@
       "last_date": "2026-09-22",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103814",
       "canton": "ZH",
       "lat": 47.53480529785156,
@@ -990,7 +990,7 @@
       "last_date": "2026-12-21",
       "company": "SSS La Côte",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103185",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -2642,7 +2642,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3916,7 +3916,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103344",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -4112,7 +4112,7 @@
       "last_date": "2026-10-29",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103664",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -9040,7 +9040,7 @@
       "last_date": "2027-01-30",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103639",
       "canton": null,
       "lat": null,
@@ -10713,5 +10713,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T17:00:51+0000"
+  "geocoded_at": "2026-09-21T18:01:23+0000"
 }
