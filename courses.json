@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-21T06:01:22+0000",
-  "count": 740,
+  "scraped_at": "2026-09-21T07:12:26+0000",
+  "count": 738,
   "courses": [
     {
       "key": "100804",
@@ -521,20 +521,6 @@
       "lng": 8.294404029846191
     },
     {
-      "key": "102800",
-      "category": "WK Pool Basis",
-      "city": "Oberwil BL",
-      "first_date": "2026-09-21",
-      "last_date": "2026-09-21",
-      "company": "SLRG Oberwil",
-      "participation_max": 3,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102800",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
-    },
-    {
       "key": "102801",
       "category": "WK Pool Plus",
       "city": "Oberwil BL",
@@ -729,20 +715,6 @@
       "canton": "LU",
       "lat": 46.82255935668945,
       "lng": 8.033738136291504
-    },
-    {
-      "key": "99898",
-      "category": "Brevet Basis Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-09-25",
-      "last_date": "2026-10-09",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99898",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
     },
     {
       "key": "103257",
@@ -3384,7 +3356,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103256",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -9544,7 +9516,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -10363,5 +10335,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T06:01:22+0000"
+  "geocoded_at": "2026-09-21T07:12:26+0000"
 }
