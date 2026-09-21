@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T18:01:23+0000",
+  "scraped_at": "2026-09-21T19:00:58+0000",
   "count": 765,
   "courses": [
     {
@@ -2628,7 +2628,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103823",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2642,7 +2642,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4770,7 +4770,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Oberwil",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102803",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -10713,5 +10713,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T18:01:23+0000"
+  "geocoded_at": "2026-09-21T19:00:58+0000"
 }
