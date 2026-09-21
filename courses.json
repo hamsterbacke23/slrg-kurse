@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-21T15:01:09+0000",
-  "count": 767,
+  "scraped_at": "2026-09-21T16:00:54+0000",
+  "count": 765,
   "courses": [
     {
       "key": "100804",
@@ -311,6 +311,20 @@
       "lng": null
     },
     {
+      "key": "103792",
+      "category": "WK BLS-AED",
+      "city": "Genève",
+      "first_date": "2026-09-07",
+      "last_date": "2026-09-07",
+      "company": "SSS Genève",
+      "participation_max": 6,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103792",
+      "canton": "GE",
+      "lat": 46.204559326171875,
+      "lng": 6.1424560546875
+    },
+    {
       "key": "103287",
       "category": "WK Pool Basis",
       "city": "",
@@ -423,20 +437,6 @@
       "lng": 7.06839656829834
     },
     {
-      "key": "99486",
-      "category": "Modul See",
-      "city": "Arbon",
-      "first_date": "2026-09-20",
-      "last_date": "2026-09-20",
-      "company": "Pädagogische Hochschule St. Gallen",
-      "participation_max": 11,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99486",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
       "key": "100838",
       "category": "Modul BLS-AED",
       "city": "Hochdorf",
@@ -449,34 +449,6 @@
       "canton": "LU",
       "lat": 47.16489791870117,
       "lng": 8.294404029846191
-    },
-    {
-      "key": "103402",
-      "category": "WK Pool Basis",
-      "city": "Muttenz",
-      "first_date": "2026-09-21",
-      "last_date": "2026-09-21",
-      "company": "SLRG Sektion Muttenz",
-      "participation_max": 24,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103402",
-      "canton": "BL",
-      "lat": 47.52326583862305,
-      "lng": 7.6465020179748535
-    },
-    {
-      "key": "103403",
-      "category": "WK Pool Plus",
-      "city": "Muttenz",
-      "first_date": "2026-09-21",
-      "last_date": "2026-09-21",
-      "company": "SLRG Sektion Muttenz",
-      "participation_max": 24,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103403",
-      "canton": "BL",
-      "lat": 47.52326583862305,
-      "lng": 7.6465020179748535
     },
     {
       "key": "103418",
@@ -1746,7 +1718,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -1914,7 +1886,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -2432,7 +2404,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -2782,7 +2754,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -4462,7 +4434,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Illnau-Effretikon",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103826",
       "canton": null,
       "lat": null,
@@ -8438,7 +8410,7 @@
       "last_date": "2026-12-13",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100695",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -9152,7 +9124,7 @@
       "last_date": "2027-02-11",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103909",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -9404,7 +9376,7 @@
       "last_date": "2027-03-20",
       "company": "SLRG Illnau-Effretikon",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103832",
       "canton": null,
       "lat": null,
@@ -10741,5 +10713,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T15:01:09+0000"
+  "geocoded_at": "2026-09-21T16:00:54+0000"
 }
