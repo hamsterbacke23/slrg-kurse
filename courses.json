@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-21T12:00:46+0000",
-  "count": 769,
+  "scraped_at": "2026-09-21T13:00:51+0000",
+  "count": 768,
   "courses": [
     {
       "key": "100804",
@@ -421,20 +421,6 @@
       "canton": "NE",
       "lat": 46.926021575927734,
       "lng": 6.633546829223633
-    },
-    {
-      "key": "99851",
-      "category": "Modul BLS-AED",
-      "city": "Zug",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-20",
-      "company": "SLRG Zug",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99851",
-      "canton": "ZG",
-      "lat": 47.151554107666016,
-      "lng": 8.521272659301758
     },
     {
       "key": "102475",
@@ -2670,7 +2656,7 @@
       "last_date": "2026-10-19",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103665",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -3958,7 +3944,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 30,
-      "registered": 28,
+      "registered": 29,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -4826,7 +4812,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Oberwil",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102803",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -6352,7 +6338,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101616",
       "canton": null,
       "lat": null,
@@ -6562,7 +6548,7 @@
       "last_date": "2026-12-09",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100382",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -10769,5 +10755,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T12:00:46+0000"
+  "geocoded_at": "2026-09-21T13:00:51+0000"
 }
