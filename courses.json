@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-21T05:01:09+0000",
+  "scraped_at": "2026-09-21T06:01:22+0000",
   "count": 740,
   "courses": [
     {
@@ -24,7 +24,7 @@
       "last_date": "2026-05-09",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101526",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -38,7 +38,7 @@
       "last_date": "2026-05-09",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101530",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -136,7 +136,7 @@
       "last_date": "2026-11-30",
       "company": "SSS Regione Sud",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103621",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -150,7 +150,7 @@
       "last_date": "2026-11-30",
       "company": "SSS Regione Sud",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103622",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -1312,7 +1312,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Arbon",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101299",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -2726,7 +2726,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3216,7 +3216,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100251",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -3678,7 +3678,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102579",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -10363,5 +10363,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T05:01:09+0000"
+  "geocoded_at": "2026-09-21T06:01:22+0000"
 }
