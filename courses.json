@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-21T10:00:55+0000",
-  "count": 768,
+  "scraped_at": "2026-09-21T11:00:59+0000",
+  "count": 769,
   "courses": [
     {
       "key": "100804",
@@ -1051,6 +1051,20 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
+    },
+    {
+      "key": "103963",
+      "category": "Modul See",
+      "city": "",
+      "first_date": "2026-09-28",
+      "last_date": "2026-09-28",
+      "company": "SLRG Emmental",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103963",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99436",
@@ -3846,7 +3860,7 @@
       "last_date": "2026-10-26",
       "company": "SLRG Frauenfeld",
       "participation_max": 5,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103896",
       "canton": null,
       "lat": null,
@@ -10755,5 +10769,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-21T10:00:56+0000"
+  "geocoded_at": "2026-09-21T11:00:59+0000"
 }
