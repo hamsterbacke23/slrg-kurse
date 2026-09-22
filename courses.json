@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T11:01:14+0000",
+  "scraped_at": "2026-09-22T12:01:03+0000",
   "count": 759,
   "courses": [
     {
@@ -2124,7 +2124,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -3846,7 +3846,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103654",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -3944,7 +3944,7 @@
       "last_date": "2026-10-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103657",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4728,7 +4728,7 @@
       "last_date": "2026-11-02",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103659",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4882,7 +4882,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103652",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -5792,7 +5792,7 @@
       "last_date": "2026-11-12",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103661",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -7892,7 +7892,7 @@
       "last_date": "2026-12-06",
       "company": "SLRG Region Nordwest",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102723",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10629,5 +10629,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T11:01:14+0000"
+  "geocoded_at": "2026-09-22T12:01:03+0000"
 }
