@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-22T19:00:57+0000",
-  "count": 758,
+  "scraped_at": "2026-09-22T20:00:50+0000",
+  "count": 755,
   "courses": [
     {
       "key": "100804",
@@ -353,34 +353,6 @@
       "lng": 8.431046485900879
     },
     {
-      "key": "103812",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-09-15",
-      "last_date": "2026-09-15",
-      "company": "SRV Linth",
-      "participation_max": 16,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103812",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103813",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-09-15",
-      "last_date": "2026-09-15",
-      "company": "SRV Linth",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103813",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103488",
       "category": "Modul BLS-AED",
       "city": "Schaffhausen",
@@ -421,20 +393,6 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
-    },
-    {
-      "key": "100838",
-      "category": "Modul BLS-AED",
-      "city": "Hochdorf",
-      "first_date": "2026-09-21",
-      "last_date": "2026-09-21",
-      "company": "SLRG Baldeggersee",
-      "participation_max": 9,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100838",
-      "canton": "LU",
-      "lat": 47.16489791870117,
-      "lng": 8.294404029846191
     },
     {
       "key": "103526",
@@ -3328,7 +3286,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103308",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -10615,5 +10573,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T19:00:57+0000"
+  "geocoded_at": "2026-09-22T20:00:50+0000"
 }
