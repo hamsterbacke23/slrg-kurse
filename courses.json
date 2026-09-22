@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T12:01:03+0000",
+  "scraped_at": "2026-09-22T13:01:06+0000",
   "count": 759,
   "courses": [
     {
@@ -2026,7 +2026,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Höngg",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -5722,7 +5722,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Meyrin",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103452",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -6254,7 +6254,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103310",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -7066,7 +7066,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Meyrin",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103453",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -10629,5 +10629,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T12:01:03+0000"
+  "geocoded_at": "2026-09-22T13:01:06+0000"
 }
