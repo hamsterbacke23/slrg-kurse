@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T18:01:21+0000",
+  "scraped_at": "2026-09-22T19:00:57+0000",
   "count": 758,
   "courses": [
     {
@@ -318,7 +318,7 @@
       "last_date": "2026-09-07",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103792",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -402,7 +402,7 @@
       "last_date": "2027-01-30",
       "company": "SSS Val-de-Travers",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103794",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -794,7 +794,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103291",
       "canton": "ZH",
       "lat": 47.53480529785156,
@@ -1620,7 +1620,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -10615,5 +10615,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T18:01:22+0000"
+  "geocoded_at": "2026-09-22T19:00:57+0000"
 }
