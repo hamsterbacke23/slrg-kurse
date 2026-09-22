@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T08:01:05+0000",
+  "scraped_at": "2026-09-22T09:00:56+0000",
   "count": 760,
   "courses": [
     {
@@ -3860,7 +3860,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103654",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -4294,7 +4294,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Männedorf",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102833",
       "canton": "ZH",
       "lat": 47.259639739990234,
@@ -4420,7 +4420,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103898",
       "canton": null,
       "lat": null,
@@ -4896,7 +4896,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103652",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -10643,5 +10643,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T08:01:05+0000"
+  "geocoded_at": "2026-09-22T09:00:56+0000"
 }
