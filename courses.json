@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-22T17:00:46+0000",
-  "count": 759,
+  "scraped_at": "2026-09-22T18:01:21+0000",
+  "count": 758,
   "courses": [
     {
       "key": "100804",
@@ -318,7 +318,7 @@
       "last_date": "2026-09-07",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103792",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -463,20 +463,6 @@
       "canton": "LU",
       "lat": 47.16489791870117,
       "lng": 8.294404029846191
-    },
-    {
-      "key": "103814",
-      "category": "WK BLS-AED",
-      "city": "Seuzach",
-      "first_date": "2026-09-22",
-      "last_date": "2026-09-22",
-      "company": "SLRG Seuzach-Weinland",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103814",
-      "canton": "ZH",
-      "lat": 47.53480529785156,
-      "lng": 8.724346160888672
     },
     {
       "key": "102146",
@@ -3006,7 +2992,7 @@
       "last_date": "2026-10-23",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103260",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -4728,7 +4714,7 @@
       "last_date": "2026-11-02",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103659",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -10629,5 +10615,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T17:00:46+0000"
+  "geocoded_at": "2026-09-22T18:01:22+0000"
 }
