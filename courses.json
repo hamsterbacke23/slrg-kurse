@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T14:01:14+0000",
+  "scraped_at": "2026-09-22T15:01:05+0000",
   "count": 759,
   "courses": [
     {
@@ -1228,7 +1228,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -2978,7 +2978,7 @@
       "last_date": "2026-10-23",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99928",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -4308,7 +4308,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wehntal",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102971",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -5428,7 +5428,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103966",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -7276,7 +7276,7 @@
       "last_date": "2026-11-28",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102788",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -7668,7 +7668,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98754",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -10629,5 +10629,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T14:01:14+0000"
+  "geocoded_at": "2026-09-22T15:01:05+0000"
 }
