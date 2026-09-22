@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T20:00:50+0000",
+  "scraped_at": "2026-09-22T21:01:17+0000",
   "count": 755,
   "courses": [
     {
@@ -374,7 +374,7 @@
       "last_date": "2027-01-30",
       "company": "SSS Val-de-Travers",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103794",
       "canton": "NE",
       "lat": 46.926021575927734,
@@ -7584,7 +7584,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103807",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -10573,5 +10573,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T20:00:50+0000"
+  "geocoded_at": "2026-09-22T21:01:17+0000"
 }
