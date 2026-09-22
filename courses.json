@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-22T00:02:01+0000",
-  "count": 764,
+  "scraped_at": "2026-09-22T01:13:28+0000",
+  "count": 763,
   "courses": [
     {
       "key": "100804",
@@ -561,20 +561,6 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
-    },
-    {
-      "key": "100760",
-      "category": "WK Pool Plus",
-      "city": "Nesslau",
-      "first_date": "2026-09-24",
-      "last_date": "2026-09-24",
-      "company": "SLRG Toggenburg",
-      "participation_max": 14,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100760",
-      "canton": "SG",
-      "lat": 47.22780990600586,
-      "lng": 9.222432136535645
     },
     {
       "key": "103289",
@@ -10699,5 +10685,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-22T00:02:01+0000"
+  "geocoded_at": "2026-09-22T01:13:28+0000"
 }
