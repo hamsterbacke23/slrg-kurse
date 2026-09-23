@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T14:01:03+0000",
+  "scraped_at": "2026-09-23T15:00:50+0000",
   "count": 796,
   "courses": [
     {
@@ -2698,7 +2698,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102656",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -3832,7 +3832,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103654",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -11147,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-23T14:01:03+0000"
+  "geocoded_at": "2026-09-23T15:00:50+0000"
 }
