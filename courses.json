@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-23T20:01:16+0000",
-  "count": 793,
+  "scraped_at": "2026-09-23T21:01:15+0000",
+  "count": 792,
   "courses": [
     {
       "key": "100804",
@@ -169,20 +169,6 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
-    },
-    {
-      "key": "102537",
-      "category": "WK Pool Plus",
-      "city": "Olten",
-      "first_date": "2026-08-26",
-      "last_date": "2026-08-26",
-      "company": "SLRG Sektion Olten",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102537",
-      "canton": "SO",
-      "lat": 47.339988708496094,
-      "lng": 7.893518447875977
     },
     {
       "key": "103632",
@@ -9292,7 +9278,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99102",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -9306,7 +9292,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99103",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -9320,7 +9306,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99105",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -9334,7 +9320,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99106",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11105,5 +11091,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-23T20:01:16+0000"
+  "geocoded_at": "2026-09-23T21:01:16+0000"
 }
