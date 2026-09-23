@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T11:00:48+0000",
+  "scraped_at": "2026-09-23T12:01:05+0000",
   "count": 796,
   "courses": [
     {
@@ -6730,7 +6730,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101675",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -6744,7 +6744,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101684",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10188,7 +10188,7 @@
       "last_date": "2027-06-05",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103655",
       "canton": null,
       "lat": null,
@@ -11147,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-23T11:00:48+0000"
+  "geocoded_at": "2026-09-23T12:01:05+0000"
 }
