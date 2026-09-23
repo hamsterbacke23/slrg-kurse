@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T08:01:00+0000",
+  "scraped_at": "2026-09-23T09:01:05+0000",
   "count": 756,
   "courses": [
     {
@@ -1340,7 +1340,7 @@
       "last_date": "2026-10-05",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103326",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -2628,7 +2628,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -3202,7 +3202,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102051",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -3230,7 +3230,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102053",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -3804,7 +3804,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103654",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -6912,7 +6912,7 @@
       "last_date": "2026-11-23",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103666",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -10587,5 +10587,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-23T08:01:00+0000"
+  "geocoded_at": "2026-09-23T09:01:05+0000"
 }
