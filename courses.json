@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-23T19:00:55+0000",
-  "count": 795,
+  "scraped_at": "2026-09-23T20:01:16+0000",
+  "count": 793,
   "courses": [
     {
       "key": "100804",
@@ -297,20 +297,6 @@
       "lng": null
     },
     {
-      "key": "103792",
-      "category": "WK BLS-AED",
-      "city": "Genève",
-      "first_date": "2026-09-07",
-      "last_date": "2026-09-07",
-      "company": "SSS Genève",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103792",
-      "canton": "GE",
-      "lat": 46.204559326171875,
-      "lng": 6.1424560546875
-    },
-    {
       "key": "103287",
       "category": "WK Pool Basis",
       "city": "",
@@ -393,20 +379,6 @@
       "canton": "LU",
       "lat": 47.07655334472656,
       "lng": 8.273947715759277
-    },
-    {
-      "key": "100839",
-      "category": "WK BLS-AED",
-      "city": "Hochdorf",
-      "first_date": "2026-09-22",
-      "last_date": "2026-09-22",
-      "company": "SLRG Baldeggersee",
-      "participation_max": 9,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100839",
-      "canton": "LU",
-      "lat": 47.16489791870117,
-      "lng": 8.294404029846191
     },
     {
       "key": "102146",
@@ -1158,7 +1130,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Winterthur",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103140",
       "canton": "TG",
       "lat": 47.452247619628906,
@@ -11133,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-23T19:00:55+0000"
+  "geocoded_at": "2026-09-23T20:01:16+0000"
 }
