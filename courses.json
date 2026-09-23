@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T18:00:53+0000",
+  "scraped_at": "2026-09-23T19:00:55+0000",
   "count": 795,
   "courses": [
     {
@@ -2460,7 +2460,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101639",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -4910,7 +4910,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Uri",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100959",
       "canton": "UR",
       "lat": 46.91195297241211,
@@ -6744,7 +6744,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Uri",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102358",
       "canton": "UR",
       "lat": 46.886905670166016,
@@ -11133,5 +11133,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-23T18:00:53+0000"
+  "geocoded_at": "2026-09-23T19:00:55+0000"
 }
