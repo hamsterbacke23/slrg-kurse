@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-23T21:01:15+0000",
-  "count": 792,
+  "scraped_at": "2026-09-23T22:00:43+0000",
+  "count": 790,
   "courses": [
     {
       "key": "100804",
@@ -311,20 +311,6 @@
       "lng": 8.431046485900879
     },
     {
-      "key": "103488",
-      "category": "Modul BLS-AED",
-      "city": "Schaffhausen",
-      "first_date": "2026-09-16",
-      "last_date": "2026-09-16",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103488",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
-    },
-    {
       "key": "103794",
       "category": "Jugendbrevet",
       "city": "Couvet",
@@ -365,20 +351,6 @@
       "canton": "LU",
       "lat": 47.07655334472656,
       "lng": 8.273947715759277
-    },
-    {
-      "key": "102146",
-      "category": "WK BLS-AED",
-      "city": "Oberwil BL",
-      "first_date": "2026-09-23",
-      "last_date": "2026-09-23",
-      "company": "SLRG Oberwil",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102146",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
     },
     {
       "key": "103489",
@@ -766,7 +738,7 @@
       "last_date": "2026-09-27",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -11091,5 +11063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-23T21:01:16+0000"
+  "geocoded_at": "2026-09-23T22:00:43+0000"
 }
