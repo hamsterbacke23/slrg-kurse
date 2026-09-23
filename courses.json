@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T17:00:47+0000",
+  "scraped_at": "2026-09-23T18:00:53+0000",
   "count": 795,
   "courses": [
     {
@@ -136,7 +136,7 @@
       "last_date": "2026-11-30",
       "company": "SSS Regione Sud",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103623",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -150,7 +150,7 @@
       "last_date": "2026-11-30",
       "company": "SSS Regione Sud",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103624",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -388,7 +388,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Sektion Emmen",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103526",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -1060,7 +1060,7 @@
       "last_date": "2026-10-03",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99937",
       "canton": null,
       "lat": null,
@@ -1326,7 +1326,7 @@
       "last_date": "2026-10-06",
       "company": "SLRG Emmental",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102967",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1368,7 +1368,7 @@
       "last_date": "2026-10-05",
       "company": "SSS Genève",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103420",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2488,7 +2488,7 @@
       "last_date": "2026-10-19",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103653",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -6506,7 +6506,7 @@
       "last_date": "2026-11-19",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103581",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6716,7 +6716,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101675",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11133,5 +11133,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-23T17:00:47+0000"
+  "geocoded_at": "2026-09-23T18:00:53+0000"
 }
