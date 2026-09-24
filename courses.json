@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T20:01:08+0000",
+  "scraped_at": "2026-09-24T21:01:14+0000",
   "count": 789,
   "courses": [
     {
@@ -766,7 +766,7 @@
       "last_date": "2026-09-28",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103969",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -5540,7 +5540,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103882",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -5554,7 +5554,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103883",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -11049,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-24T20:01:08+0000"
+  "geocoded_at": "2026-09-24T21:01:14+0000"
 }
