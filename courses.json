@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T17:00:58+0000",
+  "scraped_at": "2026-09-24T18:00:54+0000",
   "count": 789,
   "courses": [
     {
@@ -682,7 +682,7 @@
       "last_date": "2026-09-27",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -5535,7 +5535,7 @@
     {
       "key": "103882",
       "category": "WK Pool Basis",
-      "city": "Primarschule Lüchingen",
+      "city": "Schule Lüchingen",
       "first_date": "2026-11-10",
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
@@ -11049,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-24T17:00:58+0000"
+  "geocoded_at": "2026-09-24T18:00:54+0000"
 }
