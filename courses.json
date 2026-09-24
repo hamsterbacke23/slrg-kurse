@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-24T04:00:56+0000",
-  "count": 790,
+  "scraped_at": "2026-09-24T05:00:59+0000",
+  "count": 793,
   "courses": [
     {
       "key": "100804",
@@ -1284,7 +1284,7 @@
       "last_date": "2026-10-05",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 20,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103326",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -4903,6 +4903,20 @@
       "lng": 7.6465020179748535
     },
     {
+      "key": "103950",
+      "category": "Brevet Basis Pool",
+      "city": "Martigny",
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-13",
+      "company": "SSS Lausanne",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103950",
+      "canton": "VS",
+      "lat": 46.1070442199707,
+      "lng": 7.100466251373291
+    },
+    {
       "key": "99409",
       "category": "WK Pool Plus",
       "city": "Aarau",
@@ -6401,6 +6415,20 @@
       "lng": null
     },
     {
+      "key": "103952",
+      "category": "Modul BLS-AED",
+      "city": "Monthey",
+      "first_date": "2026-11-18",
+      "last_date": "2026-11-18",
+      "company": "SSS Lausanne",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103952",
+      "canton": "VS",
+      "lat": 46.243896484375,
+      "lng": 6.954207420349121
+    },
+    {
       "key": "100142",
       "category": "Brevet Basis Pool",
       "city": "Balgach",
@@ -6581,6 +6609,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103953",
+      "category": "Brevet Plus Pool",
+      "city": "Martigny",
+      "first_date": "2026-11-20",
+      "last_date": "2026-11-27",
+      "company": "SSS Lausanne",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103953",
+      "canton": "VS",
+      "lat": 46.1070442199707,
+      "lng": 7.100466251373291
     },
     {
       "key": "100371",
@@ -11063,5 +11105,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-24T04:00:56+0000"
+  "geocoded_at": "2026-09-24T05:00:59+0000"
 }
