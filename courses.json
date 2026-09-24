@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T16:01:06+0000",
+  "scraped_at": "2026-09-24T17:00:58+0000",
   "count": 789,
   "courses": [
     {
@@ -1354,7 +1354,7 @@
       "last_date": "2026-10-07",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103327",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -2502,7 +2502,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103959",
       "canton": null,
       "lat": null,
@@ -2670,7 +2670,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103961",
       "canton": null,
       "lat": null,
@@ -5316,7 +5316,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101050",
       "canton": null,
       "lat": null,
@@ -8298,7 +8298,7 @@
       "last_date": "2026-12-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103675",
       "canton": null,
       "lat": null,
@@ -9110,7 +9110,7 @@
       "last_date": "2027-02-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103676",
       "canton": null,
       "lat": null,
@@ -11049,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-24T16:01:06+0000"
+  "geocoded_at": "2026-09-24T17:00:58+0000"
 }
