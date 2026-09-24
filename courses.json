@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T09:00:58+0000",
+  "scraped_at": "2026-09-24T10:00:48+0000",
   "count": 790,
   "courses": [
     {
@@ -1074,7 +1074,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -1438,7 +1438,7 @@
       "last_date": "2026-10-08",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101925",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -3286,7 +3286,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103399",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -3468,7 +3468,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103627",
       "canton": null,
       "lat": null,
@@ -11063,5 +11063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-24T09:00:58+0000"
+  "geocoded_at": "2026-09-24T10:00:49+0000"
 }
