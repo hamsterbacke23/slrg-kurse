@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-24T19:00:46+0000",
+  "scraped_at": "2026-09-24T20:01:08+0000",
   "count": 789,
   "courses": [
     {
@@ -430,7 +430,7 @@
       "last_date": "2026-09-25",
       "company": "SLRG Emmental",
       "participation_max": 7,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103593",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -766,7 +766,7 @@
       "last_date": "2026-09-28",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103969",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2222,7 +2222,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103795",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -2670,7 +2670,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103961",
       "canton": null,
       "lat": null,
@@ -2936,7 +2936,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
       "canton": null,
       "lat": null,
@@ -5232,7 +5232,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6240,7 +6240,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102582",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -11049,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-24T19:00:47+0000"
+  "geocoded_at": "2026-09-24T20:01:08+0000"
 }
