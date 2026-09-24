@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-24T21:01:14+0000",
-  "count": 789,
+  "scraped_at": "2026-09-24T22:01:24+0000",
+  "count": 786,
   "courses": [
     {
       "key": "102540",
@@ -269,20 +269,6 @@
       "lng": null
     },
     {
-      "key": "103287",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-09-10",
-      "last_date": "2026-09-24",
-      "company": "SLRG Baldeggersee",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103287",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103858",
       "category": "Brevet Basis Pool",
       "city": "Weggis",
@@ -365,34 +351,6 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
-    },
-    {
-      "key": "103289",
-      "category": "WK Pool Basis",
-      "city": "Sörenberg",
-      "first_date": "2026-09-24",
-      "last_date": "2026-09-24",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103289",
-      "canton": "LU",
-      "lat": 46.82255935668945,
-      "lng": 8.033738136291504
-    },
-    {
-      "key": "103290",
-      "category": "WK Pool Plus",
-      "city": "Sörenberg",
-      "first_date": "2026-09-24",
-      "last_date": "2026-09-24",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103290",
-      "canton": "LU",
-      "lat": 46.82255935668945,
-      "lng": 8.033738136291504
     },
     {
       "key": "103591",
@@ -3580,7 +3538,7 @@
       "last_date": "2026-10-26",
       "company": "SLRG Frauenfeld",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103897",
       "canton": null,
       "lat": null,
@@ -11049,5 +11007,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-24T21:01:14+0000"
+  "geocoded_at": "2026-09-24T22:01:24+0000"
 }
