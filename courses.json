@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-25T16:01:19+0000",
-  "count": 805,
+  "scraped_at": "2026-09-25T17:00:57+0000",
+  "count": 806,
   "courses": [
     {
       "key": "102540",
@@ -337,6 +337,20 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "103289",
+      "category": "WK Pool Basis",
+      "city": "Sörenberg",
+      "first_date": "2026-09-24",
+      "last_date": "2026-09-24",
+      "company": "SLRG Sektion Luzern",
+      "participation_max": 12,
+      "registered": 4,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103289",
+      "canton": "LU",
+      "lat": 46.82255935668945,
+      "lng": 8.033738136291504
     },
     {
       "key": "103591",
@@ -5456,7 +5470,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103882",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -11273,5 +11287,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T16:01:19+0000"
+  "geocoded_at": "2026-09-25T17:00:57+0000"
 }
