@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T15:01:07+0000",
+  "scraped_at": "2026-09-25T16:01:19+0000",
   "count": 805,
   "courses": [
     {
@@ -1018,7 +1018,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4658,7 +4658,7 @@
       "last_date": "2026-11-05",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101926",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -7360,7 +7360,7 @@
       "last_date": "2026-11-29",
       "company": "SSS Vallée de Joux",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103492",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -7374,7 +7374,7 @@
       "last_date": "2026-11-29",
       "company": "SSS Vallée de Joux",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103493",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -8256,7 +8256,7 @@
       "last_date": "2026-12-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103675",
       "canton": null,
       "lat": null,
@@ -8494,7 +8494,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Emmental",
       "participation_max": 4,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103865",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11273,5 +11273,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T15:01:07+0000"
+  "geocoded_at": "2026-09-25T16:01:19+0000"
 }
