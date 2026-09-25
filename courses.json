@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T04:01:13+0000",
+  "scraped_at": "2026-09-25T05:00:50+0000",
   "count": 786,
   "courses": [
     {
@@ -640,7 +640,7 @@
       "last_date": "2026-09-27",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2614,7 +2614,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103956",
       "canton": null,
       "lat": null,
@@ -11007,5 +11007,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T04:01:13+0000"
+  "geocoded_at": "2026-09-25T05:00:50+0000"
 }
