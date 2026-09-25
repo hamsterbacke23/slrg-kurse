@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T08:01:04+0000",
+  "scraped_at": "2026-09-25T09:01:08+0000",
   "count": 807,
   "courses": [
     {
@@ -2011,8 +2011,8 @@
       "first_date": "2026-10-17",
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
-      "participation_max": 17,
-      "registered": 17,
+      "participation_max": 18,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -2600,7 +2600,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103956",
       "canton": null,
       "lat": null,
@@ -3034,7 +3034,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102051",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -3048,7 +3048,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102052",
       "canton": "BE",
       "lat": 47.21522903442383,
@@ -3734,7 +3734,7 @@
       "last_date": "2026-10-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103657",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4714,7 +4714,7 @@
       "last_date": "2026-11-05",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103660",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -6394,7 +6394,7 @@
       "last_date": "2026-11-20",
       "company": "SLRG Zug",
       "participation_max": 9,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99856",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11301,5 +11301,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T08:01:04+0000"
+  "geocoded_at": "2026-09-25T09:01:09+0000"
 }
