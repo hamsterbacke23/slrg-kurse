@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-25T09:01:08+0000",
-  "count": 807,
+  "scraped_at": "2026-09-25T10:01:04+0000",
+  "count": 806,
   "courses": [
     {
       "key": "102540",
@@ -155,20 +155,6 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
-    },
-    {
-      "key": "103632",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-08-26",
-      "last_date": "2026-10-29",
-      "company": "Kantonsschule Wattwil",
-      "participation_max": 50,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102214",
@@ -1718,7 +1704,7 @@
       "last_date": "2026-10-14",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99998",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -11301,5 +11287,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T09:01:09+0000"
+  "geocoded_at": "2026-09-25T10:01:04+0000"
 }
