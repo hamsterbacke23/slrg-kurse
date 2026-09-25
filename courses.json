@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-25T22:01:04+0000",
-  "count": 808,
+  "scraped_at": "2026-09-25T23:00:43+0000",
+  "count": 810,
   "courses": [
     {
       "key": "102540",
@@ -633,6 +633,20 @@
       "lng": 7.239261627197266
     },
     {
+      "key": "104063",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "SLRG Region Ost",
+      "participation_max": 24,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104063",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100437",
       "category": "WK Expert Fluss",
       "city": "",
@@ -698,6 +712,20 @@
       "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104061",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104062",
+      "category": "WK See",
+      "city": "",
+      "first_date": "2026-09-27",
+      "last_date": "2026-09-27",
+      "company": "SLRG Region Ost",
+      "participation_max": 20,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104062",
       "canton": null,
       "lat": null,
       "lng": null
@@ -11315,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T22:01:04+0000"
+  "geocoded_at": "2026-09-25T23:00:43+0000"
 }
