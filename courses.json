@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-25T05:00:50+0000",
-  "count": 786,
+  "scraped_at": "2026-09-25T06:01:13+0000",
+  "count": 784,
   "courses": [
     {
       "key": "102540",
@@ -1179,20 +1179,6 @@
       "lng": 7.536828994750977
     },
     {
-      "key": "103326",
-      "category": "WK Pool Plus",
-      "city": "Lausanne",
-      "first_date": "2026-10-05",
-      "last_date": "2026-10-05",
-      "company": "SSS Lausanne",
-      "participation_max": 20,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103326",
-      "canton": "VD",
-      "lat": 46.52865219116211,
-      "lng": 6.638521671295166
-    },
-    {
       "key": "103420",
       "category": "WK BLS-AED",
       "city": "Plan-les-Ouates",
@@ -1303,20 +1289,6 @@
       "canton": "VD",
       "lat": 46.768096923828125,
       "lng": 6.632878303527832
-    },
-    {
-      "key": "103327",
-      "category": "WK BLS-AED",
-      "city": "Lausanne",
-      "first_date": "2026-10-07",
-      "last_date": "2026-10-07",
-      "company": "SSS Lausanne",
-      "participation_max": 20,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103327",
-      "canton": "VD",
-      "lat": 46.52865219116211,
-      "lng": 6.638521671295166
     },
     {
       "key": "99550",
@@ -1606,7 +1578,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -3426,7 +3398,7 @@
       "last_date": "2026-10-26",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101640",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -5946,7 +5918,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103456",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -11007,5 +10979,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T05:00:50+0000"
+  "geocoded_at": "2026-09-25T06:01:13+0000"
 }
