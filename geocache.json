@@ -204,6 +204,12 @@
     "lat": 46.931427001953125,
     "lng": 7.8112897872924805
   },
+  "Bévilard": {
+    "canton": "BE",
+    "label": "Ort Bévilard (BE) - Valbirse",
+    "lat": 47.238895416259766,
+    "lng": 7.284480571746826
+  },
   "Bülach": {
     "canton": "ZH",
     "label": "Bülach (ZH)",
@@ -1315,6 +1321,12 @@
     "label": "Ort St-Légier-La Chiésaz (VD) - Blonay - Saint-Légier",
     "lat": 46.47169876098633,
     "lng": 6.87440824508667
+  },
+  "St-Maurice": {
+    "canton": "VS",
+    "label": "Saint-Maurice (VS)",
+    "lat": 46.196189880371094,
+    "lng": 7.005363941192627
   },
   "St. Gallen": {
     "canton": "SG",

@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-25T07:04:45+0000",
-  "count": 784,
+  "scraped_at": "2026-09-25T08:01:04+0000",
+  "count": 807,
   "courses": [
     {
       "key": "102540",
@@ -661,6 +661,20 @@
       "lng": 6.16977071762085
     },
     {
+      "key": "104061",
+      "category": "WK Fluss",
+      "city": "",
+      "first_date": "2026-09-27",
+      "last_date": "2026-09-27",
+      "company": "SLRG Region Ost",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104061",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "98223",
       "category": "Jugendbrevet",
       "city": "Coppet",
@@ -779,8 +793,8 @@
       "first_date": "2026-09-30",
       "last_date": "2026-09-30",
       "company": "SLRG Basel",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 11,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103018",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -1410,7 +1424,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -2824,7 +2838,7 @@
       "last_date": "2026-10-23",
       "company": "SSS St. Maurice",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103451",
       "canton": null,
       "lat": null,
@@ -3552,7 +3566,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Appenzell",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100254",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -3594,7 +3608,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 36,
-      "registered": 34,
+      "registered": 35,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -3692,7 +3706,7 @@
       "last_date": "2026-10-28",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103648",
       "canton": "GL",
       "lat": 47.10641860961914,
@@ -4882,7 +4896,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100258",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -6170,7 +6184,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102582",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -6707,6 +6721,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104079",
+      "category": "Brevet Basis Pool",
+      "city": "Dielsdorf",
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-21",
+      "company": "SLRG Wehntal",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104079",
+      "canton": "ZH",
+      "lat": 47.47540283203125,
+      "lng": 8.455204963684082
     },
     {
       "key": "101138",
@@ -7373,7 +7401,7 @@
       "first_date": "2026-11-29",
       "last_date": "2026-11-29",
       "company": "SSS Vallée de Joux",
-      "participation_max": 7,
+      "participation_max": 8,
       "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103493",
       "canton": "VD",
@@ -7689,6 +7717,20 @@
       "lng": 7.508505821228027
     },
     {
+      "key": "104076",
+      "category": "Brevet Basis Pool",
+      "city": "St-Maurice",
+      "first_date": "2026-12-04",
+      "last_date": "2026-12-18",
+      "company": "SSS St. Maurice",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104076",
+      "canton": "VS",
+      "lat": 46.196189880371094,
+      "lng": 7.005363941192627
+    },
+    {
       "key": "100223",
       "category": "Brevet Basis Pool",
       "city": "Chur",
@@ -7785,6 +7827,20 @@
       "canton": "VS",
       "lat": 46.30108642578125,
       "lng": 7.926656246185303
+    },
+    {
+      "key": "104060",
+      "category": "WK Pool Plus",
+      "city": "Bévilard",
+      "first_date": "2026-12-05",
+      "last_date": "2026-12-05",
+      "company": "SSS Grand Chasseral",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104060",
+      "canton": "BE",
+      "lat": 47.238895416259766,
+      "lng": 7.284480571746826
     },
     {
       "key": "102155",
@@ -8655,6 +8711,20 @@
       "lng": 9.625519752502441
     },
     {
+      "key": "104032",
+      "category": "Brevet Basis Pool",
+      "city": "Aarau",
+      "first_date": "2027-01-09",
+      "last_date": "2027-01-16",
+      "company": "SLRG Aarau",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104032",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "102699",
       "category": "Brevet Plus Pool",
       "city": "Les Acacias",
@@ -8725,6 +8795,48 @@
       "lng": 7.206460952758789
     },
     {
+      "key": "104052",
+      "category": "Brevet Basis Pool",
+      "city": "Aarau",
+      "first_date": "2027-01-16",
+      "last_date": "2027-01-23",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104052",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104054",
+      "category": "Modul BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-01-16",
+      "last_date": "2027-01-23",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104054",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104056",
+      "category": "Brevet Plus Pool",
+      "city": "Aarau",
+      "first_date": "2027-01-16",
+      "last_date": "2027-01-23",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104056",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "103178",
       "category": "Brevet Basis Pool",
       "city": "Allschwil",
@@ -8751,6 +8863,48 @@
       "canton": "ZG",
       "lat": 47.127777099609375,
       "lng": 8.643309593200684
+    },
+    {
+      "key": "104037",
+      "category": "WK Pool Plus",
+      "city": "Aarau",
+      "first_date": "2027-01-23",
+      "last_date": "2027-01-23",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104037",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104042",
+      "category": "WK Pool Pro",
+      "city": "Aarau",
+      "first_date": "2027-01-23",
+      "last_date": "2027-01-23",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104042",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104047",
+      "category": "WK BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-01-23",
+      "last_date": "2027-01-23",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104047",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
     },
     {
       "key": "103972",
@@ -9103,6 +9257,48 @@
       "lng": null
     },
     {
+      "key": "104038",
+      "category": "WK Pool Plus",
+      "city": "Aarau",
+      "first_date": "2027-02-20",
+      "last_date": "2027-02-20",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104038",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104043",
+      "category": "WK Pool Pro",
+      "city": "Aarau",
+      "first_date": "2027-02-20",
+      "last_date": "2027-02-20",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104043",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104048",
+      "category": "WK BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-02-20",
+      "last_date": "2027-02-20",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104048",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "102702",
       "category": "Brevet Pro Pool",
       "city": "Les Acacias",
@@ -9409,6 +9605,62 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104033",
+      "category": "Brevet Basis Pool",
+      "city": "Aarau",
+      "first_date": "2027-03-20",
+      "last_date": "2027-04-03",
+      "company": "SLRG Aarau",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104033",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104053",
+      "category": "Brevet Basis Pool",
+      "city": "Aarau",
+      "first_date": "2027-03-20",
+      "last_date": "2027-04-03",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104053",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104055",
+      "category": "Modul BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-03-20",
+      "last_date": "2027-04-03",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104055",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104057",
+      "category": "Brevet Plus Pool",
+      "city": "Aarau",
+      "first_date": "2027-03-20",
+      "last_date": "2027-04-03",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104057",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
     },
     {
       "key": "103981",
@@ -9831,6 +10083,20 @@
       "lng": 9.425399780273438
     },
     {
+      "key": "104034",
+      "category": "Brevet Basis Pool",
+      "city": "Aarau",
+      "first_date": "2027-05-15",
+      "last_date": "2027-05-22",
+      "company": "SLRG Aarau",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104034",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "103706",
       "category": "Modul See",
       "city": "Arbon",
@@ -9913,6 +10179,20 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
+    },
+    {
+      "key": "104036",
+      "category": "Modul BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-05-25",
+      "last_date": "2027-05-25",
+      "company": "SLRG Aarau",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104036",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
     },
     {
       "key": "103904",
@@ -10067,6 +10347,34 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
+    },
+    {
+      "key": "104035",
+      "category": "Brevet Plus Pool",
+      "city": "Aarau",
+      "first_date": "2027-06-05",
+      "last_date": "2027-06-12",
+      "company": "SLRG Aarau",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104035",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104058",
+      "category": "Brevet Pro Pool",
+      "city": "Aarau",
+      "first_date": "2027-06-05",
+      "last_date": "2027-06-12",
+      "company": "Schweizerischer Badmeisterverband SBV",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104058",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
     },
     {
       "key": "103751",
@@ -10601,6 +10909,20 @@
       "lng": 7.206460952758789
     },
     {
+      "key": "104059",
+      "category": "Brevet Pro Pool",
+      "city": "Aarau",
+      "first_date": "2027-10-23",
+      "last_date": "2027-10-30",
+      "company": "Schweizerischer Badmeisterverband SBV",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104059",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "103530",
       "category": "WK Pool Basis",
       "city": "Zug",
@@ -10979,5 +11301,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T07:04:45+0000"
+  "geocoded_at": "2026-09-25T08:01:04+0000"
 }
