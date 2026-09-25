@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-25T21:00:46+0000",
-  "count": 806,
+  "scraped_at": "2026-09-25T22:01:04+0000",
+  "count": 808,
   "courses": [
     {
       "key": "102540",
@@ -558,6 +558,34 @@
       "participation_max": 6,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102089",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102629",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "SLRG Region Ost",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102629",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "102630",
+      "category": "Brevet Pro Pool",
+      "city": "",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "SLRG Region Ost",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102630",
       "canton": null,
       "lat": null,
       "lng": null
@@ -11287,5 +11315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T21:00:46+0000"
+  "geocoded_at": "2026-09-25T22:01:04+0000"
 }
