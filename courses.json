@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T12:01:26+0000",
+  "scraped_at": "2026-09-25T13:01:29+0000",
   "count": 805,
   "courses": [
     {
@@ -1536,7 +1536,7 @@
       "last_date": "2026-10-10",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102977",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -2418,7 +2418,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103959",
       "canton": null,
       "lat": null,
@@ -2963,8 +2963,8 @@
       "first_date": "2026-10-24",
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
-      "participation_max": 14,
-      "registered": 14,
+      "participation_max": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101668",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -6856,7 +6856,7 @@
       "last_date": "2026-12-08",
       "company": "SSS Genève",
       "participation_max": 20,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102698",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -9222,7 +9222,7 @@
       "last_date": "2027-02-20",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101672",
       "canton": null,
       "lat": null,
@@ -11273,5 +11273,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T12:01:26+0000"
+  "geocoded_at": "2026-09-25T13:01:29+0000"
 }
