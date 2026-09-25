@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T06:01:13+0000",
+  "scraped_at": "2026-09-25T07:04:45+0000",
   "count": 784,
   "courses": [
     {
@@ -4896,7 +4896,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Sarganserland",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101395",
       "canton": null,
       "lat": null,
@@ -5470,7 +5470,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103882",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -5484,7 +5484,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103883",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -7682,7 +7682,7 @@
       "last_date": "2026-12-04",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103765",
       "canton": "VS",
       "lat": 46.27641296386719,
@@ -10979,5 +10979,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-25T06:01:13+0000"
+  "geocoded_at": "2026-09-25T07:04:45+0000"
 }
