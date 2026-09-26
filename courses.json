@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-26T17:00:55+0000",
+  "scraped_at": "2026-09-26T18:00:42+0000",
   "count": 806,
   "courses": [
     {
@@ -388,7 +388,7 @@
       "last_date": "2026-09-25",
       "company": "SLRG Emmental",
       "participation_max": 7,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103593",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -528,7 +528,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102089",
       "canton": null,
       "lat": null,
@@ -668,7 +668,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104061",
       "canton": null,
       "lat": null,
@@ -2614,7 +2614,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103961",
       "canton": null,
       "lat": null,
@@ -11287,5 +11287,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T17:00:55+0000"
+  "geocoded_at": "2026-09-26T18:00:42+0000"
 }
