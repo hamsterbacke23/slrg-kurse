@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-26T04:01:10+0000",
+  "scraped_at": "2026-09-26T05:00:49+0000",
   "count": 810,
   "courses": [
     {
@@ -2474,7 +2474,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103958",
       "canton": null,
       "lat": null,
@@ -11343,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T04:01:10+0000"
+  "geocoded_at": "2026-09-26T05:00:49+0000"
 }
