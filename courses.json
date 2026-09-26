@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26T14:00:44+0000",
-  "count": 808,
+  "scraped_at": "2026-09-26T15:00:51+0000",
+  "count": 807,
   "courses": [
     {
       "key": "102540",
@@ -393,20 +393,6 @@
       "canton": "BE",
       "lat": 46.954750061035156,
       "lng": 7.804457187652588
-    },
-    {
-      "key": "99431",
-      "category": "Brevet Basis Pool",
-      "city": "Aarau",
-      "first_date": "2026-09-26",
-      "last_date": "2026-10-03",
-      "company": "SLRG Aarau",
-      "participation_max": 7,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99431",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
     },
     {
       "key": "100433",
@@ -2096,7 +2082,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103626",
       "canton": null,
       "lat": null,
@@ -2880,7 +2866,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103957",
       "canton": null,
       "lat": null,
@@ -4742,7 +4728,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Uri",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100959",
       "canton": "UR",
       "lat": 46.91195297241211,
@@ -11315,5 +11301,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T14:00:44+0000"
+  "geocoded_at": "2026-09-26T15:00:51+0000"
 }
