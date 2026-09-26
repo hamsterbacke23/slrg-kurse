@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-26T10:00:47+0000",
+  "scraped_at": "2026-09-26T11:00:49+0000",
   "count": 809,
   "courses": [
     {
@@ -717,20 +717,6 @@
       "lng": null
     },
     {
-      "key": "98223",
-      "category": "Jugendbrevet",
-      "city": "Coppet",
-      "first_date": "2026-09-28",
-      "last_date": "2026-12-21",
-      "company": "SSS La Côte",
-      "participation_max": 10,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98223",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
-    },
-    {
       "key": "103185",
       "category": "Jugendbrevet",
       "city": "Coppet",
@@ -1177,6 +1163,20 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
+    },
+    {
+      "key": "100566",
+      "category": "Brevet Basis Pool",
+      "city": "Grand-Lancy",
+      "first_date": "2026-10-04",
+      "last_date": "2026-10-04",
+      "company": "SSS La Côte",
+      "participation_max": 36,
+      "registered": 33,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100566",
+      "canton": "GE",
+      "lat": 46.18354034423828,
+      "lng": 6.120214939117432
     },
     {
       "key": "101048",
@@ -11329,5 +11329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T10:00:47+0000"
+  "geocoded_at": "2026-09-26T11:00:49+0000"
 }
