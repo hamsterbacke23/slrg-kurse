@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26T21:00:39+0000",
-  "count": 801,
+  "scraped_at": "2026-09-26T22:00:51+0000",
+  "count": 800,
   "courses": [
     {
       "key": "102540",
@@ -519,20 +519,6 @@
       "canton": "BE",
       "lat": 47.12384033203125,
       "lng": 7.239261627197266
-    },
-    {
-      "key": "104063",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Region Ost",
-      "participation_max": 24,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104063",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100437",
@@ -1074,7 +1060,7 @@
       "last_date": "2026-10-04",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 33,
+      "registered": 34,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100566",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -8424,7 +8410,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103864",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11217,5 +11203,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T21:00:39+0000"
+  "geocoded_at": "2026-09-26T22:00:51+0000"
 }
