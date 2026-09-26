@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-26T06:01:25+0000",
+  "scraped_at": "2026-09-26T07:00:53+0000",
   "count": 810,
   "courses": [
     {
@@ -416,7 +416,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 30,
-      "registered": 22,
+      "registered": 26,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100433",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -430,7 +430,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 30,
-      "registered": 19,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100434",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -444,7 +444,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 30,
-      "registered": 14,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100435",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -458,7 +458,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 30,
-      "registered": 19,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100436",
       "canton": "GR",
       "lat": 46.83235549926758,
@@ -570,7 +570,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102629",
       "canton": null,
       "lat": null,
@@ -654,7 +654,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Region Ost",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100437",
       "canton": null,
       "lat": null,
@@ -668,7 +668,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Region Ost",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100438",
       "canton": null,
       "lat": null,
@@ -11343,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T06:01:25+0000"
+  "geocoded_at": "2026-09-26T07:00:53+0000"
 }
