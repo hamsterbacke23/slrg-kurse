@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26T20:00:53+0000",
-  "count": 805,
+  "scraped_at": "2026-09-26T21:00:39+0000",
+  "count": 801,
   "courses": [
     {
       "key": "102540",
@@ -241,20 +241,6 @@
       "lng": 7.926656246185303
     },
     {
-      "key": "103646",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-09-07",
-      "last_date": "2026-09-07",
-      "company": "SSS Porrentruy",
-      "participation_max": 32,
-      "registered": 27,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103646",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103858",
       "category": "Brevet Basis Pool",
       "city": "Weggis",
@@ -351,48 +337,6 @@
       "canton": "LU",
       "lat": 46.82255935668945,
       "lng": 8.033738136291504
-    },
-    {
-      "key": "103591",
-      "category": "WK BLS-AED",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-25",
-      "last_date": "2026-09-25",
-      "company": "SLRG Emmental",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103591",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
-      "key": "103592",
-      "category": "WK Pool Plus",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-25",
-      "last_date": "2026-09-25",
-      "company": "SLRG Emmental",
-      "participation_max": 4,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103592",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
-      "key": "103593",
-      "category": "WK Pool Pro",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-25",
-      "last_date": "2026-09-25",
-      "company": "SLRG Emmental",
-      "participation_max": 7,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103593",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
     },
     {
       "key": "100433",
@@ -8984,7 +8928,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103499",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11273,5 +11217,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T20:00:53+0000"
+  "geocoded_at": "2026-09-26T21:00:39+0000"
 }
