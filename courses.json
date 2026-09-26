@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26T18:00:42+0000",
-  "count": 806,
+  "scraped_at": "2026-09-26T19:01:12+0000",
+  "count": 805,
   "courses": [
     {
       "key": "102540",
@@ -563,20 +563,6 @@
       "lng": null
     },
     {
-      "key": "103291",
-      "category": "Modul BLS-AED",
-      "city": "Seuzach",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Seuzach-Weinland",
-      "participation_max": 8,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103291",
-      "canton": "ZH",
-      "lat": 47.53480529785156,
-      "lng": 8.724346160888672
-    },
-    {
       "key": "103438",
       "category": "WK BLS-AED",
       "city": "Nidau",
@@ -752,7 +738,7 @@
       "last_date": "2026-09-29",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99436",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1368,7 +1354,7 @@
       "last_date": "2026-10-08",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101925",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -5890,7 +5876,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Lyss",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101992",
       "canton": null,
       "lat": null,
@@ -11287,5 +11273,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T18:00:42+0000"
+  "geocoded_at": "2026-09-26T19:01:12+0000"
 }
