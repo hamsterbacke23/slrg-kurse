@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26T11:00:49+0000",
-  "count": 809,
+  "scraped_at": "2026-09-26T12:00:50+0000",
+  "count": 808,
   "courses": [
     {
       "key": "102540",
@@ -577,20 +577,6 @@
       "lng": null
     },
     {
-      "key": "103177",
-      "category": "WK Pool Plus",
-      "city": "Allschwil",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Basel",
-      "participation_max": 16,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103177",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
-    },
-    {
       "key": "103291",
       "category": "Modul BLS-AED",
       "city": "Seuzach",
@@ -626,7 +612,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104063",
       "canton": null,
       "lat": null,
@@ -990,7 +976,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sektion Emmen",
       "participation_max": 18,
-      "registered": 18,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102424",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -2110,7 +2096,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103626",
       "canton": null,
       "lat": null,
@@ -11329,5 +11315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T11:00:49+0000"
+  "geocoded_at": "2026-09-26T12:00:50+0000"
 }
