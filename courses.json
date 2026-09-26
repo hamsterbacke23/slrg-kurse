@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-26T12:00:50+0000",
+  "scraped_at": "2026-09-26T13:00:45+0000",
   "count": 808,
   "courses": [
     {
@@ -976,7 +976,7 @@
       "last_date": "2026-10-03",
       "company": "SLRG Sektion Emmen",
       "participation_max": 18,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102424",
       "canton": "LU",
       "lat": 47.07655334472656,
@@ -2362,7 +2362,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2852,7 +2852,7 @@
       "last_date": "2026-10-23",
       "company": "SSS St. Maurice",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103451",
       "canton": null,
       "lat": null,
@@ -3678,7 +3678,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103026",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -11315,5 +11315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T12:00:50+0000"
+  "geocoded_at": "2026-09-26T13:00:45+0000"
 }
