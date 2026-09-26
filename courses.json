@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26T09:00:49+0000",
-  "count": 810,
+  "scraped_at": "2026-09-26T10:00:47+0000",
+  "count": 809,
   "courses": [
     {
       "key": "102540",
@@ -346,7 +346,7 @@
       "last_date": "2026-09-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103289",
       "canton": "LU",
       "lat": 46.82255935668945,
@@ -432,20 +432,6 @@
       "participation_max": 30,
       "registered": 27,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100434",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
-      "key": "100435",
-      "category": "WK Expert BLS-AED inkl. SRC-Rollout 2025",
-      "city": "Chur",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Region Ost",
-      "participation_max": 30,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100435",
       "canton": "GR",
       "lat": 46.83235549926758,
       "lng": 9.516542434692383
@@ -682,7 +668,7 @@
       "last_date": "2026-09-27",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2166,7 +2152,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 25,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103349",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2922,7 +2908,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
       "canton": null,
       "lat": null,
@@ -3650,7 +3636,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 36,
-      "registered": 35,
+      "registered": 36,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11343,5 +11329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T09:00:49+0000"
+  "geocoded_at": "2026-09-26T10:00:47+0000"
 }
