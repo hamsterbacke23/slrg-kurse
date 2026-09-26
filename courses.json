@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-26T16:01:13+0000",
-  "count": 807,
+  "scraped_at": "2026-09-26T17:00:55+0000",
+  "count": 806,
   "courses": [
     {
       "key": "102540",
@@ -4058,20 +4058,6 @@
       "participation_max": 12,
       "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102832",
-      "canton": "ZH",
-      "lat": 47.259639739990234,
-      "lng": 8.697005271911621
-    },
-    {
-      "key": "102833",
-      "category": "WK BLS-AED",
-      "city": "Männedorf",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Männedorf",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102833",
       "canton": "ZH",
       "lat": 47.259639739990234,
       "lng": 8.697005271911621
@@ -11301,5 +11287,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-26T16:01:13+0000"
+  "geocoded_at": "2026-09-26T17:00:55+0000"
 }
