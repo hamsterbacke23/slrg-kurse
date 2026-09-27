@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27T10:00:44+0000",
-  "count": 794,
+  "scraped_at": "2026-09-27T11:00:42+0000",
+  "count": 796,
   "courses": [
     {
       "key": "102540",
@@ -339,6 +339,34 @@
       "lng": 8.033738136291504
     },
     {
+      "key": "100433",
+      "category": "WK Modul SLRG",
+      "city": "Chur",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "SLRG Region Ost",
+      "participation_max": 30,
+      "registered": 27,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100433",
+      "canton": "GR",
+      "lat": 46.83235549926758,
+      "lng": 9.516542434692383
+    },
+    {
+      "key": "100434",
+      "category": "WK Modul Methodik",
+      "city": "Chur",
+      "first_date": "2026-09-26",
+      "last_date": "2026-09-26",
+      "company": "SLRG Region Ost",
+      "participation_max": 30,
+      "registered": 27,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100434",
+      "canton": "GR",
+      "lat": 46.83235549926758,
+      "lng": 9.516542434692383
+    },
+    {
       "key": "101013",
       "category": "Brevet Basis Pool",
       "city": "Magglingen/Macolin",
@@ -486,7 +514,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Region Ost",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100437",
       "canton": null,
       "lat": null,
@@ -5008,7 +5036,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103629",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -5022,7 +5050,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103630",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -9012,7 +9040,7 @@
       "last_date": "2027-02-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103676",
       "canton": null,
       "lat": null,
@@ -9068,7 +9096,7 @@
       "last_date": "2027-02-20",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101672",
       "canton": null,
       "lat": null,
@@ -11119,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T10:00:44+0000"
+  "geocoded_at": "2026-09-27T11:00:42+0000"
 }
