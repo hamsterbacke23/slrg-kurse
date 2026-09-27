@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-27T06:01:23+0000",
+  "scraped_at": "2026-09-27T07:02:45+0000",
   "count": 800,
   "courses": [
     {
@@ -7738,7 +7738,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104060",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -11203,5 +11203,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T06:01:23+0000"
+  "geocoded_at": "2026-09-27T07:02:45+0000"
 }
