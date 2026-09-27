@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-27T18:01:15+0000",
+  "scraped_at": "2026-09-27T19:00:49+0000",
   "count": 796,
   "courses": [
     {
@@ -570,7 +570,7 @@
       "last_date": "2026-12-21",
       "company": "SSS La Côte",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103185",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -696,7 +696,7 @@
       "last_date": "2026-10-09",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103551",
       "canton": null,
       "lat": null,
@@ -1172,7 +1172,7 @@
       "last_date": "2026-10-08",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99550",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -2040,7 +2040,7 @@
       "last_date": "2026-10-18",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103837",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -3734,7 +3734,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG - SSS",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=90377",
       "canton": null,
       "lat": null,
@@ -4378,7 +4378,7 @@
       "last_date": "2026-11-03",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100780",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -5036,7 +5036,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103629",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -11147,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T18:01:15+0000"
+  "geocoded_at": "2026-09-27T19:00:49+0000"
 }
