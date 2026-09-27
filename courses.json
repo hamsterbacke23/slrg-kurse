@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27T15:01:02+0000",
-  "count": 797,
+  "scraped_at": "2026-09-27T16:01:11+0000",
+  "count": 796,
   "courses": [
     {
       "key": "102540",
@@ -535,20 +535,6 @@
       "lng": null
     },
     {
-      "key": "103522",
-      "category": "Brevet Plus Pool",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-09-27",
-      "last_date": "2026-09-27",
-      "company": "SSS Genève",
-      "participation_max": 24,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103522",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
-    },
-    {
       "key": "104061",
       "category": "WK Fluss",
       "city": "",
@@ -1032,7 +1018,7 @@
       "last_date": "2026-10-04",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 34,
+      "registered": 35,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100566",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -2306,7 +2292,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103958",
       "canton": null,
       "lat": null,
@@ -7612,7 +7598,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101670",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11161,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T15:01:02+0000"
+  "geocoded_at": "2026-09-27T16:01:11+0000"
 }
