@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-27T14:00:47+0000",
+  "scraped_at": "2026-09-27T15:01:02+0000",
   "count": 797,
   "courses": [
     {
@@ -528,7 +528,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Region Ost",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100438",
       "canton": null,
       "lat": null,
@@ -556,7 +556,7 @@
       "last_date": "2026-09-27",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104061",
       "canton": null,
       "lat": null,
@@ -5400,7 +5400,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Meyrin",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103452",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -11161,5 +11161,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T14:00:47+0000"
+  "geocoded_at": "2026-09-27T15:01:02+0000"
 }
