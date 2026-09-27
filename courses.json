@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27T09:00:46+0000",
-  "count": 797,
+  "scraped_at": "2026-09-27T10:00:44+0000",
+  "count": 794,
   "courses": [
     {
       "key": "102540",
@@ -339,20 +339,6 @@
       "lng": 8.033738136291504
     },
     {
-      "key": "100436",
-      "category": "WK Expert Pool",
-      "city": "Chur",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Region Ost",
-      "participation_max": 30,
-      "registered": 26,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100436",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
       "key": "101013",
       "category": "Brevet Basis Pool",
       "city": "Magglingen/Macolin",
@@ -507,20 +493,6 @@
       "lng": null
     },
     {
-      "key": "100438",
-      "category": "WK Expert See",
-      "city": "",
-      "first_date": "2026-09-27",
-      "last_date": "2026-09-27",
-      "company": "SLRG Region Ost",
-      "participation_max": 20,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100438",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103522",
       "category": "Brevet Plus Pool",
       "city": "Plan-les-Ouates",
@@ -533,20 +505,6 @@
       "canton": "GE",
       "lat": 46.16372299194336,
       "lng": 6.119792938232422
-    },
-    {
-      "key": "103811",
-      "category": "WK Expert Fluss",
-      "city": "Vessy",
-      "first_date": "2026-09-27",
-      "last_date": "2026-09-27",
-      "company": "SSS Région Romande",
-      "participation_max": 4,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103811",
-      "canton": "GE",
-      "lat": 46.178306579589844,
-      "lng": 6.16977071762085
     },
     {
       "key": "104061",
@@ -1213,8 +1171,8 @@
       "first_date": "2026-10-08",
       "last_date": "2026-10-08",
       "company": "SLRG Oberwallis",
-      "participation_max": 2,
-      "registered": 2,
+      "participation_max": 3,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101557",
       "canton": null,
       "lat": null,
@@ -1227,8 +1185,8 @@
       "first_date": "2026-10-08",
       "last_date": "2026-10-08",
       "company": "SLRG Oberwallis",
-      "participation_max": 11,
-      "registered": 11,
+      "participation_max": 12,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101559",
       "canton": null,
       "lat": null,
@@ -2306,7 +2264,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103958",
       "canton": null,
       "lat": null,
@@ -6814,7 +6772,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Meyrin",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103453",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -8466,7 +8424,7 @@
       "last_date": "2027-01-10",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103317",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -11161,5 +11119,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T09:00:46+0000"
+  "geocoded_at": "2026-09-27T10:00:44+0000"
 }
