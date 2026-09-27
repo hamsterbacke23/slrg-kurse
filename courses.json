@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27T07:02:45+0000",
-  "count": 800,
+  "scraped_at": "2026-09-27T08:01:03+0000",
+  "count": 799,
   "courses": [
     {
       "key": "102540",
@@ -1079,20 +1079,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102151",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-10-04",
-      "last_date": "2026-10-04",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102151",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
     },
     {
       "key": "102967",
@@ -7738,7 +7724,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104060",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -8914,7 +8900,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103499",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11203,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T07:02:45+0000"
+  "geocoded_at": "2026-09-27T08:01:03+0000"
 }
