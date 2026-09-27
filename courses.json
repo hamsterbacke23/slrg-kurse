@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27T08:01:03+0000",
-  "count": 799,
+  "scraped_at": "2026-09-27T09:00:46+0000",
+  "count": 797,
   "courses": [
     {
       "key": "102540",
@@ -337,34 +337,6 @@
       "canton": "LU",
       "lat": 46.82255935668945,
       "lng": 8.033738136291504
-    },
-    {
-      "key": "100433",
-      "category": "WK Modul SLRG",
-      "city": "Chur",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Region Ost",
-      "participation_max": 30,
-      "registered": 26,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100433",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
-      "key": "100434",
-      "category": "WK Modul Methodik",
-      "city": "Chur",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Region Ost",
-      "participation_max": 30,
-      "registered": 27,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100434",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
     },
     {
       "key": "100436",
@@ -2922,7 +2894,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
       "canton": null,
       "lat": null,
@@ -7724,7 +7696,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104060",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -11189,5 +11161,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T08:01:03+0000"
+  "geocoded_at": "2026-09-27T09:00:46+0000"
 }
