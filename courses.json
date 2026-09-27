@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-27T17:00:41+0000",
+  "scraped_at": "2026-09-27T18:01:15+0000",
   "count": 796,
   "courses": [
     {
@@ -2292,7 +2292,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103958",
       "canton": null,
       "lat": null,
@@ -4742,7 +4742,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100258",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -11147,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T17:00:41+0000"
+  "geocoded_at": "2026-09-27T18:01:15+0000"
 }
