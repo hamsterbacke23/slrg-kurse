@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-27T20:01:03+0000",
-  "count": 796,
+  "scraped_at": "2026-09-27T21:00:58+0000",
+  "count": 791,
   "courses": [
     {
       "key": "102540",
@@ -255,20 +255,6 @@
       "lng": 8.431046485900879
     },
     {
-      "key": "103304",
-      "category": "Brevet Pro Pool",
-      "city": "Porrentruy",
-      "first_date": "2026-09-19",
-      "last_date": "2026-09-20",
-      "company": "SSS Porrentruy",
-      "participation_max": 16,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103304",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
       "key": "103489",
       "category": "Modul BLS-AED",
       "city": "Schaffhausen",
@@ -407,62 +393,6 @@
       "canton": "BE",
       "lat": 47.140377044677734,
       "lng": 7.206460952758789
-    },
-    {
-      "key": "102086",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Emmental",
-      "participation_max": 7,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102086",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102087",
-      "category": "WK Pool Basis",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Emmental",
-      "participation_max": 2,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102087",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
-      "key": "102088",
-      "category": "WK Pool Plus",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Emmental",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102088",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
-      "key": "102089",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Emmental",
-      "participation_max": 6,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102089",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102629",
@@ -4238,7 +4168,7 @@
       "last_date": "2026-11-12",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100876",
       "canton": null,
       "lat": null,
@@ -4252,7 +4182,7 @@
       "last_date": "2026-11-12",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100877",
       "canton": null,
       "lat": null,
@@ -4266,7 +4196,7 @@
       "last_date": "2026-11-12",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100878",
       "canton": null,
       "lat": null,
@@ -8746,7 +8676,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104047",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11147,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-27T20:01:03+0000"
+  "geocoded_at": "2026-09-27T21:00:58+0000"
 }
