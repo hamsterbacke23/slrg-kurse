@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-28T15:01:01+0000",
-  "count": 791,
+  "scraped_at": "2026-09-28T16:00:55+0000",
+  "count": 790,
   "courses": [
     {
       "key": "102540",
@@ -878,7 +878,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -3307,20 +3307,6 @@
       "lng": 8.046090126037598
     },
     {
-      "key": "102697",
-      "category": "Brevet Basis Pool",
-      "city": "Les Acacias",
-      "first_date": "2026-10-27",
-      "last_date": "2026-11-17",
-      "company": "SSS Genève",
-      "participation_max": 36,
-      "registered": 36,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
-      "canton": "NE",
-      "lat": 47.0006217956543,
-      "lng": 6.92034387588501
-    },
-    {
       "key": "103344",
       "category": "Modul BLS-AED",
       "city": "Dietlikon",
@@ -4910,7 +4896,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103629",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6422,7 +6408,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103793",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7318,7 +7304,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98762",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -9096,7 +9082,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99102",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -9110,7 +9096,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99103",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -9124,7 +9110,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99105",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -9138,7 +9124,7 @@
       "last_date": "2027-03-06",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99106",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11077,5 +11063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-28T15:01:01+0000"
+  "geocoded_at": "2026-09-28T16:00:55+0000"
 }
