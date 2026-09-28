@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-28T11:00:45+0000",
+  "scraped_at": "2026-09-28T12:01:15+0000",
   "count": 790,
   "courses": [
     {
@@ -1242,7 +1242,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101973",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -3678,7 +3678,7 @@
       "last_date": "2026-10-31",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101244",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -4098,7 +4098,7 @@
       "last_date": "2026-11-12",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100877",
       "canton": null,
       "lat": null,
@@ -4504,7 +4504,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103950",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -5148,7 +5148,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99345",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -6016,7 +6016,7 @@
       "last_date": "2026-11-18",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103952",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -6030,7 +6030,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100142",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -11063,5 +11063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-28T11:00:45+0000"
+  "geocoded_at": "2026-09-28T12:01:15+0000"
 }
