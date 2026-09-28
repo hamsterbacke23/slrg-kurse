@@ -1,21 +1,7 @@
 {
-  "scraped_at": "2026-09-28T18:01:28+0000",
-  "count": 791,
+  "scraped_at": "2026-09-28T19:01:05+0000",
+  "count": 790,
   "courses": [
-    {
-      "key": "104080",
-      "category": "WK See",
-      "city": "",
-      "first_date": "2019-05-26",
-      "last_date": "2019-05-26",
-      "company": "SLRG Aarau",
-      "participation_max": 1,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104080",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
     {
       "key": "102540",
       "category": "Modul Methodik",
@@ -1144,7 +1130,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -3146,7 +3132,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102579",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -7416,7 +7402,7 @@
       "last_date": "2027-02-11",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103801",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -7514,7 +7500,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101693",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -8886,7 +8872,7 @@
       "last_date": "2027-02-13",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101669",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -9712,7 +9698,7 @@
       "last_date": "2027-04-24",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101673",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11077,5 +11063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-28T18:01:29+0000"
+  "geocoded_at": "2026-09-28T19:01:05+0000"
 }
