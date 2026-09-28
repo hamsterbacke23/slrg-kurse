@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-28T19:01:05+0000",
+  "scraped_at": "2026-09-28T20:01:00+0000",
   "count": 790,
   "courses": [
     {
@@ -472,7 +472,7 @@
       "last_date": "2026-09-28",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103969",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -878,7 +878,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 24,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -2586,7 +2586,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
       "canton": null,
       "lat": null,
@@ -2670,7 +2670,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100822",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -3566,7 +3566,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102359",
       "canton": "AG",
       "lat": 47.271732330322266,
@@ -3804,7 +3804,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103279",
       "canton": "ZH",
       "lat": 47.62740707397461,
@@ -11063,5 +11063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-28T19:01:05+0000"
+  "geocoded_at": "2026-09-28T20:01:00+0000"
 }
