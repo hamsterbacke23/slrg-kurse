@@ -1,7 +1,21 @@
 {
-  "scraped_at": "2026-09-28T16:00:55+0000",
-  "count": 790,
+  "scraped_at": "2026-09-28T17:00:52+0000",
+  "count": 791,
   "courses": [
+    {
+      "key": "104080",
+      "category": "WK See",
+      "city": "",
+      "first_date": "2019-05-26",
+      "last_date": "2019-05-26",
+      "company": "SLRG Aarau",
+      "participation_max": 1,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104080",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
     {
       "key": "102540",
       "category": "Modul Methodik",
@@ -4532,7 +4546,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99416",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -9320,7 +9334,7 @@
       "last_date": "2027-03-20",
       "company": "SLRG Illnau-Effretikon",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103835",
       "canton": null,
       "lat": null,
@@ -11063,5 +11077,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-28T16:00:55+0000"
+  "geocoded_at": "2026-09-28T17:00:52+0000"
 }
