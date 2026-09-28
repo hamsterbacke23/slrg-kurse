@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-28T10:01:57+0000",
+  "scraped_at": "2026-09-28T11:00:45+0000",
   "count": 790,
   "courses": [
     {
@@ -416,7 +416,7 @@
       "last_date": "2026-12-21",
       "company": "SSS La Côte",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103185",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -4812,7 +4812,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102538",
       "canton": null,
       "lat": null,
@@ -7304,7 +7304,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98762",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -11063,5 +11063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-28T10:01:57+0000"
+  "geocoded_at": "2026-09-28T11:00:45+0000"
 }
