@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-28T08:06:04+0000",
-  "count": 793,
+  "scraped_at": "2026-09-28T09:04:16+0000",
+  "count": 792,
   "courses": [
     {
       "key": "102540",
@@ -1289,20 +1289,6 @@
       "canton": "VD",
       "lat": 46.47169876098633,
       "lng": 6.87440824508667
-    },
-    {
-      "key": "102977",
-      "category": "Brevet Basis Pool",
-      "city": "Weggis",
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-10",
-      "company": "SLRG Emmental",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102977",
-      "canton": "LU",
-      "lat": 47.03305435180664,
-      "lng": 8.431046485900879
     },
     {
       "key": "103421",
@@ -2824,7 +2810,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102879",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -3482,7 +3468,7 @@
       "last_date": "2026-10-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103657",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4364,7 +4350,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103214",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4462,7 +4448,7 @@
       "last_date": "2026-11-05",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103660",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4700,7 +4686,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101683",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -4728,7 +4714,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101724",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -5232,7 +5218,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103882",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -5246,7 +5232,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103883",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -7346,7 +7332,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98762",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -11105,5 +11091,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-28T08:06:04+0000"
+  "geocoded_at": "2026-09-28T09:04:16+0000"
 }
