@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T13:05:01+0000",
+  "scraped_at": "2026-09-29T14:01:06+0000",
   "count": 787,
   "courses": [
     {
@@ -2011,7 +2011,7 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-20",
       "company": "SSS Genève",
-      "participation_max": 12,
+      "participation_max": 24,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
@@ -2656,7 +2656,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101668",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -6394,7 +6394,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104079",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -6562,7 +6562,7 @@
       "last_date": "2026-12-08",
       "company": "SSS Genève",
       "participation_max": 20,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102698",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -9670,7 +9670,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11021,5 +11021,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T13:05:01+0000"
+  "geocoded_at": "2026-09-29T14:01:06+0000"
 }
