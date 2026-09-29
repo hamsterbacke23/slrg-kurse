@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T18:00:57+0000",
+  "scraped_at": "2026-09-29T19:00:59+0000",
   "count": 785,
   "courses": [
     {
@@ -1760,7 +1760,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -2068,7 +2068,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103958",
       "canton": null,
       "lat": null,
@@ -3748,7 +3748,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103313",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -9992,7 +9992,7 @@
       "last_date": "2027-06-05",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103655",
       "canton": null,
       "lat": null,
@@ -10993,5 +10993,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T18:00:57+0000"
+  "geocoded_at": "2026-09-29T19:00:59+0000"
 }
