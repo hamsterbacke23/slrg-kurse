@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29T11:00:53+0000",
-  "count": 786,
+  "scraped_at": "2026-09-29T12:01:12+0000",
+  "count": 788,
   "courses": [
     {
       "key": "102540",
@@ -465,6 +465,20 @@
       "lng": 8.613987922668457
     },
     {
+      "key": "102297",
+      "category": "Modul BLS-AED",
+      "city": "Fribourg",
+      "first_date": "2026-09-30",
+      "last_date": "2026-09-30",
+      "company": "SSS Fribourg",
+      "participation_max": 8,
+      "registered": 8,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102297",
+      "canton": "FR",
+      "lat": 46.80337142944336,
+      "lng": 7.161778926849365
+    },
+    {
       "key": "103018",
       "category": "Modul BLS-AED",
       "city": "Allschwil",
@@ -516,6 +530,20 @@
       "participation_max": 6,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103678",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104182",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-10-01",
+      "last_date": "2026-10-01",
+      "company": "SLRG - SSS",
+      "participation_max": 2,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104182",
       "canton": null,
       "lat": null,
       "lng": null
@@ -8536,7 +8564,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104037",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11007,5 +11035,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T11:00:53+0000"
+  "geocoded_at": "2026-09-29T12:01:12+0000"
 }
