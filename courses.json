@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29T08:01:29+0000",
-  "count": 789,
+  "scraped_at": "2026-09-29T09:01:16+0000",
+  "count": 786,
   "courses": [
     {
       "key": "102540",
@@ -339,34 +339,6 @@
       "lng": 8.033738136291504
     },
     {
-      "key": "100433",
-      "category": "WK Modul SLRG",
-      "city": "Chur",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Region Ost",
-      "participation_max": 30,
-      "registered": 28,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100433",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
-      "key": "100434",
-      "category": "WK Modul Methodik",
-      "city": "Chur",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Region Ost",
-      "participation_max": 30,
-      "registered": 28,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100434",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
       "key": "102629",
       "category": "WK BLS-AED",
       "city": "",
@@ -463,20 +435,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103969",
-      "category": "Modul BLS-AED",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-09-28",
-      "last_date": "2026-09-28",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103969",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
     },
     {
       "key": "99436",
@@ -1886,7 +1844,7 @@
       "last_date": "2026-10-18",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103837",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -2558,7 +2516,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103957",
       "canton": null,
       "lat": null,
@@ -4896,7 +4854,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103630",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6912,7 +6870,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Sektion Bern",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102870",
       "canton": null,
       "lat": null,
@@ -7290,7 +7248,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98762",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -7766,7 +7724,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99391",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11049,5 +11007,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T08:01:29+0000"
+  "geocoded_at": "2026-09-29T09:01:16+0000"
 }
