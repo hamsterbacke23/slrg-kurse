@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T09:01:16+0000",
+  "scraped_at": "2026-09-29T10:00:57+0000",
   "count": 786,
   "courses": [
     {
@@ -3006,7 +3006,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103305",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -4826,7 +4826,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4854,7 +4854,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103630",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -11007,5 +11007,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T09:01:16+0000"
+  "geocoded_at": "2026-09-29T10:00:57+0000"
 }
