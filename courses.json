@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T05:01:02+0000",
+  "scraped_at": "2026-09-29T06:01:00+0000",
   "count": 790,
   "courses": [
     {
@@ -556,7 +556,7 @@
       "last_date": "2026-10-01",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103678",
       "canton": null,
       "lat": null,
@@ -626,7 +626,7 @@
       "last_date": "2026-10-03",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99937",
       "canton": null,
       "lat": null,
@@ -2586,7 +2586,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
       "canton": null,
       "lat": null,
@@ -6702,7 +6702,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103894",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -7276,7 +7276,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103893",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -8452,7 +8452,7 @@
       "last_date": "2027-02-02",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102699",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11063,5 +11063,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T05:01:02+0000"
+  "geocoded_at": "2026-09-29T06:01:00+0000"
 }
