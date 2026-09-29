@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29T14:01:06+0000",
-  "count": 787,
+  "scraped_at": "2026-09-29T15:01:06+0000",
+  "count": 785,
   "courses": [
     {
       "key": "102540",
@@ -409,20 +409,6 @@
       "lng": 6.202526569366455
     },
     {
-      "key": "103246",
-      "category": "Brevet Pro Pool",
-      "city": "Sion",
-      "first_date": "2026-09-28",
-      "last_date": "2026-10-08",
-      "company": "SSS Sion",
-      "participation_max": 16,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103246",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
       "key": "103963",
       "category": "Modul See",
       "city": "",
@@ -435,20 +421,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "99436",
-      "category": "Modul BLS-AED",
-      "city": "Aarau",
-      "first_date": "2026-09-29",
-      "last_date": "2026-09-29",
-      "company": "SLRG Aarau",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99436",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
     },
     {
       "key": "103347",
@@ -2012,7 +1984,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -11021,5 +10993,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T14:01:06+0000"
+  "geocoded_at": "2026-09-29T15:01:06+0000"
 }
