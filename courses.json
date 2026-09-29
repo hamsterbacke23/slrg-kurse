@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29T06:01:00+0000",
-  "count": 790,
+  "scraped_at": "2026-09-29T07:08:36+0000",
+  "count": 789,
   "courses": [
     {
       "key": "102540",
@@ -633,20 +633,6 @@
       "lng": null
     },
     {
-      "key": "100219",
-      "category": "Brevet Basis Pool",
-      "city": "Chur",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "SLRG Chur",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100219",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
       "key": "101297",
       "category": "WK BLS-AED",
       "city": "Arbon",
@@ -752,7 +738,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4210,7 +4196,7 @@
       "last_date": "2026-11-02",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103659",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4896,7 +4882,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103629",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6212,7 +6198,7 @@
       "last_date": "2026-11-27",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103953",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -6786,7 +6772,7 @@
       "last_date": "2026-11-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99938",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -7262,7 +7248,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103807",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11063,5 +11049,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T06:01:00+0000"
+  "geocoded_at": "2026-09-29T07:08:36+0000"
 }
