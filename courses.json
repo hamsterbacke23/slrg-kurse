@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T15:01:06+0000",
+  "scraped_at": "2026-09-29T16:01:04+0000",
   "count": 785,
   "courses": [
     {
@@ -2264,7 +2264,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103962",
       "canton": null,
       "lat": null,
@@ -2488,7 +2488,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103955",
       "canton": null,
       "lat": null,
@@ -4434,7 +4434,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103950",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -5946,7 +5946,7 @@
       "last_date": "2026-11-18",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103952",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -6142,7 +6142,7 @@
       "last_date": "2026-11-27",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103953",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -10993,5 +10993,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-29T15:01:06+0000"
+  "geocoded_at": "2026-09-29T16:01:04+0000"
 }
