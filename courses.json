@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-30T17:00:56+0000",
-  "count": 781,
+  "scraped_at": "2026-09-30T18:00:57+0000",
+  "count": 780,
   "courses": [
     {
       "key": "102540",
@@ -2054,7 +2054,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103959",
       "canton": null,
       "lat": null,
@@ -2185,20 +2185,6 @@
       "canton": "SZ",
       "lat": 47.19688415527344,
       "lng": 8.854327201843262
-    },
-    {
-      "key": "103881",
-      "category": "Jugendbrevet",
-      "city": "Colombier NE",
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "company": "SSS Section de Boudry",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103881",
-      "canton": "NE",
-      "lat": 46.96678161621094,
-      "lng": 6.859889030456543
     },
     {
       "key": "103956",
@@ -2740,7 +2726,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103256",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -3510,7 +3496,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100109",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -5848,7 +5834,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Winterthur",
       "participation_max": 4,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99341",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -7668,7 +7654,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99391",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7682,7 +7668,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99397",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7696,7 +7682,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99403",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10937,5 +10923,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T17:00:56+0000"
+  "geocoded_at": "2026-09-30T18:00:57+0000"
 }
