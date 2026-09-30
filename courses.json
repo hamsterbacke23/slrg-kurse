@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T08:01:13+0000",
+  "scraped_at": "2026-09-30T09:01:02+0000",
   "count": 778,
   "courses": [
     {
@@ -458,7 +458,7 @@
       "last_date": "2026-10-09",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103551",
       "canton": null,
       "lat": null,
@@ -2824,7 +2824,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103464",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3258,7 +3258,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103026",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -4616,7 +4616,7 @@
       "last_date": "2026-11-28",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101980",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -6422,7 +6422,7 @@
       "last_date": "2026-12-07",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103613",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -7794,7 +7794,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103860",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -10895,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T08:01:13+0000"
+  "geocoded_at": "2026-09-30T09:01:02+0000"
 }
