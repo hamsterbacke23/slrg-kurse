@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-30T16:01:03+0000",
-  "count": 782,
+  "scraped_at": "2026-09-30T17:00:56+0000",
+  "count": 781,
   "courses": [
     {
       "key": "102540",
@@ -351,20 +351,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103438",
-      "category": "WK BLS-AED",
-      "city": "Nidau",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Bielersee",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103438",
-      "canton": "BE",
-      "lat": 47.12384033203125,
-      "lng": 7.239261627197266
     },
     {
       "key": "104116",
@@ -2054,7 +2040,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103958",
       "canton": null,
       "lat": null,
@@ -7122,7 +7108,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99999",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -10951,5 +10937,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T16:01:03+0000"
+  "geocoded_at": "2026-09-30T17:00:56+0000"
 }
