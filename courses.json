@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-30T06:01:22+0000",
-  "count": 779,
+  "scraped_at": "2026-09-30T07:08:21+0000",
+  "count": 778,
   "courses": [
     {
       "key": "102540",
@@ -26,20 +26,6 @@
       "participation_max": 12,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103064",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100347",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100347",
       "canton": null,
       "lat": null,
       "lng": null
@@ -1046,7 +1032,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -1214,7 +1200,7 @@
       "last_date": "2026-10-11",
       "company": "SLRG Emmental",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102988",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -2460,7 +2446,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103955",
       "canton": null,
       "lat": null,
@@ -2474,7 +2460,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103957",
       "canton": null,
       "lat": null,
@@ -2894,7 +2880,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103879",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4476,7 +4462,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Appenzell",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100255",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -5512,7 +5498,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -5680,7 +5666,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 14,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103310",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -9558,7 +9544,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -10909,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T06:01:22+0000"
+  "geocoded_at": "2026-09-30T07:08:21+0000"
 }
