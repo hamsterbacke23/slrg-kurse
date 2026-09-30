@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T10:01:00+0000",
+  "scraped_at": "2026-09-30T11:00:57+0000",
   "count": 783,
   "courses": [
     {
@@ -2740,7 +2740,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102879",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -4140,7 +4140,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103328",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -8228,7 +8228,7 @@
       "last_date": "2027-01-10",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103317",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -10965,5 +10965,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T10:01:01+0000"
+  "geocoded_at": "2026-09-30T11:00:57+0000"
 }
