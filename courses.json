@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-30T05:00:54+0000",
-  "count": 784,
+  "scraped_at": "2026-09-30T06:01:22+0000",
+  "count": 779,
   "courses": [
     {
       "key": "102540",
@@ -1177,20 +1177,6 @@
       "canton": "VS",
       "lat": 46.1070442199707,
       "lng": 7.100466251373291
-    },
-    {
-      "key": "102152",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-10",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102152",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
     },
     {
       "key": "103421",
@@ -4931,20 +4917,6 @@
       "lng": 7.718348503112793
     },
     {
-      "key": "102153",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-11-08",
-      "last_date": "2026-11-08",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102153",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
-    },
-    {
       "key": "102191",
       "category": "WK Pool Plus",
       "city": "Cossonay-Ville",
@@ -6519,8 +6491,8 @@
       "first_date": "2026-11-24",
       "last_date": "2026-12-08",
       "company": "SSS Genève",
-      "participation_max": 20,
-      "registered": 20,
+      "participation_max": 24,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102698",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -6959,20 +6931,6 @@
       "canton": "ZH",
       "lat": 47.42878341674805,
       "lng": 8.573216438293457
-    },
-    {
-      "key": "102154",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-11-29",
-      "last_date": "2026-11-29",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102154",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
     },
     {
       "key": "103315",
@@ -7479,20 +7437,6 @@
       "lng": 7.284480571746826
     },
     {
-      "key": "102155",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-12-06",
-      "last_date": "2026-12-06",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102155",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
-    },
-    {
       "key": "102159",
       "category": "WK Pool Plus",
       "city": "St-Légier-La Chiésaz",
@@ -7855,20 +7799,6 @@
       "canton": "VS",
       "lat": 46.1070442199707,
       "lng": 7.100466251373291
-    },
-    {
-      "key": "102156",
-      "category": "Brevet Basis Pool",
-      "city": "St-Légier-La Chiésaz",
-      "first_date": "2026-12-12",
-      "last_date": "2026-12-12",
-      "company": "Swimsports",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102156",
-      "canton": "VD",
-      "lat": 46.47169876098633,
-      "lng": 6.87440824508667
     },
     {
       "key": "103860",
@@ -10979,5 +10909,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T05:00:54+0000"
+  "geocoded_at": "2026-09-30T06:01:22+0000"
 }
