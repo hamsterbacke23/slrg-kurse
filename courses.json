@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T15:01:59+0000",
+  "scraped_at": "2026-09-30T16:01:03+0000",
   "count": 782,
   "courses": [
     {
@@ -640,7 +640,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4826,7 +4826,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -10636,7 +10636,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99112",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -10650,7 +10650,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -10664,7 +10664,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99114",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -10678,7 +10678,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99115",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -10951,5 +10951,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T15:01:59+0000"
+  "geocoded_at": "2026-09-30T16:01:03+0000"
 }
