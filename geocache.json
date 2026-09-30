@@ -138,6 +138,12 @@
     "lat": 46.954559326171875,
     "lng": 7.420684814453125
   },
+  "Bernex": {
+    "canton": "GE",
+    "label": "Bernex (GE)",
+    "lat": 46.180213928222656,
+    "lng": 6.0699896812438965
+  },
   "Biasca": {
     "canton": "TI",
     "label": "Biasca (TI)",

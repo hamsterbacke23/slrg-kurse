@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-30T09:01:02+0000",
-  "count": 778,
+  "scraped_at": "2026-09-30T10:01:00+0000",
+  "count": 783,
   "courses": [
     {
       "key": "102540",
@@ -766,7 +766,7 @@
       "last_date": "2026-10-04",
       "company": "SSS La Côte",
       "participation_max": 36,
-      "registered": 34,
+      "registered": 35,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100566",
       "canton": "GE",
       "lat": 46.18354034423828,
@@ -1389,6 +1389,20 @@
       "lng": 7.6857829093933105
     },
     {
+      "key": "104007",
+      "category": "WK BLS-AED",
+      "city": "Mels",
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "company": "SLRG Sarganserland",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104007",
+      "canton": "SG",
+      "lat": 47.00428009033203,
+      "lng": 9.317394256591797
+    },
+    {
       "key": "104087",
       "category": "WK Pool Plus",
       "city": "",
@@ -1538,6 +1552,34 @@
       "participation_max": 12,
       "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103766",
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
+    },
+    {
+      "key": "104178",
+      "category": "WK Pool Plus",
+      "city": "Weggis",
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "company": "SLRG Küssnacht am Rigi",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104178",
+      "canton": "LU",
+      "lat": 47.03305435180664,
+      "lng": 8.431046485900879
+    },
+    {
+      "key": "104179",
+      "category": "WK Pool Basis",
+      "city": "Weggis",
+      "first_date": "2026-10-16",
+      "last_date": "2026-10-16",
+      "company": "SLRG Küssnacht am Rigi",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104179",
       "canton": "LU",
       "lat": 47.03305435180664,
       "lng": 8.431046485900879
@@ -2227,6 +2269,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104173",
+      "category": "Brevet Basis Pool",
+      "city": "Muttenz",
+      "first_date": "2026-10-21",
+      "last_date": "2026-11-04",
+      "company": "SLRG Sektion Muttenz",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104173",
+      "canton": "BL",
+      "lat": 47.52326583862305,
+      "lng": 7.6465020179748535
     },
     {
       "key": "99298",
@@ -4399,6 +4455,20 @@
       "lng": 7.100466251373291
     },
     {
+      "key": "104183",
+      "category": "Jugendbrevet",
+      "city": "Bernex",
+      "first_date": "2026-11-06",
+      "last_date": "2026-11-27",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104183",
+      "canton": "GE",
+      "lat": 46.180213928222656,
+      "lng": 6.0699896812438965
+    },
+    {
       "key": "99409",
       "category": "WK Pool Plus",
       "city": "Aarau",
@@ -4574,7 +4644,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101724",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -4798,7 +4868,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103630",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4924,7 +4994,7 @@
       "last_date": "2026-11-08",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102193",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -6884,7 +6954,7 @@
       "last_date": "2026-11-29",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100694",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -10895,5 +10965,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T09:01:02+0000"
+  "geocoded_at": "2026-09-30T10:01:01+0000"
 }
