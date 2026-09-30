@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-30T13:06:35+0000",
-  "count": 783,
+  "scraped_at": "2026-09-30T14:01:13+0000",
+  "count": 782,
   "courses": [
     {
       "key": "102540",
@@ -421,20 +421,6 @@
       "canton": "FR",
       "lat": 46.80337142944336,
       "lng": 7.161778926849365
-    },
-    {
-      "key": "103018",
-      "category": "Modul BLS-AED",
-      "city": "Allschwil",
-      "first_date": "2026-09-30",
-      "last_date": "2026-09-30",
-      "company": "SLRG Basel",
-      "participation_max": 11,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103018",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
     },
     {
       "key": "103490",
@@ -2614,7 +2600,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100822",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -10965,5 +10951,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T13:06:35+0000"
+  "geocoded_at": "2026-09-30T14:01:13+0000"
 }
