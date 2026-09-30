@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T04:01:06+0000",
+  "scraped_at": "2026-09-30T05:00:54+0000",
   "count": 784,
   "courses": [
     {
@@ -3804,7 +3804,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103898",
       "canton": null,
       "lat": null,
@@ -10979,5 +10979,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T04:01:06+0000"
+  "geocoded_at": "2026-09-30T05:00:54+0000"
 }
