@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-30T07:08:21+0000",
+  "scraped_at": "2026-09-30T08:01:13+0000",
   "count": 778,
   "courses": [
     {
@@ -1130,7 +1130,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101971",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -1284,7 +1284,7 @@
       "last_date": "2026-10-13",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103348",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2698,7 +2698,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -5498,7 +5498,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -10895,5 +10895,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-09-30T07:08:21+0000"
+  "geocoded_at": "2026-09-30T08:01:13+0000"
 }
