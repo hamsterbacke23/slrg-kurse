@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-01T18:01:28+0000",
-  "count": 800,
+  "scraped_at": "2026-10-01T19:00:45+0000",
+  "count": 801,
   "courses": [
     {
       "key": "102540",
@@ -682,7 +682,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 24,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -715,6 +715,20 @@
       "canton": "BL",
       "lat": 47.54563903808594,
       "lng": 7.536828994750977
+    },
+    {
+      "key": "103326",
+      "category": "WK Pool Plus",
+      "city": "Lausanne",
+      "first_date": "2026-10-05",
+      "last_date": "2026-10-05",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 19,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103326",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
     },
     {
       "key": "103420",
@@ -1970,7 +1984,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103958",
       "canton": null,
       "lat": null,
@@ -3762,7 +3776,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -11203,5 +11217,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-01T18:01:28+0000"
+  "geocoded_at": "2026-10-01T19:00:45+0000"
 }
