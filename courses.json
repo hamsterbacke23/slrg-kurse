@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T07:09:02+0000",
+  "scraped_at": "2026-10-01T08:01:09+0000",
   "count": 799,
   "courses": [
     {
@@ -1172,7 +1172,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103463",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1326,7 +1326,7 @@
       "last_date": "2026-10-14",
       "company": "SLRG Sarganserland",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104007",
       "canton": "SG",
       "lat": 47.00428009033203,
@@ -11189,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-01T07:09:02+0000"
+  "geocoded_at": "2026-10-01T08:01:09+0000"
 }
