@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-01T20:01:21+0000",
-  "count": 801,
+  "scraped_at": "2026-10-01T21:00:53+0000",
+  "count": 800,
   "courses": [
     {
       "key": "102540",
@@ -225,20 +225,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "99553",
-      "category": "Modul BLS-AED",
-      "city": "Zürich",
-      "first_date": "2026-09-24",
-      "last_date": "2026-10-01",
-      "company": "SLRG Höngg",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99553",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
     },
     {
       "key": "103289",
@@ -2138,7 +2124,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103956",
       "canton": null,
       "lat": null,
@@ -2152,7 +2138,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103961",
       "canton": null,
       "lat": null,
@@ -2166,7 +2152,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103962",
       "canton": null,
       "lat": null,
@@ -2264,7 +2250,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103578",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2432,7 +2418,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
       "canton": null,
       "lat": null,
@@ -3440,7 +3426,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Ermatingen",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100109",
       "canton": "TG",
       "lat": 47.655548095703125,
@@ -3789,8 +3775,8 @@
       "first_date": "2026-11-01",
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 13,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
       "canton": null,
       "lat": null,
@@ -8102,7 +8088,7 @@
       "last_date": "2027-01-08",
       "company": "SLRG Pfäffikon",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103595",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -11217,5 +11203,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-01T20:01:21+0000"
+  "geocoded_at": "2026-10-01T21:00:53+0000"
 }
