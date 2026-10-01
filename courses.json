@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-01T04:01:56+0000",
-  "count": 777,
+  "scraped_at": "2026-10-01T05:00:54+0000",
+  "count": 799,
   "courses": [
     {
       "key": "102540",
@@ -5134,7 +5134,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Romont",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103861",
       "canton": null,
       "lat": null,
@@ -5792,7 +5792,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Winterthur",
       "participation_max": 4,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99341",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -8081,6 +8081,34 @@
       "lng": 8.613987922668457
     },
     {
+      "key": "103684",
+      "category": "Brevet Basis Pool",
+      "city": "Zürich",
+      "first_date": "2027-01-07",
+      "last_date": "2027-02-04",
+      "company": "SLRG Höngg",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103684",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103729",
+      "category": "WK BLS-AED",
+      "city": "Zürich",
+      "first_date": "2027-01-07",
+      "last_date": "2027-01-07",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103729",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
       "key": "103595",
       "category": "WK BLS-AED",
       "city": "Pfäffikon ZH",
@@ -8641,6 +8669,34 @@
       "lng": 7.751997470855713
     },
     {
+      "key": "103689",
+      "category": "WK Pool Basis",
+      "city": "Zürich",
+      "first_date": "2027-02-11",
+      "last_date": "2027-02-11",
+      "company": "SLRG Höngg",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103689",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103693",
+      "category": "WK Pool Plus",
+      "city": "Zürich",
+      "first_date": "2027-02-11",
+      "last_date": "2027-02-11",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103693",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
       "key": "103901",
       "category": "Modul BLS-AED",
       "city": "Adliswil",
@@ -9033,6 +9089,20 @@
       "lng": 8.573216438293457
     },
     {
+      "key": "103727",
+      "category": "Modul BLS-AED",
+      "city": "Zürich",
+      "first_date": "2027-03-11",
+      "last_date": "2027-03-18",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103727",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
       "key": "103832",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -9199,6 +9269,20 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
+    },
+    {
+      "key": "103687",
+      "category": "Brevet Plus Pool",
+      "city": "Zürich",
+      "first_date": "2027-04-01",
+      "last_date": "2027-04-29",
+      "company": "SLRG Höngg",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103687",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
     },
     {
       "key": "103981",
@@ -9649,6 +9733,34 @@
       "lng": 9.425399780273438
     },
     {
+      "key": "103690",
+      "category": "WK Pool Basis",
+      "city": "Zürich",
+      "first_date": "2027-05-13",
+      "last_date": "2027-05-13",
+      "company": "SLRG Höngg",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103690",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103694",
+      "category": "WK Pool Plus",
+      "city": "Zürich",
+      "first_date": "2027-05-13",
+      "last_date": "2027-05-13",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103694",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
       "key": "103708",
       "category": "Modul See",
       "city": "Arbon",
@@ -9703,6 +9815,20 @@
       "canton": "TG",
       "lat": 47.51548385620117,
       "lng": 9.425399780273438
+    },
+    {
+      "key": "103731",
+      "category": "WK BLS-AED",
+      "city": "Zürich",
+      "first_date": "2027-05-20",
+      "last_date": "2027-05-20",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103731",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
     },
     {
       "key": "103512",
@@ -10083,6 +10209,34 @@
       "lng": 9.425399780273438
     },
     {
+      "key": "103723",
+      "category": "Modul See",
+      "city": "Zürich",
+      "first_date": "2027-06-19",
+      "last_date": "2027-06-19",
+      "company": "SLRG Höngg",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103723",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103725",
+      "category": "WK See",
+      "city": "Zürich",
+      "first_date": "2027-06-19",
+      "last_date": "2027-06-19",
+      "company": "SLRG Höngg",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103725",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
       "key": "103986",
       "category": "Brevet Basis Pool",
       "city": "Zürich",
@@ -10223,6 +10377,34 @@
       "lng": 8.525269508361816
     },
     {
+      "key": "103724",
+      "category": "Modul See",
+      "city": "Zürich",
+      "first_date": "2027-08-21",
+      "last_date": "2027-08-21",
+      "company": "SLRG Höngg",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103724",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103726",
+      "category": "WK See",
+      "city": "Zürich",
+      "first_date": "2027-08-21",
+      "last_date": "2027-08-21",
+      "company": "SLRG Höngg",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103726",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
       "key": "103992",
       "category": "Brevet Basis Pool",
       "city": "Opfikon",
@@ -10277,6 +10459,20 @@
       "canton": "ZH",
       "lat": 47.42878341674805,
       "lng": 8.573216438293457
+    },
+    {
+      "key": "103685",
+      "category": "Brevet Basis Pool",
+      "city": "Zürich",
+      "first_date": "2027-08-26",
+      "last_date": "2027-09-23",
+      "company": "SLRG Höngg",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103685",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
     },
     {
       "key": "103906",
@@ -10489,6 +10685,62 @@
       "lng": 7.206460952758789
     },
     {
+      "key": "103728",
+      "category": "Modul BLS-AED",
+      "city": "Zürich",
+      "first_date": "2027-09-30",
+      "last_date": "2027-10-07",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103728",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103732",
+      "category": "WK BLS-AED",
+      "city": "Zürich",
+      "first_date": "2027-10-14",
+      "last_date": "2027-10-14",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103732",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103691",
+      "category": "WK Pool Basis",
+      "city": "Zürich",
+      "first_date": "2027-10-21",
+      "last_date": "2027-10-21",
+      "company": "SLRG Höngg",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103691",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103695",
+      "category": "WK Pool Plus",
+      "city": "Zürich",
+      "first_date": "2027-10-21",
+      "last_date": "2027-10-21",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103695",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
       "key": "104059",
       "category": "Brevet Pro Pool",
       "city": "Aarau",
@@ -10501,6 +10753,20 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
+    },
+    {
+      "key": "103688",
+      "category": "Brevet Plus Pool",
+      "city": "Zürich",
+      "first_date": "2027-10-28",
+      "last_date": "2027-11-25",
+      "company": "SLRG Höngg",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103688",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
     },
     {
       "key": "103530",
@@ -10797,6 +11063,48 @@
       "lng": 8.525269508361816
     },
     {
+      "key": "103733",
+      "category": "WK BLS-AED",
+      "city": "Zürich",
+      "first_date": "2027-12-09",
+      "last_date": "2027-12-09",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103733",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103692",
+      "category": "WK Pool Basis",
+      "city": "Zürich",
+      "first_date": "2027-12-16",
+      "last_date": "2027-12-16",
+      "company": "SLRG Höngg",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103692",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
+      "key": "103696",
+      "category": "WK Pool Plus",
+      "city": "Zürich",
+      "first_date": "2027-12-16",
+      "last_date": "2027-12-16",
+      "company": "SLRG Höngg",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103696",
+      "canton": "ZH",
+      "lat": 47.37721252441406,
+      "lng": 8.527311325073242
+    },
+    {
       "key": "103532",
       "category": "WK Pool Basis",
       "city": "Zug",
@@ -10881,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-01T04:01:56+0000"
+  "geocoded_at": "2026-10-01T05:00:54+0000"
 }
