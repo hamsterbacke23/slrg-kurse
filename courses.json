@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T05:00:54+0000",
+  "scraped_at": "2026-10-01T06:01:07+0000",
   "count": 799,
   "courses": [
     {
@@ -2152,7 +2152,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103956",
       "canton": null,
       "lat": null,
@@ -2166,7 +2166,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103961",
       "canton": null,
       "lat": null,
@@ -4812,7 +4812,7 @@
       "last_date": "2026-11-28",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103877",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -5470,7 +5470,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Lyss",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101992",
       "canton": null,
       "lat": null,
@@ -6072,7 +6072,7 @@
       "last_date": "2026-11-27",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103953",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -8172,7 +8172,7 @@
       "last_date": "2027-01-10",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103317",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -11189,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-01T05:00:54+0000"
+  "geocoded_at": "2026-10-01T06:01:07+0000"
 }
