@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T06:01:07+0000",
+  "scraped_at": "2026-10-01T07:09:02+0000",
   "count": 799,
   "courses": [
     {
@@ -1479,8 +1479,8 @@
       "first_date": "2026-10-16",
       "last_date": "2026-10-16",
       "company": "SLRG Emmental",
-      "participation_max": 12,
-      "registered": 6,
+      "participation_max": 16,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103766",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -3762,7 +3762,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -3776,7 +3776,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100589",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -3790,7 +3790,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -11189,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-01T06:01:07+0000"
+  "geocoded_at": "2026-10-01T07:09:02+0000"
 }
