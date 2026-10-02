@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02T05:01:00+0000",
-  "count": 800,
+  "scraped_at": "2026-10-02T06:01:19+0000",
+  "count": 799,
   "courses": [
     {
       "key": "102540",
@@ -703,20 +703,6 @@
       "lng": 7.536828994750977
     },
     {
-      "key": "103326",
-      "category": "WK Pool Plus",
-      "city": "Lausanne",
-      "first_date": "2026-10-05",
-      "last_date": "2026-10-05",
-      "company": "SSS Lausanne",
-      "participation_max": 20,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103326",
-      "canton": "VD",
-      "lat": 46.52865219116211,
-      "lng": 6.638521671295166
-    },
-    {
       "key": "103420",
       "category": "WK BLS-AED",
       "city": "Plan-les-Ouates",
@@ -1186,7 +1172,7 @@
       "last_date": "2026-10-13",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103348",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -1886,7 +1872,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3146,7 +3132,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103344",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -7262,7 +7248,7 @@
       "last_date": "2026-12-18",
       "company": "SSS St. Maurice",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104076",
       "canton": "VS",
       "lat": 46.196189880371094,
@@ -11203,5 +11189,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T05:01:00+0000"
+  "geocoded_at": "2026-10-02T06:01:19+0000"
 }
