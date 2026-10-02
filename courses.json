@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T16:01:10+0000",
+  "scraped_at": "2026-10-02T17:00:59+0000",
   "count": 815,
   "courses": [
     {
@@ -598,7 +598,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Val-de-Travers",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104231",
       "canton": "VD",
       "lat": 46.8245849609375,
@@ -2740,7 +2740,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103836",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -2782,7 +2782,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103965",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -7262,7 +7262,7 @@
       "last_date": "2027-02-11",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103801",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -11413,5 +11413,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T16:01:10+0000"
+  "geocoded_at": "2026-10-02T17:00:59+0000"
 }
