@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T18:01:24+0000",
+  "scraped_at": "2026-10-02T19:01:04+0000",
   "count": 814,
   "courses": [
     {
@@ -3188,7 +3188,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Monthey",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102740",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -7626,7 +7626,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99391",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7654,7 +7654,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99403",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11399,5 +11399,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T18:01:24+0000"
+  "geocoded_at": "2026-10-02T19:01:04+0000"
 }
