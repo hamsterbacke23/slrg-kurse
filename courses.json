@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02T21:01:06+0000",
-  "count": 823,
+  "scraped_at": "2026-10-02T22:01:14+0000",
+  "count": 835,
   "courses": [
     {
       "key": "102540",
@@ -346,7 +346,7 @@
       "last_date": "2026-10-02",
       "company": "SSS Riviera",
       "participation_max": 1,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104225",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -9761,6 +9761,48 @@
       "lng": 8.573216438293457
     },
     {
+      "key": "104040",
+      "category": "WK Pool Plus",
+      "city": "Aarau",
+      "first_date": "2027-05-01",
+      "last_date": "2027-05-01",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104040",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104045",
+      "category": "WK Pool Pro",
+      "city": "Aarau",
+      "first_date": "2027-05-01",
+      "last_date": "2027-05-01",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104045",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104050",
+      "category": "WK BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-05-01",
+      "last_date": "2027-05-01",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104050",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "103707",
       "category": "Modul See",
       "city": "Arbon",
@@ -10403,6 +10445,48 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "104041",
+      "category": "WK Pool Plus",
+      "city": "Aarau",
+      "first_date": "2027-06-19",
+      "last_date": "2027-06-19",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104041",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104046",
+      "category": "WK Pool Pro",
+      "city": "Aarau",
+      "first_date": "2027-06-19",
+      "last_date": "2027-06-19",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104046",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104051",
+      "category": "WK BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-06-19",
+      "last_date": "2027-06-19",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104051",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
     },
     {
       "key": "103516",
@@ -11371,6 +11455,48 @@
       "lng": 8.527311325073242
     },
     {
+      "key": "104092",
+      "category": "WK Pool Plus",
+      "city": "Aarau",
+      "first_date": "2027-12-11",
+      "last_date": "2027-12-11",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104092",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104094",
+      "category": "WK Pool Pro",
+      "city": "Aarau",
+      "first_date": "2027-12-11",
+      "last_date": "2027-12-11",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104094",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104096",
+      "category": "WK BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-12-11",
+      "last_date": "2027-12-11",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104096",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "104100",
       "category": "Brevet Basis Pool",
       "city": "Aarau",
@@ -11497,6 +11623,48 @@
       "lng": 8.521272659301758
     },
     {
+      "key": "104093",
+      "category": "WK Pool Plus",
+      "city": "Aarau",
+      "first_date": "2027-12-18",
+      "last_date": "2027-12-18",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104093",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104095",
+      "category": "WK Pool Pro",
+      "city": "Aarau",
+      "first_date": "2027-12-18",
+      "last_date": "2027-12-18",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104095",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104097",
+      "category": "WK BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-12-18",
+      "last_date": "2027-12-18",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104097",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "82542",
       "category": "Brevet Basis Pool, Modul See",
       "city": "",
@@ -11525,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T21:01:06+0000"
+  "geocoded_at": "2026-10-02T22:01:15+0000"
 }
