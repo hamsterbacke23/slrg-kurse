@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02T10:01:00+0000",
-  "count": 795,
+  "scraped_at": "2026-10-02T11:01:05+0000",
+  "count": 811,
   "courses": [
     {
       "key": "102540",
@@ -353,6 +353,20 @@
       "lng": null
     },
     {
+      "key": "104225",
+      "category": "WK Pool Pro",
+      "city": "Clarens",
+      "first_date": "2026-10-02",
+      "last_date": "2026-10-02",
+      "company": "SSS Riviera",
+      "participation_max": 1,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104225",
+      "canton": "VD",
+      "lat": 46.44438552856445,
+      "lng": 6.891254425048828
+    },
+    {
       "key": "99390",
       "category": "Brevet Basis Pool",
       "city": "Aarau",
@@ -589,6 +603,20 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
+    },
+    {
+      "key": "104231",
+      "category": "WK BLS-AED",
+      "city": "Ste-Croix",
+      "first_date": "2026-10-03",
+      "last_date": "2026-10-03",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104231",
+      "canton": "VD",
+      "lat": 46.8245849609375,
+      "lng": 6.486581325531006
     },
     {
       "key": "100566",
@@ -878,7 +906,7 @@
       "last_date": "2026-10-08",
       "company": "SLRG Frauenfeld",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104088",
       "canton": null,
       "lat": null,
@@ -2082,7 +2110,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103962",
       "canton": null,
       "lat": null,
@@ -2199,6 +2227,20 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
+    },
+    {
+      "key": "104198",
+      "category": "Jugendbrevet",
+      "city": "La Chaux-de-Fonds",
+      "first_date": "2026-10-22",
+      "last_date": "2026-12-10",
+      "company": "Société Suisse de Sauvetage",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104198",
+      "canton": "NE",
+      "lat": 47.11421203613281,
+      "lng": 6.84379243850708
     },
     {
       "key": "99859",
@@ -2600,7 +2642,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103308",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -2775,6 +2817,20 @@
       "lng": 8.455204963684082
     },
     {
+      "key": "104227",
+      "category": "Brevet Basis Pool",
+      "city": "Bévilard",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-31",
+      "company": "SSS Grand Chasseral",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104227",
+      "canton": "BE",
+      "lat": 47.238895416259766,
+      "lng": 7.284480571746826
+    },
+    {
       "key": "101049",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -2868,6 +2924,62 @@
       "participation_max": 12,
       "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103627",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104191",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-10-25",
+      "last_date": "2026-10-25",
+      "company": "SLRG Sektion Sempachersee",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104191",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104192",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-10-25",
+      "last_date": "2026-10-25",
+      "company": "SLRG Sektion Sempachersee",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104192",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104193",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-10-25",
+      "last_date": "2026-10-25",
+      "company": "SLRG Sektion Sempachersee",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104193",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104196",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-10-25",
+      "last_date": "2026-10-25",
+      "company": "SLRG Sektion Sempachersee",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104196",
       "canton": null,
       "lat": null,
       "lng": null
@@ -3246,6 +3358,34 @@
       "participation_max": 16,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103900",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104194",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-10-28",
+      "last_date": "2026-10-28",
+      "company": "SLRG Sektion Sempachersee",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104194",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104195",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-10-28",
+      "last_date": "2026-10-28",
+      "company": "SLRG Sektion Sempachersee",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104195",
       "canton": null,
       "lat": null,
       "lng": null
@@ -4182,7 +4322,7 @@
       "last_date": "2026-11-05",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103660",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4210,7 +4350,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Innerschwyz",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101461",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -4406,7 +4546,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101462",
       "canton": null,
       "lat": null,
@@ -4420,7 +4560,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101463",
       "canton": null,
       "lat": null,
@@ -4523,20 +4663,6 @@
       "canton": "VS",
       "lat": 46.1070442199707,
       "lng": 7.100466251373291
-    },
-    {
-      "key": "102190",
-      "category": "WK BLS-AED",
-      "city": "Cossonay-Ville",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "company": "Section ASPIC Natation ",
-      "participation_max": 15,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102190",
-      "canton": "VD",
-      "lat": 46.61306381225586,
-      "lng": 6.5047807693481445
     },
     {
       "key": "102211",
@@ -4873,6 +4999,34 @@
       "canton": "NE",
       "lat": 47.06060028076172,
       "lng": 6.902266502380371
+    },
+    {
+      "key": "104185",
+      "category": "Modul BLS-AED",
+      "city": "Schaffhausen",
+      "first_date": "2026-11-09",
+      "last_date": "2026-11-09",
+      "company": "SLRG Sektion Schaffhausen",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104185",
+      "canton": "SH",
+      "lat": 47.7188606262207,
+      "lng": 8.640215873718262
+    },
+    {
+      "key": "104186",
+      "category": "WK BLS-AED",
+      "city": "Schaffhausen",
+      "first_date": "2026-11-09",
+      "last_date": "2026-11-09",
+      "company": "SLRG Sektion Schaffhausen",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104186",
+      "canton": "SH",
+      "lat": 47.7188606262207,
+      "lng": 8.640215873718262
     },
     {
       "key": "99345",
@@ -5358,7 +5512,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -5435,6 +5589,20 @@
       "lng": null
     },
     {
+      "key": "104171",
+      "category": "Brevet Basis Pool",
+      "city": "Bévilard",
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-21",
+      "company": "SSS Grand Chasseral",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104171",
+      "canton": "BE",
+      "lat": 47.238895416259766,
+      "lng": 7.284480571746826
+    },
+    {
       "key": "101358",
       "category": "WK BLS-AED",
       "city": "Lachen SZ",
@@ -5498,7 +5666,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Stäfa",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101732",
       "canton": "ZH",
       "lat": 47.25200271606445,
@@ -5526,7 +5694,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103310",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -5699,6 +5867,20 @@
       "canton": "GE",
       "lat": 46.16372299194336,
       "lng": 6.119792938232422
+    },
+    {
+      "key": "104228",
+      "category": "WK BLS-AED",
+      "city": "Bévilard",
+      "first_date": "2026-11-17",
+      "last_date": "2026-11-17",
+      "company": "SSS Grand Chasseral",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104228",
+      "canton": "BE",
+      "lat": 47.238895416259766,
+      "lng": 7.284480571746826
     },
     {
       "key": "100382",
@@ -7283,6 +7465,20 @@
       "lng": 7.284480571746826
     },
     {
+      "key": "104086",
+      "category": "Brevet Basis Pool",
+      "city": "St-Légier-La Chiésaz",
+      "first_date": "2026-12-05",
+      "last_date": "2026-12-05",
+      "company": "Swimsports",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104086",
+      "canton": "VD",
+      "lat": 46.47169876098633,
+      "lng": 6.87440824508667
+    },
+    {
       "key": "102159",
       "category": "WK Pool Plus",
       "city": "St-Légier-La Chiésaz",
@@ -7645,6 +7841,20 @@
       "canton": "VS",
       "lat": 46.1070442199707,
       "lng": 7.100466251373291
+    },
+    {
+      "key": "102190",
+      "category": "WK BLS-AED",
+      "city": "Cossonay-Ville",
+      "first_date": "2026-12-12",
+      "last_date": "2026-12-12",
+      "company": "Section ASPIC Natation ",
+      "participation_max": 15,
+      "registered": 7,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102190",
+      "canton": "VD",
+      "lat": 46.61306381225586,
+      "lng": 6.5047807693481445
     },
     {
       "key": "103860",
@@ -8835,6 +9045,20 @@
       "canton": "GE",
       "lat": 46.204559326171875,
       "lng": 6.1424560546875
+    },
+    {
+      "key": "104184",
+      "category": "Jugend Erlebnismodul",
+      "city": "Bernex",
+      "first_date": "2027-02-26",
+      "last_date": "2027-03-19",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104184",
+      "canton": "GE",
+      "lat": 46.180213928222656,
+      "lng": 6.0699896812438965
     },
     {
       "key": "103830",
@@ -11133,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T10:01:00+0000"
+  "geocoded_at": "2026-10-02T11:01:06+0000"
 }

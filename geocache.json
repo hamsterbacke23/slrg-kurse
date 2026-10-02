@@ -1358,6 +1358,12 @@
     "lat": 46.99097442626953,
     "lng": 8.362213134765625
   },
+  "Ste-Croix": {
+    "canton": "VD",
+    "label": "Sainte-Croix (VD)",
+    "lat": 46.8245849609375,
+    "lng": 6.486581325531006
+  },
   "Steckborn": {
     "canton": "TG",
     "label": "Steckborn (TG)",
