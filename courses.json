@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T12:01:12+0000",
+  "scraped_at": "2026-10-02T13:03:27+0000",
   "count": 811,
   "courses": [
     {
@@ -681,8 +681,8 @@
       "first_date": "2026-10-05",
       "last_date": "2026-10-05",
       "company": "SSS Genève",
-      "participation_max": 6,
-      "registered": 6,
+      "participation_max": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103420",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1046,7 +1046,7 @@
       "last_date": "2026-10-11",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100699",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -1144,7 +1144,7 @@
       "last_date": "2026-10-13",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103348",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2096,7 +2096,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103961",
       "canton": null,
       "lat": null,
@@ -3188,7 +3188,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103344",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -5512,7 +5512,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -5694,7 +5694,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103310",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -11357,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T12:01:12+0000"
+  "geocoded_at": "2026-10-02T13:03:27+0000"
 }
