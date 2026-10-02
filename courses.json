@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T07:07:23+0000",
+  "scraped_at": "2026-10-02T08:01:04+0000",
   "count": 796,
   "courses": [
     {
@@ -430,7 +430,7 @@
       "last_date": "2026-10-03",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99937",
       "canton": null,
       "lat": null,
@@ -2096,7 +2096,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103962",
       "canton": null,
       "lat": null,
@@ -11147,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T07:07:23+0000"
+  "geocoded_at": "2026-10-02T08:01:04+0000"
 }
