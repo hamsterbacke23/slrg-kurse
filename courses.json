@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T11:01:05+0000",
+  "scraped_at": "2026-10-02T12:01:12+0000",
   "count": 811,
   "courses": [
     {
@@ -640,7 +640,7 @@
       "last_date": "2026-10-04",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
       "canton": null,
       "lat": null,
@@ -1732,7 +1732,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100317",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -2726,7 +2726,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103399",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -3216,7 +3216,7 @@
       "last_date": "2026-10-27",
       "company": "SSS Grand Chasseral",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104115",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -5764,7 +5764,7 @@
       "last_date": "2026-11-15",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103888",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -6618,7 +6618,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103894",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -7178,7 +7178,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103893",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -7444,7 +7444,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103455",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -11357,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T11:01:06+0000"
+  "geocoded_at": "2026-10-02T12:01:12+0000"
 }
