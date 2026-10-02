@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02T06:01:19+0000",
-  "count": 799,
+  "scraped_at": "2026-10-02T07:07:23+0000",
+  "count": 796,
   "courses": [
     {
       "key": "102540",
@@ -276,7 +276,7 @@
       "last_date": "2026-09-26",
       "company": "SLRG Region Ost",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104116",
       "canton": null,
       "lat": null,
@@ -521,48 +521,6 @@
       "lng": 8.926308631896973
     },
     {
-      "key": "103370",
-      "category": "Brevet Basis Pool",
-      "city": "Romanel-sur-Lausanne",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-04",
-      "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103370",
-      "canton": "VD",
-      "lat": 46.55949401855469,
-      "lng": 6.608593940734863
-    },
-    {
-      "key": "103371",
-      "category": "Modul BLS-AED",
-      "city": "Romanel-sur-Lausanne",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103371",
-      "canton": "VD",
-      "lat": 46.55949401855469,
-      "lng": 6.608593940734863
-    },
-    {
-      "key": "103372",
-      "category": "Brevet Plus Pool",
-      "city": "Romanel-sur-Lausanne",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-04",
-      "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103372",
-      "canton": "VD",
-      "lat": 46.55949401855469,
-      "lng": 6.608593940734863
-    },
-    {
       "key": "103561",
       "category": "Brevet Basis Pool",
       "city": "Brunnen",
@@ -794,7 +752,7 @@
       "last_date": "2026-10-07",
       "company": "SSS Nord-Vaudois",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102017",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -1858,7 +1816,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103823",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1872,7 +1830,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1970,7 +1928,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103959",
       "canton": null,
       "lat": null,
@@ -3720,7 +3678,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -3748,7 +3706,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -6786,7 +6744,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103314",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -11189,5 +11147,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T06:01:19+0000"
+  "geocoded_at": "2026-10-02T07:07:23+0000"
 }
