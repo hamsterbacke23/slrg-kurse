@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02T20:01:13+0000",
-  "count": 814,
+  "scraped_at": "2026-10-02T21:01:06+0000",
+  "count": 823,
   "courses": [
     {
       "key": "102540",
@@ -598,7 +598,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Val-de-Travers",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104231",
       "canton": "VD",
       "lat": 46.8245849609375,
@@ -4532,7 +4532,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101683",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10489,6 +10489,48 @@
       "lng": 8.525269508361816
     },
     {
+      "key": "104098",
+      "category": "Brevet Basis Pool",
+      "city": "Aarau",
+      "first_date": "2027-08-07",
+      "last_date": "2027-08-14",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104098",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104101",
+      "category": "Modul BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-08-07",
+      "last_date": "2027-08-14",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104101",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104104",
+      "category": "Brevet Plus Pool",
+      "city": "Aarau",
+      "first_date": "2027-08-07",
+      "last_date": "2027-08-14",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104104",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "104107",
       "category": "Brevet Basis Pool",
       "city": "Aarau",
@@ -10865,6 +10907,48 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "104099",
+      "category": "Brevet Basis Pool",
+      "city": "Aarau",
+      "first_date": "2027-10-02",
+      "last_date": "2027-10-09",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104099",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104102",
+      "category": "Modul BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-10-02",
+      "last_date": "2027-10-09",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104102",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104105",
+      "category": "Brevet Plus Pool",
+      "city": "Aarau",
+      "first_date": "2027-10-02",
+      "last_date": "2027-10-09",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104105",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
     },
     {
       "key": "103732",
@@ -11287,6 +11371,48 @@
       "lng": 8.527311325073242
     },
     {
+      "key": "104100",
+      "category": "Brevet Basis Pool",
+      "city": "Aarau",
+      "first_date": "2027-12-11",
+      "last_date": "2027-12-18",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104100",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104103",
+      "category": "Modul BLS-AED",
+      "city": "Aarau",
+      "first_date": "2027-12-11",
+      "last_date": "2027-12-18",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104103",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
+      "key": "104106",
+      "category": "Brevet Plus Pool",
+      "city": "Aarau",
+      "first_date": "2027-12-11",
+      "last_date": "2027-12-18",
+      "company": "SLRG Aarau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104106",
+      "canton": "AG",
+      "lat": 47.39103698730469,
+      "lng": 8.046090126037598
+    },
+    {
       "key": "103692",
       "category": "WK Pool Basis",
       "city": "Zürich",
@@ -11399,5 +11525,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T20:01:14+0000"
+  "geocoded_at": "2026-10-02T21:01:06+0000"
 }
