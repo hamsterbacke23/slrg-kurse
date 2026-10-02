@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-02T19:01:04+0000",
+  "scraped_at": "2026-10-02T20:01:13+0000",
   "count": 814,
   "courses": [
     {
@@ -598,7 +598,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Val-de-Travers",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104231",
       "canton": "VD",
       "lat": 46.8245849609375,
@@ -1648,7 +1648,7 @@
       "last_date": "2026-10-18",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103837",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -2054,7 +2054,7 @@
       "last_date": "2026-12-16",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103961",
       "canton": null,
       "lat": null,
@@ -2726,7 +2726,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103836",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -11399,5 +11399,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-02T19:01:04+0000"
+  "geocoded_at": "2026-10-02T20:01:14+0000"
 }
