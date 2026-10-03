@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-03T21:54:28+0000",
-  "count": 822,
+  "scraped_at": "2026-10-03T22:52:23+0000",
+  "count": 820,
   "courses": [
     {
       "key": "102540",
@@ -171,20 +171,6 @@
       "lng": 8.333881378173828
     },
     {
-      "key": "103055",
-      "category": "Brevet Basis Pool",
-      "city": "Brigerbad",
-      "first_date": "2026-09-05",
-      "last_date": "2026-10-03",
-      "company": "SLRG Oberwallis",
-      "participation_max": 10,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103055",
-      "canton": "VS",
-      "lat": 46.30108642578125,
-      "lng": 7.926656246185303
-    },
-    {
       "key": "103858",
       "category": "Brevet Basis Pool",
       "city": "Weggis",
@@ -211,20 +197,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103289",
-      "category": "WK Pool Basis",
-      "city": "Sörenberg",
-      "first_date": "2026-09-24",
-      "last_date": "2026-09-24",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103289",
-      "canton": "LU",
-      "lat": 46.82255935668945,
-      "lng": 8.033738136291504
     },
     {
       "key": "102629",
@@ -11511,5 +11483,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-03T21:54:28+0000"
+  "geocoded_at": "2026-10-03T22:52:23+0000"
 }
