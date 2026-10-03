@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-03T20:42:57+0000",
-  "count": 823,
+  "scraped_at": "2026-10-03T21:54:28+0000",
+  "count": 822,
   "courses": [
     {
       "key": "102540",
@@ -323,20 +323,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102424",
-      "category": "Brevet Basis Pool",
-      "city": "Emmenbrücke",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "SLRG Sektion Emmen",
-      "participation_max": 18,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102424",
-      "canton": "LU",
-      "lat": 47.07655334472656,
-      "lng": 8.273947715759277
     },
     {
       "key": "102476",
@@ -3608,7 +3594,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -11525,5 +11511,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-03T20:42:57+0000"
+  "geocoded_at": "2026-10-03T21:54:28+0000"
 }
