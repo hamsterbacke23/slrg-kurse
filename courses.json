@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03T11:06:40+0000",
+  "scraped_at": "2026-10-03T13:24:45+0000",
   "count": 833,
   "courses": [
     {
@@ -206,7 +206,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103858",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -337,20 +337,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "104225",
-      "category": "WK Pool Pro",
-      "city": "Clarens",
-      "first_date": "2026-10-02",
-      "last_date": "2026-10-02",
-      "company": "SSS Riviera",
-      "participation_max": 1,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104225",
-      "canton": "VD",
-      "lat": 46.44438552856445,
-      "lng": 6.891254425048828
     },
     {
       "key": "99390",
@@ -1032,7 +1018,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103463",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2642,7 +2628,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103398",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -2978,7 +2964,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103465",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3594,7 +3580,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Männedorf",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102832",
       "canton": "ZH",
       "lat": 47.259639739990234,
@@ -3874,7 +3860,7 @@
       "last_date": "2026-11-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103887",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -6058,7 +6044,7 @@
       "last_date": "2026-11-27",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103953",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -6338,7 +6324,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103330",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -8431,6 +8417,20 @@
       "lng": 8.046090126037598
     },
     {
+      "key": "102768",
+      "category": "Jugendbrevet",
+      "city": "",
+      "first_date": "2027-01-18",
+      "last_date": "2027-05-01",
+      "company": "SLRG Rafzerfeld",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102768",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103178",
       "category": "Brevet Basis Pool",
       "city": "Allschwil",
@@ -8942,7 +8942,7 @@
       "last_date": "2027-04-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102702",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11665,5 +11665,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-03T11:06:40+0000"
+  "geocoded_at": "2026-10-03T13:24:45+0000"
 }
