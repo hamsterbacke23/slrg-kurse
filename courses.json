@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-03T09:01:44+0000",
-  "count": 834,
+  "scraped_at": "2026-10-03T10:00:41+0000",
+  "count": 833,
   "courses": [
     {
       "key": "102540",
@@ -206,7 +206,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103858",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -563,20 +563,6 @@
       "lng": 7.718348503112793
     },
     {
-      "key": "103852",
-      "category": "WK BLS-AED",
-      "city": "Bauma",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "SLRG Bauma",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103852",
-      "canton": "ZH",
-      "lat": 47.37466812133789,
-      "lng": 8.893594741821289
-    },
-    {
       "key": "103878",
       "category": "Brevet Basis Pool",
       "city": "Payerne",
@@ -836,7 +822,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -11679,5 +11665,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-03T09:01:45+0000"
+  "geocoded_at": "2026-10-03T10:00:41+0000"
 }
