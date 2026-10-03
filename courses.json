@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-03T14:47:43+0000",
-  "count": 833,
+  "scraped_at": "2026-10-03T16:10:25+0000",
+  "count": 828,
   "courses": [
     {
       "key": "102540",
@@ -127,20 +127,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "99904",
-      "category": "Brevet Plus Pool",
-      "city": "Mendrisio",
-      "first_date": "2026-08-26",
-      "last_date": "2026-08-28",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99904",
-      "canton": "TI",
-      "lat": 45.8812370300293,
-      "lng": 8.971078872680664
     },
     {
       "key": "103335",
@@ -381,62 +367,6 @@
       "lng": 8.046090126037598
     },
     {
-      "key": "99915",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99915",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "99937",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "Società Svizzera di Salvataggio Mendrisiotto",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99937",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101297",
-      "category": "WK BLS-AED",
-      "city": "Arbon",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "SLRG Arbon",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101297",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
-      "key": "101299",
-      "category": "Modul BLS-AED",
-      "city": "Arbon",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "SLRG Arbon",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101299",
-      "canton": "TG",
-      "lat": 47.51548385620117,
-      "lng": 9.425399780273438
-    },
-    {
       "key": "102424",
       "category": "Brevet Basis Pool",
       "city": "Emmenbrücke",
@@ -561,20 +491,6 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
-    },
-    {
-      "key": "104231",
-      "category": "WK BLS-AED",
-      "city": "Ste-Croix",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "SSS Val-de-Travers",
-      "participation_max": 10,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104231",
-      "canton": "VD",
-      "lat": 46.8245849609375,
-      "lng": 6.486581325531006
     },
     {
       "key": "100566",
@@ -1298,7 +1214,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Bielersee",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101814",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -1667,6 +1583,20 @@
       "canton": "BL",
       "lat": 47.483455657958984,
       "lng": 7.7250237464904785
+    },
+    {
+      "key": "100378",
+      "category": "Brevet Basis Pool",
+      "city": "Weinfelden",
+      "first_date": "2026-10-19",
+      "last_date": "2026-11-09",
+      "company": "SLRG Weinfelden",
+      "participation_max": 12,
+      "registered": 11,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100378",
+      "canton": "TG",
+      "lat": 47.56858444213867,
+      "lng": 9.105485916137695
     },
     {
       "key": "100856",
@@ -11665,5 +11595,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-03T14:47:43+0000"
+  "geocoded_at": "2026-10-03T16:10:25+0000"
 }
