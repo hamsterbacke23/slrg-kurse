@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-03T08:01:04+0000",
-  "count": 835,
+  "scraped_at": "2026-10-03T09:01:44+0000",
+  "count": 834,
   "courses": [
     {
       "key": "102540",
@@ -598,7 +598,7 @@
       "last_date": "2026-10-03",
       "company": "SSS Val-de-Travers",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104231",
       "canton": "VD",
       "lat": 46.8245849609375,
@@ -673,20 +673,6 @@
       "canton": "GE",
       "lat": 46.16372299194336,
       "lng": 6.119792938232422
-    },
-    {
-      "key": "100779",
-      "category": "WK BLS-AED",
-      "city": "Aarau",
-      "first_date": "2026-10-06",
-      "last_date": "2026-10-06",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100779",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
     },
     {
       "key": "103211",
@@ -1396,7 +1382,7 @@
       "last_date": "2026-10-16",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104179",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -6338,7 +6324,7 @@
       "last_date": "2026-11-22",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101138",
       "canton": null,
       "lat": null,
@@ -11693,5 +11679,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-03T08:01:04+0000"
+  "geocoded_at": "2026-10-03T09:01:45+0000"
 }
