@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-03T06:03:59+0000",
+  "scraped_at": "2026-10-03T07:10:15+0000",
   "count": 835,
   "courses": [
     {
@@ -289,7 +289,7 @@
       "first_date": "2026-09-28",
       "last_date": "2026-12-21",
       "company": "SSS La Côte",
-      "participation_max": 10,
+      "participation_max": 8,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103185",
       "canton": "VD",
@@ -2754,7 +2754,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103879",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3775,8 +3775,8 @@
       "first_date": "2026-11-01",
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 24,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100589",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -4854,7 +4854,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101465",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -4868,7 +4868,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101466",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -11693,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-03T06:04:00+0000"
+  "geocoded_at": "2026-10-03T07:10:15+0000"
 }
