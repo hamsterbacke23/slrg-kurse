@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-04T05:29:56+0000",
-  "count": 820,
+  "scraped_at": "2026-10-04T07:42:44+0000",
+  "count": 819,
   "courses": [
     {
       "key": "102540",
@@ -379,20 +379,6 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
-    },
-    {
-      "key": "100566",
-      "category": "Brevet Basis Pool",
-      "city": "Grand-Lancy",
-      "first_date": "2026-10-04",
-      "last_date": "2026-10-04",
-      "company": "SSS La Côte",
-      "participation_max": 36,
-      "registered": 36,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100566",
-      "canton": "GE",
-      "lat": 46.18354034423828,
-      "lng": 6.120214939117432
     },
     {
       "key": "101048",
@@ -1648,7 +1634,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2558,7 +2544,7 @@
       "last_date": "2026-10-31",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104227",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -4167,7 +4153,7 @@
       "first_date": "2026-11-07",
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 11,
       "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99409",
       "canton": "AG",
@@ -4181,7 +4167,7 @@
       "first_date": "2026-11-07",
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 9,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99416",
       "canton": "AG",
@@ -4195,7 +4181,7 @@
       "first_date": "2026-11-07",
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 9,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99424",
       "canton": "AG",
@@ -5063,7 +5049,7 @@
       "first_date": "2026-11-14",
       "last_date": "2026-11-21",
       "company": "SLRG Aarau",
-      "participation_max": 14,
+      "participation_max": 12,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99432",
       "canton": "AG",
@@ -7779,7 +7765,7 @@
       "first_date": "2026-12-19",
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 8,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99410",
       "canton": "AG",
@@ -7793,7 +7779,7 @@
       "first_date": "2026-12-19",
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 8,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99417",
       "canton": "AG",
@@ -7807,7 +7793,7 @@
       "first_date": "2026-12-19",
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
-      "participation_max": 12,
+      "participation_max": 8,
       "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99425",
       "canton": "AG",
@@ -8102,7 +8088,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Mittelrheintal",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103892",
       "canton": "SG",
       "lat": 47.45515823364258,
@@ -11483,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-04T05:29:56+0000"
+  "geocoded_at": "2026-10-04T07:42:44+0000"
 }
