@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-04T17:13:58+0000",
-  "count": 816,
+  "scraped_at": "2026-10-04T18:19:23+0000",
+  "count": 815,
   "courses": [
     {
       "key": "102540",
@@ -351,20 +351,6 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
-    },
-    {
-      "key": "100566",
-      "category": "Brevet Basis Pool",
-      "city": "Grand-Lancy",
-      "first_date": "2026-10-04",
-      "last_date": "2026-10-04",
-      "company": "SSS La Côte",
-      "participation_max": 37,
-      "registered": 37,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100566",
-      "canton": "GE",
-      "lat": 46.18354034423828,
-      "lng": 6.120214939117432
     },
     {
       "key": "101048",
@@ -1284,7 +1270,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -11427,5 +11413,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-04T17:13:58+0000"
+  "geocoded_at": "2026-10-04T18:19:23+0000"
 }
