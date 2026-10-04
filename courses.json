@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-04T13:40:14+0000",
+  "scraped_at": "2026-10-04T15:25:47+0000",
   "count": 816,
   "courses": [
     {
@@ -1298,7 +1298,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 25,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103349",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2404,7 +2404,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103399",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -6562,7 +6562,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103314",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -11427,5 +11427,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-04T13:40:14+0000"
+  "geocoded_at": "2026-10-04T15:25:47+0000"
 }
