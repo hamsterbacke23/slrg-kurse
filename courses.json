@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-04T18:19:23+0000",
-  "count": 815,
+  "scraped_at": "2026-10-04T19:52:57+0000",
+  "count": 816,
   "courses": [
     {
       "key": "102540",
@@ -12,6 +12,34 @@
       "participation_max": 4,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102540",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103428",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-08-07",
+      "last_date": "2026-08-07",
+      "company": "SLRG Weggis",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103428",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103429",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-08-07",
+      "last_date": "2026-08-07",
+      "company": "SLRG Weggis",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103429",
       "canton": null,
       "lat": null,
       "lng": null
@@ -365,20 +393,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102967",
-      "category": "Brevet Pro Pool",
-      "city": "Weggis",
-      "first_date": "2026-10-04",
-      "last_date": "2026-10-06",
-      "company": "SLRG Emmental",
-      "participation_max": 11,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102967",
-      "canton": "LU",
-      "lat": 47.03305435180664,
-      "lng": 8.431046485900879
     },
     {
       "key": "103420",
@@ -1158,7 +1172,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102065",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -1354,7 +1368,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103967",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -3426,7 +3440,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Hinwil",
       "participation_max": 7,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103866",
       "canton": "ZH",
       "lat": 47.302894592285156,
@@ -4014,7 +4028,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Innerschwyz",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101461",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -4210,7 +4224,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101462",
       "canton": null,
       "lat": null,
@@ -5400,7 +5414,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103590",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -6072,7 +6086,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103330",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -8690,7 +8704,7 @@
       "last_date": "2027-04-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102702",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11413,5 +11427,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-04T18:19:23+0000"
+  "geocoded_at": "2026-10-04T19:52:57+0000"
 }
