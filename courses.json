@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05T13:06:45+0000",
-  "count": 809,
+  "scraped_at": "2026-10-05T14:02:14+0000",
+  "count": 808,
   "courses": [
     {
       "key": "102540",
@@ -1345,20 +1345,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101639",
-      "category": "WK BLS-AED",
-      "city": "Delémont",
-      "first_date": "2026-10-19",
-      "last_date": "2026-10-19",
-      "company": "SSS Delémont",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101639",
-      "canton": "JU",
-      "lat": 47.37165451049805,
-      "lng": 7.331088542938232
     },
     {
       "key": "102657",
@@ -5876,7 +5862,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103573",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6730,7 +6716,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103807",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -7472,7 +7458,7 @@
       "last_date": "2026-12-13",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102191",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -11329,5 +11315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T13:06:45+0000"
+  "geocoded_at": "2026-10-05T14:02:15+0000"
 }
