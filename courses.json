@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T18:01:16+0000",
+  "scraped_at": "2026-10-05T19:03:28+0000",
   "count": 812,
   "courses": [
     {
@@ -598,7 +598,7 @@
       "last_date": "2026-10-10",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103421",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1144,7 +1144,7 @@
       "last_date": "2026-10-17",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103485",
       "canton": null,
       "lat": null,
@@ -1368,7 +1368,7 @@
       "last_date": "2026-10-19",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103665",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -2670,7 +2670,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Appenzell",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100252",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -4069,8 +4069,8 @@
       "first_date": "2026-11-07",
       "last_date": "2026-11-07",
       "company": "SLRG Appenzell",
-      "participation_max": 6,
-      "registered": 6,
+      "participation_max": 7,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100256",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -4644,7 +4644,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103882",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -11371,5 +11371,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T18:01:16+0000"
+  "geocoded_at": "2026-10-05T19:03:28+0000"
 }
