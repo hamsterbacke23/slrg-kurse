@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05T15:01:21+0000",
-  "count": 808,
+  "scraped_at": "2026-10-05T16:01:02+0000",
+  "count": 813,
   "courses": [
     {
       "key": "102540",
@@ -710,7 +710,7 @@
       "last_date": "2026-10-13",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103348",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -1144,7 +1144,7 @@
       "last_date": "2026-10-17",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103485",
       "canton": null,
       "lat": null,
@@ -3664,7 +3664,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103328",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -3739,6 +3739,20 @@
       "canton": "BL",
       "lat": 47.52326583862305,
       "lng": 7.6465020179748535
+    },
+    {
+      "key": "104187",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-11-03",
+      "last_date": "2026-11-11",
+      "company": "SSS Genève",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104187",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "100379",
@@ -5701,6 +5715,20 @@
       "lng": 7.100466251373291
     },
     {
+      "key": "104226",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-11-20",
+      "last_date": "2026-11-20",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104226",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100371",
       "category": "WK BLS-AED",
       "city": "Weinfelden",
@@ -6653,6 +6681,20 @@
       "lng": 6.119792938232422
     },
     {
+      "key": "104188",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-12-01",
+      "last_date": "2026-12-08",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104188",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99999",
       "category": "Modul BLS-AED",
       "city": "Liestal",
@@ -7500,7 +7542,7 @@
       "last_date": "2026-12-14",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103331",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -7561,6 +7603,20 @@
       "canton": "BL",
       "lat": 47.52326583862305,
       "lng": 7.6465020179748535
+    },
+    {
+      "key": "104189",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-12-15",
+      "last_date": "2027-01-19",
+      "company": "SSS Genève",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104189",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "100281",
@@ -8261,6 +8317,20 @@
       "canton": "ZG",
       "lat": 47.151554107666016,
       "lng": 8.521272659301758
+    },
+    {
+      "key": "104190",
+      "category": "Brevet Pro Pool",
+      "city": "",
+      "first_date": "2027-01-26",
+      "last_date": "2027-03-09",
+      "company": "SSS Genève",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104190",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103500",
@@ -11315,5 +11385,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T15:01:21+0000"
+  "geocoded_at": "2026-10-05T16:01:02+0000"
 }
