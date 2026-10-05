@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T12:01:23+0000",
+  "scraped_at": "2026-10-05T13:06:45+0000",
   "count": 809,
   "courses": [
     {
@@ -458,7 +458,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -990,7 +990,7 @@
       "last_date": "2026-10-16",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104178",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -5876,7 +5876,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103573",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6730,7 +6730,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103807",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11329,5 +11329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T12:01:23+0000"
+  "geocoded_at": "2026-10-05T13:06:45+0000"
 }
