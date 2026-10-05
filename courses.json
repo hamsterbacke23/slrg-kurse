@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T16:01:02+0000",
+  "scraped_at": "2026-10-05T17:01:40+0000",
   "count": 813,
   "courses": [
     {
@@ -332,7 +332,7 @@
       "last_date": "2026-10-09",
       "company": "Bildungszentrale Innerschweiz",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103562",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -360,7 +360,7 @@
       "last_date": "2026-10-10",
       "company": "Bildungszentrale Innerschweiz",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103710",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -598,7 +598,7 @@
       "last_date": "2026-10-10",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103421",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -11385,5 +11385,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T16:01:02+0000"
+  "geocoded_at": "2026-10-05T17:01:40+0000"
 }
