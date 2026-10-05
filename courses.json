@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T14:02:14+0000",
+  "scraped_at": "2026-10-05T15:01:21+0000",
   "count": 808,
   "courses": [
     {
@@ -1326,7 +1326,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100378",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -3398,7 +3398,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 24,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -11315,5 +11315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T14:02:15+0000"
+  "geocoded_at": "2026-10-05T15:01:21+0000"
 }
