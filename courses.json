@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05T19:03:28+0000",
-  "count": 812,
+  "scraped_at": "2026-10-05T21:11:21+0000",
+  "count": 810,
   "courses": [
     {
       "key": "102540",
@@ -206,7 +206,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103858",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1396,7 +1396,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1578,7 +1578,7 @@
       "last_date": "2026-10-21",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103722",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -2824,7 +2824,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 30,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103142",
       "canton": "GR",
       "lat": 46.437503814697266,
@@ -3358,34 +3358,6 @@
       "participation_max": 12,
       "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
-    },
-    {
-      "key": "100589",
-      "category": "WK Pool Pro",
-      "city": "Coppet",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SSS La Côte",
-      "participation_max": 24,
-      "registered": 22,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100589",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
-    },
-    {
-      "key": "100590",
-      "category": "WK BLS-AED",
-      "city": "Coppet",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SSS La Côte",
-      "participation_max": 24,
-      "registered": 23,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
       "lng": 6.202526569366455
@@ -5526,7 +5498,7 @@
       "last_date": "2026-11-19",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103580",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -5624,7 +5596,7 @@
       "last_date": "2026-11-20",
       "company": "SLRG Uri",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100960",
       "canton": "UR",
       "lat": 46.91195297241211,
@@ -5694,7 +5666,7 @@
       "last_date": "2026-11-27",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103953",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -11371,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T19:03:28+0000"
+  "geocoded_at": "2026-10-05T21:11:21+0000"
 }
