@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05T11:01:13+0000",
-  "count": 810,
+  "scraped_at": "2026-10-05T12:01:23+0000",
+  "count": 809,
   "courses": [
     {
       "key": "102540",
@@ -379,20 +379,6 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
-    },
-    {
-      "key": "101048",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-10-04",
-      "last_date": "2026-10-04",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 24,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101048",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103211",
@@ -1718,7 +1704,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104173",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -2362,7 +2348,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Vallée de Joux",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103836",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -2418,7 +2404,7 @@
       "last_date": "2026-10-31",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104227",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -3762,7 +3748,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103397",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -11343,5 +11329,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T11:01:13+0000"
+  "geocoded_at": "2026-10-05T12:01:23+0000"
 }
