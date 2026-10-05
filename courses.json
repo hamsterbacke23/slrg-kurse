@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-05T07:22:04+0000",
+  "scraped_at": "2026-10-05T08:09:02+0000",
   "count": 813,
   "courses": [
     {
@@ -1802,7 +1802,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100550",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -2124,7 +2124,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100882",
       "canton": null,
       "lat": null,
@@ -2457,7 +2457,7 @@
       "category": "Brevet Basis Pool",
       "city": "Bévilard",
       "first_date": "2026-10-24",
-      "last_date": "2026-10-31",
+      "last_date": "2026-11-21",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
       "registered": 2,
@@ -7836,7 +7836,7 @@
       "last_date": "2027-01-07",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103729",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11385,5 +11385,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-05T07:22:04+0000"
+  "geocoded_at": "2026-10-05T08:09:03+0000"
 }
