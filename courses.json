@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T09:01:31+0000",
+  "scraped_at": "2026-10-06T10:01:10+0000",
   "count": 854,
   "courses": [
     {
@@ -416,7 +416,7 @@
       "last_date": "2026-10-06",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103211",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2894,7 +2894,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 30,
-      "registered": 10,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103142",
       "canton": "GR",
       "lat": 46.437503814697266,
@@ -3552,7 +3552,7 @@
       "last_date": "2026-11-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103887",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -5400,7 +5400,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103590",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -6310,7 +6310,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Meyrin",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103453",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -6394,7 +6394,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104239",
       "canton": "GR",
       "lat": 46.79063034057617,
@@ -6660,7 +6660,7 @@
       "last_date": "2026-11-29",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100694",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T09:01:31+0000"
+  "geocoded_at": "2026-10-06T10:01:10+0000"
 }
