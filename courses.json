@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T15:01:11+0000",
+  "scraped_at": "2026-10-06T16:00:57+0000",
   "count": 853,
   "courses": [
     {
@@ -402,7 +402,7 @@
       "last_date": "2026-10-06",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103211",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -724,7 +724,7 @@
       "last_date": "2026-10-13",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103348",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -934,7 +934,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -6338,7 +6338,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Uri",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103968",
       "canton": null,
       "lat": null,
@@ -6380,7 +6380,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 24,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104239",
       "canton": "GR",
       "lat": 46.79063034057617,
@@ -11945,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T15:01:11+0000"
+  "geocoded_at": "2026-10-06T16:00:57+0000"
 }
