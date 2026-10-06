@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T13:03:02+0000",
+  "scraped_at": "2026-10-06T14:01:04+0000",
   "count": 853,
   "courses": [
     {
@@ -486,7 +486,7 @@
       "last_date": "2026-10-08",
       "company": "SLRG Frauenfeld",
       "participation_max": 14,
-      "registered": 8,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104088",
       "canton": null,
       "lat": null,
@@ -850,7 +850,7 @@
       "last_date": "2026-10-14",
       "company": "SLRG Frauenfeld",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104087",
       "canton": null,
       "lat": null,
@@ -1410,7 +1410,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2712,7 +2712,7 @@
       "last_date": "2026-10-26",
       "company": "SLRG Frauenfeld",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103897",
       "canton": null,
       "lat": null,
@@ -6380,7 +6380,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 24,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104239",
       "canton": "GR",
       "lat": 46.79063034057617,
@@ -11945,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T13:03:02+0000"
+  "geocoded_at": "2026-10-06T14:01:05+0000"
 }
