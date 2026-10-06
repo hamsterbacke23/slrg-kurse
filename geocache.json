@@ -979,6 +979,12 @@
     "lat": 47.469303131103516,
     "lng": 8.486824989318848
   },
+  "Nyon": {
+    "canton": "VD",
+    "label": "Nyon (VD)",
+    "lat": 46.38344955444336,
+    "lng": 6.232627868652344
+  },
   "Näfels": {
     "canton": "GL",
     "label": "Ort Näfels (GL) - Glarus Nord",
@@ -1244,6 +1250,12 @@
     "lat": 47.17293930053711,
     "lng": 9.010757446289062
   },
+  "Scuol": {
+    "canton": "GR",
+    "label": "Scuol (GR)",
+    "lat": 46.79063034057617,
+    "lng": 10.272326469421387
+  },
   "Seengen": {
     "canton": "AG",
     "label": "Seengen (AG)",
@@ -1417,6 +1429,12 @@
     "label": "Thun (BE)",
     "lat": 46.74045944213867,
     "lng": 7.60764217376709
+  },
+  "Turbenthal": {
+    "canton": "ZH",
+    "label": "Turbenthal (ZH)",
+    "lat": 47.43281555175781,
+    "lng": 8.876042366027832
   },
   "Täuffelen": {
     "canton": "BE",
