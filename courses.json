@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T04:01:31+0000",
+  "scraped_at": "2026-10-06T05:01:01+0000",
   "count": 810,
   "courses": [
     {
@@ -5568,7 +5568,7 @@
       "last_date": "2026-12-04",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99899",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -6240,7 +6240,7 @@
       "last_date": "2026-11-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99916",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -11343,5 +11343,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T04:01:31+0000"
+  "geocoded_at": "2026-10-06T05:01:02+0000"
 }
