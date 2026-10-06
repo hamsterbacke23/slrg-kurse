@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T10:01:10+0000",
+  "scraped_at": "2026-10-06T11:00:51+0000",
   "count": 854,
   "courses": [
     {
@@ -1830,7 +1830,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104230",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -2894,7 +2894,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 30,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103142",
       "canton": "GR",
       "lat": 46.437503814697266,
@@ -4518,7 +4518,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101050",
       "canton": null,
       "lat": null,
@@ -6394,7 +6394,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104239",
       "canton": "GR",
       "lat": 46.79063034057617,
@@ -8802,7 +8802,7 @@
       "last_date": "2027-02-13",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101669",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T10:01:10+0000"
+  "geocoded_at": "2026-10-06T11:00:51+0000"
 }
