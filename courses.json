@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-06T06:01:23+0000",
-  "count": 855,
+  "scraped_at": "2026-10-06T07:08:46+0000",
+  "count": 854,
   "courses": [
     {
       "key": "102540",
@@ -533,20 +533,6 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
-    },
-    {
-      "key": "100220",
-      "category": "Brevet Basis Pool",
-      "city": "Chur",
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-10",
-      "company": "SLRG Chur",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100220",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
     },
     {
       "key": "100700",
@@ -1340,7 +1326,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100317",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -11973,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T06:01:24+0000"
+  "geocoded_at": "2026-10-06T07:08:47+0000"
 }
