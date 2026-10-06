@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T21:01:01+0000",
+  "scraped_at": "2026-10-06T22:00:55+0000",
   "count": 855,
   "courses": [
     {
@@ -878,7 +878,7 @@
       "last_date": "2026-10-14",
       "company": "SLRG Frauenfeld",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104087",
       "canton": null,
       "lat": null,
@@ -1088,7 +1088,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100323",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -6926,7 +6926,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103807",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11973,5 +11973,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T21:01:01+0000"
+  "geocoded_at": "2026-10-06T22:00:55+0000"
 }
