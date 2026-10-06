@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-06T12:01:12+0000",
-  "count": 854,
+  "scraped_at": "2026-10-06T13:03:02+0000",
+  "count": 853,
   "courses": [
     {
       "key": "102540",
@@ -309,20 +309,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102476",
-      "category": "Brevet Plus Pool",
-      "city": "Mels",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-03",
-      "company": "SLRG Sarganserland",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102476",
-      "canton": "SG",
-      "lat": 47.00428009033203,
-      "lng": 9.317394256591797
     },
     {
       "key": "103561",
@@ -1298,7 +1284,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103967",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -1438,7 +1424,7 @@
       "last_date": "2026-10-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100548",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -2796,7 +2782,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102677",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2908,7 +2894,7 @@
       "last_date": "2026-10-28",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103648",
       "canton": "GL",
       "lat": 47.10641860961914,
@@ -5498,7 +5484,7 @@
       "last_date": "2026-11-18",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103329",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -7654,7 +7640,7 @@
       "last_date": "2026-12-13",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102191",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -7808,7 +7794,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103332",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -8900,7 +8886,7 @@
       "last_date": "2027-02-20",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101672",
       "canton": null,
       "lat": null,
@@ -11959,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T12:01:12+0000"
+  "geocoded_at": "2026-10-06T13:03:02+0000"
 }
