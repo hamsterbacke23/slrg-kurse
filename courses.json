@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-06T08:01:25+0000",
+  "scraped_at": "2026-10-06T09:01:31+0000",
   "count": 854,
   "courses": [
     {
@@ -500,7 +500,7 @@
       "last_date": "2026-10-08",
       "company": "SLRG Frauenfeld",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104088",
       "canton": null,
       "lat": null,
@@ -570,7 +570,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101971",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -598,7 +598,7 @@
       "last_date": "2026-10-10",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101973",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -2908,7 +2908,7 @@
       "last_date": "2026-10-28",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103648",
       "canton": "GL",
       "lat": 47.10641860961914,
@@ -3552,7 +3552,7 @@
       "last_date": "2026-11-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103887",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -6352,7 +6352,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Uri",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103968",
       "canton": null,
       "lat": null,
@@ -6394,7 +6394,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104239",
       "canton": "GR",
       "lat": 46.79063034057617,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-06T08:01:25+0000"
+  "geocoded_at": "2026-10-06T09:01:31+0000"
 }
