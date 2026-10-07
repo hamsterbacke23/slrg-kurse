@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T05:01:25+0000",
+  "scraped_at": "2026-10-07T06:00:56+0000",
   "count": 855,
   "courses": [
     {
@@ -6352,7 +6352,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103894",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -6408,7 +6408,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104239",
       "canton": "GR",
       "lat": 46.79063034057617,
@@ -11973,5 +11973,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T05:01:25+0000"
+  "geocoded_at": "2026-10-07T06:00:56+0000"
 }
