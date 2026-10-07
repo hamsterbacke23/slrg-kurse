@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T12:01:25+0000",
+  "scraped_at": "2026-10-07T13:07:02+0000",
   "count": 853,
   "courses": [
     {
@@ -472,7 +472,7 @@
       "last_date": "2026-10-08",
       "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
       "canton": "BE",
       "lat": 46.954559326171875,
@@ -2404,7 +2404,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103965",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -5358,7 +5358,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103311",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -11945,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T12:01:25+0000"
+  "geocoded_at": "2026-10-07T13:07:02+0000"
 }
