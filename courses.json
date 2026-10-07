@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-07T16:01:25+0000",
-  "count": 855,
+  "scraped_at": "2026-10-07T17:08:50+0000",
+  "count": 854,
   "courses": [
     {
       "key": "102540",
@@ -435,20 +435,6 @@
       "canton": "VD",
       "lat": 46.38344955444336,
       "lng": 6.232627868652344
-    },
-    {
-      "key": "103327",
-      "category": "WK BLS-AED",
-      "city": "Lausanne",
-      "first_date": "2026-10-07",
-      "last_date": "2026-10-07",
-      "company": "SSS Lausanne",
-      "participation_max": 20,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103327",
-      "canton": "VD",
-      "lat": 46.52865219116211,
-      "lng": 6.638521671295166
     },
     {
       "key": "99550",
@@ -11973,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T16:01:25+0000"
+  "geocoded_at": "2026-10-07T17:08:50+0000"
 }
