@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T18:01:13+0000",
+  "scraped_at": "2026-10-07T19:02:22+0000",
   "count": 854,
   "courses": [
     {
@@ -3062,7 +3062,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104240",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -5932,7 +5932,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Uri",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102358",
       "canton": "UR",
       "lat": 46.886905670166016,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T18:01:13+0000"
+  "geocoded_at": "2026-10-07T19:02:22+0000"
 }
