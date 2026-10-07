@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T19:02:22+0000",
+  "scraped_at": "2026-10-07T20:01:11+0000",
   "count": 854,
   "courses": [
     {
@@ -1410,7 +1410,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103823",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1424,7 +1424,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1494,7 +1494,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4602,7 +4602,7 @@
       "last_date": "2026-11-10",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101518",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -6618,7 +6618,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103314",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -8634,7 +8634,7 @@
       "last_date": "2027-01-30",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103742",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -10482,7 +10482,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103755",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T19:02:22+0000"
+  "geocoded_at": "2026-10-07T20:01:12+0000"
 }
