@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T11:00:49+0000",
+  "scraped_at": "2026-10-07T12:01:25+0000",
   "count": 853,
   "courses": [
     {
@@ -3048,7 +3048,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104240",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -7878,7 +7878,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103862",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -7892,7 +7892,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Emmental",
       "participation_max": 2,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103863",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11945,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T11:00:49+0000"
+  "geocoded_at": "2026-10-07T12:01:25+0000"
 }
