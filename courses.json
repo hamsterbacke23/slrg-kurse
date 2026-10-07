@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T10:01:29+0000",
+  "scraped_at": "2026-10-07T11:00:49+0000",
   "count": 853,
   "courses": [
     {
@@ -2488,7 +2488,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103305",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -2502,7 +2502,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103306",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -5554,7 +5554,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Grand Chasseral",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104228",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -6688,7 +6688,7 @@
       "last_date": "2026-11-29",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103315",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -6702,7 +6702,7 @@
       "last_date": "2026-11-29",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103316",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -7906,7 +7906,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103864",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11945,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T10:01:29+0000"
+  "geocoded_at": "2026-10-07T11:00:49+0000"
 }
