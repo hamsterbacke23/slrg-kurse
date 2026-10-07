@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T17:08:50+0000",
+  "scraped_at": "2026-10-07T18:01:13+0000",
   "count": 854,
   "courses": [
     {
@@ -2208,7 +2208,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102879",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T17:08:50+0000"
+  "geocoded_at": "2026-10-07T18:01:13+0000"
 }
