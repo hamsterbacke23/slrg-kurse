@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T08:02:17+0000",
+  "scraped_at": "2026-10-07T09:02:39+0000",
   "count": 854,
   "courses": [
     {
@@ -542,7 +542,7 @@
       "last_date": "2026-10-10",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100700",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -2082,7 +2082,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100822",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -7668,7 +7668,7 @@
       "last_date": "2026-12-13",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102193",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T08:02:17+0000"
+  "geocoded_at": "2026-10-07T09:02:39+0000"
 }
