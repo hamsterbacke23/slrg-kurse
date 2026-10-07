@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-07T15:01:13+0000",
-  "count": 853,
+  "scraped_at": "2026-10-07T16:01:25+0000",
+  "count": 855,
   "courses": [
     {
       "key": "102540",
@@ -82,6 +82,20 @@
       "participation_max": 12,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103064",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "100347",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-08-22",
+      "last_date": "2026-08-22",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 4,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100347",
       "canton": null,
       "lat": null,
       "lng": null
@@ -423,6 +437,20 @@
       "lng": 6.232627868652344
     },
     {
+      "key": "103327",
+      "category": "WK BLS-AED",
+      "city": "Lausanne",
+      "first_date": "2026-10-07",
+      "last_date": "2026-10-07",
+      "company": "SSS Lausanne",
+      "participation_max": 20,
+      "registered": 20,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103327",
+      "canton": "VD",
+      "lat": 46.52865219116211,
+      "lng": 6.638521671295166
+    },
+    {
       "key": "99550",
       "category": "WK BLS-AED",
       "city": "Zürich",
@@ -724,7 +752,7 @@
       "last_date": "2026-10-13",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103348",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -1256,7 +1284,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103795",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -4742,7 +4770,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101519",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -8788,7 +8816,7 @@
       "last_date": "2027-02-13",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101669",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11945,5 +11973,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-07T15:01:13+0000"
+  "geocoded_at": "2026-10-07T16:01:25+0000"
 }
