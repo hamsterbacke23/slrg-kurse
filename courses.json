@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-08T11:01:06+0000",
-  "count": 864,
+  "scraped_at": "2026-10-08T12:01:11+0000",
+  "count": 861,
   "courses": [
     {
       "key": "102540",
@@ -6835,48 +6835,6 @@
       "lng": 8.573216438293457
     },
     {
-      "key": "103315",
-      "category": "WK BLS-AED",
-      "city": "Porrentruy",
-      "first_date": "2026-11-29",
-      "last_date": "2026-11-29",
-      "company": "SSS Porrentruy",
-      "participation_max": 16,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103315",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
-      "key": "103316",
-      "category": "WK Pool Plus",
-      "city": "Porrentruy",
-      "first_date": "2026-11-29",
-      "last_date": "2026-11-29",
-      "company": "SSS Porrentruy",
-      "participation_max": 16,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103316",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
-      "key": "103318",
-      "category": "WK Pool Pro",
-      "city": "Porrentruy",
-      "first_date": "2026-11-29",
-      "last_date": "2026-11-29",
-      "company": "SSS Porrentruy",
-      "participation_max": 16,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103318",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
       "key": "103492",
       "category": "WK BLS-AED",
       "city": "Le Sentier",
@@ -12078,7 +12036,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -12099,5 +12057,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T11:01:07+0000"
+  "geocoded_at": "2026-10-08T12:01:12+0000"
 }
