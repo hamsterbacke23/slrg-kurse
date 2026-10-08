@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T19:02:10+0000",
+  "scraped_at": "2026-10-08T20:00:54+0000",
   "count": 884,
   "courses": [
     {
@@ -1004,7 +1004,7 @@
       "last_date": "2026-10-16",
       "company": "SLRG Emmental",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103766",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -2040,7 +2040,7 @@
       "last_date": "2026-10-23",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104229",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -12379,5 +12379,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T19:02:10+0000"
+  "geocoded_at": "2026-10-08T20:00:54+0000"
 }
