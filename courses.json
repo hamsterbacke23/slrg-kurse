@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T06:01:01+0000",
+  "scraped_at": "2026-10-08T07:11:04+0000",
   "count": 854,
   "courses": [
     {
@@ -7192,7 +7192,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103455",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T06:01:01+0000"
+  "geocoded_at": "2026-10-08T07:11:05+0000"
 }
