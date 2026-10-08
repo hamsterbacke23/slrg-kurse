@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T15:01:06+0000",
+  "scraped_at": "2026-10-08T16:01:16+0000",
   "count": 884,
   "courses": [
     {
@@ -5218,7 +5218,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101186",
       "canton": null,
       "lat": null,
@@ -5400,7 +5400,7 @@
       "last_date": "2026-11-14",
       "company": "SSS Sion",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104246",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -5988,7 +5988,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100371",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -6072,7 +6072,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Uri",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102358",
       "canton": "UR",
       "lat": 46.886905670166016,
@@ -12379,5 +12379,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T15:01:06+0000"
+  "geocoded_at": "2026-10-08T16:01:16+0000"
 }
