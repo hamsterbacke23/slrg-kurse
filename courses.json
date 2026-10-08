@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T08:03:11+0000",
+  "scraped_at": "2026-10-08T09:03:51+0000",
   "count": 854,
   "courses": [
     {
@@ -822,7 +822,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Bellinzona",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103734",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -1326,7 +1326,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100317",
       "canton": "BS",
       "lat": 47.5545539855957,
@@ -7976,7 +7976,7 @@
       "last_date": "2027-01-07",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103729",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T08:03:11+0000"
+  "geocoded_at": "2026-10-08T09:03:51+0000"
 }
