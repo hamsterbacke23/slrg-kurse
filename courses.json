@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T13:06:27+0000",
+  "scraped_at": "2026-10-08T14:01:27+0000",
   "count": 885,
   "courses": [
     {
@@ -444,7 +444,7 @@
       "last_date": "2026-10-06",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103211",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -6226,7 +6226,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104089",
       "canton": null,
       "lat": null,
@@ -7024,7 +7024,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103807",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -7318,7 +7318,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104060",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T13:06:27+0000"
+  "geocoded_at": "2026-10-08T14:01:27+0000"
 }
