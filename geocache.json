@@ -156,6 +156,12 @@
     "lat": 47.452247619628906,
     "lng": 8.926308631896973
   },
+  "Binningen": {
+    "canton": "BL",
+    "label": "Binningen (BL)",
+    "lat": 47.5363655090332,
+    "lng": 7.567534923553467
+  },
   "Bissone": {
     "canton": "TI",
     "label": "Bissone (TI)",
@@ -437,6 +443,12 @@
     "label": "Ort Filzbach (GL) - Glarus Nord",
     "lat": 47.1209716796875,
     "lng": 9.130014419555664
+  },
+  "Fleurier": {
+    "canton": "NE",
+    "label": "Ort Fleurier (NE) - Val-de-Travers",
+    "lat": 46.90297317504883,
+    "lng": 6.582729339599609
   },
   "Flurlingen": {
     "canton": "ZH",

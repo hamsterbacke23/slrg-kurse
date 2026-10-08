@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-08T09:03:51+0000",
-  "count": 854,
+  "scraped_at": "2026-10-08T10:01:40+0000",
+  "count": 865,
   "courses": [
     {
       "key": "102540",
@@ -435,6 +435,20 @@
       "canton": "VD",
       "lat": 46.38344955444336,
       "lng": 6.232627868652344
+    },
+    {
+      "key": "104281",
+      "category": "Modul BLS-AED",
+      "city": "Fleurier",
+      "first_date": "2026-10-07",
+      "last_date": "2026-11-12",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104281",
+      "canton": "NE",
+      "lat": 46.90297317504883,
+      "lng": 6.582729339599609
     },
     {
       "key": "99550",
@@ -1191,6 +1205,48 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104283",
+      "category": "WK BLS-AED",
+      "city": "Binningen",
+      "first_date": "2026-10-17",
+      "last_date": "2026-10-17",
+      "company": "SLRG Basel",
+      "participation_max": 18,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104283",
+      "canton": "BL",
+      "lat": 47.5363655090332,
+      "lng": 7.567534923553467
+    },
+    {
+      "key": "104284",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-10-17",
+      "last_date": "2026-10-17",
+      "company": "SLRG Basel",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104284",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104285",
+      "category": "WK Pool Plus",
+      "city": "Binningen",
+      "first_date": "2026-10-17",
+      "last_date": "2026-10-17",
+      "company": "SLRG Basel",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104285",
+      "canton": "BL",
+      "lat": 47.5363655090332,
+      "lng": 7.567534923553467
     },
     {
       "key": "100693",
@@ -2003,6 +2059,34 @@
       "canton": "VD",
       "lat": 46.821258544921875,
       "lng": 6.931630611419678
+    },
+    {
+      "key": "104275",
+      "category": "Brevet Basis Pool",
+      "city": "Paradiso",
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-24",
+      "company": "SSS Paradiso",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104275",
+      "canton": "TI",
+      "lat": 45.98849105834961,
+      "lng": 8.953682899475098
+    },
+    {
+      "key": "104276",
+      "category": "Brevet Plus Pool",
+      "city": "Paradiso",
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-24",
+      "company": "SSS Paradiso",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104276",
+      "canton": "TI",
+      "lat": 45.98849105834961,
+      "lng": 8.953682899475098
     },
     {
       "key": "99546",
@@ -3013,6 +3097,20 @@
       "lng": null
     },
     {
+      "key": "104266",
+      "category": "Brevet Basis Pool",
+      "city": "Schaffhausen",
+      "first_date": "2026-10-28",
+      "last_date": "2026-11-04",
+      "company": "SLRG Sektion Schaffhausen",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104266",
+      "canton": "SH",
+      "lat": 47.7188606262207,
+      "lng": 8.640215873718262
+    },
+    {
       "key": "102196",
       "category": "WK BLS-AED",
       "city": "Hohenrain",
@@ -3923,6 +4021,34 @@
       "lng": 7.529796123504639
     },
     {
+      "key": "104278",
+      "category": "Modul BLS-AED",
+      "city": "Fleurier",
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104278",
+      "canton": "NE",
+      "lat": 46.90297317504883,
+      "lng": 6.582729339599609
+    },
+    {
+      "key": "104279",
+      "category": "WK BLS-AED",
+      "city": "Fleurier",
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104279",
+      "canton": "NE",
+      "lat": 46.90297317504883,
+      "lng": 6.582729339599609
+    },
+    {
       "key": "101926",
       "category": "WK BLS-AED",
       "city": "Yverdon-les-Bains",
@@ -4067,7 +4193,7 @@
       "category": "Jugendbrevet",
       "city": "Bernex",
       "first_date": "2026-11-06",
-      "last_date": "2026-11-27",
+      "last_date": "2026-12-04",
       "company": "SSS Genève",
       "participation_max": 16,
       "registered": 0,
@@ -4817,6 +4943,34 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104267",
+      "category": "WK Pool Basis",
+      "city": "Schaffhausen",
+      "first_date": "2026-11-11",
+      "last_date": "2026-11-11",
+      "company": "SLRG Sektion Schaffhausen",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104267",
+      "canton": "SH",
+      "lat": 47.7188606262207,
+      "lng": 8.640215873718262
+    },
+    {
+      "key": "104280",
+      "category": "WK BLS-AED",
+      "city": "Fleurier",
+      "first_date": "2026-11-11",
+      "last_date": "2026-11-11",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104280",
+      "canton": "NE",
+      "lat": 46.90297317504883,
+      "lng": 6.582729339599609
     },
     {
       "key": "100248",
@@ -6449,7 +6603,7 @@
       "first_date": "2026-11-28",
       "last_date": "2026-11-28",
       "company": "SLRG Chur",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100224",
       "canton": "GR",
@@ -7107,7 +7261,7 @@
       "first_date": "2026-12-05",
       "last_date": "2026-12-05",
       "company": "SLRG Chur",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100223",
       "canton": "GR",
@@ -7471,7 +7625,7 @@
       "first_date": "2026-12-12",
       "last_date": "2026-12-12",
       "company": "SLRG Chur",
-      "participation_max": 12,
+      "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100230",
       "canton": "GR",
@@ -7626,7 +7780,7 @@
       "last_date": "2026-12-13",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100695",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -8200,7 +8354,7 @@
       "last_date": "2027-02-02",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102699",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -11959,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T09:03:51+0000"
+  "geocoded_at": "2026-10-08T10:01:41+0000"
 }
