@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-08T21:01:16+0000",
-  "count": 884,
+  "scraped_at": "2026-10-08T22:01:06+0000",
+  "count": 881,
   "courses": [
     {
       "key": "102540",
@@ -449,48 +449,6 @@
       "canton": "NE",
       "lat": 46.90297317504883,
       "lng": 6.582729339599609
-    },
-    {
-      "key": "99550",
-      "category": "WK BLS-AED",
-      "city": "Zürich",
-      "first_date": "2026-10-08",
-      "last_date": "2026-10-08",
-      "company": "SLRG Höngg",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99550",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
-    },
-    {
-      "key": "101557",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-10-08",
-      "last_date": "2026-10-08",
-      "company": "SLRG Oberwallis",
-      "participation_max": 3,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101557",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101559",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-10-08",
-      "last_date": "2026-10-08",
-      "company": "SLRG Oberwallis",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101559",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103321",
@@ -12379,5 +12337,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T21:01:16+0000"
+  "geocoded_at": "2026-10-08T22:01:06+0000"
 }
