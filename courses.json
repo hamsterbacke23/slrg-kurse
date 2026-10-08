@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T05:01:54+0000",
+  "scraped_at": "2026-10-08T06:01:01+0000",
   "count": 854,
   "courses": [
     {
@@ -5442,7 +5442,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103971",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -6212,7 +6212,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Limpachtal",
       "participation_max": 9,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104243",
       "canton": "BE",
       "lat": 47.065650939941406,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-08T05:01:54+0000"
+  "geocoded_at": "2026-10-08T06:01:01+0000"
 }
