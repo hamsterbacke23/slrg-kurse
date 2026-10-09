@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T18:01:05+0000",
+  "scraped_at": "2026-10-09T19:00:50+0000",
   "count": 879,
   "courses": [
     {
@@ -4896,7 +4896,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Ascona",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100930",
       "canton": "TI",
       "lat": 46.148372650146484,
@@ -5750,7 +5750,7 @@
       "last_date": "2026-11-20",
       "company": "SSS Ascona",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100931",
       "canton": "TI",
       "lat": 46.16434097290039,
@@ -11238,7 +11238,7 @@
       "last_date": "2027-09-04",
       "company": "SSS Région Romande",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104164",
       "canton": "VD",
       "lat": 46.4063606262207,
@@ -12309,5 +12309,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T18:01:05+0000"
+  "geocoded_at": "2026-10-09T19:00:51+0000"
 }
