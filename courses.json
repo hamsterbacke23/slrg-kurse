@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T10:01:10+0000",
+  "scraped_at": "2026-10-09T11:01:01+0000",
   "count": 885,
   "courses": [
     {
@@ -4826,7 +4826,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101519",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -8802,7 +8802,7 @@
       "last_date": "2027-01-30",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104252",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T10:01:10+0000"
+  "geocoded_at": "2026-10-09T11:01:01+0000"
 }
