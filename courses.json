@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T09:03:31+0000",
+  "scraped_at": "2026-10-09T10:01:10+0000",
   "count": 885,
   "courses": [
     {
@@ -780,7 +780,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Bellinzona",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103734",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -1130,7 +1130,7 @@
       "last_date": "2026-10-17",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103485",
       "canton": null,
       "lat": null,
@@ -3888,7 +3888,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Nord-Vaudois",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102019",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -5204,7 +5204,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Reiden",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101599",
       "canton": null,
       "lat": null,
@@ -5582,7 +5582,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102582",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T09:03:31+0000"
+  "geocoded_at": "2026-10-09T10:01:10+0000"
 }
