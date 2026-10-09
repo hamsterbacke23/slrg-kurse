@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-09T06:01:36+0000",
-  "count": 882,
+  "scraped_at": "2026-10-09T07:11:02+0000",
+  "count": 885,
   "courses": [
     {
       "key": "102540",
@@ -423,20 +423,6 @@
       "lng": 6.232627868652344
     },
     {
-      "key": "103211",
-      "category": "WK BLS-AED",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-10-06",
-      "last_date": "2026-10-06",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103211",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
-    },
-    {
       "key": "104281",
       "category": "Modul BLS-AED",
       "city": "Fleurier",
@@ -715,6 +701,20 @@
       "canton": "BL",
       "lat": 47.52326583862305,
       "lng": 7.6465020179748535
+    },
+    {
+      "key": "104305",
+      "category": "WK Pool Plus",
+      "city": "Dietlikon",
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "company": "SLRG Kloten",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104305",
+      "canton": "ZH",
+      "lat": 47.42268371582031,
+      "lng": 8.613987922668457
     },
     {
       "key": "99998",
@@ -1788,7 +1788,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103578",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2031,6 +2031,20 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
+    },
+    {
+      "key": "104304",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "company": "SSS St. Maurice",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104304",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "99546",
@@ -2922,7 +2936,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 30,
-      "registered": 13,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103142",
       "canton": "GR",
       "lat": 46.437503814697266,
@@ -6562,7 +6576,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Zug",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100908",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -6576,7 +6590,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Zug",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100909",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -7423,6 +7437,20 @@
       "lng": 7.161778926849365
     },
     {
+      "key": "104303",
+      "category": "WK Pool Plus",
+      "city": "Charmey (Gruyère)",
+      "first_date": "2026-12-09",
+      "last_date": "2026-12-09",
+      "company": "SSS Charmey",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104303",
+      "canton": "FR",
+      "lat": 46.62118148803711,
+      "lng": 7.161526203155518
+    },
+    {
       "key": "101924",
       "category": "WK BLS-AED",
       "city": "Yverdon-les-Bains",
@@ -8023,6 +8051,20 @@
       "canton": "ZH",
       "lat": 47.42268371582031,
       "lng": 8.613987922668457
+    },
+    {
+      "key": "104302",
+      "category": "WK BLS-AED",
+      "city": "Charmey (Gruyère)",
+      "first_date": "2026-12-19",
+      "last_date": "2026-12-19",
+      "company": "SSS Charmey",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104302",
+      "canton": "FR",
+      "lat": 46.62118148803711,
+      "lng": 7.161526203155518
     },
     {
       "key": "103684",
@@ -12351,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T06:01:36+0000"
+  "geocoded_at": "2026-10-09T07:11:02+0000"
 }
