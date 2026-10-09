@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T08:03:37+0000",
+  "scraped_at": "2026-10-09T09:03:31+0000",
   "count": 885,
   "courses": [
     {
@@ -2376,7 +2376,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103399",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -3020,7 +3020,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103900",
       "canton": null,
       "lat": null,
@@ -3781,20 +3781,6 @@
       "canton": "NE",
       "lat": 47.11421203613281,
       "lng": 6.84379243850708
-    },
-    {
-      "key": "104260",
-      "category": "WK BLS-AED",
-      "city": "Nyon",
-      "first_date": "2026-11-02",
-      "last_date": "2026-12-23",
-      "company": "SSS Genève",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104260",
-      "canton": "VD",
-      "lat": 46.38344955444336,
-      "lng": 6.232627868652344
     },
     {
       "key": "100780",
@@ -7001,6 +6987,20 @@
       "canton": "FR",
       "lat": 46.80337142944336,
       "lng": 7.161778926849365
+    },
+    {
+      "key": "104260",
+      "category": "WK BLS-AED",
+      "city": "Nyon",
+      "first_date": "2026-12-02",
+      "last_date": "2027-01-29",
+      "company": "SSS Genève",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104260",
+      "canton": "VD",
+      "lat": 46.38344955444336,
+      "lng": 6.232627868652344
     },
     {
       "key": "98754",
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T08:03:37+0000"
+  "geocoded_at": "2026-10-09T09:03:31+0000"
 }
