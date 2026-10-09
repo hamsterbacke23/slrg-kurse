@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T12:01:11+0000",
+  "scraped_at": "2026-10-09T13:04:55+0000",
   "count": 885,
   "courses": [
     {
@@ -822,7 +822,7 @@
       "last_date": "2026-10-14",
       "company": "SLRG Frauenfeld",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104087",
       "canton": null,
       "lat": null,
@@ -8018,7 +8018,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103864",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T12:01:11+0000"
+  "geocoded_at": "2026-10-09T13:04:55+0000"
 }
