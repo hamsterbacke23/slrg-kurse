@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-09T15:01:07+0000",
-  "count": 881,
+  "scraped_at": "2026-10-09T16:01:22+0000",
+  "count": 880,
   "courses": [
     {
       "key": "102540",
@@ -197,20 +197,6 @@
       "canton": "VD",
       "lat": 46.768096923828125,
       "lng": 6.632878303527832
-    },
-    {
-      "key": "103563",
-      "category": "Brevet Plus Pool",
-      "city": "Brunnen",
-      "first_date": "2026-09-03",
-      "last_date": "2026-10-09",
-      "company": "Bildungszentrale Innerschweiz",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103563",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
     },
     {
       "key": "100646",
@@ -2656,7 +2642,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103465",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3440,7 +3426,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -6520,7 +6506,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Zug",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100909",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -12337,5 +12323,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T15:01:07+0000"
+  "geocoded_at": "2026-10-09T16:01:22+0000"
 }
