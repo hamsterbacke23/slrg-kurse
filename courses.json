@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T11:01:01+0000",
+  "scraped_at": "2026-10-09T12:01:11+0000",
   "count": 885,
   "courses": [
     {
@@ -1760,7 +1760,7 @@
       "last_date": "2026-10-22",
       "company": "SLRG Innerschwyz",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101800",
       "canton": "VS",
       "lat": 46.288421630859375,
@@ -3131,8 +3131,8 @@
       "first_date": "2026-10-30",
       "last_date": "2026-10-30",
       "company": "SLRG Sektion Bern",
-      "participation_max": 4,
-      "registered": 4,
+      "participation_max": 5,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100980",
       "canton": null,
       "lat": null,
@@ -3145,8 +3145,8 @@
       "first_date": "2026-10-30",
       "last_date": "2026-10-30",
       "company": "SLRG Sektion Bern",
-      "participation_max": 12,
-      "registered": 12,
+      "participation_max": 11,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100981",
       "canton": null,
       "lat": null,
@@ -4126,7 +4126,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103950",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -5722,7 +5722,7 @@
       "last_date": "2026-11-18",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103952",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -5918,7 +5918,7 @@
       "last_date": "2026-11-27",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103953",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T11:01:01+0000"
+  "geocoded_at": "2026-10-09T12:01:11+0000"
 }
