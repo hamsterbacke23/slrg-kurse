@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-09T16:01:22+0000",
-  "count": 880,
+  "scraped_at": "2026-10-09T17:00:59+0000",
+  "count": 879,
   "courses": [
     {
       "key": "102540",
@@ -183,20 +183,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "103335",
-      "category": "WK Pool Pro",
-      "city": "Yverdon-les-Bains",
-      "first_date": "2026-09-02",
-      "last_date": "2026-09-02",
-      "company": "SSS Nord-Vaudois",
-      "participation_max": 16,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103335",
-      "canton": "VD",
-      "lat": 46.768096923828125,
-      "lng": 6.632878303527832
     },
     {
       "key": "100646",
@@ -2740,7 +2726,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Appenzell",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100254",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -12323,5 +12309,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T16:01:22+0000"
+  "geocoded_at": "2026-10-09T17:00:59+0000"
 }
