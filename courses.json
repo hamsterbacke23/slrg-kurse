@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T07:11:02+0000",
+  "scraped_at": "2026-10-09T08:03:37+0000",
   "count": 885,
   "courses": [
     {
@@ -7906,7 +7906,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103332",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -9796,7 +9796,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104125",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -9922,7 +9922,7 @@
       "last_date": "2027-04-11",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104128",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T07:11:02+0000"
+  "geocoded_at": "2026-10-09T08:03:37+0000"
 }
