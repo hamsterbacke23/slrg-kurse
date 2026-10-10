@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-10T05:01:18+0000",
-  "count": 875,
+  "scraped_at": "2026-10-10T06:01:21+0000",
+  "count": 874,
   "courses": [
     {
       "key": "102540",
@@ -3347,20 +3347,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100588",
-      "category": "WK Pool Plus",
-      "city": "Coppet",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SSS La Côte",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
     },
     {
       "key": "101321",
@@ -12253,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-10T05:01:18+0000"
+  "geocoded_at": "2026-10-10T06:01:21+0000"
 }
