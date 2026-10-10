@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-10T08:01:09+0000",
-  "count": 873,
+  "scraped_at": "2026-10-10T09:01:12+0000",
+  "count": 872,
   "courses": [
     {
       "key": "102540",
@@ -337,20 +337,6 @@
       "canton": "NE",
       "lat": 46.90297317504883,
       "lng": 6.582729339599609
-    },
-    {
-      "key": "103321",
-      "category": "Brevet Basis Pool",
-      "city": "Bern",
-      "first_date": "2026-10-08",
-      "last_date": "2026-10-08",
-      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103321",
-      "canton": "BE",
-      "lat": 46.954559326171875,
-      "lng": 7.420684814453125
     },
     {
       "key": "99905",
@@ -4490,7 +4476,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103598",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -5778,7 +5764,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100371",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -7934,7 +7920,7 @@
       "last_date": "2027-01-21",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104008",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -8018,7 +8004,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Pfäffikon",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103583",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -12225,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-10T08:01:09+0000"
+  "geocoded_at": "2026-10-10T09:01:12+0000"
 }
