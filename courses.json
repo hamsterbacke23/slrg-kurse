@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-10T06:01:21+0000",
-  "count": 874,
+  "scraped_at": "2026-10-10T07:05:51+0000",
+  "count": 873,
   "courses": [
     {
       "key": "102540",
@@ -2773,20 +2773,6 @@
       "canton": "BL",
       "lat": 47.54563903808594,
       "lng": 7.536828994750977
-    },
-    {
-      "key": "103141",
-      "category": "WK Pool Basis",
-      "city": "Pontresina",
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "company": "SLRG St. Moritz-Engadin",
-      "participation_max": 20,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103141",
-      "canton": "GR",
-      "lat": 46.437503814697266,
-      "lng": 9.972612380981445
     },
     {
       "key": "103142",
@@ -7864,7 +7850,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103864",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -8830,7 +8816,7 @@
       "last_date": "2027-02-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103676",
       "canton": null,
       "lat": null,
@@ -12239,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-10T06:01:21+0000"
+  "geocoded_at": "2026-10-10T07:05:51+0000"
 }
