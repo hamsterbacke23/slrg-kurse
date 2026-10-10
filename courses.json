@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-10T09:01:12+0000",
-  "count": 872,
+  "scraped_at": "2026-10-10T10:00:50+0000",
+  "count": 871,
   "courses": [
     {
       "key": "102540",
@@ -393,20 +393,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103421",
-      "category": "WK Pool Plus",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-10",
-      "company": "SSS Genève",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103421",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
     },
     {
       "key": "100699",
@@ -12211,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-10T09:01:12+0000"
+  "geocoded_at": "2026-10-10T10:00:50+0000"
 }
