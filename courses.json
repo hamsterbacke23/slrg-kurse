@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-10T14:00:42+0000",
-  "count": 871,
+  "scraped_at": "2026-10-10T15:00:58+0000",
+  "count": 868,
   "courses": [
     {
       "key": "102540",
@@ -283,20 +283,6 @@
       "lng": 8.640215873718262
     },
     {
-      "key": "103551",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-10-01",
-      "last_date": "2026-10-09",
-      "company": "SLRG Sektion Bern",
-      "participation_max": 16,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103551",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103878",
       "category": "Brevet Basis Pool",
       "city": "Payerne",
@@ -351,34 +337,6 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
-    },
-    {
-      "key": "99441",
-      "category": "Brevet Plus Pool",
-      "city": "Aarau",
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-17",
-      "company": "SLRG Aarau",
-      "participation_max": 4,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99441",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
-    },
-    {
-      "key": "100700",
-      "category": "Brevet Basis Pool",
-      "city": "Spreitenbach",
-      "first_date": "2026-10-10",
-      "last_date": "2026-10-10",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100700",
-      "canton": "AG",
-      "lat": 47.41796112060547,
-      "lng": 8.362970352172852
     },
     {
       "key": "101184",
@@ -1256,7 +1214,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -5386,7 +5344,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102582",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -12197,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-10T14:00:42+0000"
+  "geocoded_at": "2026-10-10T15:00:58+0000"
 }
