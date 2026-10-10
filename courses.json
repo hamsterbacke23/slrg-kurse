@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-09T23:01:01+0000",
+  "scraped_at": "2026-10-10T00:01:44+0000",
   "count": 875,
   "courses": [
     {
@@ -4434,7 +4434,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103966",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -12253,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-09T23:01:01+0000"
+  "geocoded_at": "2026-10-10T00:01:44+0000"
 }
