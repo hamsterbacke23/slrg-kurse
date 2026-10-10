@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-10T22:01:12+0000",
+  "scraped_at": "2026-10-10T23:00:53+0000",
   "count": 867,
   "courses": [
     {
@@ -556,7 +556,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Bellinzona",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103734",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-10T22:01:12+0000"
+  "geocoded_at": "2026-10-10T23:00:53+0000"
 }
