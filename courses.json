@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T09:01:08+0000",
+  "scraped_at": "2026-10-11T10:00:59+0000",
   "count": 867,
   "courses": [
     {
@@ -1172,7 +1172,7 @@
       "last_date": "2026-10-19",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103665",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -2614,7 +2614,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102677",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -5848,7 +5848,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103573",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -8186,7 +8186,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104056",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-11T09:01:08+0000"
+  "geocoded_at": "2026-10-11T10:00:59+0000"
 }
