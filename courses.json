@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T17:00:48+0000",
+  "scraped_at": "2026-10-11T18:01:23+0000",
   "count": 867,
   "courses": [
     {
@@ -7836,7 +7836,7 @@
       "last_date": "2027-01-07",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103729",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-11T17:00:48+0000"
+  "geocoded_at": "2026-10-11T18:01:23+0000"
 }
