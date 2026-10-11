@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T21:00:48+0000",
+  "scraped_at": "2026-10-11T22:00:53+0000",
   "count": 866,
   "courses": [
     {
@@ -710,7 +710,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -3566,7 +3566,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103397",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -12127,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-11T21:00:48+0000"
+  "geocoded_at": "2026-10-11T22:00:53+0000"
 }
