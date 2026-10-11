@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T16:00:54+0000",
+  "scraped_at": "2026-10-11T17:00:48+0000",
   "count": 867,
   "courses": [
     {
@@ -780,7 +780,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Mittelrheintal",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100162",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -5358,7 +5358,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Winterthur",
       "participation_max": 18,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99337",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -6800,7 +6800,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99569",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -7836,7 +7836,7 @@
       "last_date": "2027-01-07",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103729",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-11T16:00:54+0000"
+  "geocoded_at": "2026-10-11T17:00:48+0000"
 }
