@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T10:00:59+0000",
+  "scraped_at": "2026-10-11T11:00:48+0000",
   "count": 867,
   "courses": [
     {
@@ -1270,7 +1270,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1298,7 +1298,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103959",
       "canton": null,
       "lat": null,
@@ -5078,7 +5078,7 @@
       "last_date": "2026-11-15",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 1,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104004",
       "canton": null,
       "lat": null,
@@ -12120,7 +12120,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-11T10:00:59+0000"
+  "geocoded_at": "2026-10-11T11:00:48+0000"
 }
