@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12T18:00:53+0000",
-  "count": 870,
+  "scraped_at": "2026-10-12T19:01:55+0000",
+  "count": 871,
   "courses": [
     {
       "key": "102540",
@@ -437,6 +437,20 @@
       "lng": 7.6465020179748535
     },
     {
+      "key": "104090",
+      "category": "WK Pool Pro",
+      "city": "Genève",
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-20",
+      "company": "SSS Genève",
+      "participation_max": 5,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104090",
+      "canton": "GE",
+      "lat": 46.204559326171875,
+      "lng": 6.1424560546875
+    },
+    {
       "key": "104305",
       "category": "WK Pool Plus",
       "city": "Dietlikon",
@@ -850,7 +864,7 @@
       "last_date": "2026-10-17",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103485",
       "canton": null,
       "lat": null,
@@ -1438,7 +1452,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99298",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -2222,7 +2236,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 24,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101049",
       "canton": null,
       "lat": null,
@@ -4350,7 +4364,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103598",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -4714,7 +4728,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103385",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -7808,7 +7822,7 @@
       "last_date": "2027-01-07",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103729",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -12183,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-12T18:00:53+0000"
+  "geocoded_at": "2026-10-12T19:01:55+0000"
 }
