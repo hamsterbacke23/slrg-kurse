@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12T08:15:09+0000",
-  "count": 864,
+  "scraped_at": "2026-10-12T09:11:40+0000",
+  "count": 870,
   "courses": [
     {
       "key": "102540",
@@ -365,20 +365,6 @@
       "canton": "BE",
       "lat": 46.954559326171875,
       "lng": 7.420684814453125
-    },
-    {
-      "key": "103463",
-      "category": "Brevet Basis Pool",
-      "city": "Sion",
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-19",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103463",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
     },
     {
       "key": "103772",
@@ -4518,11 +4504,25 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103883",
       "canton": "SG",
       "lat": 47.38753128051758,
       "lng": 9.553507804870605
+    },
+    {
+      "key": "104319",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-10",
+      "company": "Société Internationale de Sauvetage du Léman",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104319",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "101519",
@@ -5679,8 +5679,8 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
-      "participation_max": 8,
-      "registered": 8,
+      "participation_max": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100373",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -7773,6 +7773,20 @@
       "lng": 7.161526203155518
     },
     {
+      "key": "104282",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2027-01-06",
+      "last_date": "2027-01-06",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104282",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103684",
       "category": "Brevet Basis Pool",
       "city": "Zürich",
@@ -8515,6 +8529,20 @@
       "lng": 7.342846393585205
     },
     {
+      "key": "104277",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2027-01-30",
+      "last_date": "2027-01-30",
+      "company": "SLRG St. Moritz-Engadin",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104277",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103714",
       "category": "Modul BLS-AED",
       "city": "Fribourg",
@@ -8725,6 +8753,20 @@
       "lng": 7.161778926849365
     },
     {
+      "key": "104009",
+      "category": "Brevet Basis Pool",
+      "city": "Winterthur",
+      "first_date": "2027-02-18",
+      "last_date": "2027-02-18",
+      "company": "SLRG Winterthur",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104009",
+      "canton": "ZH",
+      "lat": 47.49905014038086,
+      "lng": 8.720227241516113
+    },
+    {
       "key": "103502",
       "category": "WK Pool Plus",
       "city": "Zug",
@@ -8737,6 +8779,20 @@
       "canton": "ZG",
       "lat": 47.151554107666016,
       "lng": 8.521272659301758
+    },
+    {
+      "key": "104017",
+      "category": "Brevet Plus Pool",
+      "city": "Winterthur",
+      "first_date": "2027-02-19",
+      "last_date": "2027-02-19",
+      "company": "SLRG Winterthur",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104017",
+      "canton": "ZH",
+      "lat": 47.49905014038086,
+      "lng": 8.720227241516113
     },
     {
       "key": "101672",
@@ -9619,6 +9675,34 @@
       "canton": "TI",
       "lat": 46.21047592163086,
       "lng": 8.988633155822754
+    },
+    {
+      "key": "104022",
+      "category": "WK Pool Basis",
+      "city": "Winterthur",
+      "first_date": "2027-04-11",
+      "last_date": "2027-04-11",
+      "company": "SLRG Winterthur",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104022",
+      "canton": "ZH",
+      "lat": 47.49905014038086,
+      "lng": 8.720227241516113
+    },
+    {
+      "key": "104028",
+      "category": "WK Pool Plus",
+      "city": "Winterthur",
+      "first_date": "2027-04-11",
+      "last_date": "2027-04-11",
+      "company": "SLRG Winterthur",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104028",
+      "canton": "ZH",
+      "lat": 47.49905014038086,
+      "lng": 8.720227241516113
     },
     {
       "key": "104128",
@@ -12099,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-12T08:15:09+0000"
+  "geocoded_at": "2026-10-12T09:11:40+0000"
 }
