@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-12T14:07:56+0000",
+  "scraped_at": "2026-10-12T15:04:36+0000",
   "count": 869,
   "courses": [
     {
@@ -206,7 +206,7 @@
       "last_date": "2026-10-15",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103858",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -430,7 +430,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103396",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -808,7 +808,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103075",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -1214,7 +1214,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3258,7 +3258,7 @@
       "last_date": "2026-11-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102990",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -4700,7 +4700,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103385",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -5708,7 +5708,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101684",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -5988,7 +5988,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Zug",
       "participation_max": 25,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103899",
       "canton": null,
       "lat": null,
@@ -12169,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-12T14:07:56+0000"
+  "geocoded_at": "2026-10-12T15:04:36+0000"
 }
