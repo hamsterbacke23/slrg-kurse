@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-12T05:08:25+0000",
+  "scraped_at": "2026-10-12T06:04:32+0000",
   "count": 866,
   "courses": [
     {
@@ -7430,7 +7430,7 @@
       "last_date": "2026-12-12",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102190",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -7528,7 +7528,7 @@
       "last_date": "2026-12-14",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103331",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -12127,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-12T05:08:25+0000"
+  "geocoded_at": "2026-10-12T06:04:32+0000"
 }
