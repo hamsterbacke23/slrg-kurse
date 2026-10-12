@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12T20:00:55+0000",
-  "count": 871,
+  "scraped_at": "2026-10-12T21:00:54+0000",
+  "count": 870,
   "courses": [
     {
       "key": "102540",
@@ -24,7 +24,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Weggis",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103428",
       "canton": null,
       "lat": null,
@@ -52,7 +52,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Weggis",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104258",
       "canton": null,
       "lat": null,
@@ -337,20 +337,6 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
-    },
-    {
-      "key": "102988",
-      "category": "Brevet Basis Pool",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-10-11",
-      "last_date": "2026-10-11",
-      "company": "SLRG Emmental",
-      "participation_max": 14,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102988",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
     },
     {
       "key": "100898",
@@ -724,7 +710,7 @@
       "last_date": "2026-10-16",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104179",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -5078,7 +5064,7 @@
       "last_date": "2026-11-14",
       "company": "SSS Sion",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104246",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -12197,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-12T20:00:55+0000"
+  "geocoded_at": "2026-10-12T21:00:54+0000"
 }
