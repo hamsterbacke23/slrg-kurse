@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12T06:04:32+0000",
-  "count": 866,
+  "scraped_at": "2026-10-12T07:25:28+0000",
+  "count": 864,
   "courses": [
     {
       "key": "102540",
@@ -367,20 +367,6 @@
       "lng": 7.420684814453125
     },
     {
-      "key": "102945",
-      "category": "Jugendbrevet",
-      "city": "Oberwil BL",
-      "first_date": "2026-10-12",
-      "last_date": "2026-11-30",
-      "company": "SLRG Oberwil",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102945",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
-    },
-    {
       "key": "103463",
       "category": "Brevet Basis Pool",
       "city": "Sion",
@@ -617,20 +603,6 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
-    },
-    {
-      "key": "100247",
-      "category": "WK BLS-AED",
-      "city": "Chur",
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "company": "SLRG Chur",
-      "participation_max": 0,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100247",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
     },
     {
       "key": "100861",
@@ -1256,7 +1228,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -5120,7 +5092,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Lachen",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101359",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -12127,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-12T06:04:32+0000"
+  "geocoded_at": "2026-10-12T07:25:28+0000"
 }
