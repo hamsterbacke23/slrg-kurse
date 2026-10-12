@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-12T13:22:21+0000",
-  "count": 870,
+  "scraped_at": "2026-10-12T14:07:56+0000",
+  "count": 869,
   "courses": [
     {
       "key": "102540",
@@ -2367,20 +2367,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101640",
-      "category": "WK BLS-AED",
-      "city": "Delémont",
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "company": "SSS Delémont",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101640",
-      "canton": "JU",
-      "lat": 47.37165451049805,
-      "lng": 7.331088542938232
     },
     {
       "key": "102579",
@@ -5120,7 +5106,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101616",
       "canton": null,
       "lat": null,
@@ -6674,7 +6660,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103807",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -12183,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-12T13:22:22+0000"
+  "geocoded_at": "2026-10-12T14:07:56+0000"
 }
