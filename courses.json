@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-12T07:25:28+0000",
+  "scraped_at": "2026-10-12T08:15:09+0000",
   "count": 864,
   "courses": [
     {
@@ -1564,7 +1564,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104230",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -1732,7 +1732,7 @@
       "last_date": "2026-10-23",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104229",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -5092,7 +5092,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Lachen",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101359",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -12099,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-12T07:25:28+0000"
+  "geocoded_at": "2026-10-12T08:15:09+0000"
 }
