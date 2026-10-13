@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T20:01:02+0000",
+  "scraped_at": "2026-10-13T21:01:21+0000",
   "count": 865,
   "courses": [
     {
@@ -416,7 +416,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103396",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -5190,7 +5190,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104241",
       "canton": null,
       "lat": null,
@@ -5204,7 +5204,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Luzern",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104242",
       "canton": null,
       "lat": null,
@@ -12113,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-13T20:01:02+0000"
+  "geocoded_at": "2026-10-13T21:01:21+0000"
 }
