@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T18:01:17+0000",
+  "scraped_at": "2026-10-13T19:01:19+0000",
   "count": 864,
   "courses": [
     {
@@ -836,7 +836,7 @@
       "last_date": "2026-10-17",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103485",
       "canton": null,
       "lat": null,
@@ -850,7 +850,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103626",
       "canton": null,
       "lat": null,
@@ -3440,7 +3440,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104187",
       "canton": null,
       "lat": null,
@@ -6520,7 +6520,7 @@
       "last_date": "2026-12-08",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104188",
       "canton": null,
       "lat": null,
@@ -7486,7 +7486,7 @@
       "last_date": "2027-01-19",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104189",
       "canton": null,
       "lat": null,
@@ -8312,7 +8312,7 @@
       "last_date": "2027-03-09",
       "company": "SSS Genève",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104190",
       "canton": null,
       "lat": null,
@@ -12099,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-13T18:01:18+0000"
+  "geocoded_at": "2026-10-13T19:01:19+0000"
 }
