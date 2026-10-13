@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T04:05:49+0000",
+  "scraped_at": "2026-10-13T05:03:31+0000",
   "count": 866,
   "courses": [
     {
@@ -52,7 +52,7 @@
       "last_date": "2026-08-13",
       "company": "SLRG Weggis",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104258",
       "canton": null,
       "lat": null,
@@ -5946,7 +5946,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Zug",
       "participation_max": 25,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103899",
       "canton": null,
       "lat": null,
@@ -12127,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-13T04:05:49+0000"
+  "geocoded_at": "2026-10-13T05:03:31+0000"
 }
