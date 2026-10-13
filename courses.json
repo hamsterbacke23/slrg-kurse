@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T13:09:30+0000",
+  "scraped_at": "2026-10-13T14:03:42+0000",
   "count": 865,
   "courses": [
     {
@@ -430,7 +430,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 5,
-      "registered": 1,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104090",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -668,7 +668,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -4994,7 +4994,7 @@
       "last_date": "2026-11-14",
       "company": "SSS Sion",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104246",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -8746,7 +8746,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104038",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12113,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-13T13:09:30+0000"
+  "geocoded_at": "2026-10-13T14:03:42+0000"
 }
