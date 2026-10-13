@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T05:03:31+0000",
+  "scraped_at": "2026-10-13T06:02:57+0000",
   "count": 866,
   "courses": [
     {
@@ -388,7 +388,7 @@
       "last_date": "2026-10-13",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103212",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2810,7 +2810,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG - SSS",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=90377",
       "canton": null,
       "lat": null,
@@ -5946,7 +5946,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Zug",
       "participation_max": 25,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103899",
       "canton": null,
       "lat": null,
@@ -7612,7 +7612,7 @@
       "last_date": "2026-12-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101248",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -12127,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-13T05:03:31+0000"
+  "geocoded_at": "2026-10-13T06:02:57+0000"
 }
