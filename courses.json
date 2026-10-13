@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T07:14:27+0000",
+  "scraped_at": "2026-10-13T08:05:57+0000",
   "count": 865,
   "courses": [
     {
@@ -38,7 +38,7 @@
       "last_date": "2026-08-07",
       "company": "SLRG Weggis",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103429",
       "canton": null,
       "lat": null,
@@ -1214,7 +1214,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3734,7 +3734,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103950",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -5358,7 +5358,7 @@
       "last_date": "2026-11-18",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103952",
       "canton": "VS",
       "lat": 46.243896484375,
@@ -5554,7 +5554,7 @@
       "last_date": "2026-11-27",
       "company": "SSS Lausanne",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103953",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -6912,7 +6912,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104060",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -12113,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-13T07:14:27+0000"
+  "geocoded_at": "2026-10-13T08:05:57+0000"
 }
