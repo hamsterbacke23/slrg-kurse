@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T11:01:58+0000",
+  "scraped_at": "2026-10-13T12:01:51+0000",
   "count": 865,
   "courses": [
     {
@@ -990,7 +990,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103795",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -2726,7 +2726,7 @@
       "last_date": "2026-10-29",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103664",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -3552,7 +3552,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103652",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -7402,7 +7402,7 @@
       "last_date": "2026-12-13",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102193",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -10370,7 +10370,7 @@
       "last_date": "2027-06-05",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103749",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12113,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-13T11:01:58+0000"
+  "geocoded_at": "2026-10-13T12:01:51+0000"
 }
