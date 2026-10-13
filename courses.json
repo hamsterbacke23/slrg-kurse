@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T10:02:37+0000",
+  "scraped_at": "2026-10-13T11:01:58+0000",
   "count": 865,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Sektion Bern",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100897",
       "canton": null,
       "lat": null,
@@ -1508,7 +1508,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103578",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2054,7 +2054,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103466",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -3230,7 +3230,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98753",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -9922,7 +9922,7 @@
       "last_date": "2027-05-08",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103704",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12113,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-13T10:02:37+0000"
+  "geocoded_at": "2026-10-13T11:01:58+0000"
 }
