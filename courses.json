@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T06:01:17+0000",
-  "count": 862,
+  "scraped_at": "2026-10-14T07:06:08+0000",
+  "count": 860,
   "courses": [
     {
       "key": "102540",
@@ -381,20 +381,6 @@
       "lng": 6.232627868652344
     },
     {
-      "key": "103212",
-      "category": "WK BLS-AED",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-13",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103212",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
-    },
-    {
       "key": "104090",
       "category": "WK Pool Pro",
       "city": "Genève",
@@ -421,20 +407,6 @@
       "canton": "BL",
       "lat": 47.483455657958984,
       "lng": 7.7250237464904785
-    },
-    {
-      "key": "101470",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-10-14",
-      "last_date": "2026-12-02",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101470",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "101909",
@@ -12071,5 +12043,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T06:01:17+0000"
+  "geocoded_at": "2026-10-14T07:06:08+0000"
 }
