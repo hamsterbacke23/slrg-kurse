@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T16:01:32+0000",
-  "count": 870,
+  "scraped_at": "2026-10-14T17:01:09+0000",
+  "count": 871,
   "courses": [
     {
       "key": "102540",
@@ -381,6 +381,20 @@
       "lng": 6.232627868652344
     },
     {
+      "key": "103212",
+      "category": "WK BLS-AED",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 4,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103212",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
+    },
+    {
       "key": "104090",
       "category": "WK Pool Pro",
       "city": "Genève",
@@ -416,7 +430,7 @@
       "last_date": "2026-12-16",
       "company": "SSS Bellinzona",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103734",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -1452,7 +1466,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104230",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -1620,7 +1634,7 @@
       "last_date": "2026-10-23",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104229",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -4028,7 +4042,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6016,7 +6030,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Meyrin",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103453",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -12183,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T16:01:32+0000"
+  "geocoded_at": "2026-10-14T17:01:10+0000"
 }
