@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T21:01:02+0000",
-  "count": 875,
+  "scraped_at": "2026-10-14T22:01:19+0000",
+  "count": 873,
   "courses": [
     {
       "key": "102540",
@@ -409,20 +409,6 @@
       "lng": 6.1424560546875
     },
     {
-      "key": "101909",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-28",
-      "company": "SLRG Büren a. A.",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101909",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103734",
       "category": "Jugendbrevet",
       "city": "Bellinzona",
@@ -491,20 +477,6 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
-    },
-    {
-      "key": "100861",
-      "category": "WK Pool Basis",
-      "city": "Luzern",
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 3,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100861",
-      "canton": "LU",
-      "lat": 47.05473327636719,
-      "lng": 8.300894737243652
     },
     {
       "key": "100866",
@@ -12253,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T21:01:02+0000"
+  "geocoded_at": "2026-10-14T22:01:19+0000"
 }
