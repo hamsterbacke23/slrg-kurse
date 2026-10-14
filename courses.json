@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T19:01:02+0000",
-  "count": 871,
+  "scraped_at": "2026-10-14T20:01:13+0000",
+  "count": 875,
   "courses": [
     {
       "key": "102540",
@@ -1919,6 +1919,62 @@
       "canton": "SG",
       "lat": 47.41975021362305,
       "lng": 9.143709182739258
+    },
+    {
+      "key": "103386",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 12,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103386",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103387",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103387",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103388",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 6,
+      "registered": 4,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103388",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103389",
+      "category": "WK Pool Pro",
+      "city": "",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SLRG Baden-Brugg",
+      "participation_max": 6,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103389",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103398",
@@ -10202,7 +10258,7 @@
       "last_date": "2027-05-22",
       "company": "SLRG Limpachtal",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104244",
       "canton": "SO",
       "lat": 47.13530731201172,
@@ -12197,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T19:01:02+0000"
+  "geocoded_at": "2026-10-14T20:01:13+0000"
 }
