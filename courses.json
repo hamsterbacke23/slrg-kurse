@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T13:01:12+0000",
-  "count": 871,
+  "scraped_at": "2026-10-14T14:01:08+0000",
+  "count": 870,
   "courses": [
     {
       "key": "102540",
@@ -407,20 +407,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103024",
-      "category": "Brevet Basis Pool",
-      "city": "Allschwil",
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-21",
-      "company": "SLRG Basel",
-      "participation_max": 18,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103024",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
     },
     {
       "key": "103734",
@@ -1032,7 +1018,7 @@
       "last_date": "2026-10-19",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103665",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -1760,7 +1746,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100882",
       "canton": null,
       "lat": null,
@@ -7458,7 +7444,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103614",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -12197,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T13:01:12+0000"
+  "geocoded_at": "2026-10-14T14:01:09+0000"
 }
