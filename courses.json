@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T11:01:08+0000",
+  "scraped_at": "2026-10-14T12:01:01+0000",
   "count": 871,
   "courses": [
     {
@@ -1004,7 +1004,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Val-de-Ruz",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102657",
       "canton": "NE",
       "lat": 47.06060028076172,
@@ -1647,7 +1647,7 @@
       "first_date": "2026-10-23",
       "last_date": "2026-10-24",
       "company": "SSS Paradiso",
-      "participation_max": 8,
+      "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104275",
       "canton": "TI",
@@ -2768,7 +2768,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Reiden",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100899",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -9866,7 +9866,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12197,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T11:01:08+0000"
+  "geocoded_at": "2026-10-14T12:01:01+0000"
 }
