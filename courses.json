@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T09:01:24+0000",
+  "scraped_at": "2026-10-14T10:01:14+0000",
   "count": 859,
   "courses": [
     {
@@ -2068,7 +2068,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101049",
       "canton": null,
       "lat": null,
@@ -4378,7 +4378,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101519",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4490,7 +4490,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101520",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -5050,7 +5050,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103590",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -8382,7 +8382,7 @@
       "last_date": "2027-01-30",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104277",
       "canton": null,
       "lat": null,
@@ -12029,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T09:01:24+0000"
+  "geocoded_at": "2026-10-14T10:01:14+0000"
 }
