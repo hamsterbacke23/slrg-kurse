@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T17:01:09+0000",
+  "scraped_at": "2026-10-14T18:01:12+0000",
   "count": 871,
   "courses": [
     {
@@ -934,7 +934,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103967",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -1172,7 +1172,7 @@
       "last_date": "2026-10-23",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -1186,7 +1186,7 @@
       "last_date": "2026-10-21",
       "company": "SLRG Hinwil",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101144",
       "canton": "ZH",
       "lat": 47.302894592285156,
@@ -1354,7 +1354,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99298",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -1760,7 +1760,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100882",
       "canton": null,
       "lat": null,
@@ -12197,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T17:01:10+0000"
+  "geocoded_at": "2026-10-14T18:01:12+0000"
 }
