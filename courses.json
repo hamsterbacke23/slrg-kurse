@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T20:01:13+0000",
+  "scraped_at": "2026-10-14T21:01:02+0000",
   "count": 875,
   "courses": [
     {
@@ -2838,7 +2838,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Reiden",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100902",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -6128,7 +6128,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Uri",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103968",
       "canton": null,
       "lat": null,
@@ -12253,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T20:01:13+0000"
+  "geocoded_at": "2026-10-14T21:01:02+0000"
 }
