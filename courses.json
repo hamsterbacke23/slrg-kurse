@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T08:01:06+0000",
+  "scraped_at": "2026-10-14T09:01:24+0000",
   "count": 859,
   "courses": [
     {
@@ -2656,7 +2656,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104240",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -5848,7 +5848,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Zug",
       "participation_max": 25,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103899",
       "canton": null,
       "lat": null,
@@ -9376,7 +9376,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104123",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -9390,7 +9390,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104124",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -9404,7 +9404,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104125",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -9418,7 +9418,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104126",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -12029,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T08:01:06+0000"
+  "geocoded_at": "2026-10-14T09:01:24+0000"
 }
