@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T05:00:44+0000",
-  "count": 863,
+  "scraped_at": "2026-10-14T06:01:17+0000",
+  "count": 862,
   "courses": [
     {
       "key": "102540",
@@ -407,20 +407,6 @@
       "canton": "GE",
       "lat": 46.204559326171875,
       "lng": 6.1424560546875
-    },
-    {
-      "key": "104305",
-      "category": "WK Pool Plus",
-      "city": "Dietlikon",
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-13",
-      "company": "SLRG Kloten",
-      "participation_max": 10,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104305",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
     },
     {
       "key": "99998",
@@ -12085,5 +12071,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-14T05:00:44+0000"
+  "geocoded_at": "2026-10-14T06:01:17+0000"
 }
