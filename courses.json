@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-15T21:01:07+0000",
-  "count": 870,
+  "scraped_at": "2026-10-15T22:01:02+0000",
+  "count": 866,
   "courses": [
     {
       "key": "102540",
@@ -197,20 +197,6 @@
       "canton": "AG",
       "lat": 47.346309661865234,
       "lng": 8.333881378173828
-    },
-    {
-      "key": "103858",
-      "category": "Brevet Basis Pool",
-      "city": "Weggis",
-      "first_date": "2026-09-13",
-      "last_date": "2026-10-15",
-      "company": "SLRG Küssnacht am Rigi",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103858",
-      "canton": "LU",
-      "lat": 47.03305435180664,
-      "lng": 8.431046485900879
     },
     {
       "key": "103964",
@@ -437,48 +423,6 @@
       "lng": 7.6857829093933105
     },
     {
-      "key": "99564",
-      "category": "WK Pool Basis",
-      "city": "Zürich",
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "company": "SLRG Höngg",
-      "participation_max": 5,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99564",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
-    },
-    {
-      "key": "99568",
-      "category": "WK Pool Plus",
-      "city": "Zürich",
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "company": "SLRG Höngg",
-      "participation_max": 11,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99568",
-      "canton": "ZH",
-      "lat": 47.37721252441406,
-      "lng": 8.527311325073242
-    },
-    {
-      "key": "100866",
-      "category": "WK Pool Plus",
-      "city": "Luzern",
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 10,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100866",
-      "canton": "LU",
-      "lat": 47.05473327636719,
-      "lng": 8.300894737243652
-    },
-    {
       "key": "100897",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -584,7 +528,7 @@
       "last_date": "2026-10-16",
       "company": "SLRG Sektion Olten",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104337",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -12183,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-15T21:01:08+0000"
+  "geocoded_at": "2026-10-15T22:01:02+0000"
 }
