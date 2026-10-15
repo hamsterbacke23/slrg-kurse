@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-15T09:01:23+0000",
+  "scraped_at": "2026-10-15T10:00:59+0000",
   "count": 872,
   "courses": [
     {
@@ -570,7 +570,7 @@
       "last_date": "2026-10-16",
       "company": "SLRG Küssnacht am Rigi",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104178",
       "canton": "LU",
       "lat": 47.03305435180664,
@@ -1424,7 +1424,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104230",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -5400,7 +5400,7 @@
       "last_date": "2026-11-19",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103581",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -7570,7 +7570,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99410",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-15T09:01:23+0000"
+  "geocoded_at": "2026-10-15T10:00:59+0000"
 }
