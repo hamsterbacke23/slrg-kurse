@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-15T05:01:20+0000",
+  "scraped_at": "2026-10-15T06:01:11+0000",
   "count": 873,
   "courses": [
     {
@@ -1984,7 +1984,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103464",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2586,7 +2586,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103900",
       "canton": null,
       "lat": null,
@@ -3468,7 +3468,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103214",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -12225,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-15T05:01:20+0000"
+  "geocoded_at": "2026-10-15T06:01:11+0000"
 }
