@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-15T06:01:11+0000",
-  "count": 873,
+  "scraped_at": "2026-10-15T07:06:03+0000",
+  "count": 872,
   "courses": [
     {
       "key": "102540",
@@ -631,20 +631,6 @@
       "canton": "SG",
       "lat": 47.396480560302734,
       "lng": 9.608860969543457
-    },
-    {
-      "key": "100323",
-      "category": "Modul BLS-AED",
-      "city": "Basel",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100323",
-      "canton": "BS",
-      "lat": 47.5545539855957,
-      "lng": 7.590269565582275
     },
     {
       "key": "101975",
@@ -1550,7 +1536,7 @@
       "last_date": "2026-10-23",
       "company": "SSS St. Maurice",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103451",
       "canton": null,
       "lat": null,
@@ -12225,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-15T06:01:11+0000"
+  "geocoded_at": "2026-10-15T07:06:03+0000"
 }
