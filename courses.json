@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-15T10:00:59+0000",
+  "scraped_at": "2026-10-15T11:00:59+0000",
   "count": 872,
   "courses": [
     {
@@ -4280,7 +4280,7 @@
       "last_date": "2026-11-10",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101518",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -5568,7 +5568,7 @@
       "last_date": "2026-11-20",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104226",
       "canton": null,
       "lat": null,
@@ -9880,7 +9880,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12211,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-15T10:00:59+0000"
+  "geocoded_at": "2026-10-15T11:00:59+0000"
 }
