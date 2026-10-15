@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-15T16:01:17+0000",
-  "count": 872,
+  "scraped_at": "2026-10-15T17:01:01+0000",
+  "count": 871,
   "courses": [
     {
       "key": "102540",
@@ -752,7 +752,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 18,
-      "registered": 2,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104283",
       "canton": "BL",
       "lat": 47.5363655090332,
@@ -925,20 +925,6 @@
       "canton": "BS",
       "lat": 47.5545539855957,
       "lng": 7.590269565582275
-    },
-    {
-      "key": "100321",
-      "category": "Brevet Plus Pool",
-      "city": "Liestal",
-      "first_date": "2026-10-19",
-      "last_date": "2026-11-16",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100321",
-      "canton": "BL",
-      "lat": 47.483455657958984,
-      "lng": 7.7250237464904785
     },
     {
       "key": "100856",
@@ -7724,7 +7710,7 @@
       "last_date": "2026-12-19",
       "company": "SSS Charmey",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104302",
       "canton": "FR",
       "lat": 46.62118148803711,
@@ -12211,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-15T16:01:17+0000"
+  "geocoded_at": "2026-10-15T17:01:01+0000"
 }
