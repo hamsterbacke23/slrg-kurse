@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-15T19:00:55+0000",
+  "scraped_at": "2026-10-15T20:01:12+0000",
   "count": 870,
   "courses": [
     {
@@ -681,8 +681,8 @@
       "first_date": "2026-10-17",
       "last_date": "2026-10-17",
       "company": "SSS Sion",
-      "participation_max": 4,
-      "registered": 4,
+      "participation_max": 5,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103247",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -696,7 +696,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 4,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103248",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -1816,7 +1816,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Winterthur",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -2488,7 +2488,7 @@
       "last_date": "2026-10-28",
       "company": "SRV Linth",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103650",
       "canton": "GL",
       "lat": 47.10641860961914,
@@ -6338,7 +6338,7 @@
       "last_date": "2026-11-28",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103487",
       "canton": null,
       "lat": null,
@@ -7920,7 +7920,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Mittelrheintal",
       "participation_max": 14,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103892",
       "canton": "SG",
       "lat": 47.45515823364258,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-15T19:00:55+0000"
+  "geocoded_at": "2026-10-15T20:01:12+0000"
 }
