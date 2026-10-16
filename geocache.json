@@ -534,6 +534,12 @@
     "lat": 47.366180419921875,
     "lng": 8.679778099060059
   },
+  "Grenchen": {
+    "canton": "SO",
+    "label": "Grenchen (SO)",
+    "lat": 47.19990921020508,
+    "lng": 7.3800787925720215
+  },
   "Grindelwald": {
     "canton": "BE",
     "label": "Grindelwald (BE)",
