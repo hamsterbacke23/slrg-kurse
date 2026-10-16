@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-16T17:00:56+0000",
+  "scraped_at": "2026-10-16T18:01:34+0000",
   "count": 873,
   "courses": [
     {
@@ -850,7 +850,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Sektion Luzern",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100856",
       "canton": null,
       "lat": null,
@@ -2474,7 +2474,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103900",
       "canton": null,
       "lat": null,
@@ -4266,7 +4266,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104186",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -8788,7 +8788,7 @@
       "last_date": "2027-02-19",
       "company": "SLRG Winterthur",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104017",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -12225,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-16T17:00:56+0000"
+  "geocoded_at": "2026-10-16T18:01:34+0000"
 }
