@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-16T05:00:54+0000",
+  "scraped_at": "2026-10-16T06:01:17+0000",
   "count": 866,
   "courses": [
     {
@@ -528,7 +528,7 @@
       "last_date": "2026-10-16",
       "company": "SLRG Sektion Olten",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104337",
       "canton": "SO",
       "lat": 47.339988708496094,
@@ -12127,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-16T05:00:54+0000"
+  "geocoded_at": "2026-10-16T06:01:17+0000"
 }
