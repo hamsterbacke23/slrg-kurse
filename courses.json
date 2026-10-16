@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-16T21:00:55+0000",
-  "count": 873,
+  "scraped_at": "2026-10-16T22:01:04+0000",
+  "count": 869,
   "courses": [
     {
       "key": "102540",
@@ -521,34 +521,6 @@
       "lng": 7.7250237464904785
     },
     {
-      "key": "104178",
-      "category": "WK Pool Plus",
-      "city": "Weggis",
-      "first_date": "2026-10-16",
-      "last_date": "2026-10-16",
-      "company": "SLRG Küssnacht am Rigi",
-      "participation_max": 6,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104178",
-      "canton": "LU",
-      "lat": 47.03305435180664,
-      "lng": 8.431046485900879
-    },
-    {
-      "key": "104179",
-      "category": "WK Pool Basis",
-      "city": "Weggis",
-      "first_date": "2026-10-16",
-      "last_date": "2026-10-16",
-      "company": "SLRG Küssnacht am Rigi",
-      "participation_max": 6,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104179",
-      "canton": "LU",
-      "lat": 47.03305435180664,
-      "lng": 8.431046485900879
-    },
-    {
       "key": "100162",
       "category": "WK Pool Basis",
       "city": "Balgach",
@@ -575,20 +547,6 @@
       "canton": "SG",
       "lat": 47.396480560302734,
       "lng": 9.608860969543457
-    },
-    {
-      "key": "101975",
-      "category": "Brevet Pro Pool",
-      "city": "Martigny",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-24",
-      "company": "SSS St. Maurice",
-      "participation_max": 8,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101975",
-      "canton": "VS",
-      "lat": 46.1070442199707,
-      "lng": 7.100466251373291
     },
     {
       "key": "102065",
@@ -737,7 +695,7 @@
       "first_date": "2026-10-18",
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
-      "participation_max": 24,
+      "participation_max": 23,
       "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
@@ -799,20 +757,6 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
-    },
-    {
-      "key": "103837",
-      "category": "Modul BLS-AED",
-      "city": "Le Sentier",
-      "first_date": "2026-10-18",
-      "last_date": "2026-10-18",
-      "company": "SSS Vallée de Joux",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103837",
-      "canton": "VD",
-      "lat": 46.60649871826172,
-      "lng": 6.231893062591553
     },
     {
       "key": "103967",
@@ -4364,7 +4308,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101519",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -12225,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-16T21:00:55+0000"
+  "geocoded_at": "2026-10-16T22:01:04+0000"
 }
