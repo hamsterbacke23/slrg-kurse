@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-16T13:02:19+0000",
-  "count": 873,
+  "scraped_at": "2026-10-16T14:01:15+0000",
+  "count": 872,
   "courses": [
     {
       "key": "102540",
@@ -689,20 +689,6 @@
       "lng": null
     },
     {
-      "key": "103626",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SLRG Solothurn",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103626",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "104283",
       "category": "WK BLS-AED",
       "city": "Binningen",
@@ -948,7 +934,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103823",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -962,7 +948,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 23,
+      "registered": 24,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103824",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1031,7 +1017,7 @@
       "first_date": "2026-10-20",
       "last_date": "2026-10-21",
       "company": "SSS Genève",
-      "participation_max": 16,
+      "participation_max": 24,
       "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
@@ -3468,7 +3454,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104081",
       "canton": "SO",
       "lat": 47.20805740356445,
@@ -4028,7 +4014,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103629",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -4868,7 +4854,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG - SSS",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103637",
       "canton": "LU",
       "lat": 47.178199768066406,
@@ -7780,7 +7766,7 @@
       "last_date": "2027-01-08",
       "company": "SLRG Pfäffikon",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103595",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -12225,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-16T13:02:20+0000"
+  "geocoded_at": "2026-10-16T14:01:15+0000"
 }
