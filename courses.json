@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-16T07:05:29+0000",
-  "count": 872,
+  "scraped_at": "2026-10-16T08:01:08+0000",
+  "count": 873,
   "courses": [
     {
       "key": "102540",
@@ -2012,7 +2012,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104253",
       "canton": "FL",
       "lat": 47.06768,
@@ -2983,6 +2983,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104341",
+      "category": "Brevet Basis Pool",
+      "city": "Coppet",
+      "first_date": "2026-10-31",
+      "last_date": "2026-10-31",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104341",
+      "canton": "VD",
+      "lat": 46.3162727355957,
+      "lng": 6.202526569366455
     },
     {
       "key": "101321",
@@ -6380,7 +6394,7 @@
       "last_date": "2026-11-29",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100694",
       "canton": "AG",
       "lat": 47.41796112060547,
@@ -6758,7 +6772,7 @@
       "last_date": "2026-12-18",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99906",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -8172,7 +8186,7 @@
       "last_date": "2027-01-22",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104255",
       "canton": null,
       "lat": null,
@@ -8942,7 +8956,7 @@
       "last_date": "2027-03-02",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104254",
       "canton": null,
       "lat": null,
@@ -10398,7 +10412,7 @@
       "last_date": "2027-06-05",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104256",
       "canton": null,
       "lat": null,
@@ -12211,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-16T07:05:31+0000"
+  "geocoded_at": "2026-10-16T08:01:08+0000"
 }
