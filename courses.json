@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-16T20:00:58+0000",
+  "scraped_at": "2026-10-16T21:00:55+0000",
   "count": 873,
   "courses": [
     {
@@ -5876,7 +5876,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Limpachtal",
       "participation_max": 9,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104243",
       "canton": "BE",
       "lat": 47.065650939941406,
@@ -12225,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-16T20:00:58+0000"
+  "geocoded_at": "2026-10-16T21:00:55+0000"
 }
