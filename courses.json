@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-16T14:01:15+0000",
-  "count": 872,
+  "scraped_at": "2026-10-16T15:01:01+0000",
+  "count": 875,
   "courses": [
     {
       "key": "102540",
@@ -1018,7 +1018,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3846,7 +3846,7 @@
       "last_date": "2026-11-28",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101979",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -3874,7 +3874,7 @@
       "last_date": "2026-11-28",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101981",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -5708,7 +5708,7 @@
       "last_date": "2027-02-27",
       "company": "SLRG - SSS",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103638",
       "canton": null,
       "lat": null,
@@ -7589,6 +7589,48 @@
       "canton": "BE",
       "lat": 47.185791015625,
       "lng": 7.711877822875977
+    },
+    {
+      "key": "103315",
+      "category": "WK BLS-AED",
+      "city": "Porrentruy",
+      "first_date": "2026-12-19",
+      "last_date": "2026-12-19",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103315",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
+      "key": "103316",
+      "category": "WK Pool Plus",
+      "city": "Porrentruy",
+      "first_date": "2026-12-19",
+      "last_date": "2026-12-19",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 2,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103316",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
+    },
+    {
+      "key": "103318",
+      "category": "WK Pool Pro",
+      "city": "Porrentruy",
+      "first_date": "2026-12-19",
+      "last_date": "2026-12-19",
+      "company": "SSS Porrentruy",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103318",
+      "canton": "JU",
+      "lat": 47.42101287841797,
+      "lng": 7.06839656829834
     },
     {
       "key": "103576",
@@ -10244,7 +10286,7 @@
       "last_date": "2027-05-23",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103513",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11525,6 +11567,34 @@
       "lng": 8.046090126037598
     },
     {
+      "key": "104117",
+      "category": "Modul SLRG",
+      "city": "",
+      "first_date": "2027-10-23",
+      "last_date": "2027-10-23",
+      "company": "SLRG Region Ost",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104117",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104120",
+      "category": "Modul Methodik",
+      "city": "",
+      "first_date": "2027-10-23",
+      "last_date": "2027-11-06",
+      "company": "SLRG Region Ost",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104120",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103688",
       "category": "Brevet Plus Pool",
       "city": "Zürich",
@@ -11621,34 +11691,6 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
-    },
-    {
-      "key": "104117",
-      "category": "Modul SLRG",
-      "city": "",
-      "first_date": "2027-11-06",
-      "last_date": "2027-11-06",
-      "company": "SLRG Region Ost",
-      "participation_max": 16,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104117",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "104120",
-      "category": "Modul Methodik",
-      "city": "",
-      "first_date": "2027-11-06",
-      "last_date": "2027-11-20",
-      "company": "SLRG Region Ost",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104120",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "104027",
@@ -12211,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-16T14:01:15+0000"
+  "geocoded_at": "2026-10-16T15:01:01+0000"
 }
