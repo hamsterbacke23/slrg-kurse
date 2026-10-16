@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-16T08:01:08+0000",
+  "scraped_at": "2026-10-16T09:01:05+0000",
   "count": 873,
   "courses": [
     {
@@ -500,7 +500,7 @@
       "last_date": "2026-10-30",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -668,7 +668,7 @@
       "last_date": "2026-10-17",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103248",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2012,7 +2012,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104253",
       "canton": "FL",
       "lat": 47.06768,
@@ -5862,7 +5862,7 @@
       "last_date": "2026-11-30",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103571",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -7164,7 +7164,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99391",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7178,7 +7178,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99397",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8004,7 +8004,7 @@
       "last_date": "2027-01-12",
       "company": "SSS Delémont",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104335",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -8172,7 +8172,7 @@
       "last_date": "2027-01-18",
       "company": "SSS Delémont",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104336",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -12225,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-16T08:01:08+0000"
+  "geocoded_at": "2026-10-16T09:01:06+0000"
 }
