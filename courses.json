@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17T13:00:48+0000",
+  "scraped_at": "2026-10-17T14:01:01+0000",
   "count": 865,
   "courses": [
     {
@@ -6324,7 +6324,7 @@
       "last_date": "2026-11-29",
       "company": "SLRG Pfäffikon",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103607",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -12113,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-17T13:00:48+0000"
+  "geocoded_at": "2026-10-17T14:01:01+0000"
 }
