@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-17T06:01:02+0000",
-  "count": 869,
+  "scraped_at": "2026-10-17T07:01:18+0000",
+  "count": 866,
   "courses": [
     {
       "key": "102540",
@@ -381,20 +381,6 @@
       "lng": 6.232627868652344
     },
     {
-      "key": "103212",
-      "category": "WK BLS-AED",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-13",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103212",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
-    },
-    {
       "key": "104090",
       "category": "WK Pool Pro",
       "city": "Genève",
@@ -561,20 +547,6 @@
       "canton": "BE",
       "lat": 47.185791015625,
       "lng": 7.711877822875977
-    },
-    {
-      "key": "103020",
-      "category": "Brevet Plus Pool",
-      "city": "Allschwil",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SLRG Basel",
-      "participation_max": 18,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103020",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
     },
     {
       "key": "103075",
@@ -2325,20 +2297,6 @@
       "canton": "BL",
       "lat": 47.54563903808594,
       "lng": 7.536828994750977
-    },
-    {
-      "key": "103142",
-      "category": "WK Pool Plus",
-      "city": "Pontresina",
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "company": "SLRG St. Moritz-Engadin",
-      "participation_max": 30,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103142",
-      "canton": "GR",
-      "lat": 46.437503814697266,
-      "lng": 9.972612380981445
     },
     {
       "key": "103648",
@@ -12169,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-17T06:01:02+0000"
+  "geocoded_at": "2026-10-17T07:01:18+0000"
 }
