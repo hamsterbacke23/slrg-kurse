@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17T07:01:18+0000",
+  "scraped_at": "2026-10-17T08:00:53+0000",
   "count": 866,
   "courses": [
     {
@@ -7612,7 +7612,7 @@
       "last_date": "2026-12-19",
       "company": "SSS Charmey",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104302",
       "canton": "FR",
       "lat": 46.62118148803711,
@@ -8592,7 +8592,7 @@
       "last_date": "2027-02-13",
       "company": "SLRG Zug",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103503",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -12127,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-17T07:01:18+0000"
+  "geocoded_at": "2026-10-17T08:00:53+0000"
 }
