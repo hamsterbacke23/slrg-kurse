@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-17T14:01:01+0000",
-  "count": 865,
+  "scraped_at": "2026-10-17T15:01:10+0000",
+  "count": 864,
   "courses": [
     {
       "key": "102540",
@@ -612,7 +612,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 18,
-      "registered": 0,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104283",
       "canton": "BL",
       "lat": 47.5363655090332,
@@ -640,7 +640,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104285",
       "canton": "BL",
       "lat": 47.5363655090332,
@@ -2633,20 +2633,6 @@
       "canton": "BE",
       "lat": 47.185791015625,
       "lng": 7.711877822875977
-    },
-    {
-      "key": "101422",
-      "category": "WK BLS-AED",
-      "city": "Büren an der Aare",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Büren a. A.",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101422",
-      "canton": "BE",
-      "lat": 47.14190673828125,
-      "lng": 7.375695705413818
     },
     {
       "key": "101861",
@@ -12113,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-17T14:01:01+0000"
+  "geocoded_at": "2026-10-17T15:01:10+0000"
 }
