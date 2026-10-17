@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-17T10:01:19+0000",
-  "count": 866,
+  "scraped_at": "2026-10-17T11:01:14+0000",
+  "count": 865,
   "courses": [
     {
       "key": "102540",
@@ -1186,7 +1186,7 @@
       "last_date": "2026-10-22",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103025",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -1410,7 +1410,7 @@
       "last_date": "2026-10-23",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104229",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -3244,7 +3244,7 @@
       "last_date": "2026-11-04",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100790",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3921,20 +3921,6 @@
       "canton": "BE",
       "lat": 46.695247650146484,
       "lng": 7.84113883972168
-    },
-    {
-      "key": "103877",
-      "category": "Brevet Plus Pool",
-      "city": "Payerne",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-28",
-      "company": "SSS Payerne",
-      "participation_max": 10,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103877",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
     },
     {
       "key": "103966",
@@ -6295,8 +6281,8 @@
       "first_date": "2026-11-29",
       "last_date": "2026-11-29",
       "company": "SSS Vallée de Joux",
-      "participation_max": 8,
-      "registered": 8,
+      "participation_max": 12,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103492",
       "canton": "VD",
       "lat": 46.60649871826172,
@@ -8844,7 +8830,7 @@
       "last_date": "2027-02-28",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104368",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -12127,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-17T10:01:20+0000"
+  "geocoded_at": "2026-10-17T11:01:14+0000"
 }
