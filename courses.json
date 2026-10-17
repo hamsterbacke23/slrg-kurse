@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17T05:00:49+0000",
+  "scraped_at": "2026-10-17T06:01:02+0000",
   "count": 869,
   "courses": [
     {
@@ -1829,8 +1829,8 @@
       "first_date": "2026-10-24",
       "last_date": "2026-10-24",
       "company": "SSS Sion",
-      "participation_max": 4,
-      "registered": 4,
+      "participation_max": 5,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103466",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -12169,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-17T05:00:49+0000"
+  "geocoded_at": "2026-10-17T06:01:02+0000"
 }
