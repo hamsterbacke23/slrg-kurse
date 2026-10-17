@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-17T08:00:53+0000",
+  "scraped_at": "2026-10-17T09:00:56+0000",
   "count": 866,
   "courses": [
     {
@@ -1340,7 +1340,7 @@
       "last_date": "2026-10-23",
       "company": "SLRG Thun-Oberland",
       "participation_max": 2,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103263",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -1521,7 +1521,7 @@
       "first_date": "2026-10-24",
       "last_date": "2026-10-24",
       "company": "SLRG Reiden",
-      "participation_max": 16,
+      "participation_max": 18,
       "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100822",
       "canton": "LU",
@@ -5092,7 +5092,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99437",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -5498,7 +5498,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Uri",
       "participation_max": 20,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102358",
       "canton": "UR",
       "lat": 46.886905670166016,
@@ -12127,5 +12127,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-17T08:00:53+0000"
+  "geocoded_at": "2026-10-17T09:00:57+0000"
 }
