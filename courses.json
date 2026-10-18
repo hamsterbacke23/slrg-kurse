@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T20:01:24+0000",
-  "count": 849,
+  "scraped_at": "2026-10-18T21:00:50+0000",
+  "count": 847,
   "courses": [
     {
       "key": "102540",
@@ -423,20 +423,6 @@
       "lng": null
     },
     {
-      "key": "104174",
-      "category": "WK BLS-AED",
-      "city": "Emmenbrücke",
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "company": "SLRG Sektion Hallwilersee",
-      "participation_max": 14,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104174",
-      "canton": "LU",
-      "lat": 47.07655334472656,
-      "lng": 8.273947715759277
-    },
-    {
       "key": "104370",
       "category": "Modul BLS-AED",
       "city": "Emmenbrücke",
@@ -477,20 +463,6 @@
       "canton": "BL",
       "lat": 47.483455657958984,
       "lng": 7.7250237464904785
-    },
-    {
-      "key": "103075",
-      "category": "Brevet Plus Pool",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SLRG Emmental",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103075",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
     },
     {
       "key": "103485",
@@ -990,7 +962,7 @@
       "last_date": "2026-11-19",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100324",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -10286,7 +10258,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103755",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11889,5 +11861,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-18T20:01:24+0000"
+  "geocoded_at": "2026-10-18T21:00:50+0000"
 }
