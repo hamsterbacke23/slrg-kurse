@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T09:00:54+0000",
-  "count": 856,
+  "scraped_at": "2026-10-18T10:00:55+0000",
+  "count": 854,
   "courses": [
     {
       "key": "102540",
@@ -507,34 +507,6 @@
       "lng": 7.804457187652588
     },
     {
-      "key": "103247",
-      "category": "Modul BLS-AED",
-      "city": "Sion",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SSS Sion",
-      "participation_max": 5,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103247",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
-      "key": "103248",
-      "category": "WK BLS-AED",
-      "city": "Sion",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SSS Sion",
-      "participation_max": 4,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103248",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
       "key": "103485",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -780,7 +752,7 @@
       "last_date": "2026-10-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100548",
       "canton": "ZH",
       "lat": 47.4587516784668,
@@ -1060,7 +1032,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99298",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -4798,7 +4770,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103674",
       "canton": null,
       "lat": null,
@@ -10230,7 +10202,7 @@
       "last_date": "2027-06-05",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103748",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11987,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-18T09:00:54+0000"
+  "geocoded_at": "2026-10-18T10:00:55+0000"
 }
