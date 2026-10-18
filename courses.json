@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T13:01:00+0000",
-  "count": 855,
+  "scraped_at": "2026-10-18T14:01:07+0000",
+  "count": 854,
   "courses": [
     {
       "key": "102540",
@@ -667,7 +667,7 @@
       "first_date": "2026-10-19",
       "last_date": "2026-10-26",
       "company": "SLRG Mittelrheintal",
-      "participation_max": 16,
+      "participation_max": 8,
       "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100153",
       "canton": "SG",
@@ -911,20 +911,6 @@
       "canton": "NE",
       "lat": 47.06060028076172,
       "lng": 6.902266502380371
-    },
-    {
-      "key": "103616",
-      "category": "Jugendbrevet",
-      "city": "",
-      "first_date": "2026-10-21",
-      "last_date": "2026-11-18",
-      "company": "SLRG St. Moritz-Engadin",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103616",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103722",
@@ -5036,7 +5022,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100142",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -10356,7 +10342,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103750",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11973,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-18T13:01:00+0000"
+  "geocoded_at": "2026-10-18T14:01:07+0000"
 }
