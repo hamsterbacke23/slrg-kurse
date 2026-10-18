@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T14:01:07+0000",
-  "count": 854,
+  "scraped_at": "2026-10-18T15:01:30+0000",
+  "count": 853,
   "courses": [
     {
       "key": "102540",
@@ -381,6 +381,20 @@
       "lng": 6.1424560546875
     },
     {
+      "key": "104305",
+      "category": "WK Pool Plus",
+      "city": "Dietlikon",
+      "first_date": "2026-10-13",
+      "last_date": "2026-10-13",
+      "company": "SLRG Kloten",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104305",
+      "canton": "ZH",
+      "lat": 47.42268371582031,
+      "lng": 8.613987922668457
+    },
+    {
       "key": "103734",
       "category": "Jugendbrevet",
       "city": "Bellinzona",
@@ -563,20 +577,6 @@
       "lng": 7.567534923553467
     },
     {
-      "key": "100693",
-      "category": "Brevet Basis Pool",
-      "city": "Spreitenbach",
-      "first_date": "2026-10-18",
-      "last_date": "2026-10-18",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100693",
-      "canton": "AG",
-      "lat": 47.41796112060547,
-      "lng": 8.362970352172852
-    },
-    {
       "key": "101137",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -589,20 +589,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103349",
-      "category": "Brevet Basis Pool",
-      "city": "Dietlikon",
-      "first_date": "2026-10-18",
-      "last_date": "2026-10-18",
-      "company": "SLRG Kloten",
-      "participation_max": 25,
-      "registered": 25,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103349",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
     },
     {
       "key": "103384",
@@ -654,7 +640,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Kloten",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103967",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2138,7 +2124,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103026",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -5022,7 +5008,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Mittelrheintal",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100142",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -8410,7 +8396,7 @@
       "last_date": "2027-02-13",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101669",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10202,7 +10188,7 @@
       "last_date": "2027-06-05",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103748",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -10356,7 +10342,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103755",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11959,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-18T14:01:07+0000"
+  "geocoded_at": "2026-10-18T15:01:30+0000"
 }
