@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T15:01:30+0000",
-  "count": 853,
+  "scraped_at": "2026-10-18T16:00:54+0000",
+  "count": 852,
   "courses": [
     {
       "key": "102540",
@@ -584,7 +584,7 @@
       "last_date": "2026-10-18",
       "company": "SLRG Sektion Züri",
       "participation_max": 23,
-      "registered": 23,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
       "canton": null,
       "lat": null,
@@ -1695,20 +1695,6 @@
       "canton": "ZH",
       "lat": 47.47540283203125,
       "lng": 8.455204963684082
-    },
-    {
-      "key": "104227",
-      "category": "Brevet Basis Pool",
-      "city": "Bévilard",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-31",
-      "company": "SSS Grand Chasseral",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104227",
-      "canton": "BE",
-      "lat": 47.238895416259766,
-      "lng": 7.284480571746826
     },
     {
       "key": "104253",
@@ -3860,7 +3846,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103598",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -6534,7 +6520,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101693",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -9026,7 +9012,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104053",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -9040,7 +9026,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104055",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -9054,7 +9040,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104057",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -10384,7 +10370,7 @@
       "last_date": "2027-06-13",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103753",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11945,5 +11931,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-18T15:01:30+0000"
+  "geocoded_at": "2026-10-18T16:00:54+0000"
 }
