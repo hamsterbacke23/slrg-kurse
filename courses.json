@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-18T05:00:54+0000",
+  "scraped_at": "2026-10-18T06:01:18+0000",
   "count": 857,
   "courses": [
     {
@@ -10244,7 +10244,7 @@
       "last_date": "2027-06-05",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103748",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12001,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-18T05:00:54+0000"
+  "geocoded_at": "2026-10-18T06:01:18+0000"
 }
