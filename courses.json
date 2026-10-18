@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T18:00:58+0000",
-  "count": 851,
+  "scraped_at": "2026-10-18T19:00:56+0000",
+  "count": 849,
   "courses": [
     {
       "key": "102540",
@@ -367,20 +367,6 @@
       "lng": 6.232627868652344
     },
     {
-      "key": "104090",
-      "category": "WK Pool Pro",
-      "city": "Genève",
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-20",
-      "company": "SSS Genève",
-      "participation_max": 5,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104090",
-      "canton": "GE",
-      "lat": 46.204559326171875,
-      "lng": 6.1424560546875
-    },
-    {
       "key": "104305",
       "category": "WK Pool Plus",
       "city": "Dietlikon",
@@ -388,7 +374,7 @@
       "last_date": "2026-10-13",
       "company": "SLRG Kloten",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104305",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -563,20 +549,6 @@
       "lng": 7.567534923553467
     },
     {
-      "key": "101137",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-10-18",
-      "last_date": "2026-10-18",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 23,
-      "registered": 21,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101137",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103384",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -710,7 +682,7 @@
       "last_date": "2026-10-19",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103823",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -8368,7 +8340,7 @@
       "last_date": "2027-02-13",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101669",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -9362,7 +9334,7 @@
       "last_date": "2027-04-17",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103599",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -10132,7 +10104,7 @@
       "last_date": "2027-06-06",
       "company": "SLRG Pfäffikon",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103600",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -11917,5 +11889,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-18T18:00:58+0000"
+  "geocoded_at": "2026-10-18T19:00:56+0000"
 }
