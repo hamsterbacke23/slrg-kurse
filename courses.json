@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-18T06:01:18+0000",
-  "count": 857,
+  "scraped_at": "2026-10-18T07:01:27+0000",
+  "count": 856,
   "courses": [
     {
       "key": "102540",
@@ -68,20 +68,6 @@
       "participation_max": 12,
       "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103064",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100347",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-08-22",
-      "last_date": "2026-08-22",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100347",
       "canton": null,
       "lat": null,
       "lng": null
@@ -12001,5 +11987,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-18T06:01:18+0000"
+  "geocoded_at": "2026-10-18T07:01:28+0000"
 }
