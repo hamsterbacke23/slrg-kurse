@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T11:01:10+0000",
-  "count": 872,
+  "scraped_at": "2026-10-19T12:01:22+0000",
+  "count": 874,
   "courses": [
     {
       "key": "102540",
@@ -2446,7 +2446,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103279",
       "canton": "ZH",
       "lat": 47.62740707397461,
@@ -2675,6 +2675,20 @@
       "canton": "VD",
       "lat": 46.44438552856445,
       "lng": 6.891254425048828
+    },
+    {
+      "key": "104345",
+      "category": "WK Pool Plus",
+      "city": "Richterswil",
+      "first_date": "2026-11-01",
+      "last_date": "2026-11-01",
+      "company": "SLRG Richterswil",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
+      "canton": "ZH",
+      "lat": 47.20124435424805,
+      "lng": 8.686915397644043
     },
     {
       "key": "98753",
@@ -7031,6 +7045,20 @@
       "lng": 7.804457187652588
     },
     {
+      "key": "104314",
+      "category": "Brevet Basis Pool",
+      "city": "Romanel-sur-Lausanne",
+      "first_date": "2026-12-12",
+      "last_date": "2026-12-13",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104314",
+      "canton": "VD",
+      "lat": 46.55949401855469,
+      "lng": 6.608593940734863
+    },
+    {
       "key": "100695",
       "category": "Brevet Basis Pool",
       "city": "Spreitenbach",
@@ -7948,7 +7976,7 @@
       "last_date": "2027-01-22",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104255",
       "canton": null,
       "lat": null,
@@ -8746,7 +8774,7 @@
       "last_date": "2027-03-02",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104254",
       "canton": null,
       "lat": null,
@@ -10328,7 +10356,7 @@
       "last_date": "2027-06-05",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104256",
       "canton": null,
       "lat": null,
@@ -12211,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T11:01:10+0000"
+  "geocoded_at": "2026-10-19T12:01:22+0000"
 }
