@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T04:01:21+0000",
-  "count": 844,
+  "scraped_at": "2026-10-19T05:01:03+0000",
+  "count": 843,
   "courses": [
     {
       "key": "102540",
@@ -365,20 +365,6 @@
       "canton": "VD",
       "lat": 46.38344955444336,
       "lng": 6.232627868652344
-    },
-    {
-      "key": "104305",
-      "category": "WK Pool Plus",
-      "city": "Dietlikon",
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-13",
-      "company": "SLRG Kloten",
-      "participation_max": 10,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104305",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
     },
     {
       "key": "103734",
@@ -6394,7 +6380,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101685",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7318,7 +7304,7 @@
       "last_date": "2027-01-06",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104282",
       "canton": null,
       "lat": null,
@@ -11819,5 +11805,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T04:01:21+0000"
+  "geocoded_at": "2026-10-19T05:01:03+0000"
 }
