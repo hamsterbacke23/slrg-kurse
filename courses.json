@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T19:01:14+0000",
-  "count": 882,
+  "scraped_at": "2026-10-19T20:01:03+0000",
+  "count": 881,
   "courses": [
     {
       "key": "102540",
@@ -547,20 +547,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102657",
-      "category": "WK Pool Plus",
-      "city": "Cernier",
-      "first_date": "2026-10-19",
-      "last_date": "2026-10-19",
-      "company": "SSS Val-de-Ruz",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102657",
-      "canton": "NE",
-      "lat": 47.06060028076172,
-      "lng": 6.902266502380371
     },
     {
       "key": "103653",
@@ -3622,7 +3608,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103966",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -4728,7 +4714,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103971",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -9110,7 +9096,7 @@
       "last_date": "2027-03-13",
       "company": "SLRG Illnau-Effretikon",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103833",
       "canton": null,
       "lat": null,
@@ -9250,7 +9236,7 @@
       "last_date": "2027-03-20",
       "company": "SLRG Illnau-Effretikon",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103835",
       "canton": null,
       "lat": null,
@@ -12351,5 +12337,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T19:01:14+0000"
+  "geocoded_at": "2026-10-19T20:01:03+0000"
 }
