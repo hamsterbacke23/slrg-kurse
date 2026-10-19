@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T16:01:03+0000",
-  "count": 884,
+  "scraped_at": "2026-10-19T17:00:58+0000",
+  "count": 882,
   "courses": [
     {
       "key": "102540",
@@ -477,20 +477,6 @@
       "canton": "BL",
       "lat": 47.5363655090332,
       "lng": 7.567534923553467
-    },
-    {
-      "key": "104284",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-10-17",
-      "last_date": "2026-10-17",
-      "company": "SLRG Basel",
-      "participation_max": 6,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104284",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "104285",
@@ -1018,7 +1004,7 @@
       "last_date": "2026-10-22",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104230",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -1186,7 +1172,7 @@
       "last_date": "2026-10-23",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104229",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -1961,20 +1947,6 @@
       "canton": "SG",
       "lat": 47.475521087646484,
       "lng": 9.493878364562988
-    },
-    {
-      "key": "104115",
-      "category": "WK BLS-AED",
-      "city": "Bévilard",
-      "first_date": "2026-10-27",
-      "last_date": "2026-10-27",
-      "company": "SSS Grand Chasseral",
-      "participation_max": 6,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104115",
-      "canton": "BE",
-      "lat": 47.238895416259766,
-      "lng": 7.284480571746826
     },
     {
       "key": "102740",
@@ -4462,7 +4434,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 16,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -5008,7 +4980,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104389",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -5077,7 +5049,7 @@
       "first_date": "2026-11-20",
       "last_date": "2026-11-20",
       "company": "SLRG Zug",
-      "participation_max": 3,
+      "participation_max": 2,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99855",
       "canton": "ZG",
@@ -5091,7 +5063,7 @@
       "first_date": "2026-11-20",
       "last_date": "2026-11-20",
       "company": "SLRG Zug",
-      "participation_max": 9,
+      "participation_max": 10,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99856",
       "canton": "ZG",
@@ -8774,7 +8746,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104043",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12379,5 +12351,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T16:01:03+0000"
+  "geocoded_at": "2026-10-19T17:00:58+0000"
 }
