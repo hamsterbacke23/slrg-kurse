@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T17:00:58+0000",
-  "count": 882,
+  "scraped_at": "2026-10-19T18:01:39+0000",
+  "count": 881,
   "courses": [
     {
       "key": "102540",
@@ -472,7 +472,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 18,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104283",
       "canton": "BL",
       "lat": 47.5363655090332,
@@ -575,20 +575,6 @@
       "canton": "SG",
       "lat": 47.475521087646484,
       "lng": 9.493878364562988
-    },
-    {
-      "key": "103665",
-      "category": "Modul BLS-AED",
-      "city": "La Chaux-de-Fonds",
-      "first_date": "2026-10-19",
-      "last_date": "2026-10-19",
-      "company": "Société Suisse de Sauvetage",
-      "participation_max": 16,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103665",
-      "canton": "NE",
-      "lat": 47.11421203613281,
-      "lng": 6.84379243850708
     },
     {
       "key": "103823",
@@ -4714,7 +4700,7 @@
       "last_date": "2026-11-15",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103888",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -4980,7 +4966,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104389",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -6114,7 +6100,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104340",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -12351,5 +12337,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T17:00:58+0000"
+  "geocoded_at": "2026-10-19T18:01:39+0000"
 }
