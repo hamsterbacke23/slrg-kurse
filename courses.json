@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T14:01:24+0000",
-  "count": 876,
+  "scraped_at": "2026-10-19T15:01:25+0000",
+  "count": 880,
   "courses": [
     {
       "key": "102540",
@@ -654,7 +654,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103213",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -3888,7 +3888,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Bülach",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101432",
       "canton": "ZH",
       "lat": 47.5283088684082,
@@ -4966,7 +4966,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104389",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -5372,7 +5372,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103793",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -6051,6 +6051,34 @@
       "lng": 7.751997470855713
     },
     {
+      "key": "104320",
+      "category": "Modul BLS-AED",
+      "city": "Cologny",
+      "first_date": "2026-11-28",
+      "last_date": "2026-11-28",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104320",
+      "canton": "GE",
+      "lat": 46.22124099731445,
+      "lng": 6.176814556121826
+    },
+    {
+      "key": "104322",
+      "category": "WK BLS-AED",
+      "city": "Cologny",
+      "first_date": "2026-11-28",
+      "last_date": "2026-11-28",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104322",
+      "canton": "GE",
+      "lat": 46.22124099731445,
+      "lng": 6.176814556121826
+    },
+    {
       "key": "104340",
       "category": "Brevet Plus Pool",
       "city": "Zuchwil",
@@ -6609,6 +6637,34 @@
       "canton": "VD",
       "lat": 46.47169876098633,
       "lng": 6.87440824508667
+    },
+    {
+      "key": "104321",
+      "category": "Modul BLS-AED",
+      "city": "Cologny",
+      "first_date": "2026-12-05",
+      "last_date": "2026-12-05",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104321",
+      "canton": "GE",
+      "lat": 46.22124099731445,
+      "lng": 6.176814556121826
+    },
+    {
+      "key": "104324",
+      "category": "WK BLS-AED",
+      "city": "Cologny",
+      "first_date": "2026-12-05",
+      "last_date": "2026-12-05",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104324",
+      "canton": "GE",
+      "lat": 46.22124099731445,
+      "lng": 6.176814556121826
     },
     {
       "key": "102159",
@@ -12267,5 +12323,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T14:01:24+0000"
+  "geocoded_at": "2026-10-19T15:01:25+0000"
 }
