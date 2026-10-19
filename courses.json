@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T20:01:03+0000",
-  "count": 881,
+  "scraped_at": "2026-10-19T21:01:01+0000",
+  "count": 879,
   "courses": [
     {
       "key": "102540",
@@ -493,20 +493,6 @@
       "lng": 7.567534923553467
     },
     {
-      "key": "103589",
-      "category": "Brevet Basis Pool",
-      "city": "Langnau im Emmental",
-      "first_date": "2026-10-18",
-      "last_date": "2026-10-18",
-      "company": "SLRG Emmental",
-      "participation_max": 14,
-      "registered": 13,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103589",
-      "canton": "BE",
-      "lat": 46.954750061035156,
-      "lng": 7.804457187652588
-    },
-    {
       "key": "103795",
       "category": "Brevet Basis Pool",
       "city": "Schaffhausen",
@@ -547,20 +533,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103653",
-      "category": "WK BLS-AED",
-      "city": "Rorschach",
-      "first_date": "2026-10-19",
-      "last_date": "2026-10-19",
-      "company": "SLRG Rorschach",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103653",
-      "canton": "SG",
-      "lat": 47.475521087646484,
-      "lng": 9.493878364562988
     },
     {
       "key": "103823",
@@ -654,7 +626,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -864,7 +836,7 @@
       "last_date": "2026-11-05",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99298",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -1746,7 +1718,7 @@
       "last_date": "2026-11-02",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103465",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2068,7 +2040,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104266",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -4448,7 +4420,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG - SSS",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103637",
       "canton": "LU",
       "lat": 47.178199768066406,
@@ -12337,5 +12309,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T20:01:03+0000"
+  "geocoded_at": "2026-10-19T21:01:01+0000"
 }
