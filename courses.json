@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-19T05:01:03+0000",
+  "scraped_at": "2026-10-19T06:01:49+0000",
   "count": 843,
   "courses": [
     {
@@ -472,7 +472,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 18,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104283",
       "canton": "BL",
       "lat": 47.5363655090332,
@@ -500,7 +500,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104285",
       "canton": "BL",
       "lat": 47.5363655090332,
@@ -10258,7 +10258,7 @@
       "last_date": "2027-06-13",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103754",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11805,5 +11805,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T05:01:03+0000"
+  "geocoded_at": "2026-10-19T06:01:49+0000"
 }
