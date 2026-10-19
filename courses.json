@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T15:01:25+0000",
-  "count": 880,
+  "scraped_at": "2026-10-19T16:01:03+0000",
+  "count": 884,
   "courses": [
     {
       "key": "102540",
@@ -2859,6 +2859,20 @@
       "lng": 6.84379243850708
     },
     {
+      "key": "104347",
+      "category": "Modul BLS-AED",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-11-02",
+      "last_date": "2026-11-02",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104347",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
+    },
+    {
       "key": "100780",
       "category": "WK BLS-AED",
       "city": "Aarau",
@@ -3244,7 +3258,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 9,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99416",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3671,6 +3685,20 @@
       "lng": null
     },
     {
+      "key": "104350",
+      "category": "Brevet Basis Pool",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-11-07",
+      "last_date": "2026-11-07",
+      "company": "SSS Genève",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104350",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
+    },
+    {
       "key": "101050",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -3781,6 +3809,20 @@
       "canton": "VD",
       "lat": 46.44438552856445,
       "lng": 6.891254425048828
+    },
+    {
+      "key": "104349",
+      "category": "Brevet Plus Pool",
+      "city": "Plan-les-Ouates",
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-08",
+      "company": "SSS Genève",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104349",
+      "canton": "GE",
+      "lat": 46.16372299194336,
+      "lng": 6.119792938232422
     },
     {
       "key": "101518",
@@ -5036,7 +5078,7 @@
       "last_date": "2026-11-20",
       "company": "SLRG Zug",
       "participation_max": 3,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99855",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -5573,6 +5615,20 @@
       "canton": "BE",
       "lat": 47.065650939941406,
       "lng": 7.195646286010742
+    },
+    {
+      "key": "104348",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-11-23",
+      "last_date": "2026-11-23",
+      "company": "SSS Genève",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104348",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "100259",
@@ -12323,5 +12379,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T15:01:25+0000"
+  "geocoded_at": "2026-10-19T16:01:03+0000"
 }
