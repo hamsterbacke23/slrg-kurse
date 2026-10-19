@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T21:01:01+0000",
-  "count": 879,
+  "scraped_at": "2026-10-19T22:01:06+0000",
+  "count": 878,
   "courses": [
     {
       "key": "102540",
@@ -491,20 +491,6 @@
       "canton": "BL",
       "lat": 47.5363655090332,
       "lng": 7.567534923553467
-    },
-    {
-      "key": "103795",
-      "category": "Brevet Basis Pool",
-      "city": "Schaffhausen",
-      "first_date": "2026-10-18",
-      "last_date": "2026-10-18",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103795",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
     },
     {
       "key": "100153",
@@ -12309,5 +12295,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-19T21:01:01+0000"
+  "geocoded_at": "2026-10-19T22:01:06+0000"
 }
