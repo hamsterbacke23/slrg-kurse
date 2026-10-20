@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-20T05:01:16+0000",
-  "count": 879,
+  "scraped_at": "2026-10-20T06:01:28+0000",
+  "count": 878,
   "courses": [
     {
       "key": "102540",
@@ -570,7 +570,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103213",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -1457,20 +1457,6 @@
       "canton": "VD",
       "lat": 46.60649871826172,
       "lng": 6.231893062591553
-    },
-    {
-      "key": "103867",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Hinwil",
-      "participation_max": 1,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103867",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103879",
@@ -12309,5 +12295,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-20T05:01:16+0000"
+  "geocoded_at": "2026-10-20T06:01:28+0000"
 }
