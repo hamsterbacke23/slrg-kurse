@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-20T16:01:17+0000",
+  "scraped_at": "2026-10-20T17:01:14+0000",
   "count": 875,
   "courses": [
     {
@@ -1102,7 +1102,7 @@
       "last_date": "2026-10-23",
       "company": "SSS St. Maurice",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104304",
       "canton": null,
       "lat": null,
@@ -1928,7 +1928,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104194",
       "canton": null,
       "lat": null,
@@ -2656,7 +2656,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Oberwil",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102803",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -3552,7 +3552,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101050",
       "canton": null,
       "lat": null,
@@ -3846,7 +3846,7 @@
       "last_date": "2026-11-10",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 1,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104381",
       "canton": null,
       "lat": null,
@@ -4434,7 +4434,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Oberwallis",
       "participation_max": 1,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104376",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -5736,7 +5736,7 @@
       "last_date": "2026-11-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99916",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -8634,7 +8634,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104038",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12253,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-20T16:01:17+0000"
+  "geocoded_at": "2026-10-20T17:01:14+0000"
 }
