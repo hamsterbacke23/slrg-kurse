@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-20T14:01:06+0000",
+  "scraped_at": "2026-10-20T15:01:14+0000",
   "count": 877,
   "courses": [
     {
@@ -2501,7 +2501,7 @@
       "first_date": "2026-11-01",
       "last_date": "2026-11-01",
       "company": "SLRG Emmental",
-      "participation_max": 14,
+      "participation_max": 16,
       "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102978",
       "canton": null,
@@ -2922,7 +2922,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Sektion Oberaargau",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104081",
       "canton": "SO",
       "lat": 47.20805740356445,
@@ -3692,7 +3692,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104349",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4882,7 +4882,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Grenchen",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104352",
       "canton": "SO",
       "lat": 47.19990921020508,
@@ -9740,7 +9740,7 @@
       "last_date": "2027-04-17",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101666",
       "canton": null,
       "lat": null,
@@ -9796,7 +9796,7 @@
       "last_date": "2027-04-24",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101673",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12281,5 +12281,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-20T14:01:07+0000"
+  "geocoded_at": "2026-10-20T15:01:14+0000"
 }
