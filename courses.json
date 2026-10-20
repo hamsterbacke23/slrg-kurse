@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-20T21:01:09+0000",
-  "count": 873,
+  "scraped_at": "2026-10-20T22:01:13+0000",
+  "count": 872,
   "courses": [
     {
       "key": "102540",
@@ -556,7 +556,7 @@
       "last_date": "2026-10-21",
       "company": "SSS Genève",
       "participation_max": 24,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -668,7 +668,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103760",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -682,7 +682,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103761",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -696,7 +696,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103762",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -2761,20 +2761,6 @@
       "lng": null
     },
     {
-      "key": "100379",
-      "category": "Modul BLS-AED",
-      "city": "Weinfelden",
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-11",
-      "company": "SLRG Weinfelden",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100379",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
-    },
-    {
       "key": "100790",
       "category": "Modul BLS-AED",
       "city": "Aarau",
@@ -3510,7 +3496,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104350",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4240,20 +4226,6 @@
       "participation_max": 16,
       "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101599",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101615",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101615",
       "canton": null,
       "lat": null,
       "lng": null
@@ -9061,6 +9033,20 @@
       "lng": 6.1424560546875
     },
     {
+      "key": "101615",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-03-20",
+      "last_date": "2027-03-20",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 12,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101615",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "101678",
       "category": "WK Pool Plus",
       "city": "",
@@ -12225,5 +12211,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-20T21:01:09+0000"
+  "geocoded_at": "2026-10-20T22:01:13+0000"
 }
