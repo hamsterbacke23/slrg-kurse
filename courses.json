@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-20T13:02:34+0000",
+  "scraped_at": "2026-10-20T14:01:06+0000",
   "count": 877,
   "courses": [
     {
@@ -850,7 +850,7 @@
       "last_date": "2026-10-22",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103025",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -4882,7 +4882,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Grenchen",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104352",
       "canton": "SO",
       "lat": 47.19990921020508,
@@ -4896,7 +4896,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Freiamt-Reusstal",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104389",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -6128,7 +6128,7 @@
       "last_date": "2026-11-29",
       "company": "SLRG Pfäffikon",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103607",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -6492,7 +6492,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101670",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7318,7 +7318,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99410",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7346,7 +7346,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99425",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12281,5 +12281,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-20T13:02:34+0000"
+  "geocoded_at": "2026-10-20T14:01:07+0000"
 }
