@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-20T18:01:12+0000",
+  "scraped_at": "2026-10-20T19:01:11+0000",
   "count": 876,
   "courses": [
     {
@@ -2404,7 +2404,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 22,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100589",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -2418,7 +2418,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 23,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -2446,7 +2446,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 18,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101322",
       "canton": null,
       "lat": null,
@@ -12267,5 +12267,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-20T18:01:12+0000"
+  "geocoded_at": "2026-10-20T19:01:11+0000"
 }
