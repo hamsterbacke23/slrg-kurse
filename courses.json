@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-20T11:01:17+0000",
+  "scraped_at": "2026-10-20T12:01:04+0000",
   "count": 877,
   "courses": [
     {
@@ -283,20 +283,6 @@
       "lng": 6.232627868652344
     },
     {
-      "key": "104281",
-      "category": "Modul BLS-AED",
-      "city": "Fleurier",
-      "first_date": "2026-10-07",
-      "last_date": "2026-11-12",
-      "company": "SSS Val-de-Travers",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104281",
-      "canton": "NE",
-      "lat": 46.90297317504883,
-      "lng": 6.582729339599609
-    },
-    {
       "key": "99905",
       "category": "Brevet Plus Pool",
       "city": "Mendrisio",
@@ -556,7 +542,7 @@
       "last_date": "2026-10-20",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103213",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2810,7 +2796,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103397",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -3988,6 +3974,20 @@
       "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104280",
+      "canton": "NE",
+      "lat": 46.90297317504883,
+      "lng": 6.582729339599609
+    },
+    {
+      "key": "104281",
+      "category": "Modul BLS-AED",
+      "city": "Fleurier",
+      "first_date": "2026-11-11",
+      "last_date": "2026-11-11",
+      "company": "SSS Val-de-Travers",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104281",
       "canton": "NE",
       "lat": 46.90297317504883,
       "lng": 6.582729339599609
@@ -5960,7 +5960,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103314",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -11700,7 +11700,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99112",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11714,7 +11714,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -12281,5 +12281,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-20T11:01:17+0000"
+  "geocoded_at": "2026-10-20T12:01:04+0000"
 }
