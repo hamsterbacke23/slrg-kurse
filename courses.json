@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-20T20:01:11+0000",
-  "count": 874,
+  "scraped_at": "2026-10-20T21:01:09+0000",
+  "count": 873,
   "courses": [
     {
       "key": "102540",
@@ -295,20 +295,6 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
-    },
-    {
-      "key": "100898",
-      "category": "Modul BLS-AED",
-      "city": "Bern",
-      "first_date": "2026-10-12",
-      "last_date": "2026-10-19",
-      "company": "SLRG Sektion Bern",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100898",
-      "canton": "BE",
-      "lat": 46.954559326171875,
-      "lng": 7.420684814453125
     },
     {
       "key": "103772",
@@ -1914,7 +1900,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104194",
       "canton": null,
       "lat": null,
@@ -12239,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-20T20:01:11+0000"
+  "geocoded_at": "2026-10-20T21:01:09+0000"
 }
