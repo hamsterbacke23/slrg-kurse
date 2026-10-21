@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T08:01:09+0000",
-  "count": 870,
+  "scraped_at": "2026-10-21T09:01:37+0000",
+  "count": 869,
   "courses": [
     {
       "key": "102540",
@@ -563,20 +563,6 @@
       "lng": null
     },
     {
-      "key": "100549",
-      "category": "Brevet Pro Pool",
-      "city": "Kloten",
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-23",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 10,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100549",
-      "canton": "ZH",
-      "lat": 47.4587516784668,
-      "lng": 8.582091331481934
-    },
-    {
       "key": "101144",
       "category": "Modul BLS-AED",
       "city": "Hinwil",
@@ -976,7 +962,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103957",
       "canton": null,
       "lat": null,
@@ -2348,7 +2334,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 26,
-      "registered": 24,
+      "registered": 25,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -4266,7 +4252,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG - SSS",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103637",
       "canton": "LU",
       "lat": 47.178199768066406,
@@ -5176,7 +5162,7 @@
       "last_date": "2027-02-27",
       "company": "SLRG - SSS",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103638",
       "canton": null,
       "lat": null,
@@ -10734,7 +10720,7 @@
       "last_date": "2027-06-27",
       "company": "SLRG Zug",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103517",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -12183,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T08:01:10+0000"
+  "geocoded_at": "2026-10-21T09:01:37+0000"
 }
