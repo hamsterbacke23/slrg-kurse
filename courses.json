@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T20:01:19+0000",
-  "count": 890,
+  "scraped_at": "2026-10-21T21:01:05+0000",
+  "count": 888,
   "courses": [
     {
       "key": "102540",
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -563,20 +563,6 @@
       "lng": 8.850424766540527
     },
     {
-      "key": "101503",
-      "category": "WK BLS-AED",
-      "city": "Hinwil",
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "company": "SLRG Hinwil",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101503",
-      "canton": "ZH",
-      "lat": 47.302894592285156,
-      "lng": 8.850424766540527
-    },
-    {
       "key": "103722",
       "category": "WK Pool Plus",
       "city": "Lachen SZ",
@@ -827,20 +813,6 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
-    },
-    {
-      "key": "101188",
-      "category": "WK Pool Plus",
-      "city": "Rüti ZH",
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-23",
-      "company": "SLRG Rüti",
-      "participation_max": 14,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101188",
-      "canton": "ZH",
-      "lat": 47.25824737548828,
-      "lng": 8.860780715942383
     },
     {
       "key": "103260",
@@ -2305,8 +2277,8 @@
       "first_date": "2026-11-01",
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
-      "participation_max": 13,
-      "registered": 13,
+      "participation_max": 14,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
       "canton": null,
       "lat": null,
@@ -2922,7 +2894,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103872",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -4198,6 +4170,20 @@
       "participation_max": 16,
       "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101599",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "101615",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2026-11-14",
+      "last_date": "2026-11-14",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 12,
+      "registered": 1,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101615",
       "canton": null,
       "lat": null,
       "lng": null
@@ -9145,20 +9131,6 @@
       "lng": 6.1424560546875
     },
     {
-      "key": "101615",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2027-03-20",
-      "last_date": "2027-03-20",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101615",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101678",
       "category": "WK Pool Plus",
       "city": "",
@@ -12463,5 +12435,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T20:01:19+0000"
+  "geocoded_at": "2026-10-21T21:01:05+0000"
 }
