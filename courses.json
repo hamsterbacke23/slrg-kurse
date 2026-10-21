@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-21T22:01:07+0000",
+  "scraped_at": "2026-10-21T23:01:06+0000",
   "count": 886,
   "courses": [
     {
@@ -1270,7 +1270,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103965",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -2291,7 +2291,7 @@
       "first_date": "2026-11-01",
       "last_date": "2026-11-01",
       "company": "SLRG Lachen",
-      "participation_max": 16,
+      "participation_max": 17,
       "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101354",
       "canton": "SZ",
@@ -12407,5 +12407,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T22:01:07+0000"
+  "geocoded_at": "2026-10-21T23:01:06+0000"
 }
