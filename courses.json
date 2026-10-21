@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T12:01:07+0000",
-  "count": 895,
+  "scraped_at": "2026-10-21T13:03:50+0000",
+  "count": 894,
   "courses": [
     {
       "key": "102540",
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -533,20 +533,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103825",
-      "category": "Brevet Plus Pool",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-21",
-      "company": "SSS Genève",
-      "participation_max": 24,
-      "registered": 20,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103825",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
     },
     {
       "key": "103958",
@@ -2320,7 +2306,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -6464,7 +6450,7 @@
       "last_date": "2026-12-04",
       "company": "SSS Porrentruy",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104377",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -11153,7 +11139,7 @@
       "first_date": "2027-08-09",
       "last_date": "2027-08-10",
       "company": "SLRG Basel",
-      "participation_max": 16,
+      "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104406",
       "canton": "BL",
@@ -11181,7 +11167,7 @@
       "first_date": "2027-08-12",
       "last_date": "2027-08-13",
       "company": "SLRG Basel",
-      "participation_max": 16,
+      "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104407",
       "canton": "BL",
@@ -11223,7 +11209,7 @@
       "first_date": "2027-08-21",
       "last_date": "2027-08-21",
       "company": "SLRG Basel",
-      "participation_max": 16,
+      "participation_max": 12,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104409",
       "canton": "BL",
@@ -12533,5 +12519,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T12:01:07+0000"
+  "geocoded_at": "2026-10-21T13:03:50+0000"
 }
