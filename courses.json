@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-21T07:07:51+0000",
+  "scraped_at": "2026-10-21T08:01:09+0000",
   "count": 870,
   "courses": [
     {
@@ -1116,7 +1116,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Reiden",
       "participation_max": 18,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100822",
       "canton": "LU",
       "lat": 47.229347229003906,
@@ -1536,7 +1536,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104196",
       "canton": null,
       "lat": null,
@@ -2306,7 +2306,7 @@
       "last_date": "2026-10-31",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104341",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -4630,7 +4630,7 @@
       "last_date": "2026-11-16",
       "company": "SLRG Frauenfeld",
       "participation_max": 5,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104386",
       "canton": null,
       "lat": null,
@@ -6618,7 +6618,7 @@
       "last_date": "2026-12-16",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103057",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -12183,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T07:07:51+0000"
+  "geocoded_at": "2026-10-21T08:01:10+0000"
 }
