@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-21T15:01:12+0000",
+  "scraped_at": "2026-10-21T16:01:01+0000",
   "count": 893,
   "courses": [
     {
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 17,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -1326,7 +1326,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Sion",
       "participation_max": 5,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103466",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -4742,7 +4742,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Grand Chasseral",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104228",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -12505,5 +12505,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T15:01:12+0000"
+  "geocoded_at": "2026-10-21T16:01:01+0000"
 }
