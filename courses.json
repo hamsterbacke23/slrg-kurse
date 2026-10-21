@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T21:01:05+0000",
-  "count": 888,
+  "scraped_at": "2026-10-21T22:01:07+0000",
+  "count": 886,
   "courses": [
     {
       "key": "102540",
@@ -563,20 +563,6 @@
       "lng": 8.850424766540527
     },
     {
-      "key": "103722",
-      "category": "WK Pool Plus",
-      "city": "Lachen SZ",
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "company": "SLRG Lachen",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103722",
-      "canton": "SZ",
-      "lat": 47.19688415527344,
-      "lng": 8.854327201843262
-    },
-    {
       "key": "103760",
       "category": "WK Pool Plus",
       "city": "Lachen SZ",
@@ -1011,20 +997,6 @@
       "lng": 9.396230697631836
     },
     {
-      "key": "100251",
-      "category": "WK BLS-AED",
-      "city": "Appenzell",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100251",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
       "key": "100822",
       "category": "Brevet Basis Pool",
       "city": "Reiden",
@@ -1228,7 +1200,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103399",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -12435,5 +12407,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T21:01:05+0000"
+  "geocoded_at": "2026-10-21T22:01:07+0000"
 }
