@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-21T11:01:23+0000",
+  "scraped_at": "2026-10-21T12:01:07+0000",
   "count": 895,
   "courses": [
     {
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 13,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -1494,7 +1494,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104191",
       "canton": null,
       "lat": null,
@@ -1872,7 +1872,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104266",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -2320,7 +2320,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -2348,7 +2348,7 @@
       "last_date": "2026-11-01",
       "company": "SSS La Côte",
       "participation_max": 26,
-      "registered": 25,
+      "registered": 26,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -6324,7 +6324,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Höngg",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99565",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -12533,5 +12533,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T11:01:23+0000"
+  "geocoded_at": "2026-10-21T12:01:07+0000"
 }
