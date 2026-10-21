@@ -210,6 +210,12 @@
     "lat": 46.288421630859375,
     "lng": 7.718348503112793
   },
+  "Burgdorf": {
+    "canton": "BE",
+    "label": "Burgdorf (BE)",
+    "lat": 47.056617736816406,
+    "lng": 7.617252826690674
+  },
   "Bärau": {
     "canton": "BE",
     "label": "Ort Bärau (BE) - Langnau im Emmental",

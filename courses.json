@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T09:01:37+0000",
-  "count": 869,
+  "scraped_at": "2026-10-21T10:01:06+0000",
+  "count": 895,
   "courses": [
     {
       "key": "102540",
@@ -183,6 +183,20 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
+    },
+    {
+      "key": "103632",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-08-26",
+      "last_date": "2026-10-29",
+      "company": "Kantonsschule Wattwil",
+      "participation_max": 50,
+      "registered": 13,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "100646",
@@ -3671,6 +3685,34 @@
       "lng": 8.640215873718262
     },
     {
+      "key": "104436",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-11-09",
+      "last_date": "2027-03-22",
+      "company": "SSS Bellinzona",
+      "participation_max": 22,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104436",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104437",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-11-09",
+      "last_date": "2027-03-22",
+      "company": "SSS Bellinzona",
+      "participation_max": 22,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104437",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99345",
       "category": "WK BLS-AED",
       "city": "Winterthur",
@@ -3764,6 +3806,34 @@
       "participation_max": 1,
       "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104381",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104439",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-11-10",
+      "last_date": "2027-03-23",
+      "company": "SSS Bellinzona",
+      "participation_max": 21,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104439",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104440",
+      "category": "Brevet Plus Pool",
+      "city": "",
+      "first_date": "2026-11-10",
+      "last_date": "2027-03-23",
+      "company": "SSS Bellinzona",
+      "participation_max": 21,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104440",
       "canton": null,
       "lat": null,
       "lng": null
@@ -4833,6 +4903,34 @@
       "lng": 7.84113883972168
     },
     {
+      "key": "104399",
+      "category": "WK Pool Plus",
+      "city": "Interlaken",
+      "first_date": "2026-11-19",
+      "last_date": "2026-11-19",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 7,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104399",
+      "canton": "BE",
+      "lat": 46.68421936035156,
+      "lng": 7.878632545471191
+    },
+    {
+      "key": "104400",
+      "category": "WK Pool Pro",
+      "city": "Interlaken",
+      "first_date": "2026-11-19",
+      "last_date": "2026-11-19",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 3,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104400",
+      "canton": "BE",
+      "lat": 46.68421936035156,
+      "lng": 7.878632545471191
+    },
+    {
       "key": "99855",
       "category": "WK Pool Basis",
       "city": "Zug",
@@ -4994,7 +5092,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100371",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -5022,7 +5120,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100373",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -5223,6 +5321,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104410",
+      "category": "WK Pool Pro",
+      "city": "Paradiso",
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-21",
+      "company": "SSS Paradiso",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104410",
+      "canton": "TI",
+      "lat": 45.98849105834961,
+      "lng": 8.953682899475098
     },
     {
       "key": "101138",
@@ -5909,6 +6021,20 @@
       "canton": "SO",
       "lat": 47.206111907958984,
       "lng": 7.562047481536865
+    },
+    {
+      "key": "104411",
+      "category": "Brevet Basis Pool",
+      "city": "Burgdorf",
+      "first_date": "2026-11-28",
+      "last_date": "2026-11-28",
+      "company": "Schweizerischer Badmeisterverband SBV",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104411",
+      "canton": "BE",
+      "lat": 47.056617736816406,
+      "lng": 7.617252826690674
     },
     {
       "key": "100694",
@@ -7409,6 +7535,20 @@
       "lng": 9.078749656677246
     },
     {
+      "key": "104396",
+      "category": "Brevet Basis Pool",
+      "city": "Liestal",
+      "first_date": "2027-01-04",
+      "last_date": "2027-01-15",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104396",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
+    },
+    {
       "key": "104282",
       "category": "WK Pool Plus",
       "city": "",
@@ -8067,6 +8207,20 @@
       "lng": 7.331088542938232
     },
     {
+      "key": "104398",
+      "category": "Brevet Plus Pool",
+      "city": "Liestal",
+      "first_date": "2027-01-25",
+      "last_date": "2027-02-01",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104398",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
+    },
+    {
       "key": "102701",
       "category": "WK Pool Plus",
       "city": "",
@@ -8121,6 +8275,20 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
+    },
+    {
+      "key": "104394",
+      "category": "Modul BLS-AED",
+      "city": "Liestal",
+      "first_date": "2027-01-27",
+      "last_date": "2027-01-27",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104394",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
     },
     {
       "key": "104014",
@@ -8445,6 +8613,34 @@
       "lng": null
     },
     {
+      "key": "104438",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-02-15",
+      "last_date": "2027-02-22",
+      "company": "SSS Bellinzona",
+      "participation_max": 22,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104438",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "104441",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-02-16",
+      "last_date": "2027-02-23",
+      "company": "SSS Bellinzona",
+      "participation_max": 21,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104441",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103501",
       "category": "Brevet Plus Pool",
       "city": "Zug",
@@ -8639,6 +8835,20 @@
       "canton": "GE",
       "lat": 46.180213928222656,
       "lng": 6.0699896812438965
+    },
+    {
+      "key": "104401",
+      "category": "WK Pool Plus",
+      "city": "Liestal",
+      "first_date": "2027-02-26",
+      "last_date": "2027-02-26",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104401",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
     },
     {
       "key": "103830",
@@ -8891,6 +9101,20 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "104402",
+      "category": "WK Pool Pro",
+      "city": "Liestal",
+      "first_date": "2027-03-12",
+      "last_date": "2027-03-12",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104402",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
     },
     {
       "key": "103832",
@@ -9227,6 +9451,20 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "104397",
+      "category": "Brevet Basis Pool",
+      "city": "Liestal",
+      "first_date": "2027-04-05",
+      "last_date": "2027-04-19",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104397",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
     },
     {
       "key": "103903",
@@ -9619,6 +9857,20 @@
       "canton": "JU",
       "lat": 47.37165451049805,
       "lng": 7.331088542938232
+    },
+    {
+      "key": "104395",
+      "category": "Modul BLS-AED",
+      "city": "Liestal",
+      "first_date": "2027-04-14",
+      "last_date": "2027-04-14",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104395",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
     },
     {
       "key": "101666",
@@ -10125,6 +10377,20 @@
       "lng": 9.425399780273438
     },
     {
+      "key": "104404",
+      "category": "WK Pool Plus",
+      "city": "Liestal",
+      "first_date": "2027-05-24",
+      "last_date": "2027-05-24",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104404",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
+    },
+    {
       "key": "104036",
       "category": "Modul BLS-AED",
       "city": "Aarau",
@@ -10193,6 +10459,20 @@
       "canton": "ZH",
       "lat": 47.49905014038086,
       "lng": 8.720227241516113
+    },
+    {
+      "key": "104403",
+      "category": "WK Pool Pro",
+      "city": "Liestal",
+      "first_date": "2027-05-28",
+      "last_date": "2027-05-28",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104403",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
     },
     {
       "key": "102865",
@@ -10797,6 +11077,20 @@
       "lng": 8.525269508361816
     },
     {
+      "key": "104405",
+      "category": "Brevet Basis Pool",
+      "city": "Liestal",
+      "first_date": "2027-08-05",
+      "last_date": "2027-08-06",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104405",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
+    },
+    {
       "key": "104098",
       "category": "Brevet Basis Pool",
       "city": "Aarau",
@@ -10853,6 +11147,48 @@
       "lng": 8.046090126037598
     },
     {
+      "key": "104406",
+      "category": "Brevet Basis Pool",
+      "city": "Liestal",
+      "first_date": "2027-08-09",
+      "last_date": "2027-08-10",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104406",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
+    },
+    {
+      "key": "104408",
+      "category": "Modul BLS-AED",
+      "city": "Liestal",
+      "first_date": "2027-08-11",
+      "last_date": "2027-08-11",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104408",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
+    },
+    {
+      "key": "104407",
+      "category": "Brevet Basis Pool",
+      "city": "Liestal",
+      "first_date": "2027-08-12",
+      "last_date": "2027-08-13",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104407",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
+    },
+    {
       "key": "103724",
       "category": "Modul See",
       "city": "Zürich",
@@ -10879,6 +11215,20 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "104409",
+      "category": "Brevet Basis Pool",
+      "city": "Liestal",
+      "first_date": "2027-08-21",
+      "last_date": "2027-08-21",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104409",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
     },
     {
       "key": "103992",
@@ -10935,6 +11285,20 @@
       "canton": "ZH",
       "lat": 47.42878341674805,
       "lng": 8.573216438293457
+    },
+    {
+      "key": "104021",
+      "category": "Modul See",
+      "city": "Turbenthal",
+      "first_date": "2027-08-22",
+      "last_date": "2027-08-22",
+      "company": "SLRG Winterthur",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104021",
+      "canton": "ZH",
+      "lat": 47.43281555175781,
+      "lng": 8.876042366027832
     },
     {
       "key": "103685",
@@ -12169,5 +12533,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T09:01:37+0000"
+  "geocoded_at": "2026-10-21T10:01:07+0000"
 }
