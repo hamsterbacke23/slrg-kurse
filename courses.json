@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T06:01:04+0000",
-  "count": 872,
+  "scraped_at": "2026-10-21T07:07:51+0000",
+  "count": 870,
   "courses": [
     {
       "key": "102540",
@@ -325,20 +325,6 @@
       "lng": 6.232627868652344
     },
     {
-      "key": "103212",
-      "category": "WK BLS-AED",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-10-13",
-      "last_date": "2026-10-13",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103212",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
-    },
-    {
       "key": "103734",
       "category": "Jugendbrevet",
       "city": "Bellinzona",
@@ -502,20 +488,6 @@
       "participation_max": 16,
       "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103823",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
-    },
-    {
-      "key": "103213",
-      "category": "WK BLS-AED",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-20",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103213",
       "canton": "GE",
       "lat": 46.16372299194336,
       "lng": 6.119792938232422
@@ -1655,34 +1627,6 @@
       "lng": 6.923159599304199
     },
     {
-      "key": "103896",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "company": "SLRG Frauenfeld",
-      "participation_max": 5,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103896",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103897",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-10-26",
-      "last_date": "2026-10-26",
-      "company": "SLRG Frauenfeld",
-      "participation_max": 4,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103897",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "100252",
       "category": "WK Pool Basis",
       "city": "Appenzell",
@@ -2378,6 +2322,34 @@
       "participation_max": 12,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
+      "canton": "VD",
+      "lat": 46.3162727355957,
+      "lng": 6.202526569366455
+    },
+    {
+      "key": "100589",
+      "category": "WK Pool Pro",
+      "city": "Coppet",
+      "first_date": "2026-11-01",
+      "last_date": "2026-11-01",
+      "company": "SSS La Côte",
+      "participation_max": 24,
+      "registered": 23,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100589",
+      "canton": "VD",
+      "lat": 46.3162727355957,
+      "lng": 6.202526569366455
+    },
+    {
+      "key": "100590",
+      "category": "WK BLS-AED",
+      "city": "Coppet",
+      "first_date": "2026-11-01",
+      "last_date": "2026-11-01",
+      "company": "SSS La Côte",
+      "participation_max": 26,
+      "registered": 24,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
       "lng": 6.202526569366455
@@ -5554,7 +5526,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103894",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -8340,7 +8312,7 @@
       "last_date": "2027-02-06",
       "company": "SLRG Oberwallis",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101555",
       "canton": "VS",
       "lat": 46.31085968017578,
@@ -10622,7 +10594,7 @@
       "last_date": "2027-06-19",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103725",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -12211,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T06:01:04+0000"
+  "geocoded_at": "2026-10-21T07:07:51+0000"
 }
