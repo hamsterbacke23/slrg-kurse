@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T13:03:50+0000",
-  "count": 894,
+  "scraped_at": "2026-10-21T14:01:19+0000",
+  "count": 893,
   "courses": [
     {
       "key": "102540",
@@ -654,7 +654,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103762",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -3454,7 +3454,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104350",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -5456,7 +5456,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Zug",
       "participation_max": 25,
-      "registered": 14,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103899",
       "canton": null,
       "lat": null,
@@ -5489,20 +5489,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100259",
-      "category": "WK BLS-AED",
-      "city": "Appenzell",
-      "first_date": "2026-11-24",
-      "last_date": "2026-11-24",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100259",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
     },
     {
       "key": "102698",
@@ -9544,7 +9530,7 @@
       "last_date": "2027-04-11",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103506",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -9558,7 +9544,7 @@
       "last_date": "2027-04-11",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103507",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -9572,7 +9558,7 @@
       "last_date": "2027-04-11",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103508",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -9894,7 +9880,7 @@
       "last_date": "2027-04-17",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101694",
       "canton": null,
       "lat": null,
@@ -12519,5 +12505,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T13:03:50+0000"
+  "geocoded_at": "2026-10-21T14:01:19+0000"
 }
