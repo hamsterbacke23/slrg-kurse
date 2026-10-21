@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-21T16:01:01+0000",
-  "count": 893,
+  "scraped_at": "2026-10-21T17:01:06+0000",
+  "count": 892,
   "courses": [
     {
       "key": "102540",
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 20,
+      "registered": 21,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -717,20 +717,6 @@
       "lng": 8.720227241516113
     },
     {
-      "key": "100324",
-      "category": "Brevet Plus Pool",
-      "city": "Allschwil",
-      "first_date": "2026-10-22",
-      "last_date": "2026-11-19",
-      "company": "SLRG Basel",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100324",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
-    },
-    {
       "key": "100550",
       "category": "Brevet Plus Pool",
       "city": "Kloten",
@@ -933,8 +919,8 @@
       "first_date": "2026-10-23",
       "last_date": "2026-10-23",
       "company": "SSS St. Maurice",
-      "participation_max": 10,
-      "registered": 10,
+      "participation_max": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103451",
       "canton": null,
       "lat": null,
@@ -7962,7 +7948,7 @@
       "last_date": "2027-01-17",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104323",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -8578,7 +8564,7 @@
       "last_date": "2027-02-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103676",
       "canton": null,
       "lat": null,
@@ -12505,5 +12491,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-21T16:01:01+0000"
+  "geocoded_at": "2026-10-21T17:01:06+0000"
 }
