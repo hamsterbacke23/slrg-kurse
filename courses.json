@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-22T21:01:10+0000",
-  "count": 877,
+  "scraped_at": "2026-10-22T22:01:13+0000",
+  "count": 876,
   "courses": [
     {
       "key": "102540",
@@ -661,20 +661,6 @@
       "lng": 8.720227241516113
     },
     {
-      "key": "101800",
-      "category": "WK Pool Plus",
-      "city": "Brunnen",
-      "first_date": "2026-10-22",
-      "last_date": "2026-10-22",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101800",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
-    },
-    {
       "key": "104198",
       "category": "Jugendbrevet",
       "city": "La Chaux-de-Fonds",
@@ -1137,20 +1123,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "103836",
-      "category": "Brevet Plus Pool",
-      "city": "Le Sentier",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-25",
-      "company": "SSS Vallée de Joux",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103836",
-      "canton": "VD",
-      "lat": 46.60649871826172,
-      "lng": 6.231893062591553
-    },
-    {
       "key": "103879",
       "category": "Brevet Basis Pool",
       "city": "Romanel-sur-Lausanne",
@@ -1219,6 +1191,20 @@
       "canton": "SZ",
       "lat": 47.19688415527344,
       "lng": 8.854327201843262
+    },
+    {
+      "key": "102994",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-10-25",
+      "last_date": "2026-10-25",
+      "company": "SLRG Basel",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102994",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103305",
@@ -12281,5 +12267,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T21:01:11+0000"
+  "geocoded_at": "2026-10-22T22:01:13+0000"
 }
