@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T17:01:05+0000",
+  "scraped_at": "2026-10-22T18:00:46+0000",
   "count": 882,
   "courses": [
     {
@@ -4112,7 +4112,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Lyss",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101992",
       "canton": null,
       "lat": null,
@@ -12351,5 +12351,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T17:01:05+0000"
+  "geocoded_at": "2026-10-22T18:00:46+0000"
 }
