@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T08:01:30+0000",
+  "scraped_at": "2026-10-22T09:01:35+0000",
   "count": 884,
   "courses": [
     {
@@ -682,7 +682,7 @@
       "last_date": "2026-10-22",
       "company": "SLRG Basel",
       "participation_max": 11,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103025",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -3468,7 +3468,7 @@
       "last_date": "2026-11-10",
       "company": "SSS Lugano",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101518",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -3706,7 +3706,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101519",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -3846,7 +3846,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Lugano",
       "participation_max": 15,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101520",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -4966,7 +4966,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100371",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -5806,7 +5806,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103314",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -6324,7 +6324,7 @@
       "last_date": "2026-12-04",
       "company": "SSS Porrentruy",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104377",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -10636,7 +10636,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103758",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12379,5 +12379,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T08:01:30+0000"
+  "geocoded_at": "2026-10-22T09:01:35+0000"
 }
