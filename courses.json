@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T10:00:54+0000",
+  "scraped_at": "2026-10-22T11:01:02+0000",
   "count": 884,
   "courses": [
     {
@@ -1718,7 +1718,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104195",
       "canton": null,
       "lat": null,
@@ -3188,7 +3188,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
       "canton": "SZ",
       "lat": 47.19816589355469,
@@ -7780,7 +7780,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Bielersee",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103129",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -12379,5 +12379,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T10:00:55+0000"
+  "geocoded_at": "2026-10-22T11:01:02+0000"
 }
