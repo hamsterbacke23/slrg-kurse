@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T18:00:46+0000",
+  "scraped_at": "2026-10-22T19:01:00+0000",
   "count": 882,
   "courses": [
     {
@@ -801,6 +801,20 @@
       "lng": 7.289914131164551
     },
     {
+      "key": "103451",
+      "category": "WK Pool Pro",
+      "city": "",
+      "first_date": "2026-10-23",
+      "last_date": "2026-10-23",
+      "company": "SSS St. Maurice",
+      "participation_max": 12,
+      "registered": 12,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103451",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103955",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -836,7 +850,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
       "canton": null,
       "lat": null,
@@ -2131,20 +2145,6 @@
       "lng": 6.202526569366455
     },
     {
-      "key": "100588",
-      "category": "WK Pool Plus",
-      "city": "Coppet",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SSS La Côte",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100588",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
-    },
-    {
       "key": "100589",
       "category": "WK Pool Pro",
       "city": "Coppet",
@@ -2222,7 +2222,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Lachen",
       "participation_max": 17,
-      "registered": 15,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101354",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -2698,7 +2698,7 @@
       "last_date": "2026-11-16",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103467",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6240,7 +6240,7 @@
       "last_date": "2027-02-11",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103801",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -6366,7 +6366,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101729",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -12351,5 +12351,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T18:00:46+0000"
+  "geocoded_at": "2026-10-22T19:01:00+0000"
 }
