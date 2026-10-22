@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-22T16:00:57+0000",
-  "count": 884,
+  "scraped_at": "2026-10-22T17:01:05+0000",
+  "count": 882,
   "courses": [
     {
       "key": "102540",
@@ -717,20 +717,6 @@
       "lng": 6.84379243850708
     },
     {
-      "key": "104230",
-      "category": "Brevet Basis Pool",
-      "city": "Payerne",
-      "first_date": "2026-10-22",
-      "last_date": "2026-10-22",
-      "company": "SSS Payerne",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104230",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
-    },
-    {
       "key": "99859",
       "category": "WK Pool Basis",
       "city": "Zug",
@@ -855,20 +841,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "104229",
-      "category": "Brevet Plus Pool",
-      "city": "Payerne",
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-23",
-      "company": "SSS Payerne",
-      "participation_max": 10,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104229",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
     },
     {
       "key": "104275",
@@ -1018,7 +990,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Toggenburg",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
       "canton": null,
       "lat": null,
@@ -2306,7 +2278,7 @@
       "last_date": "2026-11-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103887",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -12379,5 +12351,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T16:00:57+0000"
+  "geocoded_at": "2026-10-22T17:01:05+0000"
 }
