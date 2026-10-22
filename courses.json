@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-22T15:01:24+0000",
-  "count": 885,
+  "scraped_at": "2026-10-22T16:00:57+0000",
+  "count": 884,
   "courses": [
     {
       "key": "102540",
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 26,
+      "registered": 28,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -703,20 +703,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "103579",
-      "category": "WK Pool Pro",
-      "city": "Sion",
-      "first_date": "2026-10-22",
-      "last_date": "2026-10-22",
-      "company": "SSS Sion",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103579",
-      "canton": "VS",
-      "lat": 46.21693801879883,
-      "lng": 7.342846393585205
-    },
-    {
       "key": "104198",
       "category": "Jugendbrevet",
       "city": "La Chaux-de-Fonds",
@@ -878,7 +864,7 @@
       "last_date": "2026-10-23",
       "company": "SSS Payerne",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104229",
       "canton": "VD",
       "lat": 46.821258544921875,
@@ -2320,7 +2306,7 @@
       "last_date": "2026-11-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103887",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2600,7 +2586,7 @@
       "last_date": "2026-11-04",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100790",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3020,7 +3006,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101683",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -3104,7 +3090,7 @@
       "last_date": "2026-11-28",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101981",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -12393,5 +12379,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T15:01:25+0000"
+  "geocoded_at": "2026-10-22T16:00:57+0000"
 }
