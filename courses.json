@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T13:03:34+0000",
+  "scraped_at": "2026-10-22T14:01:12+0000",
   "count": 885,
   "courses": [
     {
@@ -367,6 +367,20 @@
       "lng": 7.6857829093933105
     },
     {
+      "key": "104388",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-10-14",
+      "last_date": "2026-10-14",
+      "company": "SLRG Frauenfeld",
+      "participation_max": 2,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104388",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100897",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -673,20 +687,6 @@
       "canton": "VS",
       "lat": 46.288421630859375,
       "lng": 7.718348503112793
-    },
-    {
-      "key": "103025",
-      "category": "Modul BLS-AED",
-      "city": "Allschwil",
-      "first_date": "2026-10-22",
-      "last_date": "2026-10-22",
-      "company": "SLRG Basel",
-      "participation_max": 11,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103025",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
     },
     {
       "key": "103578",
@@ -1256,7 +1256,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104253",
       "canton": "FL",
       "lat": 47.06768,
@@ -10496,7 +10496,7 @@
       "last_date": "2027-06-05",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103749",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12393,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T13:03:34+0000"
+  "geocoded_at": "2026-10-22T14:01:12+0000"
 }
