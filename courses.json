@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-22T20:01:09+0000",
-  "count": 878,
+  "scraped_at": "2026-10-22T21:01:10+0000",
+  "count": 877,
   "courses": [
     {
       "key": "102540",
@@ -855,20 +855,6 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
-    },
-    {
-      "key": "104304",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-23",
-      "company": "SSS St. Maurice",
-      "participation_max": 6,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104304",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "99546",
@@ -3314,7 +3300,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103598",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -12295,5 +12281,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T20:01:09+0000"
+  "geocoded_at": "2026-10-22T21:01:11+0000"
 }
