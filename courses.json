@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-22T11:01:02+0000",
-  "count": 884,
+  "scraped_at": "2026-10-22T12:01:09+0000",
+  "count": 885,
   "courses": [
     {
       "key": "102540",
@@ -2222,7 +2222,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
       "canton": null,
       "lat": null,
@@ -3342,7 +3342,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101050",
       "canton": null,
       "lat": null,
@@ -4196,7 +4196,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG - SSS",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103637",
       "canton": "LU",
       "lat": 47.178199768066406,
@@ -4525,20 +4525,6 @@
       "lng": 9.262721061706543
     },
     {
-      "key": "103329",
-      "category": "Modul BLS-AED",
-      "city": "Lausanne",
-      "first_date": "2026-11-16",
-      "last_date": "2026-11-18",
-      "company": "SSS Lausanne",
-      "participation_max": 20,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103329",
-      "canton": "VD",
-      "lat": 46.52865219116211,
-      "lng": 6.638521671295166
-    },
-    {
       "key": "104384",
       "category": "Modul BLS-AED",
       "city": "",
@@ -4546,7 +4532,7 @@
       "last_date": "2026-11-16",
       "company": "SLRG Frauenfeld",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104384",
       "canton": null,
       "lat": null,
@@ -5043,6 +5029,20 @@
       "lng": 6.9480791091918945
     },
     {
+      "key": "101830",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-21",
+      "company": "SLRG Rafzerfeld",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101830",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102358",
       "category": "WK Pool Plus",
       "city": "Altdorf UR",
@@ -5083,6 +5083,20 @@
       "canton": "BE",
       "lat": 46.474002838134766,
       "lng": 7.289914131164551
+    },
+    {
+      "key": "103449",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-21",
+      "company": "SLRG Rafzerfeld",
+      "participation_max": 7,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103449",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103486",
@@ -12379,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T11:01:02+0000"
+  "geocoded_at": "2026-10-22T12:01:09+0000"
 }
