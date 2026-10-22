@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-22T04:01:15+0000",
-  "count": 886,
+  "scraped_at": "2026-10-22T05:01:03+0000",
+  "count": 885,
   "courses": [
     {
       "key": "102540",
@@ -547,20 +547,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101144",
-      "category": "Modul BLS-AED",
-      "city": "Hinwil",
-      "first_date": "2026-10-21",
-      "last_date": "2026-10-21",
-      "company": "SLRG Hinwil",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101144",
-      "canton": "ZH",
-      "lat": 47.302894592285156,
-      "lng": 8.850424766540527
     },
     {
       "key": "103760",
@@ -10664,7 +10650,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103758",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12407,5 +12393,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T04:01:15+0000"
+  "geocoded_at": "2026-10-22T05:01:04+0000"
 }
