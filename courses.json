@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T14:01:20+0000",
+  "scraped_at": "2026-10-23T15:01:00+0000",
   "count": 900,
   "courses": [
     {
@@ -1186,7 +1186,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103627",
       "canton": null,
       "lat": null,
@@ -3118,7 +3118,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Baden-Brugg",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104264",
       "canton": null,
       "lat": null,
@@ -4784,7 +4784,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100371",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -7556,7 +7556,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104462",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -12603,5 +12603,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T14:01:20+0000"
+  "geocoded_at": "2026-10-23T15:01:01+0000"
 }
