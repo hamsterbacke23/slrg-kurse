@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T16:01:09+0000",
+  "scraped_at": "2026-10-23T17:01:14+0000",
   "count": 900,
   "courses": [
     {
@@ -1900,7 +1900,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Männedorf",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102833",
       "canton": "ZH",
       "lat": 47.259639739990234,
@@ -7066,7 +7066,7 @@
       "last_date": "2026-12-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101248",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -7206,7 +7206,7 @@
       "last_date": "2026-12-20",
       "company": "SSS Riviera",
       "participation_max": 10,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104300",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -10916,7 +10916,7 @@
       "last_date": "2027-06-19",
       "company": "SLRG Höngg",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103725",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -12603,5 +12603,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T16:01:09+0000"
+  "geocoded_at": "2026-10-23T17:01:14+0000"
 }
