@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-23T05:00:53+0000",
-  "count": 876,
+  "scraped_at": "2026-10-23T06:01:10+0000",
+  "count": 874,
   "courses": [
     {
       "key": "102540",
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 28,
+      "registered": 30,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -745,20 +745,6 @@
       "lng": 7.289914131164551
     },
     {
-      "key": "103263",
-      "category": "WK Pool Basis",
-      "city": "Gstaad",
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-23",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 2,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103263",
-      "canton": "BE",
-      "lat": 46.474002838134766,
-      "lng": 7.289914131164551
-    },
-    {
       "key": "103451",
       "category": "WK Pool Pro",
       "city": "",
@@ -1121,20 +1107,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "103879",
-      "category": "Brevet Basis Pool",
-      "city": "Romanel-sur-Lausanne",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103879",
-      "canton": "VD",
-      "lat": 46.55949401855469,
-      "lng": 6.608593940734863
     },
     {
       "key": "103965",
@@ -3468,7 +3440,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Bülach",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101432",
       "canton": "ZH",
       "lat": 47.5283088684082,
@@ -12267,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T05:00:54+0000"
+  "geocoded_at": "2026-10-23T06:01:10+0000"
 }
