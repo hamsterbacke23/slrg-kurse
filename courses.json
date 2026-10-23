@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-22T23:01:00+0000",
+  "scraped_at": "2026-10-23T00:01:43+0000",
   "count": 876,
   "courses": [
     {
@@ -8536,7 +8536,7 @@
       "last_date": "2027-04-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102702",
       "canton": "NE",
       "lat": 47.0006217956543,
@@ -12267,5 +12267,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-22T23:01:00+0000"
+  "geocoded_at": "2026-10-23T00:01:43+0000"
 }
