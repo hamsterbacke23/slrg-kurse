@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T13:01:47+0000",
+  "scraped_at": "2026-10-23T14:01:20+0000",
   "count": 900,
   "courses": [
     {
@@ -234,7 +234,7 @@
       "last_date": "2026-09-28",
       "company": "SLRG Emmental",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103963",
       "canton": null,
       "lat": null,
@@ -2173,20 +2173,6 @@
       "lng": 6.891254425048828
     },
     {
-      "key": "104345",
-      "category": "WK Pool Plus",
-      "city": "Richterswil",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SLRG Richterswil",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
-      "canton": "ZH",
-      "lat": 47.20124435424805,
-      "lng": 8.686915397644043
-    },
-    {
       "key": "98753",
       "category": "Modul BLS-AED",
       "city": "Adliswil",
@@ -3279,6 +3265,20 @@
       "lng": 6.891254425048828
     },
     {
+      "key": "104345",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-08",
+      "company": "SLRG Richterswil",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "104349",
       "category": "Brevet Plus Pool",
       "city": "Plan-les-Ouates",
@@ -3426,7 +3426,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Bülach",
       "participation_max": 16,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101432",
       "canton": "ZH",
       "lat": 47.5283088684082,
@@ -4952,7 +4952,7 @@
       "last_date": "2026-11-21",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103572",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -6198,7 +6198,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101670",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -7206,7 +7206,7 @@
       "last_date": "2026-12-20",
       "company": "SSS Riviera",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104300",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -12603,5 +12603,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T13:01:47+0000"
+  "geocoded_at": "2026-10-23T14:01:20+0000"
 }
