@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-23T06:01:10+0000",
-  "count": 874,
+  "scraped_at": "2026-10-23T07:07:26+0000",
+  "count": 902,
   "courses": [
     {
       "key": "102540",
@@ -726,20 +726,6 @@
       "participation_max": 7,
       "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103260",
-      "canton": "BE",
-      "lat": 46.474002838134766,
-      "lng": 7.289914131164551
-    },
-    {
-      "key": "103262",
-      "category": "WK Pool Pro",
-      "city": "Gstaad",
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-23",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 3,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103262",
       "canton": "BE",
       "lat": 46.474002838134766,
       "lng": 7.289914131164551
@@ -1473,6 +1459,20 @@
       "lng": 9.493878364562988
     },
     {
+      "key": "104444",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-10-27",
+      "last_date": "2026-10-27",
+      "company": "SLRG Appenzell",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104444",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "102740",
       "category": "Brevet Basis Pool",
       "city": "Monthey",
@@ -1681,6 +1681,20 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
+    },
+    {
+      "key": "104445",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-10-29",
+      "last_date": "2026-10-29",
+      "company": "SLRG Appenzell",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104445",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "100980",
@@ -5274,7 +5288,7 @@
       "last_date": "2026-12-08",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103404",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -7241,6 +7255,20 @@
       "lng": 7.161526203155518
     },
     {
+      "key": "104480",
+      "category": "Brevet Basis Pool",
+      "city": "Burgdorf",
+      "first_date": "2026-12-19",
+      "last_date": "2026-12-19",
+      "company": "Schweizerischer Badmeisterverband SBV",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104480",
+      "canton": "BE",
+      "lat": 47.056617736816406,
+      "lng": 7.617252826690674
+    },
+    {
       "key": "104390",
       "category": "WK Pool Plus",
       "city": "Bütschwil",
@@ -7519,6 +7547,62 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104454",
+      "category": "WK BLS-AED",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-01-09",
+      "last_date": "2027-01-09",
+      "company": "SLRG Emmental",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104454",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104458",
+      "category": "WK Pool Basis",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-01-09",
+      "last_date": "2027-01-09",
+      "company": "SLRG Emmental",
+      "participation_max": 2,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104458",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104462",
+      "category": "WK Pool Plus",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-01-09",
+      "last_date": "2027-01-09",
+      "company": "SLRG Emmental",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104462",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104466",
+      "category": "WK Pool Pro",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-01-09",
+      "last_date": "2027-01-09",
+      "company": "SLRG Emmental",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104466",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
     },
     {
       "key": "104247",
@@ -7827,6 +7911,20 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
+    },
+    {
+      "key": "104452",
+      "category": "Brevet Plus Pool",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-01-23",
+      "last_date": "2027-01-23",
+      "company": "SLRG Emmental",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104452",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
     },
     {
       "key": "103972",
@@ -8151,6 +8249,20 @@
       "lng": null
     },
     {
+      "key": "104448",
+      "category": "Brevet Basis Pool",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-01-30",
+      "last_date": "2027-01-30",
+      "company": "SLRG Emmental",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104448",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
       "key": "103714",
       "category": "Modul BLS-AED",
       "city": "Fribourg",
@@ -8333,6 +8445,62 @@
       "lng": null
     },
     {
+      "key": "104455",
+      "category": "WK BLS-AED",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-02-13",
+      "last_date": "2027-02-13",
+      "company": "SLRG Emmental",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104455",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104459",
+      "category": "WK Pool Basis",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-02-13",
+      "last_date": "2027-02-13",
+      "company": "SLRG Emmental",
+      "participation_max": 2,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104459",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104463",
+      "category": "WK Pool Plus",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-02-13",
+      "last_date": "2027-02-13",
+      "company": "SLRG Emmental",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104463",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104467",
+      "category": "WK Pool Pro",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-02-13",
+      "last_date": "2027-02-13",
+      "company": "SLRG Emmental",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104467",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
       "key": "104438",
       "category": "Modul BLS-AED",
       "city": "",
@@ -8499,6 +8667,20 @@
       "canton": "ZH",
       "lat": 47.37721252441406,
       "lng": 8.527311325073242
+    },
+    {
+      "key": "104449",
+      "category": "Brevet Basis Pool",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-02-20",
+      "last_date": "2027-02-20",
+      "company": "SLRG Emmental",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104449",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
     },
     {
       "key": "102702",
@@ -8781,6 +8963,20 @@
       "lng": 8.527311325073242
     },
     {
+      "key": "104450",
+      "category": "Brevet Basis Pool",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-03-06",
+      "last_date": "2027-03-06",
+      "company": "SLRG Emmental",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104450",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
       "key": "103890",
       "category": "Brevet Plus Pool",
       "city": "Opfikon",
@@ -8891,6 +9087,62 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104456",
+      "category": "WK BLS-AED",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-03-13",
+      "last_date": "2027-03-13",
+      "company": "SLRG Emmental",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104456",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104460",
+      "category": "WK Pool Basis",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-03-13",
+      "last_date": "2027-03-13",
+      "company": "SLRG Emmental",
+      "participation_max": 2,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104460",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104464",
+      "category": "WK Pool Plus",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-03-13",
+      "last_date": "2027-03-13",
+      "company": "SLRG Emmental",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104464",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104468",
+      "category": "WK Pool Pro",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-03-13",
+      "last_date": "2027-03-13",
+      "company": "SLRG Emmental",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104468",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
     },
     {
       "key": "103759",
@@ -9103,6 +9355,20 @@
       "lng": 8.720227241516113
     },
     {
+      "key": "104483",
+      "category": "WK BLS-AED",
+      "city": "Solothurn",
+      "first_date": "2027-04-02",
+      "last_date": "2027-04-02",
+      "company": "SLRG Limpachtal",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104483",
+      "canton": "SO",
+      "lat": 47.20805740356445,
+      "lng": 7.529796123504639
+    },
+    {
       "key": "103981",
       "category": "Brevet Basis Pool",
       "city": "Zürich",
@@ -9159,6 +9425,20 @@
       "lng": 8.527311325073242
     },
     {
+      "key": "104451",
+      "category": "Brevet Basis Pool",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-04-03",
+      "last_date": "2027-04-03",
+      "company": "SLRG Emmental",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104451",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
       "key": "104397",
       "category": "Brevet Basis Pool",
       "city": "Liestal",
@@ -9199,6 +9479,20 @@
       "canton": "ZH",
       "lat": 47.308265686035156,
       "lng": 8.525269508361816
+    },
+    {
+      "key": "104234",
+      "category": "Brevet Basis Pool",
+      "city": "Winterthur",
+      "first_date": "2027-04-09",
+      "last_date": "2027-04-09",
+      "company": "SLRG Winterthur",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104234",
+      "canton": "ZH",
+      "lat": 47.49905014038086,
+      "lng": 8.720227241516113
     },
     {
       "key": "102365",
@@ -9621,6 +9915,62 @@
       "lng": null
     },
     {
+      "key": "104457",
+      "category": "WK BLS-AED",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-04-17",
+      "last_date": "2027-04-17",
+      "company": "SLRG Emmental",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104457",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104461",
+      "category": "WK Pool Basis",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-04-17",
+      "last_date": "2027-04-17",
+      "company": "SLRG Emmental",
+      "participation_max": 2,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104461",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104465",
+      "category": "WK Pool Plus",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-04-17",
+      "last_date": "2027-04-17",
+      "company": "SLRG Emmental",
+      "participation_max": 6,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104465",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
+      "key": "104469",
+      "category": "WK Pool Pro",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-04-17",
+      "last_date": "2027-04-17",
+      "company": "SLRG Emmental",
+      "participation_max": 4,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104469",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
+    },
+    {
       "key": "104015",
       "category": "Modul BLS-AED",
       "city": "Winterthur",
@@ -9635,6 +9985,20 @@
       "lng": 8.720227241516113
     },
     {
+      "key": "104443",
+      "category": "Brevet Pro Pool",
+      "city": "Liestal",
+      "first_date": "2027-04-23",
+      "last_date": "2027-05-10",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104443",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
+    },
+    {
       "key": "101673",
       "category": "Brevet Plus Pool",
       "city": "Neuchâtel",
@@ -9647,6 +10011,20 @@
       "canton": "NE",
       "lat": 47.020973205566406,
       "lng": 6.9480791091918945
+    },
+    {
+      "key": "104453",
+      "category": "Brevet Plus Pool",
+      "city": "Langnau im Emmental",
+      "first_date": "2027-04-24",
+      "last_date": "2027-04-24",
+      "company": "SLRG Emmental",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104453",
+      "canton": "BE",
+      "lat": 46.954750061035156,
+      "lng": 7.804457187652588
     },
     {
       "key": "103698",
@@ -10753,6 +11131,20 @@
       "canton": "ZH",
       "lat": 47.42878341674805,
       "lng": 8.573216438293457
+    },
+    {
+      "key": "104442",
+      "category": "Brevet Basis Pool",
+      "city": "Liestal",
+      "first_date": "2027-07-05",
+      "last_date": "2027-07-06",
+      "company": "SLRG Basel",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104442",
+      "canton": "BL",
+      "lat": 47.483455657958984,
+      "lng": 7.7250237464904785
     },
     {
       "key": "103905",
@@ -12239,5 +12631,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T06:01:10+0000"
+  "geocoded_at": "2026-10-23T07:07:26+0000"
 }
