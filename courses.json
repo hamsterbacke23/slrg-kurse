@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-23T18:01:24+0000",
-  "count": 900,
+  "scraped_at": "2026-10-23T19:01:17+0000",
+  "count": 899,
   "courses": [
     {
       "key": "102540",
@@ -1900,7 +1900,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Männedorf",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102833",
       "canton": "ZH",
       "lat": 47.259639739990234,
@@ -2103,20 +2103,6 @@
       "lng": 8.854327201843262
     },
     {
-      "key": "102978",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SLRG Emmental",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102978",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "102990",
       "category": "Brevet Basis Pool",
       "city": "Spreitenbach",
@@ -2166,7 +2152,7 @@
       "last_date": "2026-11-01",
       "company": "SSS Riviera",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104296",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -7094,7 +7080,7 @@
       "last_date": "2026-12-19",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103316",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -12603,5 +12589,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T18:01:24+0000"
+  "geocoded_at": "2026-10-23T19:01:17+0000"
 }
