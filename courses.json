@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T17:01:14+0000",
+  "scraped_at": "2026-10-23T18:01:24+0000",
   "count": 900,
   "courses": [
     {
@@ -738,7 +738,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103957",
       "canton": null,
       "lat": null,
@@ -3272,7 +3272,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
       "canton": null,
       "lat": null,
@@ -12603,5 +12603,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T17:01:14+0000"
+  "geocoded_at": "2026-10-23T18:01:24+0000"
 }
