@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T20:01:03+0000",
+  "scraped_at": "2026-10-23T21:01:15+0000",
   "count": 898,
   "courses": [
     {
@@ -2572,7 +2572,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Uri",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100959",
       "canton": "UR",
       "lat": 46.91195297241211,
@@ -12575,5 +12575,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T20:01:03+0000"
+  "geocoded_at": "2026-10-23T21:01:16+0000"
 }
