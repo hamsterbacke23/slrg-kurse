@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-23T12:01:22+0000",
+  "scraped_at": "2026-10-23T13:01:47+0000",
   "count": 900,
   "courses": [
     {
@@ -1578,7 +1578,7 @@
       "last_date": "2026-10-28",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104195",
       "canton": null,
       "lat": null,
@@ -2040,7 +2040,7 @@
       "last_date": "2026-10-31",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104341",
       "canton": "VD",
       "lat": 46.3162727355957,
@@ -5666,7 +5666,7 @@
       "last_date": "2026-11-28",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103487",
       "canton": null,
       "lat": null,
@@ -6758,7 +6758,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103860",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -8032,7 +8032,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103499",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -12603,5 +12603,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T12:01:22+0000"
+  "geocoded_at": "2026-10-23T13:01:47+0000"
 }
