@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-23T09:01:14+0000",
-  "count": 902,
+  "scraped_at": "2026-10-23T10:00:56+0000",
+  "count": 901,
   "courses": [
     {
       "key": "102540",
@@ -225,20 +225,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103185",
-      "category": "Jugendbrevet",
-      "city": "Coppet",
-      "first_date": "2026-09-28",
-      "last_date": "2026-12-21",
-      "company": "SSS La Côte",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103185",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
     },
     {
       "key": "103963",
@@ -556,7 +542,7 @@
       "last_date": "2026-12-15",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103959",
       "canton": null,
       "lat": null,
@@ -6604,7 +6590,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99391",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7766,7 +7752,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104056",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12631,5 +12617,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-23T09:01:14+0000"
+  "geocoded_at": "2026-10-23T10:00:56+0000"
 }
