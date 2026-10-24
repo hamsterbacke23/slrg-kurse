@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-24T20:01:00+0000",
-  "count": 882,
+  "scraped_at": "2026-10-24T21:01:24+0000",
+  "count": 881,
   "courses": [
     {
       "key": "102540",
@@ -631,20 +631,6 @@
       "canton": "NE",
       "lat": 47.11421203613281,
       "lng": 6.84379243850708
-    },
-    {
-      "key": "99860",
-      "category": "WK Pool Plus",
-      "city": "Zug",
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-23",
-      "company": "SLRG Zug",
-      "participation_max": 5,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99860",
-      "canton": "ZG",
-      "lat": 47.151554107666016,
-      "lng": 8.521272659301758
     },
     {
       "key": "103955",
@@ -12351,5 +12337,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T20:01:00+0000"
+  "geocoded_at": "2026-10-24T21:01:24+0000"
 }
