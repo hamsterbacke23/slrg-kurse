@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-24T15:00:59+0000",
-  "count": 884,
+  "scraped_at": "2026-10-24T16:00:37+0000",
+  "count": 882,
   "courses": [
     {
       "key": "102540",
@@ -752,7 +752,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100250",
       "canton": "AI",
       "lat": 47.33292770385742,
@@ -780,7 +780,7 @@
       "last_date": "2026-10-24",
       "company": "SLRG Sektion Luzern",
       "participation_max": 6,
-      "registered": 7,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100882",
       "canton": null,
       "lat": null,
@@ -857,20 +857,6 @@
       "lng": 7.747023105621338
     },
     {
-      "key": "102098",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 2,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102098",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103124",
       "category": "Brevet Basis Pool",
       "city": "Winterthur",
@@ -925,20 +911,6 @@
       "canton": "BL",
       "lat": 47.52326583862305,
       "lng": 7.6465020179748535
-    },
-    {
-      "key": "103965",
-      "category": "Brevet Basis Pool",
-      "city": "Dielsdorf",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Wehntal",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103965",
-      "canton": "ZH",
-      "lat": 47.47540283203125,
-      "lng": 8.455204963684082
     },
     {
       "key": "104253",
@@ -3048,7 +3020,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
       "canton": null,
       "lat": null,
@@ -10594,7 +10566,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103750",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12379,5 +12351,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T15:00:59+0000"
+  "geocoded_at": "2026-10-24T16:00:37+0000"
 }
