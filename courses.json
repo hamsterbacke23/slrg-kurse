@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-24T18:01:20+0000",
-  "count": 875,
+  "scraped_at": "2026-10-24T19:01:13+0000",
+  "count": 882,
   "courses": [
     {
       "key": "102540",
@@ -7549,6 +7549,20 @@
       "lng": 7.804457187652588
     },
     {
+      "key": "104484",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-01-23",
+      "last_date": "2027-01-23",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104484",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103972",
       "category": "Brevet Basis Pool",
       "city": "Opfikon",
@@ -8417,6 +8431,20 @@
       "lng": 7.804457187652588
     },
     {
+      "key": "104428",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-02-27",
+      "last_date": "2027-02-27",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104428",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "104254",
       "category": "Modul BLS-AED",
       "city": "",
@@ -8933,6 +8961,20 @@
       "canton": "AG",
       "lat": 47.39103698730469,
       "lng": 8.046090126037598
+    },
+    {
+      "key": "104485",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-03-20",
+      "last_date": "2027-03-20",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104485",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103730",
@@ -10055,6 +10097,20 @@
       "lng": 7.476200103759766
     },
     {
+      "key": "104429",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-05-22",
+      "last_date": "2027-05-22",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104429",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103513",
       "category": "WK See",
       "city": "Zug",
@@ -10725,6 +10781,20 @@
       "canton": "ZH",
       "lat": 47.43281555175781,
       "lng": 8.876042366027832
+    },
+    {
+      "key": "104430",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-07-03",
+      "last_date": "2027-07-03",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104430",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103990",
@@ -11469,6 +11539,20 @@
       "lng": 8.046090126037598
     },
     {
+      "key": "104431",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-10-02",
+      "last_date": "2027-10-02",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104431",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103732",
       "category": "WK BLS-AED",
       "city": "Zürich",
@@ -11973,6 +12057,20 @@
       "lng": 8.525269508361816
     },
     {
+      "key": "104425",
+      "category": "Modul BLS-AED",
+      "city": "",
+      "first_date": "2027-12-04",
+      "last_date": "2027-12-04",
+      "company": "SLRG Sektion Züri",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104425",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "104330",
       "category": "WK BLS-AED",
       "city": "Aarau",
@@ -12253,5 +12351,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T18:01:20+0000"
+  "geocoded_at": "2026-10-24T19:01:13+0000"
 }
