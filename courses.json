@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T10:01:12+0000",
+  "scraped_at": "2026-10-24T11:01:16+0000",
   "count": 890,
   "courses": [
     {
@@ -724,7 +724,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Paradiso",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104275",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -738,7 +738,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104276",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -6590,7 +6590,7 @@
       "last_date": "2026-12-12",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101987",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -10496,7 +10496,7 @@
       "last_date": "2027-07-03",
       "company": "SLRG Region Zürich",
       "participation_max": 15,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104162",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -10608,7 +10608,7 @@
       "last_date": "2027-06-27",
       "company": "SLRG Region Zürich",
       "participation_max": 15,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104161",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -10622,7 +10622,7 @@
       "last_date": "2027-06-26",
       "company": "SLRG Region Zürich",
       "participation_max": 15,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104163",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -12463,5 +12463,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T10:01:12+0000"
+  "geocoded_at": "2026-10-24T11:01:16+0000"
 }
