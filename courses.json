@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-24T17:01:17+0000",
-  "count": 876,
+  "scraped_at": "2026-10-24T18:01:20+0000",
+  "count": 875,
   "courses": [
     {
       "key": "102540",
@@ -696,7 +696,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Paradiso",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104275",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -710,7 +710,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Paradiso",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104276",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -813,20 +813,6 @@
       "canton": "BE",
       "lat": 47.21522903442383,
       "lng": 7.747023105621338
-    },
-    {
-      "key": "103124",
-      "category": "Brevet Basis Pool",
-      "city": "Winterthur",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Winterthur",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103124",
-      "canton": "ZH",
-      "lat": 47.49905014038086,
-      "lng": 8.720227241516113
     },
     {
       "key": "103308",
@@ -2768,7 +2754,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103966",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -12267,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T17:01:17+0000"
+  "geocoded_at": "2026-10-24T18:01:20+0000"
 }
