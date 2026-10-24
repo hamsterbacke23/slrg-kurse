@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-24T21:01:24+0000",
-  "count": 881,
+  "scraped_at": "2026-10-24T22:01:25+0000",
+  "count": 876,
   "courses": [
     {
       "key": "102540",
@@ -717,20 +717,6 @@
       "lng": 8.362970352172852
     },
     {
-      "key": "100882",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100882",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101668",
       "category": "Brevet Basis Pool",
       "city": "Neuchâtel",
@@ -757,62 +743,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102051",
-      "category": "WK Pool Plus",
-      "city": "Bützberg",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 24,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102051",
-      "canton": "BE",
-      "lat": 47.21522903442383,
-      "lng": 7.747023105621338
-    },
-    {
-      "key": "102052",
-      "category": "WK Pool Basis",
-      "city": "Bützberg",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 8,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102052",
-      "canton": "BE",
-      "lat": 47.21522903442383,
-      "lng": 7.747023105621338
-    },
-    {
-      "key": "102053",
-      "category": "WK BLS-AED",
-      "city": "Bützberg",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Sektion Oberaargau",
-      "participation_max": 24,
-      "registered": 19,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102053",
-      "canton": "BE",
-      "lat": 47.21522903442383,
-      "lng": 7.747023105621338
-    },
-    {
-      "key": "103308",
-      "category": "Brevet Basis Pool",
-      "city": "Oberuzwil",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Wil",
-      "participation_max": 18,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103308",
-      "canton": "SG",
-      "lat": 47.41975021362305,
-      "lng": 9.143709182739258
     },
     {
       "key": "104253",
@@ -12337,5 +12267,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T21:01:24+0000"
+  "geocoded_at": "2026-10-24T22:01:25+0000"
 }
