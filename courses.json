@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T22:01:25+0000",
+  "scraped_at": "2026-10-24T23:00:50+0000",
   "count": 876,
   "courses": [
     {
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 32,
+      "registered": 33,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -12267,5 +12267,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T22:01:25+0000"
+  "geocoded_at": "2026-10-24T23:00:50+0000"
 }
