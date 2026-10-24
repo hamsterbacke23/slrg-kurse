@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-24T06:01:34+0000",
-  "count": 895,
+  "scraped_at": "2026-10-24T07:02:53+0000",
+  "count": 894,
   "courses": [
     {
       "key": "102540",
@@ -253,20 +253,6 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
-    },
-    {
-      "key": "103878",
-      "category": "Brevet Basis Pool",
-      "city": "Payerne",
-      "first_date": "2026-10-03",
-      "last_date": "2026-10-31",
-      "company": "SSS Payerne",
-      "participation_max": 10,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103878",
-      "canton": "VD",
-      "lat": 46.821258544921875,
-      "lng": 6.931630611419678
     },
     {
       "key": "104263",
@@ -12533,5 +12519,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T06:01:34+0000"
+  "geocoded_at": "2026-10-24T07:02:53+0000"
 }
