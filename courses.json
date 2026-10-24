@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T01:14:27+0000",
+  "scraped_at": "2026-10-24T02:01:53+0000",
   "count": 895,
   "courses": [
     {
@@ -430,7 +430,7 @@
       "last_date": "2026-10-17",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103485",
       "canton": null,
       "lat": null,
@@ -1396,7 +1396,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104444",
       "canton": null,
       "lat": null,
@@ -12533,5 +12533,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T01:14:27+0000"
+  "geocoded_at": "2026-10-24T02:01:54+0000"
 }
