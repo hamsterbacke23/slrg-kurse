@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T11:01:16+0000",
+  "scraped_at": "2026-10-24T12:00:58+0000",
   "count": 890,
   "courses": [
     {
@@ -9852,7 +9852,7 @@
       "last_date": "2027-04-24",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104453",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -12463,5 +12463,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T11:01:16+0000"
+  "geocoded_at": "2026-10-24T12:00:58+0000"
 }
