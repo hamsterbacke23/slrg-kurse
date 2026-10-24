@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T14:00:53+0000",
+  "scraped_at": "2026-10-24T15:00:59+0000",
   "count": 884,
   "courses": [
     {
@@ -2376,7 +2376,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Uri",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100959",
       "canton": "UR",
       "lat": 46.91195297241211,
@@ -3048,7 +3048,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
       "canton": null,
       "lat": null,
@@ -6058,7 +6058,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Grand Chasseral",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104060",
       "canton": "BE",
       "lat": 47.238895416259766,
@@ -7108,7 +7108,7 @@
       "last_date": "2027-01-08",
       "company": "SLRG Pfäffikon",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103595",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -8956,7 +8956,7 @@
       "last_date": "2027-03-20",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101688",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -10524,7 +10524,7 @@
       "last_date": "2027-06-27",
       "company": "SLRG Region Zürich",
       "participation_max": 15,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104161",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -10538,7 +10538,7 @@
       "last_date": "2027-06-26",
       "company": "SLRG Region Zürich",
       "participation_max": 15,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104163",
       "canton": "GL",
       "lat": 47.1209716796875,
@@ -10594,7 +10594,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103750",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12379,5 +12379,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-24T14:00:53+0000"
+  "geocoded_at": "2026-10-24T15:00:59+0000"
 }
