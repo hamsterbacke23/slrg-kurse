@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25T18:00:56+0000",
+  "scraped_at": "2026-10-25T19:01:03+0000",
   "count": 868,
   "courses": [
     {
@@ -766,7 +766,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104191",
       "canton": null,
       "lat": null,
@@ -780,7 +780,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104192",
       "canton": null,
       "lat": null,
@@ -1102,7 +1102,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104266",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -2446,7 +2446,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102538",
       "canton": null,
       "lat": null,
@@ -2459,8 +2459,8 @@
       "first_date": "2026-11-07",
       "last_date": "2026-11-07",
       "company": "SLRG Region Ost",
-      "participation_max": 16,
-      "registered": 16,
+      "participation_max": 18,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102541",
       "canton": null,
       "lat": null,
@@ -7318,7 +7318,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104042",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12155,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T18:00:56+0000"
+  "geocoded_at": "2026-10-25T19:01:03+0000"
 }
