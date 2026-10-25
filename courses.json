@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25T10:00:54+0000",
+  "scraped_at": "2026-10-25T11:01:08+0000",
   "count": 874,
   "courses": [
     {
@@ -668,7 +668,7 @@
       "last_date": "2026-10-24",
       "company": "SSS Paradiso",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104275",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -780,7 +780,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103305",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -5204,7 +5204,7 @@
       "last_date": "2026-11-28",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103487",
       "canton": null,
       "lat": null,
@@ -8746,7 +8746,7 @@
       "last_date": "2027-03-20",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101688",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12239,5 +12239,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T10:00:54+0000"
+  "geocoded_at": "2026-10-25T11:01:08+0000"
 }
