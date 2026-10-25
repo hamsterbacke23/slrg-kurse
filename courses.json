@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-25T14:01:20+0000",
-  "count": 871,
+  "scraped_at": "2026-10-25T15:01:03+0000",
+  "count": 869,
   "courses": [
     {
       "key": "102540",
@@ -675,20 +675,6 @@
       "lng": null
     },
     {
-      "key": "104253",
-      "category": "Brevet Basis Pool",
-      "city": "Balzers",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-24",
-      "company": "SLRG Sarganserland",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104253",
-      "canton": "FL",
-      "lat": 47.06768,
-      "lng": 9.50294
-    },
-    {
       "key": "101049",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -897,20 +883,6 @@
       "canton": "NE",
       "lat": 47.11421203613281,
       "lng": 6.84379243850708
-    },
-    {
-      "key": "103859",
-      "category": "Brevet Basis Pool",
-      "city": "Romont FR",
-      "first_date": "2026-10-26",
-      "last_date": "2026-11-09",
-      "company": "SSS Romont",
-      "participation_max": 14,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103859",
-      "canton": "FR",
-      "lat": 46.69870376586914,
-      "lng": 6.923159599304199
     },
     {
       "key": "101434",
@@ -2852,7 +2824,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104185",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -6520,7 +6492,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99410",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12197,5 +12169,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T14:01:20+0000"
+  "geocoded_at": "2026-10-25T15:01:03+0000"
 }
