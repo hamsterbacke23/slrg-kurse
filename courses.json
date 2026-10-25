@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-25T11:01:08+0000",
-  "count": 874,
+  "scraped_at": "2026-10-25T12:01:15+0000",
+  "count": 873,
   "courses": [
     {
       "key": "102540",
@@ -675,20 +675,6 @@
       "lng": 8.953682899475098
     },
     {
-      "key": "104276",
-      "category": "Brevet Plus Pool",
-      "city": "Paradiso",
-      "first_date": "2026-10-23",
-      "last_date": "2026-10-24",
-      "company": "SSS Paradiso",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104276",
-      "canton": "TI",
-      "lat": 45.98849105834961,
-      "lng": 8.953682899475098
-    },
-    {
       "key": "101668",
       "category": "Brevet Basis Pool",
       "city": "Neuchâtel",
@@ -780,7 +766,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103305",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -794,7 +780,7 @@
       "last_date": "2026-10-25",
       "company": "SSS Porrentruy",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103306",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -850,7 +836,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Sektion Sempachersee",
       "participation_max": 6,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104193",
       "canton": null,
       "lat": null,
@@ -1620,7 +1606,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
       "canton": null,
       "lat": null,
@@ -2698,7 +2684,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101050",
       "canton": null,
       "lat": null,
@@ -4798,7 +4784,7 @@
       "last_date": "2026-12-08",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103404",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -4868,7 +4854,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Fribourg",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103894",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -5386,7 +5372,7 @@
       "last_date": "2026-11-29",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104257",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -5806,7 +5792,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Oberwallis",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103455",
       "canton": "VS",
       "lat": 46.30108642578125,
@@ -12239,5 +12225,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T11:01:08+0000"
+  "geocoded_at": "2026-10-25T12:01:15+0000"
 }
