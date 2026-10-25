@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25T19:01:03+0000",
+  "scraped_at": "2026-10-25T20:01:09+0000",
   "count": 868,
   "courses": [
     {
@@ -1620,7 +1620,7 @@
       "last_date": "2026-11-01",
       "company": "SLRG Sektion Züri",
       "participation_max": 13,
-      "registered": 13,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103116",
       "canton": null,
       "lat": null,
@@ -4756,7 +4756,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Meyrin",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103453",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -5106,7 +5106,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103314",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -6730,7 +6730,7 @@
       "last_date": "2027-01-06",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104282",
       "canton": null,
       "lat": null,
@@ -9194,7 +9194,7 @@
       "last_date": "2027-04-11",
       "company": "SSS Bellinzona",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103743",
       "canton": "TI",
       "lat": 46.21047592163086,
@@ -12155,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T19:01:03+0000"
+  "geocoded_at": "2026-10-25T20:01:10+0000"
 }
