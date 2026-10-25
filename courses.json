@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-25T22:01:08+0000",
-  "count": 865,
+  "scraped_at": "2026-10-25T23:01:01+0000",
+  "count": 860,
   "courses": [
     {
       "key": "102540",
@@ -689,20 +689,6 @@
       "lng": null
     },
     {
-      "key": "101351",
-      "category": "Brevet Basis Pool",
-      "city": "Lachen SZ",
-      "first_date": "2026-10-25",
-      "last_date": "2026-10-25",
-      "company": "SLRG Lachen",
-      "participation_max": 17,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101351",
-      "canton": "SZ",
-      "lat": 47.19688415527344,
-      "lng": 8.854327201843262
-    },
-    {
       "key": "102994",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -757,62 +743,6 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
-    },
-    {
-      "key": "104191",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-10-25",
-      "last_date": "2026-10-25",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 16,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104191",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "104192",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-10-25",
-      "last_date": "2026-10-25",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 16,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104192",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "104193",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-10-25",
-      "last_date": "2026-10-25",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 6,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104193",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "104196",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-10-25",
-      "last_date": "2026-10-25",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 6,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104196",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102579",
@@ -3454,7 +3384,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -12113,5 +12043,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T22:01:08+0000"
+  "geocoded_at": "2026-10-25T23:01:02+0000"
 }
