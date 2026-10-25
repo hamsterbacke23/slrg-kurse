@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-25T06:01:26+0000",
-  "count": 876,
+  "scraped_at": "2026-10-25T07:03:03+0000",
+  "count": 875,
   "courses": [
     {
       "key": "102540",
@@ -1863,20 +1863,6 @@
       "canton": "BL",
       "lat": 47.51921463012695,
       "lng": 7.545316219329834
-    },
-    {
-      "key": "103328",
-      "category": "Brevet Basis Pool",
-      "city": "Lausanne",
-      "first_date": "2026-11-02",
-      "last_date": "2026-11-11",
-      "company": "SSS Lausanne",
-      "participation_max": 20,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103328",
-      "canton": "VD",
-      "lat": 46.52865219116211,
-      "lng": 6.638521671295166
     },
     {
       "key": "103659",
@@ -5582,7 +5568,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98762",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -12267,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T06:01:26+0000"
+  "geocoded_at": "2026-10-25T07:03:03+0000"
 }
