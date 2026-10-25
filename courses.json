@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-25T17:00:52+0000",
-  "count": 869,
+  "scraped_at": "2026-10-25T18:00:56+0000",
+  "count": 868,
   "courses": [
     {
       "key": "102540",
@@ -2551,20 +2551,6 @@
       "lng": 6.608593940734863
     },
     {
-      "key": "103870",
-      "category": "Jugendbrevet",
-      "city": "Unterseen",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-21",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103870",
-      "canton": "BE",
-      "lat": 46.695247650146484,
-      "lng": 7.84113883972168
-    },
-    {
       "key": "103966",
       "category": "Brevet Plus Pool",
       "city": "Dielsdorf",
@@ -3608,7 +3594,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Lachen",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101359",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -6408,7 +6394,7 @@
       "last_date": "2026-12-22",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103406",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -12169,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T17:00:52+0000"
+  "geocoded_at": "2026-10-25T18:00:56+0000"
 }
