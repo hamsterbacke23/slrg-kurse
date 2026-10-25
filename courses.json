@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-25T07:03:03+0000",
+  "scraped_at": "2026-10-25T08:01:01+0000",
   "count": 875,
   "courses": [
     {
@@ -150,7 +150,7 @@
       "last_date": "2026-11-30",
       "company": "SSS Regione Sud",
       "participation_max": 10,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103622",
       "canton": "TI",
       "lat": 46.0294303894043,
@@ -1746,7 +1746,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=98753",
       "canton": "ZH",
       "lat": 47.308265686035156,
@@ -1942,7 +1942,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103397",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -12253,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T07:03:03+0000"
+  "geocoded_at": "2026-10-25T08:01:01+0000"
 }
