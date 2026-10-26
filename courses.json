@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-26T09:06:06+0000",
-  "count": 880,
+  "scraped_at": "2026-10-26T10:04:16+0000",
+  "count": 879,
   "courses": [
     {
       "key": "102540",
@@ -80,7 +80,7 @@
       "last_date": "2026-08-22",
       "company": "SLRG Lyss",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103479",
       "canton": null,
       "lat": null,
@@ -402,7 +402,7 @@
       "last_date": "2026-10-17",
       "company": "SLRG Basel",
       "participation_max": 18,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104283",
       "canton": "BL",
       "lat": 47.5363655090332,
@@ -878,7 +878,7 @@
       "last_date": "2026-10-27",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104444",
       "canton": null,
       "lat": null,
@@ -2852,7 +2852,7 @@
       "last_date": "2026-11-10",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103883",
       "canton": "SG",
       "lat": 47.38753128051758,
@@ -3193,20 +3193,6 @@
       "canton": "FR",
       "lat": 46.69870376586914,
       "lng": 6.923159599304199
-    },
-    {
-      "key": "99432",
-      "category": "Brevet Basis Pool",
-      "city": "Aarau",
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-21",
-      "company": "SLRG Aarau",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99432",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
     },
     {
       "key": "100163",
@@ -4588,7 +4574,7 @@
       "last_date": "2026-11-23",
       "company": "SLRG Zug",
       "participation_max": 25,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103899",
       "canton": null,
       "lat": null,
@@ -4882,7 +4868,7 @@
       "last_date": "2026-12-12",
       "company": "SLRG Aarau",
       "participation_max": 14,
-      "registered": 14,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99442",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -6660,7 +6646,7 @@
       "last_date": "2026-12-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103889",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -8326,7 +8312,7 @@
       "last_date": "2027-03-02",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104254",
       "canton": null,
       "lat": null,
@@ -8928,7 +8914,7 @@
       "last_date": "2027-04-02",
       "company": "SLRG Limpachtal",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104483",
       "canton": "SO",
       "lat": 47.20805740356445,
@@ -10216,7 +10202,7 @@
       "last_date": "2027-06-05",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104256",
       "canton": null,
       "lat": null,
@@ -12323,5 +12309,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-26T09:06:06+0000"
+  "geocoded_at": "2026-10-26T10:04:17+0000"
 }
