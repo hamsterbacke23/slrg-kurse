@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-26T19:04:24+0000",
+  "scraped_at": "2026-10-26T20:00:55+0000",
   "count": 875,
   "courses": [
     {
@@ -1060,7 +1060,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104445",
       "canton": null,
       "lat": null,
@@ -2614,7 +2614,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
       "canton": null,
       "lat": null,
@@ -2852,7 +2852,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104470",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -4490,7 +4490,7 @@
       "last_date": "2026-12-07",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103613",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -4630,7 +4630,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Meyrin",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103453",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -12253,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-26T19:04:24+0000"
+  "geocoded_at": "2026-10-26T20:00:55+0000"
 }
