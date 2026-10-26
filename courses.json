@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-26T05:02:22+0000",
+  "scraped_at": "2026-10-26T06:01:23+0000",
   "count": 862,
   "courses": [
     {
@@ -4448,7 +4448,7 @@
       "last_date": "2026-11-22",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101138",
       "canton": null,
       "lat": null,
@@ -4700,7 +4700,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103816",
       "canton": null,
       "lat": null,
@@ -4714,7 +4714,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103817",
       "canton": null,
       "lat": null,
@@ -6450,7 +6450,7 @@
       "last_date": "2026-12-19",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99417",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -12071,5 +12071,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-26T05:02:22+0000"
+  "geocoded_at": "2026-10-26T06:01:23+0000"
 }
