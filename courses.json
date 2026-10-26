@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-26T17:01:08+0000",
-  "count": 875,
+  "scraped_at": "2026-10-26T18:01:57+0000",
+  "count": 876,
   "courses": [
     {
       "key": "102540",
@@ -2586,7 +2586,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103598",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -2628,7 +2628,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
       "canton": null,
       "lat": null,
@@ -2857,6 +2857,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104470",
+      "category": "Brevet Pro Pool",
+      "city": "Genève",
+      "first_date": "2026-11-10",
+      "last_date": "2026-11-17",
+      "company": "SSS Genève",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104470",
+      "canton": "GE",
+      "lat": 46.204559326171875,
+      "lng": 6.1424560546875
     },
     {
       "key": "101519",
@@ -3342,7 +3356,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG - SSS",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103637",
       "canton": "LU",
       "lat": 47.178199768066406,
@@ -5120,7 +5134,7 @@
       "last_date": "2026-11-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104488",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -5610,7 +5624,7 @@
       "last_date": "2026-12-05",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101693",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -6912,7 +6926,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Mittelrheintal",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103892",
       "canton": "SG",
       "lat": 47.45515823364258,
@@ -8032,7 +8046,7 @@
       "last_date": "2027-02-20",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101672",
       "canton": null,
       "lat": null,
@@ -12253,5 +12267,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-26T17:01:08+0000"
+  "geocoded_at": "2026-10-26T18:01:57+0000"
 }
