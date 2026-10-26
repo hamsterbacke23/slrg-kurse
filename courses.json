@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-26T16:03:54+0000",
+  "scraped_at": "2026-10-26T17:01:08+0000",
   "count": 875,
   "courses": [
     {
@@ -3342,7 +3342,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG - SSS",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103637",
       "canton": "LU",
       "lat": 47.178199768066406,
@@ -3664,7 +3664,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102582",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -4084,7 +4084,7 @@
       "last_date": "2026-11-20",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104226",
       "canton": null,
       "lat": null,
@@ -4378,7 +4378,7 @@
       "last_date": "2026-11-21",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12253,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-26T16:03:54+0000"
+  "geocoded_at": "2026-10-26T17:01:08+0000"
 }
