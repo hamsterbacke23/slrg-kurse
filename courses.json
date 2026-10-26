@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-26T15:24:34+0000",
-  "count": 878,
+  "scraped_at": "2026-10-26T16:03:54+0000",
+  "count": 875,
   "courses": [
     {
       "key": "102540",
@@ -729,20 +729,6 @@
       "canton": "JU",
       "lat": 47.42101287841797,
       "lng": 7.06839656829834
-    },
-    {
-      "key": "102579",
-      "category": "Brevet Basis Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-10-26",
-      "last_date": "2026-11-02",
-      "company": "SLRG St. Gallen",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102579",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
     },
     {
       "key": "102658",
@@ -1942,7 +1928,7 @@
       "last_date": "2026-11-16",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103467",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -2675,34 +2661,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "101642",
-      "category": "WK Pool Plus",
-      "city": "Delémont",
-      "first_date": "2026-11-09",
-      "last_date": "2026-11-16",
-      "company": "SSS Delémont",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101642",
-      "canton": "JU",
-      "lat": 47.37165451049805,
-      "lng": 7.331088542938232
-    },
-    {
-      "key": "101643",
-      "category": "WK Pool Pro",
-      "city": "Delémont",
-      "first_date": "2026-11-09",
-      "last_date": "2026-11-16",
-      "company": "SSS Delémont",
-      "participation_max": 4,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101643",
-      "canton": "JU",
-      "lat": 47.37165451049805,
-      "lng": 7.331088542938232
     },
     {
       "key": "102787",
@@ -4420,7 +4378,7 @@
       "last_date": "2026-11-21",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -4686,7 +4644,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103816",
       "canton": null,
       "lat": null,
@@ -5330,7 +5288,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99999",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5876,7 +5834,7 @@
       "last_date": "2026-12-09",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103610",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -6170,7 +6128,7 @@
       "last_date": "2026-12-12",
       "company": "Section ASPIC Natation ",
       "participation_max": 15,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102190",
       "canton": "VD",
       "lat": 46.61306381225586,
@@ -6646,7 +6604,7 @@
       "last_date": "2026-12-20",
       "company": "SSS Riviera",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104300",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -12295,5 +12253,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-26T15:24:34+0000"
+  "geocoded_at": "2026-10-26T16:03:54+0000"
 }
