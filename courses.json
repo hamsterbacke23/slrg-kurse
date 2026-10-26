@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-26T22:01:27+0000",
-  "count": 873,
+  "scraped_at": "2026-10-26T23:00:57+0000",
+  "count": 871,
   "courses": [
     {
       "key": "102540",
@@ -423,20 +423,6 @@
       "lng": 7.567534923553467
     },
     {
-      "key": "100153",
-      "category": "Modul BLS-AED",
-      "city": "Heerbrugg",
-      "first_date": "2026-10-19",
-      "last_date": "2026-10-26",
-      "company": "SLRG Mittelrheintal",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100153",
-      "canton": "SG",
-      "lat": 47.411685943603516,
-      "lng": 9.626534461975098
-    },
-    {
       "key": "100856",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -799,20 +785,6 @@
       "canton": "SG",
       "lat": 47.475521087646484,
       "lng": 9.493878364562988
-    },
-    {
-      "key": "104444",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-10-27",
-      "last_date": "2026-10-27",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104444",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102740",
@@ -12225,5 +12197,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-26T22:01:27+0000"
+  "geocoded_at": "2026-10-26T23:00:57+0000"
 }
