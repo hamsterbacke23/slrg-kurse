@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-26T14:36:33+0000",
+  "scraped_at": "2026-10-26T15:24:34+0000",
   "count": 878,
   "courses": [
     {
@@ -1144,7 +1144,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Emmental",
       "participation_max": 28,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104382",
       "canton": null,
       "lat": null,
@@ -3328,7 +3328,7 @@
       "last_date": "2026-11-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101784",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -4014,7 +4014,7 @@
       "last_date": "2026-12-04",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99899",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -4868,7 +4868,7 @@
       "last_date": "2026-11-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99916",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -5162,7 +5162,7 @@
       "last_date": "2026-11-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104488",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12295,5 +12295,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-26T14:36:33+0000"
+  "geocoded_at": "2026-10-26T15:24:34+0000"
 }
