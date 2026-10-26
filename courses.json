@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-25T23:01:01+0000",
-  "count": 860,
+  "scraped_at": "2026-10-26T00:01:50+0000",
+  "count": 862,
   "courses": [
     {
       "key": "102540",
@@ -192,7 +192,7 @@
       "last_date": "2026-10-29",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 33,
+      "registered": 34,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -4691,6 +4691,34 @@
       "canton": "GE",
       "lat": 46.232147216796875,
       "lng": 6.076141357421875
+    },
+    {
+      "key": "103816",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-11-25",
+      "last_date": "2026-11-25",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103816",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
+      "key": "103817",
+      "category": "WK Pool Plus",
+      "city": "",
+      "first_date": "2026-11-25",
+      "last_date": "2026-11-25",
+      "company": "SLRG Thalwil-Langnau",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103817",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103839",
@@ -12043,5 +12071,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-25T23:01:02+0000"
+  "geocoded_at": "2026-10-26T00:01:50+0000"
 }
