@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-27T21:01:01+0000",
+  "scraped_at": "2026-10-27T22:01:10+0000",
   "count": 867,
   "courses": [
     {
@@ -2110,7 +2110,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Section de Boudry",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101683",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -2376,7 +2376,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Baden-Brugg",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104264",
       "canton": null,
       "lat": null,
@@ -2390,7 +2390,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Baden-Brugg",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104325",
       "canton": null,
       "lat": null,
@@ -4910,7 +4910,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103314",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-27T21:01:01+0000"
+  "geocoded_at": "2026-10-27T22:01:11+0000"
 }
