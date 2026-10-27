@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-27T14:02:02+0000",
-  "count": 866,
+  "scraped_at": "2026-10-27T15:02:04+0000",
+  "count": 867,
   "courses": [
     {
       "key": "102540",
@@ -673,6 +673,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "102879",
+      "category": "Modul BLS-AED",
+      "city": "Neuchâtel",
+      "first_date": "2026-10-24",
+      "last_date": "2026-10-24",
+      "company": "SSS Section de Boudry",
+      "participation_max": 12,
+      "registered": 7,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102879",
+      "canton": "NE",
+      "lat": 47.020973205566406,
+      "lng": 6.9480791091918945
     },
     {
       "key": "102994",
@@ -2754,7 +2768,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104470",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -2852,7 +2866,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104280",
       "canton": "NE",
       "lat": 46.90297317504883,
@@ -3188,7 +3202,7 @@
       "last_date": "2026-11-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101784",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -4378,7 +4392,7 @@
       "last_date": "2026-11-23",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103666",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4714,7 +4728,7 @@
       "last_date": "2026-11-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99938",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -6800,7 +6814,7 @@
       "last_date": "2027-01-16",
       "company": "SLRG Aarau",
       "participation_max": 14,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104032",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7906,7 +7920,7 @@
       "last_date": "2027-02-20",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101672",
       "canton": null,
       "lat": null,
@@ -9348,7 +9362,7 @@
       "last_date": "2027-04-24",
       "company": "SSS Section de Boudry",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101673",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12127,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-27T14:02:02+0000"
+  "geocoded_at": "2026-10-27T15:02:04+0000"
 }
