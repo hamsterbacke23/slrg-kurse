@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-27T16:01:10+0000",
+  "scraped_at": "2026-10-27T17:01:13+0000",
   "count": 867,
   "courses": [
     {
@@ -794,7 +794,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Rorschach",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103654",
       "canton": "SG",
       "lat": 47.475521087646484,
@@ -4266,7 +4266,7 @@
       "last_date": "2026-11-21",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 17,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -4378,7 +4378,7 @@
       "last_date": "2026-12-07",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103613",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -7346,7 +7346,7 @@
       "last_date": "2027-02-01",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104398",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -7416,7 +7416,7 @@
       "last_date": "2027-01-27",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104394",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-27T16:01:10+0000"
+  "geocoded_at": "2026-10-27T17:01:13+0000"
 }
