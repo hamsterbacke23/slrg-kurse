@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-27T04:01:20+0000",
-  "count": 871,
+  "scraped_at": "2026-10-27T05:00:57+0000",
+  "count": 870,
   "courses": [
     {
       "key": "102540",
@@ -729,20 +729,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "101434",
-      "category": "Jugendbrevet",
-      "city": "Bülach",
-      "first_date": "2026-10-27",
-      "last_date": "2026-11-17",
-      "company": "SLRG Bülach",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101434",
-      "canton": "ZH",
-      "lat": 47.53010559082031,
-      "lng": 8.541247367858887
     },
     {
       "key": "102677",
@@ -12197,5 +12183,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-27T04:01:20+0000"
+  "geocoded_at": "2026-10-27T05:00:57+0000"
 }
