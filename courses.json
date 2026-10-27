@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-27T18:01:35+0000",
-  "count": 867,
+  "scraped_at": "2026-10-27T19:01:03+0000",
+  "count": 868,
   "courses": [
     {
       "key": "102540",
@@ -773,6 +773,20 @@
       "lng": 8.046090126037598
     },
     {
+      "key": "102697",
+      "category": "Brevet Basis Pool",
+      "city": "Les Acacias",
+      "first_date": "2026-10-27",
+      "last_date": "2026-11-17",
+      "company": "SSS Genève",
+      "participation_max": 37,
+      "registered": 32,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
+      "canton": "NE",
+      "lat": 47.0006217956543,
+      "lng": 6.92034387588501
+    },
+    {
       "key": "103344",
       "category": "Modul BLS-AED",
       "city": "Dietlikon",
@@ -1228,7 +1242,7 @@
       "last_date": "2026-10-31",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102970",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -1802,7 +1816,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104278",
       "canton": "NE",
       "lat": 46.90297317504883,
@@ -2376,7 +2390,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Baden-Brugg",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104264",
       "canton": null,
       "lat": null,
@@ -2390,7 +2404,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Baden-Brugg",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104325",
       "canton": null,
       "lat": null,
@@ -3202,7 +3216,7 @@
       "last_date": "2026-11-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101784",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -3664,7 +3678,7 @@
       "last_date": "2026-11-17",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103216",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -4266,7 +4280,7 @@
       "last_date": "2026-11-21",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 19,
+      "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -12141,5 +12155,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-27T18:01:35+0000"
+  "geocoded_at": "2026-10-27T19:01:03+0000"
 }
