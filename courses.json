@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-27T15:02:04+0000",
+  "scraped_at": "2026-10-27T16:01:10+0000",
   "count": 867,
   "courses": [
     {
@@ -1802,7 +1802,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104278",
       "canton": "NE",
       "lat": 46.90297317504883,
@@ -1942,7 +1942,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103872",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -2810,7 +2810,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Meyrin",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103452",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -4266,7 +4266,7 @@
       "last_date": "2026-11-21",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -4518,7 +4518,7 @@
       "last_date": "2026-11-25",
       "company": "SSS Meyrin",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103453",
       "canton": "GE",
       "lat": 46.232147216796875,
@@ -6996,7 +6996,7 @@
       "last_date": "2027-01-14",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104249",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -7318,7 +7318,7 @@
       "last_date": "2027-01-25",
       "company": "SLRG Pfäffikon",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103597",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -7542,7 +7542,7 @@
       "last_date": "2027-01-30",
       "company": "SSS Sion",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104252",
       "canton": "VS",
       "lat": 46.21693801879883,
@@ -9978,7 +9978,7 @@
       "last_date": "2027-05-30",
       "company": "SLRG Zug",
       "participation_max": 10,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103515",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -12141,5 +12141,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-27T15:02:04+0000"
+  "geocoded_at": "2026-10-27T16:01:10+0000"
 }
