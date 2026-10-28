@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-28T14:00:54+0000",
-  "count": 860,
+  "scraped_at": "2026-10-28T15:01:03+0000",
+  "count": 858,
   "courses": [
     {
       "key": "102540",
@@ -759,20 +759,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "102697",
-      "category": "Brevet Basis Pool",
-      "city": "Les Acacias",
-      "first_date": "2026-10-27",
-      "last_date": "2026-11-17",
-      "company": "SSS Genève",
-      "participation_max": 37,
-      "registered": 29,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102697",
-      "canton": "NE",
-      "lat": 47.0006217956543,
-      "lng": 6.92034387588501
-    },
-    {
       "key": "103654",
       "category": "Modul BLS-AED",
       "city": "Rorschach",
@@ -785,20 +771,6 @@
       "canton": "SG",
       "lat": 47.475521087646484,
       "lng": 9.493878364562988
-    },
-    {
-      "key": "103026",
-      "category": "Brevet Basis Pool",
-      "city": "Allschwil",
-      "first_date": "2026-10-28",
-      "last_date": "2026-11-04",
-      "company": "SLRG Basel",
-      "participation_max": 17,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103026",
-      "canton": "BL",
-      "lat": 47.54563903808594,
-      "lng": 7.536828994750977
     },
     {
       "key": "103648",
@@ -2208,7 +2180,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Lachen",
       "participation_max": 20,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
       "canton": "SZ",
       "lat": 47.19816589355469,
@@ -5218,7 +5190,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99569",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -7724,7 +7696,7 @@
       "last_date": "2027-02-22",
       "company": "SSS Bellinzona",
       "participation_max": 22,
-      "registered": 2,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104438",
       "canton": null,
       "lat": null,
@@ -8900,7 +8872,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104124",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -12043,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-28T14:00:54+0000"
+  "geocoded_at": "2026-10-28T15:01:03+0000"
 }
