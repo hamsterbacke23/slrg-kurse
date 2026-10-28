@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-28T07:01:19+0000",
-  "count": 865,
+  "scraped_at": "2026-10-28T08:01:28+0000",
+  "count": 864,
   "courses": [
     {
       "key": "102540",
@@ -841,20 +841,6 @@
       "canton": "NE",
       "lat": 47.11421203613281,
       "lng": 6.84379243850708
-    },
-    {
-      "key": "103856",
-      "category": "Jugendbrevet",
-      "city": "Yverdon-les-Bains",
-      "first_date": "2026-10-28",
-      "last_date": "2027-03-24",
-      "company": "SSS Nord-Vaudois",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103856",
-      "canton": "VD",
-      "lat": 46.768096923828125,
-      "lng": 6.632878303527832
     },
     {
       "key": "103857",
@@ -2068,7 +2054,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 24,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101463",
       "canton": null,
       "lat": null,
@@ -3174,7 +3160,7 @@
       "last_date": "2026-11-21",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101784",
       "canton": "AG",
       "lat": 47.47016525268555,
@@ -3426,7 +3412,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103311",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -4980,7 +4966,7 @@
       "last_date": "2026-11-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104488",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -5946,7 +5932,7 @@
       "last_date": "2026-12-12",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101983",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -10202,7 +10188,7 @@
       "last_date": "2027-06-06",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103757",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12113,5 +12099,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-28T07:01:19+0000"
+  "geocoded_at": "2026-10-28T08:01:29+0000"
 }
