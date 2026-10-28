@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-28T06:01:18+0000",
+  "scraped_at": "2026-10-28T07:01:19+0000",
   "count": 865,
   "courses": [
     {
@@ -1774,7 +1774,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104278",
       "canton": "NE",
       "lat": 46.90297317504883,
@@ -1788,7 +1788,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104279",
       "canton": "NE",
       "lat": 46.90297317504883,
@@ -2502,7 +2502,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
       "canton": null,
       "lat": null,
@@ -4518,7 +4518,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103817",
       "canton": null,
       "lat": null,
@@ -12113,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-28T06:01:18+0000"
+  "geocoded_at": "2026-10-28T07:01:19+0000"
 }
