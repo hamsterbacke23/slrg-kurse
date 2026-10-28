@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-28T22:01:06+0000",
-  "count": 857,
+  "scraped_at": "2026-10-28T23:01:08+0000",
+  "count": 854,
   "courses": [
     {
       "key": "102540",
@@ -437,20 +437,6 @@
       "lng": 7.567534923553467
     },
     {
-      "key": "100856",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-10-19",
-      "last_date": "2026-10-29",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100856",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103767",
       "category": "WK Pool Basis",
       "city": "",
@@ -810,34 +796,6 @@
       "participation_max": 16,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103900",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "104194",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104194",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "104195",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-10-28",
-      "last_date": "2026-10-28",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104195",
       "canton": null,
       "lat": null,
       "lng": null
@@ -2418,7 +2376,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
       "canton": null,
       "lat": null,
@@ -4125,7 +4083,7 @@
       "first_date": "2026-11-21",
       "last_date": "2026-11-21",
       "company": "Société Suisse de Sauvetage",
-      "participation_max": 20,
+      "participation_max": 26,
       "registered": 20,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
       "canton": "NE",
@@ -12001,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-28T22:01:06+0000"
+  "geocoded_at": "2026-10-28T23:01:08+0000"
 }
