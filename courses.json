@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-27T22:01:10+0000",
-  "count": 867,
+  "scraped_at": "2026-10-28T00:01:23+0000",
+  "count": 865,
   "courses": [
     {
       "key": "102540",
@@ -759,20 +759,6 @@
       "lng": 7.342846393585205
     },
     {
-      "key": "102677",
-      "category": "WK BLS-AED",
-      "city": "Aarau",
-      "first_date": "2026-10-27",
-      "last_date": "2026-10-27",
-      "company": "SLRG Aarau",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102677",
-      "canton": "AG",
-      "lat": 47.39103698730469,
-      "lng": 8.046090126037598
-    },
-    {
       "key": "102697",
       "category": "Brevet Basis Pool",
       "city": "Les Acacias",
@@ -785,20 +771,6 @@
       "canton": "NE",
       "lat": 47.0006217956543,
       "lng": 6.92034387588501
-    },
-    {
-      "key": "103344",
-      "category": "Modul BLS-AED",
-      "city": "Dietlikon",
-      "first_date": "2026-10-27",
-      "last_date": "2026-10-27",
-      "company": "SLRG Kloten",
-      "participation_max": 16,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103344",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
     },
     {
       "key": "103654",
@@ -3580,7 +3552,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102582",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -12141,5 +12113,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-27T22:01:11+0000"
+  "geocoded_at": "2026-10-28T00:01:23+0000"
 }
