@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-28T17:01:11+0000",
+  "scraped_at": "2026-10-28T18:01:16+0000",
   "count": 859,
   "courses": [
     {
@@ -864,7 +864,7 @@
       "last_date": "2026-11-11",
       "company": "SLRG Thun-Oberland",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104197",
       "canton": "BE",
       "lat": 46.74045944213867,
@@ -1885,8 +1885,8 @@
       "first_date": "2026-11-07",
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
-      "participation_max": 11,
-      "registered": 11,
+      "participation_max": 0,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99409",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -1899,8 +1899,8 @@
       "first_date": "2026-11-07",
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
-      "participation_max": 9,
-      "registered": 9,
+      "participation_max": 0,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99416",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -3076,7 +3076,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Sektion Züri",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101615",
       "canton": null,
       "lat": null,
@@ -3272,7 +3272,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101360",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -12029,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-28T17:01:11+0000"
+  "geocoded_at": "2026-10-28T18:01:16+0000"
 }
