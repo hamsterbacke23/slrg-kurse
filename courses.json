@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-28T19:00:52+0000",
-  "count": 858,
+  "scraped_at": "2026-10-28T20:01:23+0000",
+  "count": 857,
   "courses": [
     {
       "key": "102540",
@@ -841,20 +841,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "104197",
-      "category": "Modul BLS-AED",
-      "city": "Thun",
-      "first_date": "2026-10-28",
-      "last_date": "2026-11-11",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 16,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104197",
-      "canton": "BE",
-      "lat": 46.74045944213867,
-      "lng": 7.60764217376709
     },
     {
       "key": "104266",
@@ -1816,7 +1802,7 @@
       "last_date": "2026-11-06",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103611",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -1970,7 +1956,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Sarganserland",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101395",
       "canton": null,
       "lat": null,
@@ -3328,7 +3314,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103311",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -5260,7 +5246,7 @@
       "last_date": "2027-02-11",
       "company": "SLRG Pfäffikon",
       "participation_max": 16,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103801",
       "canton": "ZH",
       "lat": 47.37028121948242,
@@ -6758,7 +6744,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Emmental",
       "participation_max": 4,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104466",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -12015,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-28T19:00:52+0000"
+  "geocoded_at": "2026-10-28T20:01:23+0000"
 }
