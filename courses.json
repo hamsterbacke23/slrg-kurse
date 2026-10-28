@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-28T13:01:10+0000",
-  "count": 862,
+  "scraped_at": "2026-10-28T14:00:54+0000",
+  "count": 860,
   "courses": [
     {
       "key": "102540",
@@ -920,7 +920,7 @@
       "last_date": "2026-10-29",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103663",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -1410,7 +1410,7 @@
       "last_date": "2026-11-01",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103887",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -2082,7 +2082,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Innerschwyz",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101873",
       "canton": null,
       "lat": null,
@@ -2292,7 +2292,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Wehntal",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103966",
       "canton": "ZH",
       "lat": 47.47540283203125,
@@ -2607,34 +2607,6 @@
       "lng": 6.119792938232422
     },
     {
-      "key": "103882",
-      "category": "WK Pool Basis",
-      "city": "Schule Lüchingen",
-      "first_date": "2026-11-10",
-      "last_date": "2026-11-10",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103882",
-      "canton": "SG",
-      "lat": 47.38753128051758,
-      "lng": 9.553507804870605
-    },
-    {
-      "key": "103883",
-      "category": "WK Pool Plus",
-      "city": "Schule Lüchingen",
-      "first_date": "2026-11-10",
-      "last_date": "2026-11-10",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103883",
-      "canton": "SG",
-      "lat": 47.38753128051758,
-      "lng": 9.553507804870605
-    },
-    {
       "key": "104319",
       "category": "WK Pool Plus",
       "city": "",
@@ -2726,7 +2698,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103027",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -3146,7 +3118,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Lyss",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101992",
       "canton": null,
       "lat": null,
@@ -12050,7 +12022,7 @@
       "last_date": "",
       "company": "Anerkennung / Reconnaissance / Riconoscimento",
       "participation_max": 500,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=82542",
       "canton": null,
       "lat": null,
@@ -12071,5 +12043,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-28T13:01:10+0000"
+  "geocoded_at": "2026-10-28T14:00:54+0000"
 }
