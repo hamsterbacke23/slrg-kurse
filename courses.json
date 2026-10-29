@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T21:01:01+0000",
+  "scraped_at": "2026-10-29T22:01:20+0000",
   "count": 857,
   "courses": [
     {
@@ -206,7 +206,7 @@
       "last_date": "2026-10-25",
       "company": "SLRG Region Nordwest",
       "participation_max": 15,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100646",
       "canton": "AG",
       "lat": 47.346309661865234,
@@ -1466,7 +1466,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Genève",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103214",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -6828,7 +6828,7 @@
       "last_date": "2027-01-16",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104259",
       "canton": "ZH",
       "lat": 47.62740707397461,
@@ -12001,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T21:01:01+0000"
+  "geocoded_at": "2026-10-29T22:01:20+0000"
 }
