@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-29T22:01:20+0000",
-  "count": 857,
+  "scraped_at": "2026-10-29T23:00:54+0000",
+  "count": 852,
   "courses": [
     {
       "key": "102540",
@@ -423,34 +423,6 @@
       "lng": 7.567534923553467
     },
     {
-      "key": "103767",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-10-20",
-      "last_date": "2026-10-20",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 8,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103767",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103768",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-10-20",
-      "last_date": "2026-11-03",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 17,
-      "registered": 17,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103768",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103958",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -841,20 +813,6 @@
       "canton": "SH",
       "lat": 47.7188606262207,
       "lng": 8.640215873718262
-    },
-    {
-      "key": "104445",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-10-29",
-      "last_date": "2026-10-29",
-      "company": "SLRG Appenzell",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104445",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100980",
@@ -1753,34 +1711,6 @@
       "lng": 9.516542434692383
     },
     {
-      "key": "100255",
-      "category": "WK Pool Plus",
-      "city": "Appenzell",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "company": "SLRG Appenzell",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100255",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
-      "key": "100256",
-      "category": "WK Pool Pro",
-      "city": "Appenzell",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "company": "SLRG Appenzell",
-      "participation_max": 7,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100256",
-      "canton": "AI",
-      "lat": 47.33292770385742,
-      "lng": 9.396230697631836
-    },
-    {
       "key": "100258",
       "category": "WK BLS-AED",
       "city": "Appenzell",
@@ -2138,7 +2068,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104350",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -2250,7 +2180,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Riviera",
       "participation_max": 8,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104299",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -2656,7 +2586,7 @@
       "last_date": "2026-11-12",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103662",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -12001,5 +11931,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T22:01:20+0000"
+  "geocoded_at": "2026-10-29T23:00:54+0000"
 }
