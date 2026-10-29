@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T16:01:05+0000",
+  "scraped_at": "2026-10-29T17:01:05+0000",
   "count": 857,
   "courses": [
     {
@@ -934,7 +934,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Emmental",
       "participation_max": 28,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104382",
       "canton": null,
       "lat": null,
@@ -2054,7 +2054,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Seuzach-Weinland",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103280",
       "canton": "ZH",
       "lat": 47.62740707397461,
@@ -4126,7 +4126,7 @@
       "last_date": "2026-12-07",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103613",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5932,7 +5932,7 @@
       "last_date": "2026-12-14",
       "company": "SSS Lausanne",
       "participation_max": 20,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103331",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -12001,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T16:01:05+0000"
+  "geocoded_at": "2026-10-29T17:01:05+0000"
 }
