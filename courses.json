@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-29T20:01:05+0000",
-  "count": 859,
+  "scraped_at": "2026-10-29T21:01:01+0000",
+  "count": 857,
   "courses": [
     {
       "key": "102540",
@@ -829,34 +829,6 @@
       "lng": 8.310887336730957
     },
     {
-      "key": "103663",
-      "category": "WK Pool Plus",
-      "city": "La Chaux-de-Fonds",
-      "first_date": "2026-10-29",
-      "last_date": "2026-10-29",
-      "company": "Société Suisse de Sauvetage",
-      "participation_max": 14,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103663",
-      "canton": "NE",
-      "lat": 47.11421203613281,
-      "lng": 6.84379243850708
-    },
-    {
-      "key": "103664",
-      "category": "WK Pool Pro",
-      "city": "La Chaux-de-Fonds",
-      "first_date": "2026-10-29",
-      "last_date": "2026-10-29",
-      "company": "Société Suisse de Sauvetage",
-      "participation_max": 6,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103664",
-      "canton": "NE",
-      "lat": 47.11421203613281,
-      "lng": 6.84379243850708
-    },
-    {
       "key": "104240",
       "category": "WK BLS-AED",
       "city": "Schaffhausen",
@@ -878,7 +850,7 @@
       "last_date": "2026-10-29",
       "company": "SLRG Appenzell",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104445",
       "canton": null,
       "lat": null,
@@ -2180,7 +2152,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 20,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101050",
       "canton": null,
       "lat": null,
@@ -12029,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T20:01:05+0000"
+  "geocoded_at": "2026-10-29T21:01:01+0000"
 }
