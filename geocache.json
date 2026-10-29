@@ -564,6 +564,12 @@
     "lat": 46.474002838134766,
     "lng": 7.289914131164551
   },
+  "Gümligen": {
+    "canton": "BE",
+    "label": "Ort Gümligen (BE) - Muri bei Bern",
+    "lat": 46.933074951171875,
+    "lng": 7.5044074058532715
+  },
   "Hallau": {
     "canton": "SH",
     "label": "Hallau (SH)",
@@ -1153,6 +1159,12 @@
     "label": "Richterswil (ZH)",
     "lat": 47.20124435424805,
     "lng": 8.686915397644043
+  },
+  "Riehen": {
+    "canton": "BS",
+    "label": "Riehen (BS)",
+    "lat": 47.58074951171875,
+    "lng": 7.65354061126709
   },
   "Ringgenberg BE": {
     "canton": "BE",

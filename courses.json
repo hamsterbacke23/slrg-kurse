@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-29T07:01:21+0000",
-  "count": 854,
+  "scraped_at": "2026-10-29T08:01:13+0000",
+  "count": 863,
   "courses": [
     {
       "key": "102540",
@@ -1648,7 +1648,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104278",
       "canton": "NE",
       "lat": 46.90297317504883,
@@ -4091,6 +4091,20 @@
       "lng": 6.9480791091918945
     },
     {
+      "key": "104494",
+      "category": "Brevet Basis Pool",
+      "city": "Riehen ",
+      "first_date": "2026-11-21",
+      "last_date": "2026-11-21",
+      "company": "SLRG Basel",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104494",
+      "canton": "BS",
+      "lat": 47.58074951171875,
+      "lng": 7.65354061126709
+    },
+    {
       "key": "101138",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -4833,6 +4847,20 @@
       "lng": 6.9480791091918945
     },
     {
+      "key": "104541",
+      "category": "Brevet Basis Pool",
+      "city": "Interlaken",
+      "first_date": "2026-11-28",
+      "last_date": "2026-11-28",
+      "company": "SLRG Thun-Oberland",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104541",
+      "canton": "BE",
+      "lat": 46.68421936035156,
+      "lng": 7.878632545471191
+    },
+    {
       "key": "100694",
       "category": "Brevet Basis Pool",
       "city": "Spreitenbach",
@@ -5055,6 +5083,20 @@
       "canton": "BL",
       "lat": 47.51921463012695,
       "lng": 7.545316219329834
+    },
+    {
+      "key": "103881",
+      "category": "Jugendbrevet",
+      "city": "Colombier NE",
+      "first_date": "2026-12-02",
+      "last_date": "2026-12-16",
+      "company": "SSS Section de Boudry",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103881",
+      "canton": "NE",
+      "lat": 46.96678161621094,
+      "lng": 6.859889030456543
     },
     {
       "key": "103893",
@@ -5456,7 +5498,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102583",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -6821,6 +6863,20 @@
       "lng": 7.342846393585205
     },
     {
+      "key": "104509",
+      "category": "Jugendbrevet",
+      "city": "Gümligen",
+      "first_date": "2027-01-14",
+      "last_date": "2027-03-11",
+      "company": "SLRG Muri-Gümligen",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104509",
+      "canton": "BE",
+      "lat": 46.933074951171875,
+      "lng": 7.5044074058532715
+    },
+    {
       "key": "103129",
       "category": "Brevet Basis Pool",
       "city": "Magglingen/Macolin",
@@ -6973,6 +7029,20 @@
       "canton": "BL",
       "lat": 47.54563903808594,
       "lng": 7.536828994750977
+    },
+    {
+      "key": "104512",
+      "category": "Jugendbrevet",
+      "city": "",
+      "first_date": "2027-01-22",
+      "last_date": "2027-03-12",
+      "company": "SSS St. Maurice",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104512",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "101277",
@@ -7267,6 +7337,20 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
+    },
+    {
+      "key": "104504",
+      "category": "WK Pool Plus",
+      "city": "Uster",
+      "first_date": "2027-01-28",
+      "last_date": "2027-01-28",
+      "company": "SLRG Bauma",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104504",
+      "canton": "ZH",
+      "lat": 47.351829528808594,
+      "lng": 8.7227144241333
     },
     {
       "key": "103500",
@@ -8123,6 +8207,20 @@
       "lng": 8.527311325073242
     },
     {
+      "key": "104433",
+      "category": "Brevet Basis Pool",
+      "city": "Altdorf UR",
+      "first_date": "2027-03-06",
+      "last_date": "2027-03-20",
+      "company": "SLRG Uri",
+      "participation_max": 24,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104433",
+      "canton": "UR",
+      "lat": 46.886905670166016,
+      "lng": 8.638254165649414
+    },
+    {
       "key": "104450",
       "category": "Brevet Basis Pool",
       "city": "Langnau im Emmental",
@@ -8641,6 +8739,20 @@
       "lng": 7.804457187652588
     },
     {
+      "key": "104434",
+      "category": "Modul BLS-AED",
+      "city": "Flüelen",
+      "first_date": "2027-04-04",
+      "last_date": "2027-04-04",
+      "company": "SLRG Uri",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104434",
+      "canton": "UR",
+      "lat": 46.91195297241211,
+      "lng": 8.643176078796387
+    },
+    {
       "key": "104397",
       "category": "Brevet Basis Pool",
       "city": "Liestal",
@@ -9087,6 +9199,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104435",
+      "category": "Brevet Plus Pool",
+      "city": "Altdorf UR",
+      "first_date": "2027-04-17",
+      "last_date": "2027-04-24",
+      "company": "SLRG Uri",
+      "participation_max": 24,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104435",
+      "canton": "UR",
+      "lat": 46.886905670166016,
+      "lng": 8.638254165649414
     },
     {
       "key": "104457",
@@ -10090,7 +10216,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103758",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11959,5 +12085,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T07:01:22+0000"
+  "geocoded_at": "2026-10-29T08:01:13+0000"
 }
