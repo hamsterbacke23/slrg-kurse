@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T00:01:37+0000",
+  "scraped_at": "2026-10-29T01:01:37+0000",
   "count": 854,
   "courses": [
     {
@@ -4826,7 +4826,7 @@
       "last_date": "2026-11-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104488",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T00:01:37+0000"
+  "geocoded_at": "2026-10-29T01:01:37+0000"
 }
