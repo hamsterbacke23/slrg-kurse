@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-29T18:01:20+0000",
-  "count": 857,
+  "scraped_at": "2026-10-29T19:00:48+0000",
+  "count": 859,
   "courses": [
     {
       "key": "102540",
@@ -794,7 +794,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103900",
       "canton": null,
       "lat": null,
@@ -934,7 +934,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Emmental",
       "participation_max": 28,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104382",
       "canton": null,
       "lat": null,
@@ -1564,7 +1564,7 @@
       "last_date": "2026-11-04",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104278",
       "canton": "NE",
       "lat": 46.90297317504883,
@@ -2082,7 +2082,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 15,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3664,7 +3664,7 @@
       "last_date": "2026-11-20",
       "company": "SLRG Thun-Oberland",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103253",
       "canton": "BE",
       "lat": 46.474002838134766,
@@ -6945,6 +6945,34 @@
       "canton": "BL",
       "lat": 47.54563903808594,
       "lng": 7.536828994750977
+    },
+    {
+      "key": "104481",
+      "category": "Modul BLS-AED",
+      "city": "La Neuveville",
+      "first_date": "2027-01-20",
+      "last_date": "2027-01-20",
+      "company": "SSS Val-de-Ruz",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104481",
+      "canton": "BE",
+      "lat": 47.07402038574219,
+      "lng": 7.096970558166504
+    },
+    {
+      "key": "104482",
+      "category": "WK BLS-AED",
+      "city": "La Neuveville",
+      "first_date": "2027-01-20",
+      "last_date": "2027-01-20",
+      "company": "SSS Val-de-Ruz",
+      "participation_max": 8,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104482",
+      "canton": "BE",
+      "lat": 47.07402038574219,
+      "lng": 7.096970558166504
     },
     {
       "key": "104512",
@@ -12001,5 +12029,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T18:01:20+0000"
+  "geocoded_at": "2026-10-29T19:00:49+0000"
 }

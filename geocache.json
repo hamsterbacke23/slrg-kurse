@@ -715,6 +715,12 @@
     "lat": 47.11421203613281,
     "lng": 6.84379243850708
   },
+  "La Neuveville": {
+    "canton": "BE",
+    "label": "La Neuveville (BE)",
+    "lat": 47.07402038574219,
+    "lng": 7.096970558166504
+  },
   "La Sarraz": {
     "canton": "VD",
     "label": "La Sarraz (VD)",
