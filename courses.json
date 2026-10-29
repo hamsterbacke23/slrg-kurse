@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T17:01:05+0000",
+  "scraped_at": "2026-10-29T18:01:20+0000",
   "count": 857,
   "courses": [
     {
@@ -626,7 +626,7 @@
       "last_date": "2026-12-18",
       "company": "PMS Kreuzlingen",
       "participation_max": 20,
-      "registered": 18,
+      "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
       "canton": null,
       "lat": null,
@@ -4938,7 +4938,7 @@
       "last_date": "2026-12-02",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99999",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -5484,7 +5484,7 @@
       "last_date": "2026-12-16",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103057",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -10118,7 +10118,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103755",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -12001,5 +12001,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T17:01:05+0000"
+  "geocoded_at": "2026-10-29T18:01:20+0000"
 }
