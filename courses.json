@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T06:00:58+0000",
+  "scraped_at": "2026-10-29T07:01:21+0000",
   "count": 854,
   "courses": [
     {
@@ -4350,7 +4350,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103816",
       "canton": null,
       "lat": null,
@@ -6002,7 +6002,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG Basel",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103614",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -7318,7 +7318,7 @@
       "last_date": "2027-01-30",
       "company": "SLRG Region Ost",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104118",
       "canton": null,
       "lat": null,
@@ -8802,7 +8802,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104123",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -8816,7 +8816,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104124",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -8830,7 +8830,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 3,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104125",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -8844,7 +8844,7 @@
       "last_date": "2027-04-10",
       "company": "SLRG Region Ost",
       "participation_max": 28,
-      "registered": 2,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104126",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -8970,7 +8970,7 @@
       "last_date": "2027-04-11",
       "company": "SLRG Region Ost",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104128",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -8984,7 +8984,7 @@
       "last_date": "2027-04-11",
       "company": "SLRG Region Ost",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104129",
       "canton": "TG",
       "lat": 47.64158630371094,
@@ -11959,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T06:00:58+0000"
+  "geocoded_at": "2026-10-29T07:01:22+0000"
 }
