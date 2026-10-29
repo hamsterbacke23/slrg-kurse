@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T11:01:02+0000",
+  "scraped_at": "2026-10-29T12:01:24+0000",
   "count": 858,
   "courses": [
     {
@@ -514,7 +514,7 @@
       "last_date": "2026-11-04",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103762",
       "canton": "SZ",
       "lat": 47.19688415527344,
@@ -780,7 +780,7 @@
       "last_date": "2026-10-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103657",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -1774,7 +1774,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Aarau",
       "participation_max": 9,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99424",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4014,7 +4014,7 @@
       "last_date": "2026-11-21",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 26,
-      "registered": 25,
+      "registered": 26,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -6618,7 +6618,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG St. Moritz-Engadin",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104375",
       "canton": null,
       "lat": null,
@@ -12015,5 +12015,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-29T11:01:02+0000"
+  "geocoded_at": "2026-10-29T12:01:25+0000"
 }
