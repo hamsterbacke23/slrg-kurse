@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T06:01:09+0000",
-  "count": 852,
+  "scraped_at": "2026-10-30T07:01:00+0000",
+  "count": 851,
   "courses": [
     {
       "key": "102540",
@@ -1163,20 +1163,6 @@
       "canton": "AG",
       "lat": 47.41796112060547,
       "lng": 8.362970352172852
-    },
-    {
-      "key": "103116",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 13,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103116",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103887",
@@ -4448,7 +4434,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Toggenburg",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101727",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -6478,7 +6464,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Mittelrheintal",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103892",
       "canton": "SG",
       "lat": 47.45515823364258,
@@ -11336,7 +11322,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99112",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11350,7 +11336,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11364,7 +11350,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 17,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99114",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11378,7 +11364,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 16,
+      "registered": 17,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99115",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11931,5 +11917,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T06:01:09+0000"
+  "geocoded_at": "2026-10-30T07:01:00+0000"
 }
