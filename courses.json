@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T17:01:10+0000",
-  "count": 855,
+  "scraped_at": "2026-10-30T18:01:04+0000",
+  "count": 854,
   "courses": [
     {
       "key": "102540",
@@ -351,20 +351,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "104370",
-      "category": "Modul BLS-AED",
-      "city": "Emmenbrücke",
-      "first_date": "2026-10-15",
-      "last_date": "2026-10-15",
-      "company": "SLRG Sektion Hallwilersee",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104370",
-      "canton": "LU",
-      "lat": 47.07655334472656,
-      "lng": 8.273947715759277
     },
     {
       "key": "101814",
@@ -4420,7 +4406,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Zug",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100909",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -8396,7 +8382,7 @@
       "last_date": "2027-03-20",
       "company": "SLRG Zug",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103542",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -11973,5 +11959,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T17:01:11+0000"
+  "geocoded_at": "2026-10-30T18:01:04+0000"
 }
