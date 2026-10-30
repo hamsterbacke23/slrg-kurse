@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T20:01:05+0000",
-  "count": 853,
+  "scraped_at": "2026-10-30T21:01:04+0000",
+  "count": 852,
   "courses": [
     {
       "key": "102540",
@@ -4131,20 +4131,6 @@
       "canton": "GE",
       "lat": 46.232147216796875,
       "lng": 6.076141357421875
-    },
-    {
-      "key": "103816",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-11-25",
-      "last_date": "2026-11-25",
-      "company": "SLRG Thalwil-Langnau",
-      "participation_max": 7,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103816",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103817",
@@ -9194,7 +9180,7 @@
       "last_date": "2027-04-25",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 10,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103698",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11945,5 +11931,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T20:01:05+0000"
+  "geocoded_at": "2026-10-30T21:01:04+0000"
 }
