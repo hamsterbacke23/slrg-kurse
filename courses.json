@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T22:01:06+0000",
-  "count": 850,
+  "scraped_at": "2026-10-30T23:00:58+0000",
+  "count": 847,
   "courses": [
     {
       "key": "102540",
@@ -1039,34 +1039,6 @@
       "lng": 6.202526569366455
     },
     {
-      "key": "101321",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101321",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101322",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 18,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101322",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "101354",
       "category": "Jugendbrevet",
       "city": "Lachen SZ",
@@ -1527,20 +1499,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103872",
-      "category": "WK Pool Plus",
-      "city": "Muttenz",
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "company": "SLRG Sektion Muttenz",
-      "participation_max": 16,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103872",
-      "canton": "BL",
-      "lat": 47.52326583862305,
-      "lng": 7.6465020179748535
     },
     {
       "key": "104183",
@@ -11903,5 +11861,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T22:01:06+0000"
+  "geocoded_at": "2026-10-30T23:00:58+0000"
 }
