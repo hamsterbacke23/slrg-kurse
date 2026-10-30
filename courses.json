@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T09:01:10+0000",
+  "scraped_at": "2026-10-30T10:01:01+0000",
   "count": 853,
   "courses": [
     {
@@ -864,7 +864,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Emmental",
       "participation_max": 28,
-      "registered": 11,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104382",
       "canton": null,
       "lat": null,
@@ -1396,7 +1396,7 @@
       "last_date": "2026-11-04",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 8,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100790",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -4182,7 +4182,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 7,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103816",
       "canton": null,
       "lat": null,
@@ -4196,7 +4196,7 @@
       "last_date": "2026-11-25",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103817",
       "canton": null,
       "lat": null,
@@ -11945,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T09:01:10+0000"
+  "geocoded_at": "2026-10-30T10:01:01+0000"
 }
