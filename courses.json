@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T15:00:58+0000",
-  "count": 853,
+  "scraped_at": "2026-10-30T16:01:01+0000",
+  "count": 855,
   "courses": [
     {
       "key": "102540",
@@ -234,7 +234,7 @@
       "last_date": "2026-09-28",
       "company": "SLRG Emmental",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103963",
       "canton": null,
       "lat": null,
@@ -2054,7 +2054,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Lachen",
       "participation_max": 16,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101355",
       "canton": null,
       "lat": null,
@@ -2087,6 +2087,34 @@
       "canton": "VS",
       "lat": 46.288421630859375,
       "lng": 7.718348503112793
+    },
+    {
+      "key": "102153",
+      "category": "Brevet Basis Pool",
+      "city": "St-Légier-La Chiésaz",
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-08",
+      "company": "Swimsports",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102153",
+      "canton": "VD",
+      "lat": 46.47169876098633,
+      "lng": 6.87440824508667
+    },
+    {
+      "key": "102585",
+      "category": "Brevet Basis Pool",
+      "city": "St-Légier-La Chiésaz",
+      "first_date": "2026-11-08",
+      "last_date": "2026-11-08",
+      "company": "Swimsports",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102585",
+      "canton": "VD",
+      "lat": 46.47169876098633,
+      "lng": 6.87440824508667
     },
     {
       "key": "102991",
@@ -10076,7 +10104,7 @@
       "last_date": "2027-06-12",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103758",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11945,5 +11973,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T15:00:58+0000"
+  "geocoded_at": "2026-10-30T16:01:02+0000"
 }
