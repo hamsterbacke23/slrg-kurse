@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T08:01:15+0000",
+  "scraped_at": "2026-10-30T09:01:10+0000",
   "count": 853,
   "courses": [
     {
@@ -864,7 +864,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Emmental",
       "participation_max": 28,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104382",
       "canton": null,
       "lat": null,
@@ -6842,7 +6842,7 @@
       "last_date": "2027-01-22",
       "company": "SLRG Zug",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104255",
       "canton": null,
       "lat": null,
@@ -7206,7 +7206,7 @@
       "last_date": "2027-01-28",
       "company": "SLRG Bauma",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104504",
       "canton": "ZH",
       "lat": 47.351829528808594,
@@ -9894,7 +9894,7 @@
       "last_date": "2027-06-05",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103748",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11945,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T08:01:15+0000"
+  "geocoded_at": "2026-10-30T09:01:10+0000"
 }
