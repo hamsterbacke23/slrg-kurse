@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T14:01:01+0000",
-  "count": 855,
+  "scraped_at": "2026-10-30T15:00:58+0000",
+  "count": 853,
   "courses": [
     {
       "key": "102540",
@@ -12,20 +12,6 @@
       "participation_max": 4,
       "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102540",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "102875",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-07-15",
-      "last_date": "2026-08-30",
-      "company": "SLRG Rafzerfeld",
-      "participation_max": 3,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102875",
       "canton": null,
       "lat": null,
       "lng": null
@@ -1165,20 +1151,6 @@
       "lng": 8.362970352172852
     },
     {
-      "key": "103887",
-      "category": "Brevet Basis Pool",
-      "city": "Dietlikon",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "Schweizerischer Badmeisterverband SBV",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103887",
-      "canton": "ZH",
-      "lat": 47.42268371582031,
-      "lng": 8.613987922668457
-    },
-    {
       "key": "104296",
       "category": "Brevet Basis Pool",
       "city": "Clarens",
@@ -2236,7 +2208,7 @@
       "last_date": "2026-11-09",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104185",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -4331,7 +4303,7 @@
     {
       "key": "104503",
       "category": "Modul BLS-AED",
-      "city": " Wil SG",
+      "city": "Oberuzwil",
       "first_date": "2026-11-27",
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
@@ -4339,8 +4311,8 @@
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104503",
       "canton": "SG",
-      "lat": 47.47120666503906,
-      "lng": 9.039849281311035
+      "lat": 47.41975021362305,
+      "lng": 9.143709182739258
     },
     {
       "key": "104560",
@@ -5414,7 +5386,7 @@
       "last_date": "2026-12-09",
       "company": "SSS Paradiso",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103610",
       "canton": "TI",
       "lat": 45.98849105834961,
@@ -7906,7 +7878,7 @@
       "last_date": "2027-02-28",
       "company": "SLRG Emmental",
       "participation_max": 18,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104368",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11973,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T14:01:02+0000"
+  "geocoded_at": "2026-10-30T15:00:58+0000"
 }
