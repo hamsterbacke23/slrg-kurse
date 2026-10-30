@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T21:01:04+0000",
-  "count": 852,
+  "scraped_at": "2026-10-30T22:01:06+0000",
+  "count": 850,
   "courses": [
     {
       "key": "102540",
@@ -234,7 +234,7 @@
       "last_date": "2026-09-28",
       "company": "SLRG Emmental",
       "participation_max": 14,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103963",
       "canton": null,
       "lat": null,
@@ -1062,20 +1062,6 @@
       "participation_max": 18,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101322",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101323",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 6,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101323",
       "canton": null,
       "lat": null,
       "lng": null
@@ -4133,20 +4119,6 @@
       "lng": 6.076141357421875
     },
     {
-      "key": "103817",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-11-25",
-      "last_date": "2026-11-25",
-      "company": "SLRG Thalwil-Langnau",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103817",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103839",
       "category": "WK BLS-AED",
       "city": "",
@@ -6114,7 +6086,7 @@
       "last_date": "2026-12-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103889",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -11931,5 +11903,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T21:01:04+0000"
+  "geocoded_at": "2026-10-30T22:01:06+0000"
 }
