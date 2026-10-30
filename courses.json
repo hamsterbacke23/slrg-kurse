@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T07:01:00+0000",
-  "count": 851,
+  "scraped_at": "2026-10-30T08:01:15+0000",
+  "count": 853,
   "courses": [
     {
       "key": "102540",
@@ -2285,6 +2285,20 @@
       "lng": null
     },
     {
+      "key": "104562",
+      "category": "WK Pool Basis",
+      "city": "",
+      "first_date": "2026-11-09",
+      "last_date": "2026-11-09",
+      "company": "SLRG Weinfelden",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104562",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99345",
       "category": "WK BLS-AED",
       "city": "Winterthur",
@@ -4329,6 +4343,20 @@
       "lng": 9.039849281311035
     },
     {
+      "key": "104560",
+      "category": "WK BLS-AED",
+      "city": "",
+      "first_date": "2026-11-27",
+      "last_date": "2026-11-28",
+      "company": "SSS St. Maurice",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104560",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "99442",
       "category": "Brevet Plus Pool",
       "city": "Aarau",
@@ -4433,7 +4461,7 @@
       "first_date": "2026-11-28",
       "last_date": "2026-11-28",
       "company": "SLRG Toggenburg",
-      "participation_max": 8,
+      "participation_max": 10,
       "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101727",
       "canton": "SG",
@@ -4448,7 +4476,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Toggenburg",
       "participation_max": 6,
-      "registered": 2,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101728",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -9866,7 +9894,7 @@
       "last_date": "2027-06-05",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103748",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -11917,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T07:01:00+0000"
+  "geocoded_at": "2026-10-30T08:01:15+0000"
 }
