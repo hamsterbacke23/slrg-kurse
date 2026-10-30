@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T19:01:00+0000",
+  "scraped_at": "2026-10-30T20:01:05+0000",
   "count": 853,
   "courses": [
     {
@@ -6492,7 +6492,7 @@
       "last_date": "2027-01-16",
       "company": "SLRG Aarau",
       "participation_max": 14,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104032",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -7192,7 +7192,7 @@
       "last_date": "2027-01-28",
       "company": "SLRG Bauma",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104504",
       "canton": "ZH",
       "lat": 47.351829528808594,
@@ -11945,5 +11945,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T19:01:00+0000"
+  "geocoded_at": "2026-10-30T20:01:05+0000"
 }
