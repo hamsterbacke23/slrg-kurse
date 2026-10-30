@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T12:01:19+0000",
-  "count": 855,
+  "scraped_at": "2026-10-30T13:01:12+0000",
+  "count": 856,
   "courses": [
     {
       "key": "102540",
@@ -199,6 +199,20 @@
       "lng": 8.988879203796387
     },
     {
+      "key": "103632",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-08-26",
+      "last_date": "2026-10-31",
+      "company": "Kantonsschule Wattwil",
+      "participation_max": 50,
+      "registered": 34,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "100646",
       "category": "Modul Expert Pool",
       "city": "Bremgarten AG",
@@ -234,7 +248,7 @@
       "last_date": "2026-09-28",
       "company": "SLRG Emmental",
       "participation_max": 14,
-      "registered": 5,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103963",
       "canton": null,
       "lat": null,
@@ -2054,7 +2068,7 @@
       "last_date": "2026-11-07",
       "company": "SSS Genève",
       "participation_max": 12,
-      "registered": 12,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104350",
       "canton": "GE",
       "lat": 46.16372299194336,
@@ -5386,7 +5400,7 @@
       "last_date": "2026-12-09",
       "company": "SSS Nord-Vaudois",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102018",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -5456,7 +5470,7 @@
       "last_date": "2026-12-10",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101924",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -11973,5 +11987,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T12:01:19+0000"
+  "geocoded_at": "2026-10-30T13:01:12+0000"
 }
