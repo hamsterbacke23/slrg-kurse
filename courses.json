@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-30T16:01:01+0000",
+  "scraped_at": "2026-10-30T17:01:10+0000",
   "count": 855,
   "courses": [
     {
@@ -379,20 +379,6 @@
       "canton": "BE",
       "lat": 47.140377044677734,
       "lng": 7.206460952758789
-    },
-    {
-      "key": "103410",
-      "category": "Brevet Basis Pool",
-      "city": "Liestal",
-      "first_date": "2026-10-16",
-      "last_date": "2026-10-30",
-      "company": "SLRG Basel",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103410",
-      "canton": "BL",
-      "lat": 47.483455657958984,
-      "lng": 7.7250237464904785
     },
     {
       "key": "104283",
@@ -850,7 +836,7 @@
       "last_date": "2026-11-02",
       "company": "SLRG Emmental",
       "participation_max": 28,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104382",
       "canton": null,
       "lat": null,
@@ -2180,7 +2166,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Richterswil",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104345",
       "canton": null,
       "lat": null,
@@ -2866,7 +2852,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -4042,7 +4028,7 @@
       "last_date": "2026-11-23",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103666",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -4336,7 +4322,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Wil",
       "participation_max": 8,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104503",
       "canton": "SG",
       "lat": 47.41975021362305,
@@ -8333,6 +8319,20 @@
       "lng": null
     },
     {
+      "key": "104507",
+      "category": "Jugendbrevet",
+      "city": "",
+      "first_date": "2027-03-17",
+      "last_date": "2027-04-14",
+      "company": "SLRG St. Moritz-Engadin",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104507",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103155",
       "category": "WK Pool Plus",
       "city": "Genève",
@@ -8438,7 +8438,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104053",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8452,7 +8452,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104055",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8466,7 +8466,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104057",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11973,5 +11973,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-30T16:01:02+0000"
+  "geocoded_at": "2026-10-30T17:01:11+0000"
 }
