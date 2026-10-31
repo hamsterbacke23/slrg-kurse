@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T08:01:18+0000",
-  "count": 842,
+  "scraped_at": "2026-10-31T09:01:02+0000",
+  "count": 843,
   "courses": [
     {
       "key": "102540",
@@ -964,6 +964,20 @@
       "participation_max": 16,
       "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104341",
+      "canton": "VD",
+      "lat": 46.3162727355957,
+      "lng": 6.202526569366455
+    },
+    {
+      "key": "100590",
+      "category": "WK BLS-AED",
+      "city": "Coppet",
+      "first_date": "2026-11-01",
+      "last_date": "2026-11-01",
+      "company": "SSS La Côte",
+      "participation_max": 32,
+      "registered": 29,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
       "lng": 6.202526569366455
@@ -8256,7 +8270,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104053",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8270,7 +8284,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104055",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8284,7 +8298,7 @@
       "last_date": "2027-04-03",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104057",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11791,5 +11805,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T08:01:18+0000"
+  "geocoded_at": "2026-10-31T09:01:02+0000"
 }
