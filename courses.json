@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-31T12:01:11+0000",
+  "scraped_at": "2026-10-31T13:01:02+0000",
   "count": 837,
   "courses": [
     {
@@ -934,7 +934,7 @@
       "last_date": "2026-11-01",
       "company": "SSS Riviera",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104296",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -2866,7 +2866,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 18,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103312",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -6492,7 +6492,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104052",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -11721,5 +11721,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T12:01:11+0000"
+  "geocoded_at": "2026-10-31T13:01:02+0000"
 }
