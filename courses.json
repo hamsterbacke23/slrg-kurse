@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T22:01:04+0000",
-  "count": 824,
+  "scraped_at": "2026-10-31T23:01:23+0000",
+  "count": 820,
   "courses": [
     {
       "key": "102540",
@@ -633,20 +633,6 @@
       "lng": 8.640215873718262
     },
     {
-      "key": "104240",
-      "category": "WK BLS-AED",
-      "city": "Schaffhausen",
-      "first_date": "2026-10-29",
-      "last_date": "2026-10-29",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104240",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
-    },
-    {
       "key": "100980",
       "category": "WK Pool Basis",
       "city": "",
@@ -687,34 +673,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "90377",
-      "category": "ERFA Verantwortliche Sicherungsdienst",
-      "city": "",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG - SSS",
-      "participation_max": 20,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=90377",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103313",
-      "category": "Brevet Basis Pool",
-      "city": "Oberuzwil",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Wil",
-      "participation_max": 18,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103313",
-      "canton": "SG",
-      "lat": 47.41975021362305,
-      "lng": 9.143709182739258
     },
     {
       "key": "103826",
@@ -1513,20 +1471,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "103264",
-      "category": "Brevet Basis Pool",
-      "city": "Freienbach",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-07",
-      "company": "SLRG Lachen",
-      "participation_max": 20,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103264",
-      "canton": "SZ",
-      "lat": 47.19816589355469,
-      "lng": 8.765596389770508
     },
     {
       "key": "103280",
@@ -11539,5 +11483,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T22:01:04+0000"
+  "geocoded_at": "2026-10-31T23:01:23+0000"
 }
