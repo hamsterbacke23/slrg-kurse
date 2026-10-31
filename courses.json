@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T10:01:39+0000",
-  "count": 841,
+  "scraped_at": "2026-10-31T11:01:00+0000",
+  "count": 837,
   "courses": [
     {
       "key": "102540",
@@ -155,34 +155,6 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
-    },
-    {
-      "key": "103632",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-08-26",
-      "last_date": "2026-10-31",
-      "company": "Kantonsschule Wattwil",
-      "participation_max": 50,
-      "registered": 34,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "104116",
-      "category": "WK Pool Pro",
-      "city": "",
-      "first_date": "2026-09-26",
-      "last_date": "2026-09-26",
-      "company": "SLRG Region Ost",
-      "participation_max": 10,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104116",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103963",
@@ -682,7 +654,7 @@
       "last_date": "2026-12-02",
       "company": "SSS Estavayer-le-Lac",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103900",
       "canton": null,
       "lat": null,
@@ -771,20 +743,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100902",
-      "category": "WK BLS-AED",
-      "city": "Reiden",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Reiden",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100902",
-      "canton": "LU",
-      "lat": 47.229347229003906,
-      "lng": 7.9496259689331055
     },
     {
       "key": "100976",
@@ -936,20 +894,6 @@
       "participation_max": 16,
       "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104341",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
-    },
-    {
-      "key": "100590",
-      "category": "WK BLS-AED",
-      "city": "Coppet",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SSS La Côte",
-      "participation_max": 32,
-      "registered": 29,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
       "canton": "VD",
       "lat": 46.3162727355957,
       "lng": 6.202526569366455
@@ -11777,5 +11721,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T10:01:39+0000"
+  "geocoded_at": "2026-10-31T11:01:01+0000"
 }
