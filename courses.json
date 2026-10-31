@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T13:01:02+0000",
-  "count": 837,
+  "scraped_at": "2026-10-31T14:01:09+0000",
+  "count": 838,
   "courses": [
     {
       "key": "102540",
@@ -155,6 +155,20 @@
       "canton": "TI",
       "lat": 46.0294303894043,
       "lng": 8.988879203796387
+    },
+    {
+      "key": "103632",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2026-08-26",
+      "last_date": "2026-11-03",
+      "company": "Kantonsschule Wattwil",
+      "participation_max": 50,
+      "registered": 34,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
+      "canton": null,
+      "lat": null,
+      "lng": null
     },
     {
       "key": "103963",
@@ -6506,7 +6520,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104054",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -6520,7 +6534,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Aarau",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104056",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -8746,7 +8760,7 @@
       "last_date": "2027-04-11",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104418",
       "canton": null,
       "lat": null,
@@ -11721,5 +11735,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T13:01:02+0000"
+  "geocoded_at": "2026-10-31T14:01:09+0000"
 }
