@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T15:01:07+0000",
-  "count": 837,
+  "scraped_at": "2026-10-31T16:00:59+0000",
+  "count": 836,
   "courses": [
     {
       "key": "102540",
@@ -813,20 +813,6 @@
       "canton": "ZH",
       "lat": 47.47540283203125,
       "lng": 8.455204963684082
-    },
-    {
-      "key": "103279",
-      "category": "Brevet Basis Pool",
-      "city": "Rheinau",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Seuzach-Weinland",
-      "participation_max": 12,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103279",
-      "canton": "ZH",
-      "lat": 47.62740707397461,
-      "lng": 8.611495018005371
     },
     {
       "key": "103313",
@@ -5470,7 +5456,7 @@
       "last_date": "2026-12-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104314",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -6296,7 +6282,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104454",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -6324,7 +6310,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Emmental",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104462",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -11721,5 +11707,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T15:01:07+0000"
+  "geocoded_at": "2026-10-31T16:00:59+0000"
 }
