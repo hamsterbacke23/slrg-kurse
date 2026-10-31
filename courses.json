@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T09:01:02+0000",
-  "count": 843,
+  "scraped_at": "2026-10-31T10:01:39+0000",
+  "count": 841,
   "courses": [
     {
       "key": "102540",
@@ -169,20 +169,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100646",
-      "category": "Modul Expert Pool",
-      "city": "Bremgarten AG",
-      "first_date": "2026-09-04",
-      "last_date": "2026-10-25",
-      "company": "SLRG Region Nordwest",
-      "participation_max": 15,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100646",
-      "canton": "AG",
-      "lat": 47.346309661865234,
-      "lng": 8.333881378173828
     },
     {
       "key": "104116",
@@ -785,20 +771,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100899",
-      "category": "Modul BLS-AED",
-      "city": "Reiden",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Reiden",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100899",
-      "canton": "LU",
-      "lat": 47.229347229003906,
-      "lng": 7.9496259689331055
     },
     {
       "key": "100902",
@@ -2880,7 +2852,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101616",
       "canton": null,
       "lat": null,
@@ -3356,7 +3328,7 @@
       "last_date": "2026-12-04",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99899",
       "canton": "TI",
       "lat": 45.8812370300293,
@@ -4196,7 +4168,7 @@
       "last_date": "2026-11-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99916",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -11805,5 +11777,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T09:01:02+0000"
+  "geocoded_at": "2026-10-31T10:01:39+0000"
 }
