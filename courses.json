@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T14:01:09+0000",
-  "count": 838,
+  "scraped_at": "2026-10-31T15:01:07+0000",
+  "count": 837,
   "courses": [
     {
       "key": "102540",
@@ -267,20 +267,6 @@
       "canton": "BE",
       "lat": 47.005455017089844,
       "lng": 7.6857829093933105
-    },
-    {
-      "key": "104388",
-      "category": "WK Pool Basis",
-      "city": "",
-      "first_date": "2026-10-14",
-      "last_date": "2026-10-14",
-      "company": "SLRG Frauenfeld",
-      "participation_max": 2,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104388",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "100897",
@@ -2278,7 +2264,7 @@
       "last_date": "2026-11-11",
       "company": "SSS Val-de-Travers",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104280",
       "canton": "NE",
       "lat": 46.90297317504883,
@@ -11735,5 +11721,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T14:01:09+0000"
+  "geocoded_at": "2026-10-31T15:01:07+0000"
 }
