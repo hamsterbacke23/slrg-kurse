@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T20:00:58+0000",
-  "count": 828,
+  "scraped_at": "2026-10-31T21:01:12+0000",
+  "count": 824,
   "courses": [
     {
       "key": "102540",
@@ -269,20 +269,6 @@
       "lng": null
     },
     {
-      "key": "101814",
-      "category": "Brevet Basis Pool",
-      "city": "Magglingen/Macolin",
-      "first_date": "2026-10-16",
-      "last_date": "2026-10-30",
-      "company": "SLRG Bielersee",
-      "participation_max": 16,
-      "registered": 15,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101814",
-      "canton": "BE",
-      "lat": 47.140377044677734,
-      "lng": 7.206460952758789
-    },
-    {
       "key": "104283",
       "category": "WK BLS-AED",
       "city": "Binningen",
@@ -488,20 +474,6 @@
       "participation_max": 20,
       "registered": 19,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103960",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101723",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-10-24",
-      "last_date": "2026-10-31",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101723",
       "canton": null,
       "lat": null,
       "lng": null
@@ -729,34 +701,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102970",
-      "category": "WK Pool Plus",
-      "city": "Dielsdorf",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Wehntal",
-      "participation_max": 12,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102970",
-      "canton": "ZH",
-      "lat": 47.47540283203125,
-      "lng": 8.455204963684082
-    },
-    {
-      "key": "102971",
-      "category": "WK BLS-AED",
-      "city": "Dielsdorf",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Wehntal",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102971",
-      "canton": "ZH",
-      "lat": 47.47540283203125,
-      "lng": 8.455204963684082
     },
     {
       "key": "103313",
@@ -1032,7 +976,7 @@
       "last_date": "2026-11-17",
       "company": "SLRG Sektion Muttenz",
       "participation_max": 16,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103397",
       "canton": "BL",
       "lat": 47.52326583862305,
@@ -11595,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T20:00:58+0000"
+  "geocoded_at": "2026-10-31T21:01:12+0000"
 }
