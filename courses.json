@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T18:01:06+0000",
-  "count": 830,
+  "scraped_at": "2026-10-31T19:01:08+0000",
+  "count": 829,
   "courses": [
     {
       "key": "102540",
@@ -827,20 +827,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "104341",
-      "category": "Brevet Basis Pool",
-      "city": "Coppet",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SSS Genève",
-      "participation_max": 16,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104341",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
     },
     {
       "key": "101354",
@@ -11623,5 +11609,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T18:01:06+0000"
+  "geocoded_at": "2026-10-31T19:01:08+0000"
 }
