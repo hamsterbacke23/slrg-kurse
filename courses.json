@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T16:00:59+0000",
-  "count": 836,
+  "scraped_at": "2026-10-31T17:01:03+0000",
+  "count": 835,
   "courses": [
     {
       "key": "102540",
@@ -757,20 +757,6 @@
       "canton": "BE",
       "lat": 46.954559326171875,
       "lng": 7.420684814453125
-    },
-    {
-      "key": "102832",
-      "category": "WK Pool Plus",
-      "city": "Männedorf",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Männedorf",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102832",
-      "canton": "ZH",
-      "lat": 47.259639739990234,
-      "lng": 8.697005271911621
     },
     {
       "key": "102833",
@@ -3076,7 +3062,7 @@
       "last_date": "2026-12-09",
       "company": "SLRG Weinfelden",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100382",
       "canton": "TG",
       "lat": 47.56858444213867,
@@ -5386,7 +5372,7 @@
       "last_date": "2026-12-12",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101983",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -5400,7 +5386,7 @@
       "last_date": "2026-12-12",
       "company": "SSS St. Maurice",
       "participation_max": 8,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101986",
       "canton": "VS",
       "lat": 46.1070442199707,
@@ -11707,5 +11693,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T16:00:59+0000"
+  "geocoded_at": "2026-10-31T17:01:03+0000"
 }
