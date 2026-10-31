@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T17:01:03+0000",
-  "count": 835,
+  "scraped_at": "2026-10-31T18:01:06+0000",
+  "count": 830,
   "courses": [
     {
       "key": "102540",
@@ -743,34 +743,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100976",
-      "category": "WK BLS-AED",
-      "city": "Bern",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Sektion Bern",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100976",
-      "canton": "BE",
-      "lat": 46.954559326171875,
-      "lng": 7.420684814453125
-    },
-    {
-      "key": "102833",
-      "category": "WK BLS-AED",
-      "city": "Männedorf",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Männedorf",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102833",
-      "canton": "ZH",
-      "lat": 47.259639739990234,
-      "lng": 8.697005271911621
     },
     {
       "key": "102970",
@@ -2635,34 +2607,6 @@
       "lng": 8.10302734375
     },
     {
-      "key": "103828",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-21",
-      "company": "SLRG Illnau-Effretikon",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103828",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "103829",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "company": "SLRG Illnau-Effretikon",
-      "participation_max": 12,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103829",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "104004",
       "category": "WK See",
       "city": "",
@@ -3571,20 +3515,6 @@
       "canton": "NE",
       "lat": 47.020973205566406,
       "lng": 6.9480791091918945
-    },
-    {
-      "key": "103834",
-      "category": "WK BLS-AED",
-      "city": "",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Illnau-Effretikon",
-      "participation_max": 8,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103834",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "104079",
@@ -11693,5 +11623,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T17:01:03+0000"
+  "geocoded_at": "2026-10-31T18:01:06+0000"
 }
