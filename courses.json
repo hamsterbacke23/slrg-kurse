@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-31T06:01:19+0000",
-  "count": 845,
+  "scraped_at": "2026-10-31T07:00:55+0000",
+  "count": 844,
   "courses": [
     {
       "key": "102540",
@@ -955,20 +955,6 @@
       "lng": null
     },
     {
-      "key": "103866",
-      "category": "WK Pool Plus",
-      "city": "Hinwil",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Hinwil",
-      "participation_max": 7,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103866",
-      "canton": "ZH",
-      "lat": 47.302894592285156,
-      "lng": 8.850424766540527
-    },
-    {
       "key": "103869",
       "category": "Brevet Plus Pool",
       "city": "",
@@ -1816,7 +1802,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 15,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103628",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -1872,7 +1858,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Baden-Brugg",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104264",
       "canton": null,
       "lat": null,
@@ -1886,7 +1872,7 @@
       "last_date": "2026-11-07",
       "company": "SLRG Baden-Brugg",
       "participation_max": 6,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104325",
       "canton": null,
       "lat": null,
@@ -11833,5 +11819,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-10-31T06:01:19+0000"
+  "geocoded_at": "2026-10-31T07:00:55+0000"
 }
