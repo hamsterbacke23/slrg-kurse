@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-01T03:01:09+0000",
-  "count": 820,
+  "scraped_at": "2026-11-01T10:50:19+0000",
+  "count": 821,
   "courses": [
     {
       "key": "102540",
@@ -150,7 +150,7 @@
       "last_date": "2026-11-03",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 34,
+      "registered": 35,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103632",
       "canton": null,
       "lat": null,
@@ -689,20 +689,6 @@
       "lng": null
     },
     {
-      "key": "103827",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-10-31",
-      "last_date": "2026-10-31",
-      "company": "SLRG Illnau-Effretikon",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103827",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103898",
       "category": "Brevet Pro Pool",
       "city": "",
@@ -715,6 +701,34 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "100589",
+      "category": "WK Pool Pro",
+      "city": "Coppet",
+      "first_date": "2026-11-01",
+      "last_date": "2026-11-01",
+      "company": "SSS La Côte",
+      "participation_max": 24,
+      "registered": 24,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100589",
+      "canton": "VD",
+      "lat": 46.3162727355957,
+      "lng": 6.202526569366455
+    },
+    {
+      "key": "100590",
+      "category": "WK BLS-AED",
+      "city": "Coppet",
+      "first_date": "2026-11-01",
+      "last_date": "2026-11-01",
+      "company": "SSS La Côte",
+      "participation_max": 32,
+      "registered": 30,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
+      "canton": "VD",
+      "lat": 46.3162727355957,
+      "lng": 6.202526569366455
     },
     {
       "key": "101354",
@@ -1732,7 +1746,7 @@
       "last_date": "2026-11-08",
       "company": "SSS Riviera",
       "participation_max": 8,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104299",
       "canton": "VD",
       "lat": 46.44438552856445,
@@ -4182,7 +4196,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Thun-Oberland",
       "participation_max": 12,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104541",
       "canton": "BE",
       "lat": 46.68421936035156,
@@ -4826,7 +4840,7 @@
       "last_date": "2026-12-14",
       "company": "SLRG St. Gallen",
       "participation_max": 16,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102583",
       "canton": "SG",
       "lat": 47.42510986328125,
@@ -5708,7 +5722,7 @@
       "last_date": "2026-12-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104480",
       "canton": "BE",
       "lat": 47.056617736816406,
@@ -5792,7 +5806,7 @@
       "last_date": "2027-01-15",
       "company": "SLRG Basel",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104396",
       "canton": "BL",
       "lat": 47.483455657958984,
@@ -6492,7 +6506,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104452",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -7458,7 +7472,7 @@
       "last_date": "2027-03-10",
       "company": "SSS Delémont",
       "participation_max": 6,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104378",
       "canton": "JU",
       "lat": 47.37165451049805,
@@ -11483,5 +11497,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-01T03:01:09+0000"
+  "geocoded_at": "2026-11-01T10:50:20+0000"
 }
