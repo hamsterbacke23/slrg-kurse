@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-01T20:53:16+0000",
-  "count": 817,
+  "scraped_at": "2026-11-01T23:59:00+0000",
+  "count": 811,
   "courses": [
     {
       "key": "102540",
@@ -507,48 +507,6 @@
       "lng": null
     },
     {
-      "key": "103305",
-      "category": "WK BLS-AED",
-      "city": "Porrentruy",
-      "first_date": "2026-10-25",
-      "last_date": "2026-10-25",
-      "company": "SSS Porrentruy",
-      "participation_max": 16,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103305",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
-      "key": "103306",
-      "category": "WK Pool Plus",
-      "city": "Porrentruy",
-      "first_date": "2026-10-25",
-      "last_date": "2026-10-25",
-      "company": "SSS Porrentruy",
-      "participation_max": 16,
-      "registered": 7,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103306",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
-      "key": "103307",
-      "category": "WK Pool Pro",
-      "city": "Porrentruy",
-      "first_date": "2026-10-25",
-      "last_date": "2026-10-25",
-      "company": "SSS Porrentruy",
-      "participation_max": 16,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103307",
-      "canton": "JU",
-      "lat": 47.42101287841797,
-      "lng": 7.06839656829834
-    },
-    {
       "key": "103465",
       "category": "Brevet Plus Pool",
       "city": "Sion",
@@ -659,48 +617,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100589",
-      "category": "WK Pool Pro",
-      "city": "Coppet",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SSS La Côte",
-      "participation_max": 24,
-      "registered": 24,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100589",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
-    },
-    {
-      "key": "100590",
-      "category": "WK BLS-AED",
-      "city": "Coppet",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SSS La Côte",
-      "participation_max": 32,
-      "registered": 30,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100590",
-      "canton": "VD",
-      "lat": 46.3162727355957,
-      "lng": 6.202526569366455
-    },
-    {
-      "key": "101354",
-      "category": "Jugendbrevet",
-      "city": "Lachen SZ",
-      "first_date": "2026-11-01",
-      "last_date": "2026-11-01",
-      "company": "SLRG Lachen",
-      "participation_max": 18,
-      "registered": 18,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101354",
-      "canton": "SZ",
-      "lat": 47.19688415527344,
-      "lng": 8.854327201843262
     },
     {
       "key": "103116",
@@ -1032,7 +948,7 @@
       "last_date": "2026-11-05",
       "company": "SSS Nord-Vaudois",
       "participation_max": 8,
-      "registered": 8,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101926",
       "canton": "VD",
       "lat": 46.768096923828125,
@@ -2390,7 +2306,7 @@
       "last_date": "2026-11-15",
       "company": "SLRG Wil",
       "participation_max": 16,
-      "registered": 14,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103309",
       "canton": "SG",
       "lat": 47.47120666503906,
@@ -4126,7 +4042,7 @@
       "last_date": "2026-11-28",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 20,
-      "registered": 12,
+      "registered": 13,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104488",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -11441,5 +11357,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-01T20:53:17+0000"
+  "geocoded_at": "2026-11-01T23:59:00+0000"
 }
