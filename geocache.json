@@ -378,6 +378,12 @@
     "lat": 46.81983947753906,
     "lng": 9.450693130493164
   },
+  "Dornach": {
+    "canton": "SO",
+    "label": "Dornach (SO)",
+    "lat": 47.476070404052734,
+    "lng": 7.625246524810791
+  },
   "Ebikon": {
     "canton": "LU",
     "label": "Ebikon (LU)",
@@ -666,6 +672,12 @@
     "label": "Ort Jona (SG) - Rapperswil-Jona",
     "lat": 47.23091506958008,
     "lng": 8.836261749267578
+  },
+  "Kerns": {
+    "canton": "OW",
+    "label": "Kerns (OW)",
+    "lat": 46.84345626831055,
+    "lng": 8.311267852783203
   },
   "Kloten": {
     "canton": "ZH",
