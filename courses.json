@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-02T21:58:01+0000",
-  "count": 825,
+  "scraped_at": "2026-11-03T03:14:05+0000",
+  "count": 824,
   "courses": [
     {
       "key": "102540",
@@ -687,20 +687,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "102805",
-      "category": "WK Pool Pro",
-      "city": "Oberwil BL",
-      "first_date": "2026-11-02",
-      "last_date": "2026-11-02",
-      "company": "SLRG Oberwil",
-      "participation_max": 2,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102805",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
     },
     {
       "key": "101427",
@@ -1788,7 +1774,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Basel",
       "participation_max": 17,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103027",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -7234,7 +7220,7 @@
       "last_date": "2027-02-20",
       "company": "SLRG Winterthur",
       "participation_max": 20,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104232",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -11553,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-02T21:58:01+0000"
+  "geocoded_at": "2026-11-03T03:14:05+0000"
 }
