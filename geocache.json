@@ -492,6 +492,12 @@
     "lat": 46.80337142944336,
     "lng": 7.161778926849365
   },
+  "Gelterkinden": {
+    "canton": "BL",
+    "label": "Gelterkinden (BL)",
+    "lat": 47.45619583129883,
+    "lng": 7.8594889640808105
+  },
   "Genève": {
     "canton": "GE",
     "label": "Genève (GE)",
