@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-04T23:59:12+0000",
-  "count": 827,
+  "scraped_at": "2026-11-05T04:59:18+0000",
+  "count": 824,
   "courses": [
     {
       "key": "102540",
@@ -2549,48 +2549,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "103871",
-      "category": "WK Pool Basis",
-      "city": "Unterseen",
-      "first_date": "2026-11-19",
-      "last_date": "2026-11-19",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103871",
-      "canton": "BE",
-      "lat": 46.695247650146484,
-      "lng": 7.84113883972168
-    },
-    {
-      "key": "104399",
-      "category": "WK Pool Plus",
-      "city": "Interlaken",
-      "first_date": "2026-11-19",
-      "last_date": "2026-11-19",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 7,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104399",
-      "canton": "BE",
-      "lat": 46.68421936035156,
-      "lng": 7.878632545471191
-    },
-    {
-      "key": "104400",
-      "category": "WK Pool Pro",
-      "city": "Interlaken",
-      "first_date": "2026-11-19",
-      "last_date": "2026-11-19",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 3,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104400",
-      "canton": "BE",
-      "lat": 46.68421936035156,
-      "lng": 7.878632545471191
     },
     {
       "key": "99855",
@@ -11581,5 +11539,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-04T23:59:12+0000"
+  "geocoded_at": "2026-11-05T04:59:18+0000"
 }
