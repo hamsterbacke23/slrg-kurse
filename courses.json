@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-05T20:20:47+0000",
-  "count": 823,
+  "scraped_at": "2026-11-06T01:12:00+0000",
+  "count": 819,
   "courses": [
     {
       "key": "102540",
@@ -451,20 +451,6 @@
       "lng": null
     },
     {
-      "key": "104266",
-      "category": "Brevet Basis Pool",
-      "city": "Schaffhausen",
-      "first_date": "2026-10-28",
-      "last_date": "2026-11-04",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104266",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
-    },
-    {
       "key": "104502",
       "category": "Jugendbrevet",
       "city": "Wädenswil",
@@ -647,20 +633,6 @@
       "lng": null
     },
     {
-      "key": "103278",
-      "category": "WK BLS-AED",
-      "city": "Oberwil BL",
-      "first_date": "2026-11-04",
-      "last_date": "2026-11-04",
-      "company": "SLRG Oberwil",
-      "participation_max": 16,
-      "registered": 16,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
-      "canton": "BL",
-      "lat": 47.51921463012695,
-      "lng": 7.545316219329834
-    },
-    {
       "key": "103491",
       "category": "Brevet Plus Pool",
       "city": "Schaffhausen",
@@ -675,20 +647,6 @@
       "lng": 8.640215873718262
     },
     {
-      "key": "101926",
-      "category": "WK BLS-AED",
-      "city": "Yverdon-les-Bains",
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-05",
-      "company": "SSS Nord-Vaudois",
-      "participation_max": 8,
-      "registered": 8,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101926",
-      "canton": "VD",
-      "lat": 46.768096923828125,
-      "lng": 6.632878303527832
-    },
-    {
       "key": "103467",
       "category": "Brevet Pro Pool",
       "city": "Sion",
@@ -701,20 +659,6 @@
       "canton": "VS",
       "lat": 46.21693801879883,
       "lng": 7.342846393585205
-    },
-    {
-      "key": "103660",
-      "category": "WK Pool Plus",
-      "city": "La Chaux-de-Fonds",
-      "first_date": "2026-11-05",
-      "last_date": "2026-11-05",
-      "company": "Société Suisse de Sauvetage",
-      "participation_max": 14,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103660",
-      "canton": "NE",
-      "lat": 47.11421203613281,
-      "lng": 6.84379243850708
     },
     {
       "key": "104262",
@@ -3076,7 +3020,7 @@
       "last_date": "2026-11-23",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103666",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -5204,7 +5148,7 @@
       "last_date": "2026-12-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103889",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -5904,7 +5848,7 @@
       "last_date": "2027-01-29",
       "company": "SLRG Bielersee",
       "participation_max": 14,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103129",
       "canton": "BE",
       "lat": 47.140377044677734,
@@ -6296,7 +6240,7 @@
       "last_date": "2027-02-02",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102701",
       "canton": null,
       "lat": null,
@@ -7444,7 +7388,7 @@
       "last_date": "2027-03-13",
       "company": "SLRG Region Ost",
       "participation_max": 16,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104119",
       "canton": null,
       "lat": null,
@@ -11525,5 +11469,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-05T20:20:47+0000"
+  "geocoded_at": "2026-11-06T01:12:00+0000"
 }
