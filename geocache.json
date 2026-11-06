@@ -937,6 +937,12 @@
     "lat": 46.243896484375,
     "lng": 6.954207420349121
   },
+  "Montreux": {
+    "canton": "VD",
+    "label": "Montreux (VD)",
+    "lat": 46.44832229614258,
+    "lng": 6.9359564781188965
+  },
   "Moosseedorf": {
     "canton": "BE",
     "label": "Moosseedorf (BE)",
