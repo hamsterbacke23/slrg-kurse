@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-07T01:19:59+0000",
-  "count": 833,
+  "scraped_at": "2026-11-07T07:52:27+0000",
+  "count": 829,
   "courses": [
     {
       "key": "102540",
@@ -493,20 +493,6 @@
       "lng": null
     },
     {
-      "key": "103826",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-10-31",
-      "last_date": "2026-11-07",
-      "company": "SLRG Illnau-Effretikon",
-      "participation_max": 12,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103826",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
       "key": "103898",
       "category": "Brevet Pro Pool",
       "city": "",
@@ -752,7 +738,7 @@
       "last_date": "2026-11-08",
       "company": "SLRG Innerschwyz",
       "participation_max": 24,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101463",
       "canton": null,
       "lat": null,
@@ -1627,20 +1613,6 @@
       "lng": 9.626534461975098
     },
     {
-      "key": "100268",
-      "category": "WK Pool Basis",
-      "city": "Chur",
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "company": "SLRG Chur",
-      "participation_max": 0,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100268",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
       "key": "100269",
       "category": "WK Pool Basis",
       "city": "Chur",
@@ -1650,20 +1622,6 @@
       "participation_max": 0,
       "registered": 0,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100269",
-      "canton": "GR",
-      "lat": 46.83235549926758,
-      "lng": 9.516542434692383
-    },
-    {
-      "key": "100272",
-      "category": "WK Pool Plus",
-      "city": "Chur",
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-14",
-      "company": "SLRG Chur",
-      "participation_max": 0,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100272",
       "canton": "GR",
       "lat": 46.83235549926758,
       "lng": 9.516542434692383
@@ -5640,20 +5598,6 @@
       "participation_max": 8,
       "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104492",
-      "canton": "NE",
-      "lat": 47.0006217956543,
-      "lng": 6.92034387588501
-    },
-    {
-      "key": "104493",
-      "category": "WK Pool Plus",
-      "city": "Les Acacias",
-      "first_date": "2027-01-12",
-      "last_date": "2027-01-12",
-      "company": "SSS Genève",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104493",
       "canton": "NE",
       "lat": 47.0006217956543,
       "lng": 6.92034387588501
@@ -11014,7 +10958,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 25,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99112",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11028,7 +10972,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 25,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99113",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11042,7 +10986,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 25,
-      "registered": 22,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99114",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11056,7 +11000,7 @@
       "last_date": "2027-11-13",
       "company": "SSS Région Romande",
       "participation_max": 24,
-      "registered": 21,
+      "registered": 22,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99115",
       "canton": "FR",
       "lat": 46.69870376586914,
@@ -11665,5 +11609,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-07T01:19:59+0000"
+  "geocoded_at": "2026-11-07T07:52:27+0000"
 }
