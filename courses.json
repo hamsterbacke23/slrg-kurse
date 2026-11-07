@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-06T21:48:36+0000",
-  "count": 843,
+  "scraped_at": "2026-11-07T01:19:59+0000",
+  "count": 833,
   "courses": [
     {
       "key": "102540",
@@ -675,34 +675,6 @@
       "lng": 8.643176078796387
     },
     {
-      "key": "101461",
-      "category": "Modul BLS-AED",
-      "city": "Brunnen",
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101461",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
-    },
-    {
-      "key": "103872",
-      "category": "WK Pool Plus",
-      "city": "Muttenz",
-      "first_date": "2026-11-06",
-      "last_date": "2026-11-06",
-      "company": "SLRG Sektion Muttenz",
-      "participation_max": 16,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103872",
-      "canton": "BL",
-      "lat": 47.52326583862305,
-      "lng": 7.6465020179748535
-    },
-    {
       "key": "104183",
       "category": "Jugendbrevet",
       "city": "Bernex",
@@ -768,20 +740,6 @@
       "participation_max": 12,
       "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101395",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "101462",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-08",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 24,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101462",
       "canton": null,
       "lat": null,
       "lng": null
@@ -855,48 +813,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "101979",
-      "category": "Modul BLS-AED",
-      "city": "Martigny",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-28",
-      "company": "SSS St. Maurice",
-      "participation_max": 8,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101979",
-      "canton": "VS",
-      "lat": 46.1070442199707,
-      "lng": 7.100466251373291
-    },
-    {
-      "key": "101980",
-      "category": "Brevet Basis Pool",
-      "city": "Martigny",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-28",
-      "company": "SSS St. Maurice",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101980",
-      "canton": "VS",
-      "lat": 46.1070442199707,
-      "lng": 7.100466251373291
-    },
-    {
-      "key": "101981",
-      "category": "Brevet Plus Pool",
-      "city": "Martigny",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-28",
-      "company": "SSS St. Maurice",
-      "participation_max": 8,
-      "registered": 4,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101981",
-      "canton": "VS",
-      "lat": 46.1070442199707,
-      "lng": 7.100466251373291
     },
     {
       "key": "102211",
@@ -1970,7 +1886,7 @@
       "last_date": "2026-11-14",
       "company": "SLRG Basel",
       "participation_max": 13,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104598",
       "canton": "BL",
       "lat": 47.45619583129883,
@@ -2521,62 +2437,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "100371",
-      "category": "WK BLS-AED",
-      "city": "Weinfelden",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Weinfelden",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100371",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
-    },
-    {
-      "key": "100372",
-      "category": "WK Pool Pro",
-      "city": "Weinfelden",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Weinfelden",
-      "participation_max": 2,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100372",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
-    },
-    {
-      "key": "100373",
-      "category": "WK Pool Plus",
-      "city": "Weinfelden",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Weinfelden",
-      "participation_max": 12,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100373",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
-    },
-    {
-      "key": "100374",
-      "category": "WK Pool Basis",
-      "city": "Weinfelden",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Weinfelden",
-      "participation_max": 2,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100374",
-      "canton": "TG",
-      "lat": 47.56858444213867,
-      "lng": 9.105485916137695
     },
     {
       "key": "101675",
@@ -11805,5 +11665,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-06T21:48:36+0000"
+  "geocoded_at": "2026-11-07T01:19:59+0000"
 }
