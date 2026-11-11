@@ -150,6 +150,12 @@
     "lat": 46.362525939941406,
     "lng": 9.027430534362793
   },
+  "Biberist": {
+    "canton": "SO",
+    "label": "Biberist (SO)",
+    "lat": 47.18130111694336,
+    "lng": 7.555543899536133
+  },
   "Bichelsee-Balterswil": {
     "canton": "TG",
     "label": "Bichelsee-Balterswil (TG)",
@@ -209,6 +215,12 @@
     "label": "Ort Brunnen (VS) - Ergisch",
     "lat": 46.288421630859375,
     "lng": 7.718348503112793
+  },
+  "Bubikon": {
+    "canton": "ZH",
+    "label": "Bubikon (ZH)",
+    "lat": 47.26991653442383,
+    "lng": 8.805781364440918
   },
   "Burgdorf": {
     "canton": "BE",
