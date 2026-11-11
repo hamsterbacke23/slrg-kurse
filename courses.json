@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-10T21:29:27+0000",
-  "count": 809,
+  "scraped_at": "2026-11-11T01:31:13+0000",
+  "count": 805,
   "courses": [
     {
       "key": "102540",
@@ -759,34 +759,6 @@
       "lng": 8.988879203796387
     },
     {
-      "key": "104185",
-      "category": "Modul BLS-AED",
-      "city": "Schaffhausen",
-      "first_date": "2026-11-09",
-      "last_date": "2026-11-09",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104185",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
-    },
-    {
-      "key": "104186",
-      "category": "WK BLS-AED",
-      "city": "Schaffhausen",
-      "first_date": "2026-11-09",
-      "last_date": "2026-11-09",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104186",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
-    },
-    {
       "key": "104436",
       "category": "Brevet Basis Pool",
       "city": "",
@@ -855,20 +827,6 @@
       "canton": "GE",
       "lat": 46.16372299194336,
       "lng": 6.119792938232422
-    },
-    {
-      "key": "104319",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-11-10",
-      "last_date": "2026-11-10",
-      "company": "Société Internationale de Sauvetage du Léman",
-      "participation_max": 12,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104319",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "104439",
@@ -1317,20 +1275,6 @@
       "canton": null,
       "lat": null,
       "lng": null
-    },
-    {
-      "key": "104171",
-      "category": "Brevet Basis Pool",
-      "city": "Bévilard",
-      "first_date": "2026-11-14",
-      "last_date": "2026-11-21",
-      "company": "SSS Grand Chasseral",
-      "participation_max": 14,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104171",
-      "canton": "BE",
-      "lat": 47.238895416259766,
-      "lng": 7.284480571746826
     },
     {
       "key": "104246",
@@ -4728,7 +4672,7 @@
       "last_date": "2027-01-18",
       "company": "SLRG Oberwil",
       "participation_max": 16,
-      "registered": 0,
+      "registered": 1,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104740",
       "canton": "BL",
       "lat": 47.51921463012695,
@@ -11329,5 +11273,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-10T21:29:27+0000"
+  "geocoded_at": "2026-11-11T01:31:13+0000"
 }
