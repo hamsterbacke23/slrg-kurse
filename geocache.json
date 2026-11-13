@@ -1610,6 +1610,12 @@
     "lat": 47.22467041015625,
     "lng": 7.657536029815674
   },
+  "Wattwil": {
+    "canton": "SG",
+    "label": "Wattwil (SG)",
+    "lat": 47.29384231567383,
+    "lng": 9.086000442504883
+  },
   "Weggis": {
     "canton": "LU",
     "label": "Weggis (LU)",
