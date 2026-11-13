@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-12T21:09:55+0000",
-  "count": 810,
+  "scraped_at": "2026-11-13T02:11:23+0000",
+  "count": 804,
   "courses": [
     {
       "key": "102540",
@@ -437,20 +437,6 @@
       "lng": null
     },
     {
-      "key": "104502",
-      "category": "Jugendbrevet",
-      "city": "Wädenswil",
-      "first_date": "2026-10-29",
-      "last_date": "2026-11-12",
-      "company": "SLRG Wädenswil",
-      "participation_max": 16,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104502",
-      "canton": "ZH",
-      "lat": 47.205753326416016,
-      "lng": 8.649434089660645
-    },
-    {
       "key": "100980",
       "category": "WK Pool Basis",
       "city": "",
@@ -519,48 +505,6 @@
       "canton": "OW",
       "lat": 46.84345626831055,
       "lng": 8.311267852783203
-    },
-    {
-      "key": "100876",
-      "category": "Modul BLS-AED",
-      "city": "",
-      "first_date": "2026-11-02",
-      "last_date": "2026-11-12",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 10,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100876",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100877",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-11-02",
-      "last_date": "2026-11-12",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100877",
-      "canton": null,
-      "lat": null,
-      "lng": null
-    },
-    {
-      "key": "100878",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-11-02",
-      "last_date": "2026-11-12",
-      "company": "SLRG Sektion Luzern",
-      "participation_max": 12,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100878",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103214",
@@ -787,34 +731,6 @@
       "lng": null
     },
     {
-      "key": "104267",
-      "category": "WK Pool Basis",
-      "city": "Schaffhausen",
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-11",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 12,
-      "registered": 1,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104267",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
-    },
-    {
-      "key": "104391",
-      "category": "WK Pool Plus",
-      "city": "Schaffhausen",
-      "first_date": "2026-11-11",
-      "last_date": "2026-11-11",
-      "company": "SLRG Sektion Schaffhausen",
-      "participation_max": 12,
-      "registered": 9,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104391",
-      "canton": "SH",
-      "lat": 47.7188606262207,
-      "lng": 8.640215873718262
-    },
-    {
       "key": "101520",
       "category": "Brevet Plus Pool",
       "city": "Lugano",
@@ -864,7 +780,7 @@
       "last_date": "2026-11-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103385",
       "canton": "GE",
       "lat": 46.204559326171875,
@@ -11343,5 +11259,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-12T21:09:55+0000"
+  "geocoded_at": "2026-11-13T02:11:23+0000"
 }
