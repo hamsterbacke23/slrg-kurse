@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-14T17:21:27+0000",
-  "count": 809,
+  "scraped_at": "2026-11-14T21:42:43+0000",
+  "count": 808,
   "courses": [
     {
       "key": "102540",
@@ -346,7 +346,7 @@
       "last_date": "2026-12-10",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 12,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104198",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -561,20 +561,6 @@
       "canton": "GE",
       "lat": 46.180213928222656,
       "lng": 6.0699896812438965
-    },
-    {
-      "key": "101724",
-      "category": "Brevet Plus Pool",
-      "city": "Gossau SG",
-      "first_date": "2026-11-07",
-      "last_date": "2026-11-14",
-      "company": "SLRG Toggenburg",
-      "participation_max": 12,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101724",
-      "canton": "SG",
-      "lat": 47.42510986328125,
-      "lng": 9.262721061706543
     },
     {
       "key": "102211",
@@ -2950,7 +2936,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Frauenfeld",
       "participation_max": 16,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104565",
       "canton": null,
       "lat": null,
@@ -4056,7 +4042,7 @@
       "last_date": "2026-12-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103889",
       "canton": "ZH",
       "lat": 47.42268371582031,
@@ -4518,7 +4504,7 @@
       "last_date": "2027-01-09",
       "company": "SLRG Mittelrheintal",
       "participation_max": 14,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103892",
       "canton": "SG",
       "lat": 47.45515823364258,
@@ -5988,7 +5974,7 @@
       "last_date": "2027-03-10",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103713",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -6016,7 +6002,7 @@
       "last_date": "2027-02-18",
       "company": "SLRG Winterthur",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104009",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -11329,5 +11315,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-14T17:21:27+0000"
+  "geocoded_at": "2026-11-14T21:42:43+0000"
 }
