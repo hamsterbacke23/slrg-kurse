@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-18T01:23:03+0000",
-  "count": 801,
+  "scraped_at": "2026-11-18T09:19:02+0000",
+  "count": 804,
   "courses": [
     {
       "key": "102540",
@@ -661,20 +661,6 @@
       "lng": 9.262721061706543
     },
     {
-      "key": "103216",
-      "category": "WK BLS-AED",
-      "city": "Plan-les-Ouates",
-      "first_date": "2026-11-17",
-      "last_date": "2026-11-17",
-      "company": "SSS Genève",
-      "participation_max": 8,
-      "registered": 5,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103216",
-      "canton": "GE",
-      "lat": 46.16372299194336,
-      "lng": 6.119792938232422
-    },
-    {
       "key": "100883",
       "category": "WK BLS-AED",
       "city": "",
@@ -738,7 +724,7 @@
       "last_date": "2026-11-30",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 15,
+      "registered": 16,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104845",
       "canton": "SG",
       "lat": 47.29384231567383,
@@ -836,7 +822,7 @@
       "last_date": "2026-11-20",
       "company": "SLRG Uri",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100960",
       "canton": "UR",
       "lat": 46.91195297241211,
@@ -899,6 +885,20 @@
       "lng": null
     },
     {
+      "key": "104868",
+      "category": "WK Pool Plus",
+      "city": "Wallisellen",
+      "first_date": "2026-11-20",
+      "last_date": "2026-11-20",
+      "company": "SLRG Kloten",
+      "participation_max": 10,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104868",
+      "canton": "ZH",
+      "lat": 47.41989517211914,
+      "lng": 8.591293334960938
+    },
+    {
       "key": "101675",
       "category": "WK Pool Plus",
       "city": "Neuchâtel",
@@ -925,20 +925,6 @@
       "canton": "NE",
       "lat": 47.020973205566406,
       "lng": 6.9480791091918945
-    },
-    {
-      "key": "101830",
-      "category": "WK Pool Plus",
-      "city": "",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Rafzerfeld",
-      "participation_max": 6,
-      "registered": 3,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101830",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "102358",
@@ -1004,7 +990,7 @@
       "last_date": "2026-11-21",
       "company": "SLRG Rafzerfeld",
       "participation_max": 9,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103449",
       "canton": null,
       "lat": null,
@@ -1018,7 +1004,7 @@
       "last_date": "2026-11-21",
       "company": "SRV Linth",
       "participation_max": 16,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103486",
       "canton": null,
       "lat": null,
@@ -2068,7 +2054,7 @@
       "last_date": "2026-11-30",
       "company": "SLRG Aarau",
       "participation_max": 8,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102678",
       "canton": "AG",
       "lat": 47.39103698730469,
@@ -2082,7 +2068,7 @@
       "last_date": "2027-03-01",
       "company": "SLRG Küsnacht",
       "participation_max": 20,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104673",
       "canton": null,
       "lat": null,
@@ -2306,7 +2292,7 @@
       "last_date": "2026-12-03",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 10,
+      "registered": 11,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99569",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -2782,7 +2768,7 @@
       "last_date": "2026-12-11",
       "company": "SLRG Zug",
       "participation_max": 6,
-      "registered": 5,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99858",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -3755,6 +3741,20 @@
       "lng": 8.720227241516113
     },
     {
+      "key": "104865",
+      "category": "Brevet Basis Pool",
+      "city": "",
+      "first_date": "2027-01-07",
+      "last_date": "2027-01-28",
+      "company": "SLRG Sektion Bern",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104865",
+      "canton": null,
+      "lat": null,
+      "lng": null
+    },
+    {
       "key": "103595",
       "category": "WK BLS-AED",
       "city": "Pfäffikon ZH",
@@ -4616,7 +4616,7 @@
       "last_date": "2027-01-23",
       "company": "SLRG Emmental",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104452",
       "canton": "BE",
       "lat": 46.954750061035156,
@@ -5127,6 +5127,20 @@
       "lng": 7.161778926849365
     },
     {
+      "key": "104904",
+      "category": "Brevet Plus Pool",
+      "city": "Bern",
+      "first_date": "2027-02-04",
+      "last_date": "2027-02-25",
+      "company": "SLRG Sektion Bern",
+      "participation_max": 16,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104904",
+      "canton": "BE",
+      "lat": 46.954559326171875,
+      "lng": 7.420684814453125
+    },
+    {
       "key": "103153",
       "category": "WK Pool Plus",
       "city": "Genève",
@@ -5391,6 +5405,20 @@
       "canton": "AG",
       "lat": 47.41796112060547,
       "lng": 8.362970352172852
+    },
+    {
+      "key": "104862",
+      "category": "Brevet Basis Pool",
+      "city": "Aeschi b. Spiez",
+      "first_date": "2027-02-14",
+      "last_date": "2027-02-14",
+      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
+      "participation_max": 12,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104862",
+      "canton": "BE",
+      "lat": 46.654029846191406,
+      "lng": 7.699234485626221
     },
     {
       "key": "104438",
@@ -7892,7 +7920,7 @@
       "last_date": "2027-05-08",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103704",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -8256,7 +8284,7 @@
       "last_date": "2027-05-29",
       "company": "SLRG Zug",
       "participation_max": 10,
-      "registered": 4,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103514",
       "canton": "ZG",
       "lat": 47.151554107666016,
@@ -9059,6 +9087,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "104863",
+      "category": "Modul See",
+      "city": "Seengen",
+      "first_date": "2027-06-20",
+      "last_date": "2027-06-20",
+      "company": "BESJ Bund Evangelischer Schweizer Jungscharen",
+      "participation_max": 14,
+      "registered": 0,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104863",
+      "canton": "AG",
+      "lat": 47.32706069946289,
+      "lng": 8.210016250610352
     },
     {
       "key": "104329",
@@ -11217,5 +11259,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-18T01:23:03+0000"
+  "geocoded_at": "2026-11-18T09:19:02+0000"
 }

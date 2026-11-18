@@ -1604,6 +1604,12 @@
     "lat": 47.12102508544922,
     "lng": 9.347698211669922
   },
+  "Wallisellen": {
+    "canton": "ZH",
+    "label": "Wallisellen (ZH)",
+    "lat": 47.41989517211914,
+    "lng": 8.591293334960938
+  },
   "Wangen an der Aare": {
     "canton": "BE",
     "label": "Wangen an der Aare (BE)",
