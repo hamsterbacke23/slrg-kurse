@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-19T00:47:42+0000",
-  "count": 799,
+  "scraped_at": "2026-11-19T08:01:50+0000",
+  "count": 798,
   "courses": [
     {
       "key": "102540",
@@ -1191,20 +1191,6 @@
       "canton": "TG",
       "lat": 47.640594482421875,
       "lng": 9.175581932067871
-    },
-    {
-      "key": "104712",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-11-22",
-      "last_date": "2026-11-22",
-      "company": "SLRG Sektion Sempachersee",
-      "participation_max": 16,
-      "registered": 0,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104712",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "104853",
@@ -11189,5 +11175,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-19T00:47:42+0000"
+  "geocoded_at": "2026-11-19T08:01:50+0000"
 }
