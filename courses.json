@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-21T02:52:46+0000",
-  "count": 797,
+  "scraped_at": "2026-11-21T10:19:49+0000",
+  "count": 795,
   "courses": [
     {
       "key": "102540",
@@ -703,20 +703,6 @@
       "lng": 9.608860969543457
     },
     {
-      "key": "99855",
-      "category": "WK Pool Basis",
-      "city": "Zug",
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-20",
-      "company": "SLRG Zug",
-      "participation_max": 2,
-      "registered": 2,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99855",
-      "canton": "ZG",
-      "lat": 47.151554107666016,
-      "lng": 8.521272659301758
-    },
-    {
       "key": "99856",
       "category": "WK Pool Plus",
       "city": "Zug",
@@ -869,20 +855,6 @@
       "canton": "LU",
       "lat": 47.154170989990234,
       "lng": 8.110082626342773
-    },
-    {
-      "key": "103255",
-      "category": "Modul BLS-AED",
-      "city": "Gstaad",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 6,
-      "registered": 6,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103255",
-      "canton": "BE",
-      "lat": 46.474002838134766,
-      "lng": 7.289914131164551
     },
     {
       "key": "103486",
@@ -2124,7 +2096,7 @@
       "last_date": "2026-12-05",
       "company": "SLRG Mittelrheintal",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=100144",
       "canton": "SG",
       "lat": 47.396480560302734,
@@ -2222,7 +2194,7 @@
       "last_date": "2026-12-04",
       "company": "SSS Sion",
       "participation_max": 12,
-      "registered": 5,
+      "registered": 6,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103765",
       "canton": "VS",
       "lat": 46.27641296386719,
@@ -3944,7 +3916,7 @@
       "last_date": "2027-01-13",
       "company": "SLRG Weinfelden",
       "participation_max": 24,
-      "registered": 2,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104602",
       "canton": null,
       "lat": null,
@@ -5386,7 +5358,7 @@
       "last_date": "2027-02-18",
       "company": "SLRG Sektion Luzern",
       "participation_max": 15,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104792",
       "canton": "LU",
       "lat": 47.05473327636719,
@@ -6030,7 +6002,7 @@
       "last_date": "2027-03-10",
       "company": "SLRG Thalwil-Langnau",
       "participation_max": 18,
-      "registered": 0,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104846",
       "canton": null,
       "lat": null,
@@ -11161,5 +11133,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-21T02:52:46+0000"
+  "geocoded_at": "2026-11-21T10:19:49+0000"
 }
