@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-21T17:48:08+0000",
-  "count": 786,
+  "scraped_at": "2026-11-21T22:29:16+0000",
+  "count": 782,
   "courses": [
     {
       "key": "102540",
@@ -689,20 +689,6 @@
       "lng": 9.608860969543457
     },
     {
-      "key": "99856",
-      "category": "WK Pool Plus",
-      "city": "Zug",
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-20",
-      "company": "SLRG Zug",
-      "participation_max": 10,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99856",
-      "canton": "ZG",
-      "lat": 47.151554107666016,
-      "lng": 8.521272659301758
-    },
-    {
       "key": "99899",
       "category": "Brevet Basis Pool",
       "city": "Mendrisio",
@@ -715,20 +701,6 @@
       "canton": "TI",
       "lat": 45.8812370300293,
       "lng": 8.971078872680664
-    },
-    {
-      "key": "103634",
-      "category": "Brevet Basis Pool",
-      "city": "",
-      "first_date": "2026-11-20",
-      "last_date": "2026-11-20",
-      "company": "SLRG Thun-Oberland",
-      "participation_max": 12,
-      "registered": 12,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103634",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "104868",
@@ -829,20 +801,6 @@
       "lng": 6.9480791091918945
     },
     {
-      "key": "104079",
-      "category": "Brevet Basis Pool",
-      "city": "Dielsdorf",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Wehntal",
-      "participation_max": 12,
-      "registered": 10,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104079",
-      "canton": "ZH",
-      "lat": 47.47540283203125,
-      "lng": 8.455204963684082
-    },
-    {
       "key": "104089",
       "category": "WK Pool Plus",
       "city": "",
@@ -869,20 +827,6 @@
       "canton": "TI",
       "lat": 45.98849105834961,
       "lng": 8.953682899475098
-    },
-    {
-      "key": "104487",
-      "category": "Modul BLS-AED",
-      "city": "Neuchâtel",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "Société Suisse de Sauvetage",
-      "participation_max": 32,
-      "registered": 30,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
-      "canton": "NE",
-      "lat": 47.020973205566406,
-      "lng": 6.9480791091918945
     },
     {
       "key": "104494",
@@ -1186,7 +1130,7 @@
       "last_date": "2026-11-26",
       "company": "SLRG Basel",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103030",
       "canton": "BL",
       "lat": 47.54563903808594,
@@ -2376,7 +2320,7 @@
       "last_date": "2026-12-09",
       "company": "SSS Fribourg",
       "participation_max": 12,
-      "registered": 3,
+      "registered": 4,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103895",
       "canton": "FR",
       "lat": 46.80337142944336,
@@ -2628,7 +2572,7 @@
       "last_date": "2026-12-13",
       "company": "SSS Genève",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104314",
       "canton": "VD",
       "lat": 46.55949401855469,
@@ -3174,7 +3118,7 @@
       "last_date": "2026-12-19",
       "company": "Schweizerischer Badmeisterverband SBV",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104480",
       "canton": "BE",
       "lat": 47.056617736816406,
@@ -3188,7 +3132,7 @@
       "last_date": "2026-12-19",
       "company": "Société Internationale de Sauvetage du Léman",
       "participation_max": 12,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104599",
       "canton": "VD",
       "lat": 46.52865219116211,
@@ -4910,7 +4854,7 @@
       "last_date": "2027-02-07",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 6,
+      "registered": 7,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104544",
       "canton": null,
       "lat": null,
@@ -7192,7 +7136,7 @@
       "last_date": "2027-04-17",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104662",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -7206,7 +7150,7 @@
       "last_date": "2027-04-17",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104663",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -7220,7 +7164,7 @@
       "last_date": "2027-04-17",
       "company": "SLRG Region Nordwest",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 3,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104664",
       "canton": "BE",
       "lat": 47.185791015625,
@@ -11007,5 +10951,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-21T17:48:08+0000"
+  "geocoded_at": "2026-11-21T22:29:16+0000"
 }
