@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-20T21:34:53+0000",
-  "count": 796,
+  "scraped_at": "2026-11-21T02:52:46+0000",
+  "count": 797,
   "courses": [
     {
       "key": "102540",
@@ -435,6 +435,20 @@
       "canton": null,
       "lat": null,
       "lng": null
+    },
+    {
+      "key": "103278",
+      "category": "WK BLS-AED",
+      "city": "Oberwil BL",
+      "first_date": "2026-11-04",
+      "last_date": "2026-11-04",
+      "company": "SLRG Oberwil",
+      "participation_max": 16,
+      "registered": 16,
+      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103278",
+      "canton": "BL",
+      "lat": 47.51921463012695,
+      "lng": 7.545316219329834
     },
     {
       "key": "103491",
@@ -990,7 +1004,7 @@
       "last_date": "2026-11-21",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 32,
-      "registered": 31,
+      "registered": 30,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104487",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -1074,7 +1088,7 @@
       "last_date": "2026-11-22",
       "company": "SLRG Sektion Züri",
       "participation_max": 24,
-      "registered": 24,
+      "registered": 23,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101138",
       "canton": null,
       "lat": null,
@@ -1144,7 +1158,7 @@
       "last_date": "2026-11-23",
       "company": "Société Suisse de Sauvetage",
       "participation_max": 16,
-      "registered": 13,
+      "registered": 14,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103666",
       "canton": "NE",
       "lat": 47.11421203613281,
@@ -1689,8 +1703,8 @@
       "first_date": "2026-11-28",
       "last_date": "2026-11-28",
       "company": "Société Suisse de Sauvetage",
-      "participation_max": 30,
-      "registered": 30,
+      "participation_max": 36,
+      "registered": 31,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104488",
       "canton": "NE",
       "lat": 47.020973205566406,
@@ -3524,7 +3538,7 @@
       "last_date": "2027-01-21",
       "company": "SLRG Winterthur",
       "participation_max": 22,
-      "registered": 4,
+      "registered": 5,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104008",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -3930,7 +3944,7 @@
       "last_date": "2027-01-13",
       "company": "SLRG Weinfelden",
       "participation_max": 24,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104602",
       "canton": null,
       "lat": null,
@@ -6492,7 +6506,7 @@
       "last_date": "2027-03-24",
       "company": "SLRG Höngg",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103730",
       "canton": "ZH",
       "lat": 47.37721252441406,
@@ -7024,7 +7038,7 @@
       "last_date": "2027-04-11",
       "company": "SLRG Winterthur",
       "participation_max": 4,
-      "registered": 1,
+      "registered": 2,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104022",
       "canton": "ZH",
       "lat": 47.49905014038086,
@@ -11147,5 +11161,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-20T21:34:53+0000"
+  "geocoded_at": "2026-11-21T02:52:46+0000"
 }
