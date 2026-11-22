@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-22T18:05:39+0000",
-  "count": 776,
+  "scraped_at": "2026-11-22T23:54:52+0000",
+  "count": 773,
   "courses": [
     {
       "key": "103064",
@@ -297,20 +297,6 @@
       "lng": null
     },
     {
-      "key": "101800",
-      "category": "WK Pool Plus",
-      "city": "Brunnen",
-      "first_date": "2026-10-22",
-      "last_date": "2026-10-22",
-      "company": "SLRG Innerschwyz",
-      "participation_max": 15,
-      "registered": 11,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101800",
-      "canton": "VS",
-      "lat": 46.288421630859375,
-      "lng": 7.718348503112793
-    },
-    {
       "key": "104198",
       "category": "Jugendbrevet",
       "city": "La Chaux-de-Fonds",
@@ -416,7 +402,7 @@
       "last_date": "2026-11-18",
       "company": "SLRG Sektion Schaffhausen",
       "participation_max": 19,
-      "registered": 19,
+      "registered": 18,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103491",
       "canton": "SH",
       "lat": 47.7188606262207,
@@ -626,7 +612,7 @@
       "last_date": "2026-11-30",
       "company": "Kantonsschule Wattwil",
       "participation_max": 50,
-      "registered": 27,
+      "registered": 28,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104845",
       "canton": "SG",
       "lat": 47.29384231567383,
@@ -659,20 +645,6 @@
       "canton": "ZH",
       "lat": 47.41989517211914,
       "lng": 8.591293334960938
-    },
-    {
-      "key": "102358",
-      "category": "WK Pool Plus",
-      "city": "Altdorf UR",
-      "first_date": "2026-11-21",
-      "last_date": "2026-11-21",
-      "company": "SLRG Uri",
-      "participation_max": 20,
-      "registered": 14,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=102358",
-      "canton": "UR",
-      "lat": 46.886905670166016,
-      "lng": 8.638254165649414
     },
     {
       "key": "102598",
@@ -743,20 +715,6 @@
       "canton": "SG",
       "lat": 47.00428009033203,
       "lng": 9.317394256591797
-    },
-    {
-      "key": "101138",
-      "category": "Brevet Plus Pool",
-      "city": "",
-      "first_date": "2026-11-22",
-      "last_date": "2026-11-22",
-      "company": "SLRG Sektion Züri",
-      "participation_max": 24,
-      "registered": 23,
-      "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=101138",
-      "canton": null,
-      "lat": null,
-      "lng": null
     },
     {
       "key": "103272",
@@ -1074,7 +1032,7 @@
       "last_date": "2026-11-28",
       "company": "Società Svizzera di Salvataggio Mendrisiotto",
       "participation_max": 8,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=99938",
       "canton": "TI",
       "lat": 45.9117317199707,
@@ -1326,7 +1284,7 @@
       "last_date": "2026-11-28",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 9,
+      "registered": 10,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104340",
       "canton": "SO",
       "lat": 47.206111907958984,
@@ -1886,7 +1844,7 @@
       "last_date": "2026-12-04",
       "company": "SSS Porrentruy",
       "participation_max": 12,
-      "registered": 8,
+      "registered": 9,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=104377",
       "canton": "JU",
       "lat": 47.42101287841797,
@@ -4882,7 +4840,7 @@
       "last_date": "2027-02-13",
       "company": "SLRG Solothurn",
       "participation_max": 12,
-      "registered": 11,
+      "registered": 12,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103676",
       "canton": null,
       "lat": null,
@@ -7458,7 +7416,7 @@
       "last_date": "2027-05-06",
       "company": "Pädagogische Hochschule St. Gallen",
       "participation_max": 10,
-      "registered": 7,
+      "registered": 8,
       "url": "https://ausbildung.slrg.ch/Kurskalender#detail&key=103707",
       "canton": "TG",
       "lat": 47.51548385620117,
@@ -10867,5 +10825,5 @@
       "lng": null
     }
   ],
-  "geocoded_at": "2026-11-22T18:05:39+0000"
+  "geocoded_at": "2026-11-22T23:54:52+0000"
 }
