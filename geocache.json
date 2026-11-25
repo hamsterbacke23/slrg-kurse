@@ -6,6 +6,7 @@
     "lng": 8.248859405517578
   },
   "2108": null,
+  "2926": null,
   "Aarau": {
     "canton": "AG",
     "label": "Aarau (AG)",
@@ -431,6 +432,12 @@
     "label": "Erlach (BE)",
     "lat": 47.0373649597168,
     "lng": 7.0955810546875
+  },
+  "Erlenbach ZH": {
+    "canton": "ZH",
+    "label": "Erlenbach (ZH)",
+    "lat": 47.3041877746582,
+    "lng": 8.59946060180664
   },
   "Ermatingen": {
     "canton": "TG",
