@@ -926,6 +926,12 @@
     "lat": 47.28143310546875,
     "lng": 8.646059036254883
   },
+  "Meiringen": {
+    "canton": "BE",
+    "label": "Meiringen (BE)",
+    "lat": 46.712684631347656,
+    "lng": 8.127912521362305
+  },
   "Mels": {
     "canton": "SG",
     "label": "Mels (SG)",
